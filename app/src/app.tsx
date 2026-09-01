@@ -5,6 +5,11 @@ import { RecipeDetail } from './features/recipes/recipe-detail'
 import { useSyncExternalStore } from 'react'
 import { CookingMode } from './features/cooking/cooking-mode'
 import { WeekPlanner } from './features/planner/week-planner'
+import { ShoppingList } from './features/shopping/shopping-list'
+import { ChooseMode } from './features/choose/choose-mode'
+import { ImportSelection } from './features/import/import-selection'
+import { useEffect, useState } from 'react'
+import { appDb } from './db/app-db'
 
 function subscribeToHash(callback: () => void) { window.addEventListener('hashchange', callback); return () => window.removeEventListener('hashchange', callback) }
 function getHash() { return window.location.hash }
@@ -16,6 +21,12 @@ export function App() {
   const recipe = (catalog as Recipe[]).find((item) => item.id === id)
   const cookingRecipe = (catalog as Recipe[]).find((item) => item.id === cookId)
   const planner = hash.match(/^#\/planner(?:\?recipeId=([^&]+))?$/)
+  const [wantedIds, setWantedIds] = useState<string[]>([])
+  const [plans, setPlans] = useState<import('./db/app-db').MealSlot[]>([])
+  useEffect(() => { void Promise.all([appDb.wanted.toArray(), appDb.plans.toArray()]).then(([wanted, nextPlans]) => { setWantedIds(wanted.map((item) => item.recipeId)); setPlans(nextPlans) }) }, [hash])
+  if (hash === '#/choose') return <ChooseMode wantedRecipeIds={wantedIds} catalog={catalog as Recipe[]} />
+  if (hash === '#/shopping') return <ShoppingList catalog={catalog as Recipe[]} plan={plans} />
+  if (hash === '#/import') return <ImportSelection catalog={catalog as Recipe[]} />
   if (planner) return <WeekPlanner catalog={catalog as Recipe[]} initialRecipeId={planner[1] ? decodeURIComponent(planner[1]) : undefined} />
   if (cookingRecipe) return <CookingMode recipe={cookingRecipe} targetServings={cookingRecipe.baseServings ?? 1} />
   return recipe ? <RecipeDetail recipe={recipe} /> : <RecipeBrowser catalog={catalog as Recipe[]} />
