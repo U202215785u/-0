@@ -20,11 +20,21 @@ describe('parseRecipe', () => {
       id: 'noodles', title: '面', ingredients: [{ name: '面', amount: 2, unit: '碗', mergeKey: 'noodles', pantry: true }],
       steps: [{ text: '煮面', timerSeconds: 60, ingredientNames: ['面'] }], baseServings: 2,
       sourceUrl: 'https://example.com', author: '厨师', nutrition: { kcal: 100, proteinG: 3, carbsG: 20, fatG: 1 },
-      tags: ['快手'], durationMinutes: 5, 
+      tags: ['快手'], durationMinutes: 5,
+      fidelity: 'structured-transcription',
+      sourceNote: 'Read the source page for its full visual guidance and context.',
     });
     expect(recipe.author).toBe('厨师');
     expect(recipe.nutrition?.kcal).toBe(100);
     expect(recipe.ingredients[0].quantityText).toBeUndefined();
+    expect(recipe.fidelity).toBe('structured-transcription');
+    expect(recipe.sourceNote).toBe('Read the source page for its full visual guidance and context.');
+  });
+
+  it('rejects empty fidelity and source note values', () => {
+    const recipe = { id: 'bad', title: '菜', ingredients: [{ name: '盐' }], steps: [{ text: '做' }] };
+    expect(() => parseRecipe({ ...recipe, fidelity: '' })).toThrow();
+    expect(() => parseRecipe({ ...recipe, sourceNote: '   ' })).toThrow();
   });
 
   it('accepts an ingredient with a positive amount or a non-empty quantityText', () => {

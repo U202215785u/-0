@@ -165,6 +165,8 @@
     ],
     "baseServings": 4,
     "sourceUrl": "https://www.madewithlau.com/recipes/beef-chow-fun",
-    "author": "Daddy Lau / Made With Lau"
+    "author": "Daddy Lau / Made With Lau",
+    "fidelity": "structured-transcription",
+    "sourceNote": "Quantities, timing, and operational sequence are transcribed from the cited public recipe page. Read the source page for its full visual guidance and context."
   }
 ]

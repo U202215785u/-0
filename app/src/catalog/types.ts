@@ -22,6 +22,8 @@ export type Recipe = {
   baseServings?: number;
   sourceUrl?: string;
   author?: string;
+  fidelity?: string;
+  sourceNote?: string;
   nutrition?: {
     kcal?: number;
     proteinG?: number;

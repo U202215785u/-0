@@ -43,4 +43,18 @@ describe('buildCatalog', () => {
 
     expect(() => buildCatalog(directory)).toThrow(/invalid\.json/);
   });
+
+  it('retains source fidelity fields in generated catalog records', () => {
+    const directory = fixtureDirectory({
+      'beef.json': {
+        id: 'beef-chow-fun', title: 'Beef Chow Fun', ingredients: [{ name: 'beef' }], steps: [{ text: 'Cook beef.' }],
+        fidelity: 'structured-transcription', sourceNote: 'Quantities, timing, and operational sequence are transcribed from the cited public recipe page. Read the source page for its full visual guidance and context.',
+      },
+    });
+
+    expect(buildCatalog(directory)[0]).toMatchObject({
+      fidelity: 'structured-transcription',
+      sourceNote: 'Quantities, timing, and operational sequence are transcribed from the cited public recipe page. Read the source page for its full visual guidance and context.',
+    });
+  });
 });

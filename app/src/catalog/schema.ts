@@ -29,6 +29,8 @@ export const recipeSchema = z.object({
   baseServings: positiveNumber.optional(),
   sourceUrl: z.string().optional(),
   author: z.string().optional(),
+  fidelity: z.string().refine((value) => value.trim().length > 0).optional(),
+  sourceNote: z.string().refine((value) => value.trim().length > 0).optional(),
   nutrition: z.object({
     kcal: z.number().nonnegative().optional(),
     proteinG: z.number().nonnegative().optional(),
