@@ -3,4 +3,5 @@ app/dist/
 app/playwright-report/
 app/test-results/
 .superpowers/
+.worktrees/
 work/tool-design/.superpowers/
