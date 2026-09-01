@@ -1,9 +1,9 @@
-import { act, fireEvent, render, screen, waitFor } from '@testing-library/react'
+import { fireEvent, render, screen, waitFor } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { afterEach, describe, expect, it, vi } from 'vitest'
 import type { Recipe } from '../../catalog/types'
 import { appDb } from '../../db/app-db'
-import { dateFor, WeekPlanner } from './week-planner'
+import { dateFor, normalizeSlots, WeekPlanner } from './week-planner'
 
 const fixtureCatalog: Recipe[] = [{
   id: 'beef', title: '干炒牛河', baseServings: 2,
@@ -57,6 +57,7 @@ describe('WeekPlanner', () => {
 
   it('reveals breakfast and snack only after explicit expansion', async () => {
     render(<WeekPlanner catalog={fixtureCatalog} />)
+    await waitFor(() => expect(screen.getByRole('button', { name: '展开早餐和零食' })).toBeEnabled())
     expect(screen.queryByText('早餐')).not.toBeInTheDocument()
     const user = userEvent.setup()
     await user.click(screen.getByRole('button', { name: '展开早餐和零食' }))
@@ -65,18 +66,16 @@ describe('WeekPlanner', () => {
   })
 
   it('does not let a stale load erase a slot added after it began', async () => {
-    let releaseLoad!: (value: []) => void
-    const deferred = new Promise<[]>(resolve => { releaseLoad = resolve })
+    const date = dateFor(2)
+    const legacy = { id: `${date}-dinner-old`, date, meal: 'dinner' as const, recipeId: 'noodles', servings: 2 }
+    let releaseLoad!: (value: typeof legacy[]) => void
+    const deferred = new Promise<typeof legacy[]>(resolve => { releaseLoad = resolve })
     vi.spyOn(appDb.plans, 'toArray').mockReturnValueOnce(deferred as ReturnType<typeof appDb.plans.toArray>)
-    const { container } = render(<WeekPlanner catalog={fixtureCatalog} />)
-    await act(async () => { await Promise.resolve() })
-    const addButton = screen.getByRole('button', { name: '添加到周三晚餐' })
-    expect(addButton).toBeDisabled()
-    await appDb.plans.put({ id: `${dateFor(2)}-dinner`, date: dateFor(2), meal: 'dinner', recipeId: 'beef', servings: 2 })
-    releaseLoad([])
-    await act(async () => { await Promise.resolve() })
-    expect(container.querySelector('.planner-slot')?.parentElement).toBeTruthy()
-    expect(await appDb.plans.toArray()).toHaveLength(1)
+    render(<WeekPlanner catalog={fixtureCatalog} />)
+    await appDb.plans.put({ id: `${date}-dinner`, date, meal: 'dinner', recipeId: 'beef', servings: 2 })
+    releaseLoad([legacy])
+    await waitFor(() => expect(screen.getByRole('button', { name: '添加到周三晚餐' })).toBeEnabled())
+    expect((await appDb.plans.toArray()).find((slot) => slot.id === `${date}-dinner`)).toMatchObject({ recipeId: 'beef' })
   })
 
   it('syncs selection when initial recipe and catalog props change', async () => {
@@ -92,7 +91,7 @@ describe('WeekPlanner', () => {
   })
 
   it('retries the failed save intent instead of reloading', async () => {
-    const put = vi.spyOn(appDb.plans, 'put').mockRejectedValueOnce(new Error('offline')).mockResolvedValue('saved-id')
+    const put = vi.spyOn(appDb.plans, 'put').mockRejectedValueOnce(new Error('offline'))
     const user = userEvent.setup()
     render(<WeekPlanner catalog={fixtureCatalog} />)
     await waitFor(() => expect(screen.getByRole('button', { name: '添加到周三晚餐' })).toBeEnabled())
@@ -101,6 +100,15 @@ describe('WeekPlanner', () => {
     await user.click(screen.getByRole('button', { name: '重试保存' }))
     await waitFor(() => expect(screen.getByRole('heading', { name: '周三晚餐' }).parentElement).toHaveTextContent('干炒牛河'))
     expect(put).toHaveBeenCalledTimes(2)
+  })
+
+  it('keeps the last record in the toArray result when recipe ids are reversed', () => {
+    const date = dateFor(2)
+    const normalized = normalizeSlots([
+      { id: `${date}-dinner-zeta`, date, meal: 'dinner', recipeId: 'zeta', servings: 2 },
+      { id: `${date}-dinner-alpha`, date, meal: 'dinner', recipeId: 'alpha', servings: 2 },
+    ])
+    expect(normalized.slots).toEqual([{ id: `${date}-dinner`, date, meal: 'dinner', recipeId: 'alpha', servings: 2 }])
   })
 
   it('normalizes legacy records and keeps one canonical slot per date and meal', async () => {

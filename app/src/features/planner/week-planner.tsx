@@ -9,7 +9,7 @@ const meals = [{ key: 'lunch', label: '午餐' }, { key: 'dinner', label: '晚�
 export function formatLocalDate(date: Date) { return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}` }
 export function dateFor(dayIndex: number, baseDate = new Date()) { const monday = new Date(baseDate); const offset = (baseDate.getDay() + 6) % 7; monday.setDate(baseDate.getDate() - offset + dayIndex); return formatLocalDate(monday) }
 
-function normalizeSlots(records: MealSlot[]) {
+export function normalizeSlots(records: MealSlot[]) {
   const bySlot = new Map<string, MealSlot>()
   const legacyIds: string[] = []
   for (const record of records) {
@@ -18,6 +18,25 @@ function normalizeSlots(records: MealSlot[]) {
     bySlot.set(canonicalId, { ...record, id: canonicalId })
   }
   return { slots: [...bySlot.values()], legacyIds }
+}
+
+async function migrateSlots(records: MealSlot[], token: number, current: (token: number) => boolean) {
+  const normalized = normalizeSlots(records)
+  if (normalized.legacyIds.length === 0) return normalized
+  const canonicalIds = new Set(records.map((record) => record.id))
+  await appDb.transaction('rw', appDb.plans, async () => {
+    if (!current(token)) throw new Error('stale planner load')
+    for (const slot of normalized.slots) {
+      if (!current(token)) throw new Error('stale planner load')
+      const existing = await appDb.plans.get(slot.id)
+      if (!existing || canonicalIds.has(slot.id)) await appDb.plans.put(slot)
+    }
+    if (!current(token)) throw new Error('stale planner load')
+    for (const id of normalized.legacyIds) {
+      await appDb.plans.delete(id)
+    }
+  })
+  return normalized
 }
 
 export function WeekPlanner({ catalog, initialRecipeId }: { catalog: Recipe[]; initialRecipeId?: string }) {
@@ -44,12 +63,7 @@ export function WeekPlanner({ catalog, initialRecipeId }: { catalog: Recipe[]; i
     try {
       const records = await appDb.plans.toArray()
       if (!current(token)) return
-      const normalized = normalizeSlots(records)
-      if (normalized.legacyIds.length > 0) {
-        await appDb.plans.bulkPut(normalized.slots)
-        if (!current(token)) return
-        await Promise.all(normalized.legacyIds.map((id) => appDb.plans.delete(id)))
-      }
+      const normalized = await migrateSlots(records, token, current)
       if (current(token)) { setSlots(normalized.slots); setStatus('ready') }
     } catch {
       if (current(token)) { setStatus('error'); setErrorKind('load'); setErrorMessage('读取周计划失败，请重试') }
