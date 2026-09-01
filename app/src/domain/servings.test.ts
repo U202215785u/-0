@@ -28,4 +28,14 @@ describe('scaleIngredients', () => {
   it('does not scale a recipe without base servings', () => {
     expect(scaleIngredients(recipeWithoutBase, 4)).toEqual(recipeWithoutBase.ingredients)
   })
+
+  it('rounds fractional scaled quantities to two decimal places', () => {
+    const fractionalRecipe: Recipe = {
+      ...recipeForTwo,
+      baseServings: 3,
+      ingredients: [{ name: '面粉', amount: 1, unit: '杯' }],
+    }
+
+    expect(scaleIngredients(fractionalRecipe, 2)).toEqual([{ name: '面粉', amount: 0.67, unit: '杯' }])
+  })
 })

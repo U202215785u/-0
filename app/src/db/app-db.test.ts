@@ -1,8 +1,11 @@
 import { appDb } from './app-db'
 
 describe('appDb', () => {
+  beforeEach(async () => {
+    await appDb.open()
+  })
+
   afterEach(async () => {
-    if (typeof indexedDB === 'undefined') return
     await appDb.close()
     await appDb.delete()
   })
@@ -18,7 +21,7 @@ describe('appDb', () => {
     ])
   })
 
-  it.skipIf(typeof indexedDB === 'undefined')('keeps device mode and favorite IDs across a database reopen', async () => {
+  it('keeps device mode and favorite IDs across a database reopen', async () => {
     await appDb.settings.put({ key: 'mode', value: 'choose' })
     await appDb.favorites.put({ recipeId: 'beef-chow-fun' })
 
