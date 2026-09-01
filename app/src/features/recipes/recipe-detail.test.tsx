@@ -15,6 +15,11 @@ describe('RecipeDetail', () => {
     expect(screen.getByText('暂无估算')).toBeInTheDocument()
   })
 
+  it('preserves the recipe when navigating to the planner', () => {
+    render(<RecipeDetail recipe={recipe} />)
+    expect(screen.getByRole('link', { name: '加入菜单' })).toHaveAttribute('href', '#/planner?recipeId=r1')
+  })
+
   it('scales numeric ingredients when target servings change', async () => {
     render(<RecipeDetail recipe={recipe} />)
     const servings = screen.getByRole('spinbutton', { name: '份数' })

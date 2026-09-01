@@ -15,4 +15,10 @@ describe('App navigation', () => {
     await user.click(screen.getByRole('link', { name: '返回食谱' }))
     expect(screen.getByRole('heading', { name: '找菜' })).toBeInTheDocument()
   })
+
+  it('passes a planner recipe query through to the planner selection', async () => {
+    window.location.hash = '#/planner?recipeId=beef-chow-fun'
+    render(<App />)
+    expect(await screen.findByRole('combobox', { name: '菜单食谱' })).toHaveValue('beef-chow-fun')
+  })
 })
