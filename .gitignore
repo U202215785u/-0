@@ -1,0 +1,6 @@
+app/node_modules/
+app/dist/
+app/playwright-report/
+app/test-results/
+.superpowers/
+work/tool-design/.superpowers/
