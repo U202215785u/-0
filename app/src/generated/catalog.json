@@ -1,0 +1,170 @@
+[
+  {
+    "id": "beef-chow-fun",
+    "title": "Beef Chow Fun (乾炒牛河)",
+    "ingredients": [
+      {
+        "name": "flank steak",
+        "amount": 10,
+        "unit": "oz"
+      },
+      {
+        "name": "yellow onion",
+        "quantityText": "0.5"
+      },
+      {
+        "name": "bean sprouts",
+        "quantityText": "1 handful"
+      },
+      {
+        "name": "scallions",
+        "quantityText": "3 stalks"
+      },
+      {
+        "name": "fresh flat rice noodles",
+        "amount": 1,
+        "unit": "lb"
+      },
+      {
+        "name": "baking soda",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "cornstarch",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "oyster sauce",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "tamari or dark soy sauce",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "white pepper",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "water",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "cooking wine",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "cooking oil",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "tamari or dark soy sauce",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "oyster sauce",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "cooking oil",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "sesame oil",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      {
+        "text": "Slice flank steak into medium or 1/4-inch slices. Rinse in room-temperature water, then drain and squeeze out excess water.",
+        "ingredientNames": [
+          "flank steak"
+        ]
+      },
+      {
+        "text": "Slice yellow onion to 1/4-inch thickness. Wash the bean sprouts. Cut scallions into 1-inch pieces and separate white from green parts.",
+        "ingredientNames": [
+          "yellow onion",
+          "bean sprouts",
+          "scallions"
+        ]
+      },
+      {
+        "text": "Mix the marinade ingredients except cooking oil. Coat the beef, then mix in cooking oil.",
+        "ingredientNames": [
+          "cooking oil",
+          "flank steak"
+        ]
+      },
+      {
+        "text": "Loosen fresh flat rice noodles completely before heating the wok. Mix the chow fun sauce in a small bowl.",
+        "ingredientNames": [
+          "fresh flat rice noodles"
+        ]
+      },
+      {
+        "text": "Heat the wok on the highest heat for ~1.5 minutes. Add cooking oil; heat about ~30 seconds until it ripples. Stir-fry the beef for 40 to 60 seconds; remove it while still slightly red.",
+        "ingredientNames": [
+          "cooking oil",
+          "flank steak"
+        ]
+      },
+      {
+        "text": "Wipe down the wok. Fry onion and scallion whites for 20 to 30 seconds until fragrant. Add noodles and disturb them as little as possible.",
+        "ingredientNames": [
+          "yellow onion",
+          "scallions",
+          "fresh flat rice noodles"
+        ]
+      },
+      {
+        "text": "Cook noodles for ~2 minutes until golden and aromatic. Add the prepared sauce and cook ~1 minute until coated.",
+        "ingredientNames": [
+          "fresh flat rice noodles",
+          "tamari or dark soy sauce",
+          "soy sauce",
+          "oyster sauce"
+        ]
+      },
+      {
+        "text": "Add bean sprouts and scallion greens; cook for 30 to 45 seconds. Return the beef, cook ~1 minute, turn off the heat, and add sesame oil.",
+        "ingredientNames": [
+          "bean sprouts",
+          "scallions",
+          "flank steak",
+          "sesame oil"
+        ]
+      }
+    ],
+    "baseServings": 4,
+    "sourceUrl": "https://www.madewithlau.com/recipes/beef-chow-fun",
+    "author": "Daddy Lau / Made With Lau"
+  }
+]

@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "npm run build:catalog && tsc -b && vite build",
+    "build:catalog": "tsx scripts/build-catalog.ts",
     "test": "vitest run",
     "e2e": "playwright test",
     "lint": "oxlint",
