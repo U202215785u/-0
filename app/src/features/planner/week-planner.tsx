@@ -24,19 +24,24 @@ async function migrateSlots(records: MealSlot[], token: number, current: (token:
   const normalized = normalizeSlots(records)
   if (normalized.legacyIds.length === 0) return normalized
   const canonicalIds = new Set(records.map((record) => record.id))
+  const retained = new Map(normalized.slots.map((slot) => [slot.id, slot]))
   await appDb.transaction('rw', appDb.plans, async () => {
     if (!current(token)) throw new Error('stale planner load')
     for (const slot of normalized.slots) {
       if (!current(token)) throw new Error('stale planner load')
       const existing = await appDb.plans.get(slot.id)
-      if (!existing || canonicalIds.has(slot.id)) await appDb.plans.put(slot)
+      if (!existing || canonicalIds.has(slot.id)) {
+        await appDb.plans.put(slot)
+      } else {
+        retained.set(slot.id, existing)
+      }
     }
     if (!current(token)) throw new Error('stale planner load')
     for (const id of normalized.legacyIds) {
       await appDb.plans.delete(id)
     }
   })
-  return normalized
+  return { ...normalized, slots: normalized.slots.map((slot) => retained.get(slot.id) ?? slot) }
 }
 
 export function WeekPlanner({ catalog, initialRecipeId }: { catalog: Recipe[]; initialRecipeId?: string }) {
