@@ -1,6 +1,6 @@
-import { render, screen } from '@testing-library/react'
+import { render, screen, act } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
-import { describe, expect, it } from 'vitest'
+import { describe, expect, it, vi } from 'vitest'
 import type { Recipe } from '../../catalog/types'
 import { CookingMode } from './cooking-mode'
 
@@ -11,6 +11,32 @@ const recipeWithTimer: Recipe = {
 }
 
 describe('CookingMode', () => {
+  it('handles recipes with no steps without rendering invalid step content', () => {
+    render(<CookingMode recipe={{ ...recipeWithTimer, id: 'empty', steps: [] }} targetServings={2} />)
+    expect(screen.getByText('暂无步骤')).toBeInTheDocument()
+    expect(screen.getByRole('button', { name: '上一步' })).toBeDisabled()
+    expect(screen.getByRole('button', { name: '完成并继续' })).toBeDisabled()
+  })
+
+  it('restarts a timer after countdown completion', async () => {
+    vi.useFakeTimers()
+    try {
+      render(<CookingMode recipe={recipeWithTimer} targetServings={2} />)
+      act(() => { screen.getByRole('button', { name: '完成并继续' }).click() })
+      act(() => { screen.getByRole('button', { name: '开始计时' }).click() })
+      act(() => { vi.advanceTimersByTime(60000) })
+      expect(screen.getByRole('button', { name: '重新计时' })).toBeInTheDocument()
+      act(() => { screen.getByRole('button', { name: '重新计时' }).click() })
+      expect(screen.getByText('60 秒')).toBeInTheDocument()
+    } finally { vi.useRealTimers() }
+  })
+
+  it('resets step and timer when the recipe changes', () => {
+    const { rerender } = render(<CookingMode recipe={recipeWithTimer} targetServings={2} />)
+    rerender(<CookingMode recipe={{ ...recipeWithTimer, id: 'new', title: '新菜', steps: [{ text: '新步骤。' }] }} targetServings={2} />)
+    expect(screen.getByText('第 1 步，共 1 步')).toBeInTheDocument()
+    expect(screen.getByText('新步骤。')).toBeInTheDocument()
+  })
   it('moves to the next step and starts a step timer when present', async () => {
     const user = userEvent.setup()
     render(<CookingMode recipe={recipeWithTimer} targetServings={2} />)
