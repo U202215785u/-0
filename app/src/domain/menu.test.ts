@@ -43,6 +43,17 @@ describe('createShoppingItems', () => {
       { ...plan[0], recipeId: 'dish-a' }, { ...plan[1], id: 'slot-c', recipeId: 'dish-a' },
     ], nonsummable)).toHaveLength(2)
   })
+
+  it('merges equal-key numeric ingredients without a unit', () => {
+    const unitlessCatalog: Recipe[] = [
+      { ...catalog[0], ingredients: [{ name: '葱', mergeKey: 'green-onion', amount: 2 }] },
+      { ...catalog[1], ingredients: [{ name: '小葱', mergeKey: 'green-onion', amount: 2 }] },
+    ]
+    const unitlessPlan = plan.map((slot) => ({ ...slot, servings: 2 }))
+    expect(createShoppingItems(unitlessPlan, unitlessCatalog)).toEqual([
+      { id: 'green-onion|<undefined>', label: '葱', category: '其他', unit: undefined, amount: 4 },
+    ])
+  })
 })
 
 describe('summarizeNutrition', () => {

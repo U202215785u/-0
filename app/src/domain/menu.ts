@@ -28,9 +28,9 @@ export function createShoppingItems(plan: MealSlot[], catalog: Recipe[]): Shoppi
     for (const ingredient of scaleIngredients(recipe, slot.servings)) {
       if (ingredient.pantry) continue
 
-      const summable = typeof ingredient.amount === 'number' && ingredient.unit !== undefined
+      const summable = typeof ingredient.amount === 'number'
       const key = summable
-        ? `${ingredient.mergeKey ?? ingredient.name}|${ingredient.unit}`
+        ? `${ingredient.mergeKey ?? ingredient.name}|${ingredient.unit ?? '<undefined>'}`
         : `${slot.id}|${ingredient.name}`
       const existing = grouped.get(key)
 
