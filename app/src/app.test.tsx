@@ -9,9 +9,10 @@ describe('App navigation', () => {
   it('rerenders the detail view after selecting a recipe', async () => {
     const user = userEvent.setup()
     render(<App />)
-    const link = screen.getAllByRole('link')[0]
+    const link = screen.getByRole('link', { name: /Beef Chow Fun/ })
     await user.click(link)
-    window.dispatchEvent(new HashChangeEvent('hashchange'))
     expect(await screen.findByRole('heading', { name: /Beef Chow Fun/ })).toBeInTheDocument()
+    await user.click(screen.getByRole('link', { name: '返回食谱' }))
+    expect(screen.getByRole('heading', { name: '找菜' })).toBeInTheDocument()
   })
 })

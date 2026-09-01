@@ -1,6 +1,8 @@
-import { render, screen } from '@testing-library/react'
+import { fireEvent, render, screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
-import { describe, expect, it } from 'vitest'
+import { describe, expect, it, vi } from 'vitest'
+import { appDb } from '../../db/app-db'
+import { waitFor } from '@testing-library/react'
 import type { Recipe } from '../../catalog/types'
 import { RecipeDetail } from './recipe-detail'
 
@@ -25,9 +27,31 @@ describe('RecipeDetail', () => {
     render(<RecipeDetail recipe={recipe} />)
     const servings = screen.getByRole('spinbutton', { name: '份数' })
     await userEvent.clear(servings)
-    expect(screen.getByText(/100 克/)).toBeInTheDocument()
-    await userEvent.type(servings, '0')
-    expect(screen.getByText(/100 克/)).toBeInTheDocument()
+    await userEvent.tab()
+    expect(servings).toHaveValue(2)
+    for (const value of ['', '0', '1.5', '-2']) { fireEvent.change(servings, { target: { value } }); fireEvent.blur(servings); expect(servings).toHaveValue(2); expect(screen.getByText(/100 克/)).toBeInTheDocument() }
+  })
+
+  it('loads real persisted state and prevents a rapid second mutation', async () => {
+    await appDb.favorites.put({ recipeId: recipe.id })
+    render(<RecipeDetail recipe={recipe} />)
+    const button = await screen.findByRole('button', { name: '已收藏' })
+    expect(button).toBeEnabled()
+    fireEvent.click(button)
+    expect(button).toBeDisabled()
+    fireEvent.click(button)
+    await waitFor(async () => expect(await appDb.favorites.get(recipe.id)).toBeUndefined())
+    await appDb.favorites.delete(recipe.id)
+  })
+
+  it('exposes a recoverable alert when a favorite write fails', async () => {
+    const put = vi.spyOn(appDb.favorites, 'put').mockRejectedValueOnce(new Error('write failed'))
+    render(<RecipeDetail recipe={recipe} />)
+    const button = await screen.findByRole('button', { name: '收藏' })
+    await userEvent.click(button)
+    expect(await screen.findByRole('alert')).toHaveTextContent('保存失败')
+    expect(button).toBeEnabled()
+    put.mockRestore()
   })
 
   it('renders all supplied nutrition fields including zero and supplied tags', () => {
