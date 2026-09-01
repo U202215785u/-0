@@ -27,6 +27,63 @@ describe('parseRecipe', () => {
     expect(recipe.ingredients[0].quantityText).toBeUndefined();
   });
 
+  it('accepts an ingredient with a positive amount or a non-empty quantityText', () => {
+    const recipe = parseRecipe({
+      id: 'soup',
+      title: '汤',
+      ingredients: [
+        { name: '水', amount: 500, unit: 'ml' },
+        { name: '葱', quantityText: '少许' },
+        { name: '盐' },
+      ],
+      steps: [{ text: '煮。' }],
+    });
+
+    expect(recipe.ingredients[1].quantityText).toBe('少许');
+  });
+
+  it('rejects ambiguous or empty ingredient quantities', () => {
+    expect(() => parseRecipe({
+      id: 'bad', title: '菜', ingredients: [{ name: '盐', amount: 1, quantityText: '少许' }], steps: [{ text: '做' }],
+    })).toThrow();
+    expect(() => parseRecipe({
+      id: 'bad', title: '菜', ingredients: [{ name: '盐', quantityText: '' }], steps: [{ text: '做' }],
+    })).toThrow();
+  });
+
+  it('rejects step ingredient names that are not recipe ingredients', () => {
+    expect(() => parseRecipe({
+      id: 'bad', title: '菜', ingredients: [{ name: '盐' }], steps: [{ text: '做', ingredientNames: ['胡椒'] }],
+    })).toThrow();
+  });
+
+  it('rejects unknown curator fields at every schema level', () => {
+    expect(() => parseRecipe({
+      id: 'bad', title: '菜', ingredients: [{ name: '盐', unknownIngredient: true }], steps: [{ text: '做' }],
+    })).toThrow();
+    expect(() => parseRecipe({
+      id: 'bad', title: '菜', ingredients: [{ name: '盐' }], steps: [{ text: '做', unknownStep: true }],
+    })).toThrow();
+    expect(() => parseRecipe({
+      id: 'bad', title: '菜', ingredients: [{ name: '盐' }], steps: [{ text: '做' }], nutrition: { unknownNutrition: 1 },
+    })).toThrow();
+    expect(() => parseRecipe({
+      id: 'bad', title: '菜', ingredients: [{ name: '盐' }], steps: [{ text: '做' }], unknownRecipe: true,
+    })).toThrow();
+  });
+
+  it('rejects negative nutrition and non-positive duration values', () => {
+    expect(() => parseRecipe({
+      id: 'bad', title: '菜', ingredients: [{ name: '盐' }], steps: [{ text: '做' }], nutrition: { kcal: -1 },
+    })).toThrow();
+    expect(() => parseRecipe({
+      id: 'bad', title: '菜', ingredients: [{ name: '盐' }], steps: [{ text: '做' }], durationMinutes: -1,
+    })).toThrow();
+    expect(() => parseRecipe({
+      id: 'bad', title: '菜', ingredients: [{ name: '盐' }], steps: [{ text: '做' }], durationMinutes: 0,
+    })).toThrow();
+  });
+
   it.each([
     ['ingredient amount', { ingredients: [{ name: '盐', amount: 0 }] }],
     ['base servings', { baseServings: -1 }],
