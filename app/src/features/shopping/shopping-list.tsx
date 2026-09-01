@@ -7,12 +7,15 @@ export function ShoppingList({ catalog, plan }: { catalog: Recipe[]; plan: MealS
   const generated = useMemo(() => createShoppingItems(plan, catalog), [plan, catalog])
   const [saved, setSaved] = useState<ShoppingState[]>([])
   const [hydrated, setHydrated] = useState(false)
+  const [loadError, setLoadError] = useState(false)
+  const [reload, setReload] = useState(0)
   const [manual, setManual] = useState('')
   useEffect(() => {
     let active = true
-    void appDb.shopping.toArray().then((items) => { if (active) setSaved(items) }).finally(() => { if (active) setHydrated(true) })
+    setHydrated(false); setLoadError(false)
+    void appDb.shopping.toArray().then((items) => { if (active) { setSaved(items); setHydrated(true) } }).catch(() => { if (active) setLoadError(true) })
     return () => { active = false }
-  }, [])
+  }, [reload])
   const states = new Map(saved.map((item) => [item.id, item]))
   const rows = [
     ...generated.map((item) => ({ ...item, manual: false })),
@@ -34,7 +37,8 @@ export function ShoppingList({ catalog, plan }: { catalog: Recipe[]; plan: MealS
   }
   return <main className="shopping-list"><header><a href="#/recipes">返回找菜</a><h1>购物清单</h1></header>
     {!hydrated && <p role="status">正在读取购物清单</p>}
-    {hydrated && <>
+    {loadError && <p role="alert">读取购物清单失败，请重试 <button type="button" onClick={() => setReload((value) => value + 1)}>重试</button></p>}
+    {hydrated && !loadError && <>
     {rows.length === 0 && <p>清单还是空的</p>}
     {categories.map((category) => <section key={category}><h2>{category}</h2><ul>{rows.filter((row) => row.category === category).map((row) => <li key={row.id}><label><input type="checkbox" aria-label={row.label} checked={Boolean(states.get(row.id)?.checked)} onChange={() => void toggle(row.id)} /> <span>{row.label}</span>{!row.manual && row.amount !== undefined && <small> {row.amount} {row.unit ?? ''}</small>}</label></li>)}</ul></section>)}
     <form onSubmit={(event) => { event.preventDefault(); void addManual() }}><label>添加一项<input aria-label="添加一项" value={manual} onChange={(event) => setManual(event.target.value)} /></label><button type="submit">添加</button></form>

@@ -8,7 +8,7 @@ import { WeekPlanner } from './features/planner/week-planner'
 import { ShoppingList } from './features/shopping/shopping-list'
 import { ChooseMode } from './features/choose/choose-mode'
 import { ImportSelection } from './features/import/import-selection'
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { appDb } from './db/app-db'
 
 function subscribeToHash(callback: () => void) { window.addEventListener('hashchange', callback); return () => window.removeEventListener('hashchange', callback) }
@@ -20,11 +20,28 @@ export function App() {
   const cookId = hash.match(/^#\/recipes\/([^/]+)\/cook$/)?.[1]
   const recipe = (catalog as Recipe[]).find((item) => item.id === id)
   const cookingRecipe = (catalog as Recipe[]).find((item) => item.id === cookId)
+  const chooseRecipeId = hash.match(/^#\/choose\/recipes\/([^/]+)$/)?.[1]
+  const chooseRecipe = (catalog as Recipe[]).find((item) => item.id === chooseRecipeId)
   const planner = hash.match(/^#\/planner(?:\?recipeId=([^&]+))?$/)
   const [wantedIds, setWantedIds] = useState<string[]>([])
   const [plans, setPlans] = useState<import('./db/app-db').MealSlot[]>([])
-  useEffect(() => { void Promise.all([appDb.wanted.toArray(), appDb.plans.toArray()]).then(([wanted, nextPlans]) => { setWantedIds(wanted.map((item) => item.recipeId)); setPlans(nextPlans) }) }, [hash])
+  const [routeError, setRouteError] = useState(false)
+  const [routeReload, setRouteReload] = useState(0)
+  const generation = useRef(0)
+  useEffect(() => {
+    const token = ++generation.current
+    let active = true
+    setRouteError(false)
+    void Promise.all([appDb.wanted.toArray(), appDb.plans.toArray()]).then(([wanted, nextPlans]) => {
+      if (!active || token !== generation.current) return
+      setWantedIds(wanted.map((item) => item.recipeId)); setPlans(nextPlans)
+    }).catch(() => { if (active && token === generation.current) setRouteError(true) })
+    return () => { active = false }
+  }, [hash, routeReload])
+  if (routeError) return <main><h1>读取本地状态失败</h1><p role="alert">暂时无法读取点菜和周计划状态。</p><button type="button" onClick={() => setRouteReload((value) => value + 1)}>重试</button></main>
   if (hash === '#/choose') return <ChooseMode wantedRecipeIds={wantedIds} catalog={catalog as Recipe[]} />
+  if (chooseRecipe) return <RecipeDetail recipe={chooseRecipe} chooseOnly />
+  if (hash === '#/choose/recipes') return <RecipeBrowser catalog={catalog as Recipe[]} chooseOnly />
   if (hash === '#/shopping') return <ShoppingList catalog={catalog as Recipe[]} plan={plans} />
   if (hash === '#/import') return <ImportSelection catalog={catalog as Recipe[]} />
   if (planner) return <WeekPlanner catalog={catalog as Recipe[]} initialRecipeId={planner[1] ? decodeURIComponent(planner[1]) : undefined} />

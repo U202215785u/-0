@@ -17,4 +17,9 @@ describe('RecipeBrowser', () => {
     expect(screen.getByText('干炒牛河')).toBeInTheDocument()
     expect(screen.queryByText('番茄汤')).not.toBeInTheDocument()
   })
+
+  it('uses choose-only links when requested', () => {
+    render(<RecipeBrowser catalog={fixtureCatalog} chooseOnly />)
+    expect(screen.getByRole('link', { name: '干炒牛河' })).toHaveAttribute('href', '#/choose/recipes/beef-chow-fun')
+  })
 })

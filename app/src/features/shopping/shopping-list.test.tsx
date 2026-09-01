@@ -39,4 +39,12 @@ describe('ShoppingList', () => {
     await screen.findByRole('checkbox', { name: /葱/ })
     expect(screen.getByRole('checkbox', { name: /葱/ })).toBeChecked()
   })
+
+  it('shows a retryable alert when reading saved shopping state fails', async () => {
+    const toArray = vi.spyOn(appDb.shopping, 'toArray').mockRejectedValueOnce(new Error('offline'))
+    render(<ShoppingList catalog={[recipe]} plan={plan} />)
+    expect(await screen.findByRole('alert')).toHaveTextContent('读取购物清单失败')
+    expect(screen.getByRole('button', { name: '重试' })).toBeInTheDocument()
+    toArray.mockRestore()
+  })
 })
