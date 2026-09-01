@@ -10,10 +10,10 @@ const fixtureCatalog: Recipe[] = [
 ]
 
 describe('RecipeBrowser', () => {
-  it('finds a recipe by title and limits results to a selected cooking method', async () => {
+  it('filters results when a cooking-method tag is selected', async () => {
     const user = userEvent.setup()
     render(<RecipeBrowser catalog={fixtureCatalog} />)
-    await user.type(screen.getByRole('searchbox'), '牛河')
+    await user.click(screen.getByRole('button', { name: '炒' }))
     expect(screen.getByText('干炒牛河')).toBeInTheDocument()
     expect(screen.queryByText('番茄汤')).not.toBeInTheDocument()
   })

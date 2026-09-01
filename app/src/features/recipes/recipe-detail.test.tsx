@@ -20,4 +20,23 @@ describe('RecipeDetail', () => {
     await userEvent.type(servings, '4')
     expect(screen.getByText(/200 克/)).toBeInTheDocument()
   })
+
+  it('keeps the last valid servings when the input is cleared or invalid', async () => {
+    render(<RecipeDetail recipe={recipe} />)
+    const servings = screen.getByRole('spinbutton', { name: '份数' })
+    await userEvent.clear(servings)
+    expect(screen.getByText(/100 克/)).toBeInTheDocument()
+    await userEvent.type(servings, '0')
+    expect(screen.getByText(/100 克/)).toBeInTheDocument()
+  })
+
+  it('renders all supplied nutrition fields including zero and supplied tags', () => {
+    render(<RecipeDetail recipe={{ ...recipe, tags: ['快手'], nutrition: { kcal: 0, proteinG: 0, carbsG: 12, fatG: 3 } }} />)
+    expect(screen.getByText(/快手/)).toBeInTheDocument()
+    expect(screen.getByText(/0 千卡/)).toBeInTheDocument()
+    expect(screen.getByText(/蛋白质.*0/)).toBeInTheDocument()
+    expect(screen.getByText(/碳水.*12/)).toBeInTheDocument()
+    expect(screen.getByText(/脂肪.*3/)).toBeInTheDocument()
+    expect(screen.queryByText('暂无估算')).not.toBeInTheDocument()
+  })
 })
