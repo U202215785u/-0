@@ -12,10 +12,16 @@ input { display: block; width: 100%; box-sizing: border-box; margin-top: 6px; pa
 .filters, .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
 button { border: 1px solid #c7c7cc; border-radius: 8px; padding: 9px 13px; background: white; cursor: pointer; }
 button[aria-pressed="true"] { color: white; background: #007aff; border-color: #007aff; }
+.button-link { border: 1px solid #c7c7cc; border-radius: 8px; padding: 9px 13px; background: white; color: inherit; text-decoration: none; }
 .recipe-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
 .recipe-card { background: white; border: 1px solid #e5e5ea; border-radius: 8px; padding: 16px; min-height: 100px; }
 .recipe-card a { color: inherit; text-decoration: none; }
 .tag { display: inline-block; margin: 10px 6px 0 0; color: #007aff; }
 .recipe-detail section { margin-top: 28px; }
 .recipe-detail li { margin: 8px 0; }
+.cooking-layout { display: grid; gap: 24px; }
+.cooking-step { background: white; border: 1px solid #e5e5ea; border-radius: 12px; padding: 24px; }
+.step-count { color: #6e6e73; }.step-text { font-size: 1.5rem; margin: 24px 0; }.step-actions { display: flex; gap: 8px; justify-content: space-between; }.step-timer { display: flex; align-items: center; gap: 12px; margin-bottom: 24px; }.step-timer p { font-variant-numeric: tabular-nums; }
+.planner-grid { display: grid; gap: 12px; margin-top: 24px; }.planner-day { background: white; border: 1px solid #e5e5ea; border-radius: 8px; padding: 16px; }.planner-slot { border-top: 1px solid #e5e5ea; padding: 12px 0; }.planner-slot h3 { margin: 0; font-size: 1rem; }.nutrition-summary { margin: 24px 0; }
 @media (max-width: 520px) { main { padding: 24px 16px; } .actions button { flex: 1 1 42%; } }
+@media (min-width: 760px) { .cooking-layout { grid-template-columns: minmax(220px, 280px) 1fr; align-items: start; }.cooking-ingredients { position: sticky; top: 16px; }.planner-grid { grid-template-columns: repeat(7, minmax(130px, 1fr)); overflow-x: auto; }.planner-day { min-width: 130px; } }
