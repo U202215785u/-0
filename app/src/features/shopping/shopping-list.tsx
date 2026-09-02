@@ -24,8 +24,12 @@ export function ShoppingList({ catalog, plan }: { catalog: Recipe[]; plan: MealS
   const categories = [...new Set(rows.map((row) => row.category))]
   const toggle = async (id: string) => {
     const next = { id, checked: !states.get(id)?.checked }
-    await appDb.shopping.put(next)
     setSaved((current) => [...current.filter((item) => item.id !== id), next])
+    try {
+      await appDb.shopping.put(next)
+    } catch {
+      setSaved((current) => [...current.filter((item) => item.id !== id), { ...next, checked: !next.checked }])
+    }
   }
   const addManual = async () => {
     const label = manual.trim()

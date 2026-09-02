@@ -1,0 +1,32 @@
+import { test, expect } from '@playwright/test'
+
+test('mobile user can find a dish, plan it, and mark shopping complete', async ({ page }, testInfo) => {
+  testInfo.project.name === 'mobile' || test.skip()
+  await page.setViewportSize({ width: 390, height: 844 })
+  await page.goto('/')
+  await page.getByRole('link', { name: 'Beef Chow Fun' }).click()
+  await expect(page.getByRole('heading', { name: 'Beef Chow Fun' })).toBeVisible()
+  await page.getByRole('link', { name: '加入菜单' }).click()
+  await expect(page.getByRole('heading', { name: '周计划' })).toBeVisible()
+  await page.getByRole('button', { name: '添加到周三晚餐' }).click()
+  await expect(page.locator('.planner-slot p').filter({ hasText: 'Beef Chow Fun (乾炒牛河)' }).first()).toBeVisible()
+  await page.getByRole('link', { name: '采购' }).click()
+  const checkbox = page.getByRole('checkbox', { name: 'flank steak' })
+  await expect(checkbox).toBeVisible()
+  await checkbox.check()
+  await expect(checkbox).toBeChecked()
+})
+
+test('desktop exposes navigation and cooking split view', async ({ page }, testInfo) => {
+  testInfo.project.name === 'desktop' || test.skip()
+  await page.setViewportSize({ width: 1440, height: 900 })
+  await page.goto('/#/planner')
+  await expect(page.getByRole('navigation', { name: '主导航' })).toBeVisible()
+  await expect(page.getByRole('link', { name: '采购' })).toBeVisible()
+  await page.getByRole('link', { name: '找菜' }).click()
+  await page.getByRole('link', { name: 'Beef Chow Fun' }).click()
+  await page.getByRole('link', { name: '开始烹饪' }).click()
+  await expect(page.locator('.cooking-ingredients')).toBeVisible()
+  await expect(page.locator('.cooking-step')).toBeVisible()
+  await expect(page.getByRole('link', { name: '退出烹饪' })).toBeVisible()
+})

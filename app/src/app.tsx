@@ -8,11 +8,19 @@ import { WeekPlanner } from './features/planner/week-planner'
 import { ShoppingList } from './features/shopping/shopping-list'
 import { ChooseMode } from './features/choose/choose-mode'
 import { ImportSelection } from './features/import/import-selection'
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { appDb } from './db/app-db'
 
 function subscribeToHash(callback: () => void) { window.addEventListener('hashchange', callback); return () => window.removeEventListener('hashchange', callback) }
 function getHash() { return window.location.hash }
+
+function AppNavigation() {
+  return <nav aria-label="主导航" className="app-navigation">
+    <a href="#/">找菜</a>
+    <a href="#/planner">周计划</a>
+    <a href="#/shopping">采购</a>
+  </nav>
+}
 
 export function App() {
   const hash = useSyncExternalStore(subscribeToHash, getHash, () => '')
@@ -42,9 +50,10 @@ export function App() {
   if (hash === '#/choose') return <ChooseMode wantedRecipeIds={wantedIds} catalog={catalog as Recipe[]} />
   if (chooseRecipe) return <RecipeDetail recipe={chooseRecipe} chooseOnly />
   if (hash === '#/choose/recipes') return <RecipeBrowser catalog={catalog as Recipe[]} chooseOnly />
-  if (hash === '#/shopping') return <ShoppingList catalog={catalog as Recipe[]} plan={plans} />
-  if (hash === '#/import') return <ImportSelection catalog={catalog as Recipe[]} />
-  if (planner) return <WeekPlanner catalog={catalog as Recipe[]} initialRecipeId={planner[1] ? decodeURIComponent(planner[1]) : undefined} />
-  if (cookingRecipe) return <CookingMode recipe={cookingRecipe} targetServings={cookingRecipe.baseServings ?? 1} />
-  return recipe ? <RecipeDetail recipe={recipe} /> : <RecipeBrowser catalog={catalog as Recipe[]} />
+  const withNavigation = (view: ReactNode) => <><AppNavigation />{view}</>
+  if (hash === '#/shopping') return withNavigation(<ShoppingList catalog={catalog as Recipe[]} plan={plans} />)
+  if (hash === '#/import') return withNavigation(<ImportSelection catalog={catalog as Recipe[]} />)
+  if (planner) return withNavigation(<WeekPlanner catalog={catalog as Recipe[]} initialRecipeId={planner[1] ? decodeURIComponent(planner[1]) : undefined} />)
+  if (cookingRecipe) return withNavigation(<CookingMode recipe={cookingRecipe} targetServings={cookingRecipe.baseServings ?? 1} />)
+  return withNavigation(recipe ? <RecipeDetail recipe={recipe} /> : <RecipeBrowser catalog={catalog as Recipe[]} />)
 }
