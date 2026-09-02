@@ -31,3 +31,18 @@ The PWA keeps content-first hierarchy, semantic links/buttons/inputs, system fon
 ## Known scope boundary
 
 The generated catalog still contains one complete cookable recipe and source-index records remain outside the in-app catalog until manually curated into canonical JSON. No backend, account, AI, web scraping, or in-app recipe editor was added.
+
+## Verification rerun (2026-09-02)
+
+Using the bundled Node 24 runtime, the requested commands were rerun against the current worktree:
+
+| Command | Result |
+| --- | --- |
+| `npx playwright test --workers=1 --reporter=line` | PASS; 4 passed, 2 expected viewport skips, 5.9s |
+| `npm run test` | PASS; 15 files, 68 tests |
+| `npx tsc -b` | PASS |
+| `npm run build` | PASS; catalog validation, TypeScript build, Vite production build, and PWA service worker generation |
+
+The Playwright run used production `vite preview`, covered the real `Beef Chow Fun` catalog title, mobile recipe-to-plan-to-shopping checkbox flow, desktop navigation and cooking split layout, and offline browse after `navigator.serviceWorker.ready`. The two skips are the intentional project guards that prevent the mobile-only and desktop-only tests from running in the other viewport project.
+
+The requested skill-installer retry was attempted earlier, but the GitHub query returned no usable result from the authorization/network gateway. The local `apple-human-interface-guidelines` skill was read and applied; no additional skill was installed.
