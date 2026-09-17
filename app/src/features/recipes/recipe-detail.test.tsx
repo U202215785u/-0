@@ -15,6 +15,12 @@ describe('RecipeDetail', () => {
     expect(screen.getByText('暂无估算')).toBeInTheDocument()
   })
 
+  it('hides the servings stepper for fixed-quantity recipes without a base servings', () => {
+    render(<RecipeDetail recipe={{ ...recipe, baseServings: undefined } as Recipe} />)
+    expect(screen.queryByRole('button', { name: '增加份数' })).not.toBeInTheDocument()
+    expect(screen.queryByRole('spinbutton', { name: '份数' })).not.toBeInTheDocument()
+  })
+
   it('preserves the recipe when navigating to the planner', () => {
     render(<RecipeDetail recipe={recipe} />)
     expect(screen.getByRole('link', { name: '加入菜单' })).toHaveAttribute('href', '#/planner?recipeId=r1')
