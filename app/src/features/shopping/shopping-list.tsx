@@ -13,10 +13,10 @@ export function ShoppingList({ catalog, plan }: { catalog: Recipe[]; plan: MealS
   const [message, setMessage] = useState('')
   useEffect(() => {
     let active = true
-    setHydrated(false); setLoadError(false)
     void appDb.shopping.toArray().then((items) => { if (active) { setSaved(items); setHydrated(true) } }).catch(() => { if (active) setLoadError(true) })
     return () => { active = false }
   }, [reload])
+  const retryLoad = () => { setLoadError(false); setHydrated(false); setReload((value) => value + 1) }
   const states = new Map(saved.map((item) => [item.id, item]))
   const rows = [
     ...generated.map((item) => ({ ...item, manual: false })),
@@ -55,7 +55,7 @@ export function ShoppingList({ catalog, plan }: { catalog: Recipe[]; plan: MealS
   }
   return <main className="shopping-list"><header><a className="back-link" href="#/">返回找菜</a><p className="eyebrow">家庭菜谱</p><h1>购物清单</h1><p className="subtitle">根据周计划自动生成，勾选即记录。</p></header>
     {!hydrated && <p role="status">正在读取购物清单</p>}
-    {loadError && <p role="alert">读取购物清单失败，请重试 <button type="button" onClick={() => setReload((value) => value + 1)}>重试</button></p>}
+    {loadError && <p role="alert">读取购物清单失败，请重试 <button type="button" onClick={retryLoad}>重试</button></p>}
     {hydrated && !loadError && <>
     {totalCount > 0 && <section className="shopping-progress"><div className="progress-row"><span>待购 {totalCount - checkedCount}</span><span>已购 {checkedCount}</span></div><div className="progress-track" role="progressbar" aria-valuemin={0} aria-valuemax={totalCount} aria-valuenow={checkedCount} aria-label="采购进度"><div className="progress-fill" style={{ width: `${totalCount === 0 ? 0 : Math.round((checkedCount / totalCount) * 100)}%` }} /></div>{done && <p className="progress-done">全部买齐啦 🎉</p>}</section>}
     {totalCount === 0 ? <section className="empty-state"><p>清单还是空的。</p><p>先去<a href="#/planner">安排周计划</a>，这里会自动生成购物清单。</p><a className="button-link" href="#/planner">去安排周菜单</a></section> : <>{categories.map((category) => <section key={category} className="shopping-category"><h2>{category}</h2><ul>{rows.filter((row) => row.category === category).map((row) => <li key={row.id}><label className="shopping-row"><input type="checkbox" aria-label={row.label} checked={Boolean(states.get(row.id)?.checked)} onChange={() => void toggle(row.id)} /> <span>{row.label}</span>{!row.manual && row.amount !== undefined && <small> {row.amount} {row.unit ?? ''}</small>}</label></li>)}</ul></section>)}</>}

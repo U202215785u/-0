@@ -3,26 +3,10 @@ import type { Recipe } from '../../catalog/types'
 import { appDb, type MealSlot } from '../../db/app-db'
 import { summarizeNutrition } from '../../domain/menu'
 import { useIsMobile } from '../../hooks/use-is-mobile'
+import { dateFor, days, normalizeSlots, shortDateText, weekdayIndex } from './planner-utils'
 
-const days = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
 const mainMeals = [{ key: 'lunch', label: '午餐' }, { key: 'dinner', label: '晚餐' }] as const
 const extraMeals = [{ key: 'breakfast', label: '早餐' }, { key: 'snack', label: '零食' }] as const
-
-export function formatLocalDate(date: Date) { return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}` }
-export function dateFor(dayIndex: number, baseDate = new Date()) { const monday = new Date(baseDate); const offset = (baseDate.getDay() + 6) % 7; monday.setDate(baseDate.getDate() - offset + dayIndex); return formatLocalDate(monday) }
-export function weekdayIndex(baseDate = new Date()) { return (baseDate.getDay() + 6) % 7 }
-export function shortDateText(date: string) { const parts = date.split('-'); return `${Number(parts[1])}/${Number(parts[2])}` }
-
-export function normalizeSlots(records: MealSlot[]) {
-  const bySlot = new Map<string, MealSlot>()
-  const legacyIds: string[] = []
-  for (const record of records) {
-    const canonicalId = `${record.date}-${record.meal}`
-    if (record.id !== canonicalId) legacyIds.push(record.id)
-    bySlot.set(canonicalId, { ...record, id: canonicalId })
-  }
-  return { slots: [...bySlot.values()], legacyIds }
-}
 
 async function migrateSlots(records: MealSlot[], token: number, current: (token: number) => boolean) {
   const normalized = normalizeSlots(records)
@@ -58,7 +42,7 @@ export function WeekPlanner({ catalog, initialRecipeId }: { catalog: Recipe[]; i
   const [slots, setSlots] = useState<MealSlot[]>([])
   const [expanded, setExpanded] = useState(false)
   const [selectedDay, setSelectedDay] = useState(() => weekdayIndex())
-  const [selectedRecipeId, setSelectedRecipeId] = useState(initialRecipeId && catalog.some((item) => item.id === initialRecipeId) ? initialRecipeId : catalog[0]?.id ?? '')
+  const [selectedRecipeId, setSelectedRecipeId] = useState(() => initialRecipeId && catalog.some((item) => item.id === initialRecipeId) ? initialRecipeId : catalog[0]?.id ?? '')
   const [status, setStatus] = useState<'loading' | 'ready' | 'saving' | 'error'>('loading')
   const [errorKind, setErrorKind] = useState<'load' | 'save'>('load')
   const [errorMessage, setErrorMessage] = useState('')
@@ -67,25 +51,27 @@ export function WeekPlanner({ catalog, initialRecipeId }: { catalog: Recipe[]; i
   const begin = () => ++generation.current
   const current = (token: number) => generation.current === token
 
-  useEffect(() => {
-    setSelectedRecipeId((value) => initialRecipeId && catalog.some((item) => item.id === initialRecipeId)
-      ? initialRecipeId
-      : catalog.some((item) => item.id === value) ? value : catalog[0]?.id ?? '')
-  }, [initialRecipeId, catalog])
-
+  const applyLoad = (slots: MealSlot[]) => { setSlots(slots); setStatus('ready') }
+  const applyLoadError = () => { setStatus('error'); setErrorKind('load'); setErrorMessage('读取周计划失败，请重试') }
   const load = async () => {
     const token = begin()
-    setStatus('loading'); setErrorKind('load'); setErrorMessage(''); setFailedSlot(null)
     try {
       const records = await appDb.plans.toArray()
       if (!current(token)) return
       const normalized = await migrateSlots(records, token, current)
-      if (current(token)) { setSlots(normalized.slots); setStatus('ready') }
+      if (current(token)) applyLoad(normalized.slots)
     } catch {
-      if (current(token)) { setStatus('error'); setErrorKind('load'); setErrorMessage('读取周计划失败，请重试') }
+      if (current(token)) applyLoadError()
     }
   }
-  useEffect(() => { void load(); return () => { generation.current += 1 } }, [])
+  useEffect(() => {
+    const token = begin()
+    void appDb.plans.toArray()
+      .then(async (records) => { if (!current(token)) return null; return migrateSlots(records, token, current) })
+      .then((normalized) => { if (current(token) && normalized) applyLoad(normalized.slots) })
+      .catch(() => { if (current(token)) applyLoadError() })
+    return () => { generation.current += 1 }
+  }, [])
 
   const summary = useMemo(() => summarizeNutrition(slots, catalog), [slots, catalog])
   const saveSlot = async (slot: MealSlot) => {
@@ -110,7 +96,10 @@ export function WeekPlanner({ catalog, initialRecipeId }: { catalog: Recipe[]; i
   }
   const add = (dayIndex: number, meal: MealSlot['meal']) => { const recipe = catalog.find((item) => item.id === selectedRecipeId); if (!recipe || status !== 'ready') return; void saveSlot({ id: `${dateFor(dayIndex)}-${meal}`, date: dateFor(dayIndex), meal, recipeId: recipe.id, servings: 2 }) }
   const disabled = status !== 'ready' || catalog.length === 0 || !catalog.some((item) => item.id === selectedRecipeId)
-  const retry = () => errorKind === 'save' && failedSlot ? void saveSlot(failedSlot) : void load()
+  const retry = () => {
+    if (errorKind === 'save' && failedSlot) { setStatus('saving'); setErrorKind('save'); void saveSlot(failedSlot) }
+    else { setStatus('loading'); setErrorKind('load'); void load() }
+  }
   const slotAt = (dayIndex: number, meal: MealSlot['meal']) => slots.find((item) => item.date === dateFor(dayIndex) && item.meal === meal)
   const recipeOf = (slot: MealSlot | undefined) => slot && catalog.find((item) => item.id === slot.recipeId)
   const visibleMeals = [...mainMeals, ...(expanded ? extraMeals : [])]

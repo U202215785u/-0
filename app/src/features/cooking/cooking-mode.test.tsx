@@ -31,9 +31,9 @@ describe('CookingMode', () => {
     } finally { vi.useRealTimers() }
   })
 
-  it('resets step and timer when the recipe changes', () => {
+  it('resets step and timer when a new recipe remounts the view', () => {
     const { rerender } = render(<CookingMode recipe={recipeWithTimer} targetServings={2} />)
-    rerender(<CookingMode recipe={{ ...recipeWithTimer, id: 'new', title: '新菜', steps: [{ text: '新步骤。' }] }} targetServings={2} />)
+    rerender(<CookingMode key="new-recipe" recipe={{ ...recipeWithTimer, id: 'new', title: '新菜', steps: [{ text: '新步骤。' }] }} targetServings={2} />)
     expect(screen.getByText('第 1 步，共 1 步')).toBeInTheDocument()
     expect(screen.getByText('新步骤。')).toBeInTheDocument()
   })
@@ -57,12 +57,16 @@ describe('CookingMode', () => {
     expect(screen.getByText('第 1 步，共 3 步')).toBeInTheDocument()
   })
 
-  it('labels the final step as done with a link back to the recipe', async () => {
+  it('labels the final step as done and finishes back to the recipe', async () => {
     const user = userEvent.setup()
     render(<CookingMode recipe={recipeWithTimer} targetServings={2} />)
     await user.click(screen.getByRole('button', { name: '下一步' }))
     await user.click(screen.getByRole('button', { name: '下一步' }))
-    expect(screen.getByRole('button', { name: '完成' })).toBeDisabled()
+    const finishButton = screen.getByRole('button', { name: '完成' })
+    expect(finishButton).toBeEnabled()
+    await user.click(finishButton)
+    expect(window.location.hash).toBe('#/recipes/stew')
     expect(screen.getByRole('link', { name: '完成烹饪，返回菜谱' })).toHaveAttribute('href', '#/recipes/stew')
+    window.location.hash = ''
   })
 })

@@ -5,7 +5,7 @@ import { appDb } from '../../db/app-db'
 
 const CATEGORY_ORDER = ['肉类', '水产', '蔬菜', '菌菇', '豆制品', '蛋类', '米面主食', '干货', '调味料', '乳制品', '其他']
 
-export function groupIngredients(ingredients: Ingredient[]): { category: string; items: Ingredient[] }[] {
+function groupIngredients(ingredients: Ingredient[]): { category: string; items: Ingredient[] }[] {
   const groups = new Map<string, Ingredient[]>()
   for (const item of ingredients) {
     const category = item.category ?? '其他'
@@ -17,7 +17,7 @@ export function groupIngredients(ingredients: Ingredient[]): { category: string;
     .concat([...groups.entries()].filter(([category]) => !CATEGORY_ORDER.includes(category)).map(([category, items]) => ({ category, items })))
 }
 
-export function recipeAmountText(item: Ingredient): string {
+function recipeAmountText(item: Ingredient): string {
   if (item.amount !== undefined) return `${item.amount} ${item.unit ?? ''}`.trim()
   return item.quantityText ?? ''
 }
@@ -33,17 +33,25 @@ export function RecipeDetail({ recipe, chooseOnly = false }: { recipe: Recipe; c
   const invalid = useRef(false)
   const load = () => {
     setStatus('loading'); setFavorite(false); setWanted(false); setErrorMessage('')
-    let active = true
-    void Promise.all([appDb.favorites.get(recipe.id), appDb.wanted.get(recipe.id)]).then(([f, w]) => { if (active) { setFavorite(Boolean(f)); setWanted(Boolean(w)); setStatus('ready') } }).catch(() => active && setStatus('error'))
-    return () => { active = false }
+    void Promise.all([appDb.favorites.get(recipe.id), appDb.wanted.get(recipe.id)]).then(([f, w]) => { setFavorite(Boolean(f)); setWanted(Boolean(w)); setStatus('ready') }).catch(() => setStatus('error'))
   }
-  useEffect(() => load(), [recipe.id])
+  useEffect(() => {
+    let active = true
+    void Promise.all([appDb.favorites.get(recipe.id), appDb.wanted.get(recipe.id)]).then(([f, w]) => { if (active) { setFavorite(Boolean(f)); setWanted(Boolean(w)); setStatus('ready') } }).catch(() => { if (active) setStatus('error') })
+    return () => { active = false }
+  }, [recipe.id])
   const toggle = async (kind: 'favorite' | 'wanted') => {
     if (status !== 'ready') return
     const table = kind === 'favorite' ? appDb.favorites : appDb.wanted
     const active = kind === 'favorite' ? favorite : wanted
     setStatus('pending')
-    try { if (active) await table.delete(recipe.id); else await table.put({ recipeId: recipe.id }); kind === 'favorite' ? setFavorite(!active) : setWanted(!active); setErrorMessage(''); setStatus('ready') } catch { setErrorMessage('保存失败，请重试'); setStatus('ready') }
+    try {
+      if (active) await table.delete(recipe.id)
+      else await table.put({ recipeId: recipe.id })
+      if (kind === 'favorite') setFavorite(!active)
+      else setWanted(!active)
+      setErrorMessage(''); setStatus('ready')
+    } catch { setErrorMessage('保存失败，请重试'); setStatus('ready') }
   }
   const changeServings = (value: string) => { setInput(value); const n = Number(value); if (value && Number.isInteger(n) && n > 0 && Number.isFinite(n)) { invalid.current = false; setServings(n) } else invalid.current = true }
   const stepServings = (delta: number) => { const next = Math.max(1, servings + delta); setServings(next); setInput(String(next)); invalid.current = false }

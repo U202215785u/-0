@@ -26,7 +26,7 @@ test.describe('mobile recipe flow', () => {
       await page.getByRole('link', { name: '加入菜单' }).click()
       await expect(page.getByRole('heading', { name: '周计划' })).toBeVisible()
       await page.getByRole('button', { name: /添加午餐/ }).click()
-      await expect(page.locator('.planner-slot-card').filter({ hasText: '午餐' }).getByText(/干炒牛河/)).toBeVisible()
+      await expect(page.locator('.planner-slot-card').filter({ hasText: '午餐' }).getByText('干炒牛河', { exact: true })).toBeVisible()
 
       // shopping list from the plan
       await page.getByRole('navigation', { name: '底部导航' }).getByRole('link', { name: '采购' }).click()

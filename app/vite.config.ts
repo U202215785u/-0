@@ -24,6 +24,28 @@ export default defineConfig({
       },
     }),
   ],
+  build: {
+    rolldownOptions: {
+      output: {
+        // Keep the shared runtime, UI framework and the static recipe catalog in
+        // stable, separately-cached chunks so the app shell stays small on mobile.
+        codeSplitting: {
+          groups: [
+            {
+              name: 'vendor',
+              test: /node_modules[\\/](react|react-dom|scheduler|react-router|react-router-dom)[\\/]/,
+              priority: 30,
+            },
+            {
+              name: 'catalog',
+              test: /[\\/]generated[\\/]catalog\.json$/,
+              priority: 20,
+            },
+          ],
+        },
+      },
+    },
+  },
   test: {
     environment: 'jsdom',
     setupFiles: ['./src/test/setup.ts'],

@@ -3,7 +3,8 @@ import userEvent from '@testing-library/user-event'
 import { afterEach, describe, expect, it, vi } from 'vitest'
 import type { Recipe } from '../../catalog/types'
 import { appDb } from '../../db/app-db'
-import { dateFor, normalizeSlots, WeekPlanner } from './week-planner'
+import { dateFor, normalizeSlots } from './planner-utils'
+import { WeekPlanner } from './week-planner'
 
 const fixtureCatalog: Recipe[] = [{
   id: 'beef', title: '干炒牛河', baseServings: 2,
@@ -81,16 +82,17 @@ describe('WeekPlanner', () => {
     expect((await appDb.plans.toArray()).find((slot) => slot.id === `${date}-dinner`)).toMatchObject({ recipeId: 'beef' })
   })
 
-  it('syncs selection when initial recipe and catalog props change', async () => {
-    const { rerender } = render(<WeekPlanner catalog={[fixtureCatalog[0]]} />)
-    await waitFor(() => expect(screen.getByRole('combobox', { name: '菜单食谱' })).toBeEnabled())
-    rerender(<WeekPlanner catalog={[fixtureCatalog[0], secondRecipe]} initialRecipeId="noodles" />)
+  it('applies the initial recipe on mount and falls back across catalog changes', () => {
+    const first = render(<WeekPlanner catalog={[fixtureCatalog[0], secondRecipe]} initialRecipeId="noodles" />)
     expect(screen.getByRole('combobox', { name: '菜单食谱' })).toHaveValue('noodles')
-    rerender(<WeekPlanner catalog={[fixtureCatalog[0]]} initialRecipeId="missing" />)
+    first.unmount()
+    const second = render(<WeekPlanner catalog={[fixtureCatalog[0]]} initialRecipeId="missing" />)
     expect(screen.getByRole('combobox', { name: '菜单食谱' })).toHaveValue('beef')
-    rerender(<WeekPlanner catalog={[]} />)
+    second.unmount()
+    const third = render(<WeekPlanner catalog={[]} />)
     expect(screen.getByRole('combobox', { name: '菜单食谱' })).toBeDisabled()
     expect(screen.getByRole('button', { name: '添加到周三晚餐' })).toBeDisabled()
+    third.unmount()
   })
 
   it('retries the failed save intent instead of reloading', async () => {

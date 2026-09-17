@@ -50,14 +50,14 @@ export function App() {
   const [routeError, setRouteError] = useState(false)
   const [routeReload, setRouteReload] = useState(0)
   const [mode, setMode] = useState<'cook' | 'choose' | null>(null)
+  const [hydrated, setHydrated] = useState(false)
   const generation = useRef(0)
   useEffect(() => {
     const token = ++generation.current
     let active = true
-    setRouteError(false)
     void Promise.all([appDb.wanted.toArray(), appDb.plans.toArray(), appDb.settings.get('mode')]).then(([wanted, nextPlans, settings]) => {
       if (!active || token !== generation.current) return
-      setWantedIds(wanted.map((item) => item.recipeId)); setPlans(nextPlans); setMode(settings?.value ?? 'cook')
+      setWantedIds(wanted.map((item) => item.recipeId)); setPlans(nextPlans); setMode(settings?.value ?? 'cook'); setHydrated(true); setRouteError(false)
     }).catch(() => { if (active && token === generation.current) setRouteError(true) })
     return () => { active = false }
   }, [hash, routeReload])
@@ -70,14 +70,17 @@ export function App() {
     try { setWantedIds((await appDb.wanted.toArray()).map((item) => item.recipeId)) } catch { setRouteError(true) }
   }
   if (routeError) return <main><h1>读取本地状态失败</h1><p role="alert">暂时无法读取点菜和周计划状态。</p><button type="button" onClick={() => setRouteReload((value) => value + 1)}>重试</button></main>
+  // Wait for the first local read before painting any route so a choose-mode
+  // device never flashes the cook home, and shopping never flashes an empty list.
+  if (!hydrated) return <main className="app-loading"><p role="status">正在读取本地数据</p></main>
   if (hash === '#/choose') return <ChooseMode wantedRecipeIds={wantedIds} catalog={catalog as Recipe[]} onClearWanted={refreshWanted} onSwitchToCook={() => void persistMode('cook')} />
   if (chooseRecipe) return <RecipeDetail recipe={chooseRecipe} chooseOnly />
   if (hash === '#/choose/recipes') return <RecipeBrowser catalog={catalog as Recipe[]} chooseOnly />
   const withNavigation = (view: ReactNode) => <><AppNavigation hash={hash} />{view}</>
   if (hash === '#/shopping') return withNavigation(<ShoppingList catalog={catalog as Recipe[]} plan={plans} />)
   if (hash === '#/import') return withNavigation(<ImportSelection catalog={catalog as Recipe[]} />)
-  if (planner) return withNavigation(<WeekPlanner catalog={catalog as Recipe[]} initialRecipeId={planner[1] ? decodeURIComponent(planner[1]) : undefined} />)
-  if (cookingRecipe) return withNavigation(<CookingMode recipe={cookingRecipe} targetServings={cookServings ? Math.max(1, Number(cookServings)) : cookingRecipe.baseServings ?? 2} />)
+  if (planner) return withNavigation(<WeekPlanner key={planner[0]} catalog={catalog as Recipe[]} initialRecipeId={planner[1] ? decodeURIComponent(planner[1]) : undefined} />)
+  if (cookingRecipe) return withNavigation(<CookingMode key={cookingRecipe.id} recipe={cookingRecipe} targetServings={cookServings ? Math.max(1, Number(cookServings)) : cookingRecipe.baseServings ?? 2} />)
   if (hash === '' && mode === 'choose') return <ChooseMode wantedRecipeIds={wantedIds} catalog={catalog as Recipe[]} onClearWanted={refreshWanted} onSwitchToCook={() => void persistMode('cook')} />
   return withNavigation(recipe ? <RecipeDetail recipe={recipe} /> : <RecipeBrowser catalog={catalog as Recipe[]} />)
 }
