@@ -27,7 +27,7 @@ describe('CookingMode', () => {
       act(() => { vi.advanceTimersByTime(60000) })
       expect(screen.getByRole('button', { name: '重新计时' })).toBeInTheDocument()
       act(() => { screen.getByRole('button', { name: '重新计时' }).click() })
-      expect(screen.getByText('60 秒')).toBeInTheDocument()
+      expect(screen.getByText('1 分 0 秒')).toBeInTheDocument()
     } finally { vi.useRealTimers() }
   })
 

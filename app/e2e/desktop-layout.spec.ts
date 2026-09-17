@@ -30,9 +30,9 @@ test.describe('mobile planner date strip', () => {
     await page.getByRole('combobox', { name: '菜单食谱' }).selectOption({ label: '干炒牛河' })
     await page.getByRole('button', { name: /添加午餐/ }).click()
     const lunchCard = page.locator('.planner-slot-card').filter({ hasText: '午餐' })
-    await expect(lunchCard.getByText('干炒牛河')).toBeVisible()
+    await expect(lunchCard.getByText('干炒牛河', { exact: true })).toBeVisible()
     // remove it again
     await lunchCard.getByRole('button', { name: '移除' }).click()
-    await expect(lunchCard.getByText('未安排')).toBeVisible()
+    await expect(lunchCard.getByText('未安排', { exact: true })).toBeVisible()
   })
 })

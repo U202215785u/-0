@@ -26,7 +26,7 @@ describe('RecipeDetail', () => {
     expect(screen.queryByRole('link', { name: '开始烹饪' })).not.toBeInTheDocument()
     expect(screen.queryByRole('link', { name: '加入菜单' })).not.toBeInTheDocument()
     expect(screen.getByRole('button', { name: '想吃' })).toBeInTheDocument()
-    expect(screen.getByRole('link', { name: '返回点菜' })).toHaveAttribute('href', '#/choose')
+    expect(screen.getByRole('link', { name: '返回点菜列表' })).toHaveAttribute('href', '#/choose/recipes')
   })
 
   it('scales numeric ingredients when target servings change', async () => {

@@ -14,6 +14,8 @@ export default defineConfig({
         description: '本地优先的家庭菜谱工具：找菜、周计划、购物清单、点菜交接。',
         lang: 'zh-CN',
         display: 'standalone',
+        start_url: '/',
+        scope: '/',
         theme_color: '#f5f5f7',
         background_color: '#f5f5f7',
         icons: [

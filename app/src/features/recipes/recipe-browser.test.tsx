@@ -22,4 +22,13 @@ describe('RecipeBrowser', () => {
     render(<RecipeBrowser catalog={fixtureCatalog} chooseOnly />)
     expect(screen.getByRole('link', { name: '干炒牛河' })).toHaveAttribute('href', '#/choose/recipes/beef-chow-fun')
   })
+
+  it('lets the chooser return to the wanted list and keeps the cook flow clean', () => {
+    const { unmount } = render(<RecipeBrowser catalog={fixtureCatalog} chooseOnly />)
+    expect(screen.getByRole('link', { name: '返回点菜' })).toHaveAttribute('href', '#/choose')
+    unmount()
+    render(<RecipeBrowser catalog={fixtureCatalog} />)
+    expect(screen.queryByRole('link', { name: '返回点菜' })).not.toBeInTheDocument()
+    expect(screen.getByRole('link', { name: '导入点菜码' })).toHaveAttribute('href', '#/import')
+  })
 })

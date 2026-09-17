@@ -59,8 +59,8 @@ export function RecipeDetail({ recipe, chooseOnly = false }: { recipe: Recipe; c
   const hasNutrition = nutrition && Object.values(nutrition).some((value) => value !== undefined)
   const scaled = scaleIngredients(recipe, servings)
   const groups = groupIngredients(scaled)
-  const backHref = chooseOnly ? '#/choose' : '#/'
-  const backLabel = chooseOnly ? '返回点菜' : '返回食谱'
+  const backHref = chooseOnly ? '#/choose/recipes' : '#/'
+  const backLabel = chooseOnly ? '返回点菜列表' : '返回食谱'
   return <main className="recipe-detail">
     <header><a className="back-link" href={backHref}>{backLabel}</a><p className="eyebrow">{chooseOnly ? '点菜模式' : '家庭菜谱'}</p><h1>{recipe.title}</h1></header>
     {status === 'loading' && <p role="status">正在读取状态</p>}{status === 'pending' && <p role="status">正在保存</p>}{status === 'error' && <p role="alert">状态读取失败 <button type="button" onClick={load}>重试</button></p>}{errorMessage && <p role="alert">{errorMessage}</p>}

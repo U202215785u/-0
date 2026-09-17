@@ -28,6 +28,19 @@ describe('ShoppingList', () => {
     expect(checkbox).toBeChecked()
   })
 
+  it('clears bought generated and manual items together', async () => {
+    const user = userEvent.setup()
+    await appDb.shopping.put({ id: 'manual-垃圾袋', checked: true, manualLabel: '垃圾袋' })
+    render(<ShoppingList catalog={[recipe]} plan={plan} />)
+    const checkbox = await screen.findByRole('checkbox', { name: /葱/ })
+    await user.click(checkbox)
+    await user.click(screen.getByRole('button', { name: '清除已购项目' }))
+    await waitFor(async () => expect(await appDb.shopping.count()).toBe(0))
+    expect(screen.getByRole('checkbox', { name: /葱/ })).not.toBeChecked()
+    expect(screen.queryByText('垃圾袋')).not.toBeInTheDocument()
+    expect(screen.getByRole('status')).toHaveTextContent('已清除已购项目')
+  })
+
   it('keeps bought rows after unbought rows', async () => {
     await appDb.shopping.put({ id: '葱|根', checked: true })
     let release!: (value: [{ id: string; checked: boolean }]) => void

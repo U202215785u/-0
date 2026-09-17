@@ -17,7 +17,7 @@ npm run build
 npm run e2e
 ```
 
-`npm run build` 会先校验 `catalog/recipes/*.json`（构造与质量门：数量 ≥50、来源作者与链接、中文执行内容、时长与难度），再生成静态 catalog 和 PWA service worker。开发期菜谱不足 50 道时可用环境变量放宽数量门槛：`$env:MIN_CATALOG=1; npm run build:catalog`。
+`npm run build` 会先校验 `catalog/recipes/*.json`（构造与质量门：数量 ≥50、文件名与 id 一致、标题与来源链接不重复、来源作者与链接、中文执行内容、时长与难度），再生成静态 catalog 和 PWA service worker。开发期菜谱不足 50 道时可用环境变量放宽数量门槛：`$env:MIN_CATALOG=1; npm run build:catalog`。
 
 ## 使用方式
 

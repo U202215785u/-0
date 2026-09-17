@@ -50,6 +50,8 @@ test.describe('choose and import flow at 390px', () => {
     await expect(page.getByRole('heading', { name: '选菜' })).toBeVisible()
     await page.getByRole('link', { name: /干炒牛河/ }).click()
     await page.getByRole('button', { name: '想吃' }).click()
+    await page.getByRole('link', { name: '返回点菜列表' }).click()
+    await expect(page.getByRole('heading', { name: '选菜' })).toBeVisible()
     await page.getByRole('link', { name: '返回点菜' }).click()
 
     const code = await page.getByRole('textbox', { name: '点菜码' }).inputValue()

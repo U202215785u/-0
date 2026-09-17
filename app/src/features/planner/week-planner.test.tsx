@@ -102,9 +102,24 @@ describe('WeekPlanner', () => {
     await waitFor(() => expect(screen.getByRole('button', { name: '添加到周三晚餐' })).toBeEnabled())
     await user.click(screen.getByRole('button', { name: '添加到周三晚餐' }))
     expect(await screen.findByRole('alert')).toHaveTextContent('保存周计划失败')
-    await user.click(screen.getByRole('button', { name: '重试保存' }))
+    await user.click(screen.getByRole('button', { name: '重试' }))
     await waitFor(() => expect(screen.getByRole('heading', { name: '周三晚餐' }).parentElement).toHaveTextContent('干炒牛河'))
     expect(put).toHaveBeenCalledTimes(2)
+  })
+
+  it('retries a failed remove as a remove instead of re-adding the dish', async () => {
+    const user = userEvent.setup()
+    const date = dateFor(2)
+    await appDb.plans.put({ id: `${date}-dinner`, date, meal: 'dinner', recipeId: 'beef', servings: 2 })
+    const del = vi.spyOn(appDb.plans, 'delete').mockRejectedValueOnce(new Error('offline'))
+    render(<WeekPlanner catalog={fixtureCatalog} />)
+    await waitFor(() => expect(screen.getByRole('button', { name: '移除周三晚餐' })).toBeEnabled())
+    await user.click(screen.getByRole('button', { name: '移除周三晚餐' }))
+    expect(await screen.findByRole('alert')).toHaveTextContent('移除周计划失败')
+    await user.click(screen.getByRole('button', { name: '重试' }))
+    await waitFor(() => expect(screen.getByRole('heading', { name: '周三晚餐' }).parentElement).toHaveTextContent('未安排'))
+    expect(del).toHaveBeenCalledTimes(2)
+    expect((await appDb.plans.toArray()).some((slot) => slot.id === `${date}-dinner`)).toBe(false)
   })
 
   it('keeps the last record in the toArray result when recipe ids are reversed', () => {

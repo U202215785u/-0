@@ -44,15 +44,15 @@ export function WeekPlanner({ catalog, initialRecipeId }: { catalog: Recipe[]; i
   const [selectedDay, setSelectedDay] = useState(() => weekdayIndex())
   const [selectedRecipeId, setSelectedRecipeId] = useState(() => initialRecipeId && catalog.some((item) => item.id === initialRecipeId) ? initialRecipeId : catalog[0]?.id ?? '')
   const [status, setStatus] = useState<'loading' | 'ready' | 'saving' | 'error'>('loading')
-  const [errorKind, setErrorKind] = useState<'load' | 'save'>('load')
   const [errorMessage, setErrorMessage] = useState('')
   const [failedSlot, setFailedSlot] = useState<MealSlot | null>(null)
+  const [failedAction, setFailedAction] = useState<'save' | 'remove' | null>(null)
   const generation = useRef(0)
   const begin = () => ++generation.current
   const current = (token: number) => generation.current === token
 
   const applyLoad = (slots: MealSlot[]) => { setSlots(slots); setStatus('ready') }
-  const applyLoadError = () => { setStatus('error'); setErrorKind('load'); setErrorMessage('读取周计划失败，请重试') }
+  const applyLoadError = () => { setStatus('error'); setErrorMessage('读取周计划失败，请重试') }
   const load = async () => {
     const token = begin()
     try {
@@ -76,36 +76,37 @@ export function WeekPlanner({ catalog, initialRecipeId }: { catalog: Recipe[]; i
   const summary = useMemo(() => summarizeNutrition(slots, catalog), [slots, catalog])
   const saveSlot = async (slot: MealSlot) => {
     const token = begin()
-    setStatus('saving'); setErrorKind('save'); setErrorMessage(''); setFailedSlot(null)
+    setStatus('saving'); setErrorMessage(''); setFailedSlot(null); setFailedAction(null)
     try {
       await appDb.plans.put(slot)
       if (current(token)) { setSlots((value) => [...value.filter((item) => item.id !== slot.id), slot]); setStatus('ready') }
     } catch {
-      if (current(token)) { setFailedSlot(slot); setErrorKind('save'); setErrorMessage('保存周计划失败，请重试'); setStatus('error') }
+      if (current(token)) { setFailedSlot(slot); setFailedAction('save'); setErrorMessage('保存周计划失败，请重试'); setStatus('error') }
     }
   }
   const removeSlot = async (slot: MealSlot) => {
     const token = begin()
-    setStatus('saving'); setErrorKind('save'); setErrorMessage(''); setFailedSlot(null)
+    setStatus('saving'); setErrorMessage(''); setFailedSlot(null); setFailedAction(null)
     try {
       await appDb.plans.delete(slot.id)
       if (current(token)) { setSlots((value) => value.filter((item) => item.id !== slot.id)); setStatus('ready') }
     } catch {
-      if (current(token)) { setFailedSlot(slot); setErrorKind('save'); setErrorMessage('保存周计划失败，请重试'); setStatus('error') }
+      if (current(token)) { setFailedSlot(slot); setFailedAction('remove'); setErrorMessage('移除周计划失败，请重试'); setStatus('error') }
     }
   }
   const add = (dayIndex: number, meal: MealSlot['meal']) => { const recipe = catalog.find((item) => item.id === selectedRecipeId); if (!recipe || status !== 'ready') return; void saveSlot({ id: `${dateFor(dayIndex)}-${meal}`, date: dateFor(dayIndex), meal, recipeId: recipe.id, servings: 2 }) }
   const disabled = status !== 'ready' || catalog.length === 0 || !catalog.some((item) => item.id === selectedRecipeId)
   const retry = () => {
-    if (errorKind === 'save' && failedSlot) { setStatus('saving'); setErrorKind('save'); void saveSlot(failedSlot) }
-    else { setStatus('loading'); setErrorKind('load'); void load() }
+    if (failedAction === 'remove' && failedSlot) { setStatus('saving'); void removeSlot(failedSlot) }
+    else if (failedAction === 'save' && failedSlot) { setStatus('saving'); void saveSlot(failedSlot) }
+    else { setStatus('loading'); void load() }
   }
   const slotAt = (dayIndex: number, meal: MealSlot['meal']) => slots.find((item) => item.date === dateFor(dayIndex) && item.meal === meal)
   const recipeOf = (slot: MealSlot | undefined) => slot && catalog.find((item) => item.id === slot.recipeId)
   const visibleMeals = [...mainMeals, ...(expanded ? extraMeals : [])]
 
   return <main className="week-planner"><header><a className="back-link" href="#/">返回找菜</a><p className="eyebrow">家庭菜谱</p><h1>周计划</h1><p className="subtitle">安排本周菜单，自动汇总营养。</p></header>
-    {status === 'loading' && <p role="status">正在读取周计划</p>}{status === 'saving' && <p role="status">正在保存周计划</p>}{status === 'error' && <p role="alert">{errorMessage} <button type="button" onClick={retry}>{errorKind === 'save' ? '重试保存' : '重试'}</button></p>}{catalog.length === 0 && <p role="alert">暂无可用食谱</p>}
+    {status === 'loading' && <p role="status">正在读取周计划</p>}{status === 'saving' && <p role="status">正在保存周计划</p>}{status === 'error' && <p role="alert">{errorMessage} <button type="button" onClick={retry}>重试</button></p>}{catalog.length === 0 && <p role="alert">暂无可用食谱</p>}
     <section className="planner-controls"><label>菜单食谱<select aria-label="菜单食谱" value={selectedRecipeId} onChange={(event) => setSelectedRecipeId(event.target.value)} disabled={disabled}>{catalog.map((recipe) => <option key={recipe.id} value={recipe.id}>{recipe.title}</option>)}</select></label><button type="button" onClick={() => setExpanded(!expanded)} disabled={status !== 'ready'}>{expanded ? '收起早餐和零食' : '展开早餐和零食'}</button></section>
     {isMobile ? (
       <section className="planner-mobile">

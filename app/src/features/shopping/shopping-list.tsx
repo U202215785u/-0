@@ -46,7 +46,7 @@ export function ShoppingList({ catalog, plan }: { catalog: Recipe[]; plan: MealS
     try { await appDb.shopping.put(item) } catch { /* optimistic; next load reconciles */ }
   }
   const clearBought = async () => {
-    const bought = saved.filter((item) => item.checked && !item.manualLabel)
+    const bought = saved.filter((item) => item.checked)
     if (bought.length === 0) return
     const ids = bought.map((item) => item.id)
     setSaved((current) => current.filter((item) => !ids.includes(item.id)))
