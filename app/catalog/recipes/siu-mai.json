@@ -1,0 +1,66 @@
+{
+  "id": "siu-mai",
+  "title": "烧卖",
+  "ingredients": [
+    { "name": "猪肩肉", "amount": 224.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "pork-shoulder" },
+    { "name": "虾", "amount": 112.0, "unit": "克", "category": "水产", "pantry": false, "mergeKey": "shrimp" },
+    { "name": "干香菇", "amount": 4.0, "unit": "朵", "category": "干货", "pantry": false, "mergeKey": "dried-shiitake" },
+    { "name": "烧卖皮", "amount": 20.0, "unit": "张", "category": "米面主食", "pantry": false, "mergeKey": "siu-mai-wrapper" },
+    { "name": "胡萝卜", "amount": 14.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "carrot" },
+    { "name": "生抽", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "蚝油", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "oyster-sauce" },
+    { "name": "盐", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "白糖", "amount": 10.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
+    { "name": "玉米淀粉", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
+    { "name": "小苏打", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "baking-soda" },
+    { "name": "鸡精", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "chicken-bouillon" },
+    { "name": "水", "amount": 30.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
+    { "name": "白胡椒粉", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
+    { "name": "橄榄油", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "olive-oil" },
+    { "name": "香油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" }
+  ],
+  "steps": [
+    {
+      "text": "处理猪肉：猪肩肉先切薄片、再切细条、最后剁成细粒；放入清水中浸泡并用手揉捏 1 至 2 分钟，静置 10 至 15 分钟；捞出在漏勺中沥干，并用力挤去尽可能多的水分。",
+      "timerSeconds": 90,
+      "ingredientNames": ["猪肩肉"]
+    },
+    {
+      "text": "处理其余馅料：虾用纸巾包住挤干水分，剁成细粒；干香菇用热水泡发 10 至 15 分钟，挤干水分，顺长对半切开、切条后剁成细粒；胡萝卜切薄片、细条，再切成极细粒。",
+      "timerSeconds": 750,
+      "ingredientNames": ["虾", "干香菇", "胡萝卜"]
+    },
+    {
+      "text": "调腌料：碗中混合 1 汤匙生抽、2 汤匙蚝油、半茶匙盐、2 茶匙糖、2 汤匙玉米淀粉、半茶匙小苏打、1 茶匙鸡精、2 汤匙水、半茶匙白胡椒粉，拌匀。",
+      "ingredientNames": ["生抽", "蚝油", "盐", "白糖", "玉米淀粉", "小苏打", "鸡精", "水", "白胡椒粉"]
+    },
+    {
+      "text": "拌肉腌渍：把腌料倒入猪肉中搅拌约 2 至 3 分钟，使肉质更嫩；静置约 10 分钟让猪肉吸收酱汁。",
+      "timerSeconds": 150,
+      "ingredientNames": ["猪肩肉"]
+    },
+    {
+      "text": "加入虾粒、香菇粒、1 茶匙橄榄油和 1 汤匙香油，再搅拌 1 至 2 分钟；盖上保鲜膜冷藏腌制 4 至 8 小时。",
+      "timerSeconds": 14400,
+      "ingredientNames": ["虾", "干香菇", "橄榄油", "香油"]
+    },
+    {
+      "text": "包制烧卖：取一张烧卖皮放于掌心，舀约 28 克馅料放入并轻轻压平；拇指与食指圈成圆环托住烧卖皮，另一手手指拢成漏斗状；用勺柄把馅料从中央压入，同时四指从四周挤压收拢；旋转几圈，挤压下半个烧卖使肉馅隆起，再用勺压平；馅料不足可补充。批量制作可先冷冻：烧卖互不接触摆在盘中冷冻 1 至 2 小时至表面收干，再装入密封袋冷冻保存至少一个月；食用前需完全解冻再蒸，切勿蒸后冷冻。",
+      "timerSeconds": 5400,
+      "ingredientNames": ["烧卖皮"]
+    },
+    {
+      "text": "蒸制：蒸锅底加水约 2 杯，煮至滚沸；把烧卖放在蒸架（带孔托盘）上互不接触，放入蒸锅盖盖蒸 10 分钟；若无专用蒸锅，可用带盖炒锅加金属蒸架和盘子替代，蒸约 12 分钟；蒸好小心取出，撒上胡萝卜碎点缀，趁热食用风味最佳。",
+      "timerSeconds": 600,
+      "ingredientNames": ["烧卖皮", "胡萝卜"]
+    }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 260,
+  "difficulty": "中等",
+  "tags": ["点心", "蒸", "家常菜"],
+  "sourceUrl": "https://www.madewithlau.com/recipes/siu-mai",
+  "author": "Daddy Lau",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自美国华人菜谱网站「麦德威斯劳」（原站名为英文）的公开食谱页《烧卖》，食材、步骤、时间均按原文转录；单位换算：1 盎司约 28 克、1 汤匙约 15 毫升、1 茶匙约 5 毫升；原文标注备料 240 分钟（含腌制冷藏时间）、烹饪 20 分钟、共 260 分钟、供 4 人（可制约 20 个）；面团即烧卖皮、馅料包制及冷冻整形均按原文计时。"
+}

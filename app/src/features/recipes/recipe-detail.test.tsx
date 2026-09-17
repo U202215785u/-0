@@ -46,6 +46,13 @@ describe('RecipeDetail', () => {
     for (const value of ['', '0', '1.5', '-2']) { fireEvent.change(servings, { target: { value } }); fireEvent.blur(servings); expect(servings).toHaveValue(2); expect(screen.getByText(/100 克/)).toBeInTheDocument() }
   })
 
+  it('defaults to 2 servings for a two-person household', () => {
+    render(<RecipeDetail recipe={{ ...recipe, baseServings: 4 }} />)
+    expect(screen.getByRole('spinbutton', { name: '份数' })).toHaveValue(2)
+    // With baseServings=4 and target=2, amounts are halved: 100→50
+    expect(screen.getByText(/50 克/)).toBeInTheDocument()
+  })
+
   it('loads real persisted state and prevents a rapid second mutation', async () => {
     await appDb.favorites.put({ recipeId: recipe.id })
     render(<RecipeDetail recipe={recipe} />)
@@ -72,9 +79,14 @@ describe('RecipeDetail', () => {
     render(<RecipeDetail recipe={{ ...recipe, tags: ['快手'], nutrition: { kcal: 0, proteinG: 0, carbsG: 12, fatG: 3 } }} />)
     expect(screen.getByText(/快手/)).toBeInTheDocument()
     expect(screen.getByText(/0 千卡/)).toBeInTheDocument()
-    expect(screen.getByText(/蛋白质.*0/)).toBeInTheDocument()
-    expect(screen.getByText(/碳水.*12/)).toBeInTheDocument()
-    expect(screen.getByText(/脂肪.*3/)).toBeInTheDocument()
+    expect(screen.getByText('0 克')).toBeInTheDocument()
+    expect(screen.getByText('12 克')).toBeInTheDocument()
+    expect(screen.getByText('3 克')).toBeInTheDocument()
     expect(screen.queryByText('暂无估算')).not.toBeInTheDocument()
+  })
+
+  it('links the cook action with the current servings', () => {
+    render(<RecipeDetail recipe={recipe} />)
+    expect(screen.getByRole('link', { name: '开始烹饪' })).toHaveAttribute('href', '#/recipes/r1/cook?servings=2')
   })
 })

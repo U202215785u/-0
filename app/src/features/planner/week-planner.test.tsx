@@ -1,4 +1,4 @@
-import { fireEvent, render, screen, waitFor } from '@testing-library/react'
+import { fireEvent, render, screen, waitFor, within } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { afterEach, describe, expect, it, vi } from 'vitest'
 import type { Recipe } from '../../catalog/types'
@@ -49,6 +49,7 @@ describe('WeekPlanner', () => {
   it('adds a dish to Wednesday dinner and shows known nutrition totals', async () => {
     const user = userEvent.setup()
     render(<WeekPlanner catalog={fixtureCatalog} />)
+    await waitFor(() => expect(screen.getByRole('button', { name: '添加到周三晚餐' })).toBeEnabled())
     await user.click(screen.getByRole('button', { name: '添加到周三晚餐' }))
     await waitFor(() => expect(screen.getByRole('heading', { name: '周三晚餐' }).parentElement?.querySelector('p')).toHaveTextContent('干炒牛河'))
     await waitFor(() => expect(screen.getByText(/500 千卡/)).toBeInTheDocument())
@@ -125,5 +126,26 @@ describe('WeekPlanner', () => {
     const records = await appDb.plans.toArray()
     expect(records).toHaveLength(1)
     expect(records[0]).toMatchObject({ id: `${date}-dinner`, recipeId: 'noodles' })
+  })
+
+  it('shows the mobile date strip and adds lunch for the selected day', async () => {
+    const original = window.matchMedia
+    window.matchMedia = (query: string) => ({ matches: query.includes('760'), media: query, onchange: null, addListener: () => {}, removeListener: () => {}, addEventListener: () => {}, removeEventListener: () => {}, dispatchEvent: () => false }) as MediaQueryList
+    try {
+      const user = userEvent.setup()
+      render(<WeekPlanner catalog={fixtureCatalog} initialRecipeId="beef" />)
+      const tabs = await screen.findAllByRole('tab', { name: /选择/ })
+      expect(tabs).toHaveLength(7)
+      await user.click(tabs[2])
+      expect(tabs[2]).toHaveAttribute('aria-selected', 'true')
+      await waitFor(() => expect(screen.getByRole('button', { name: '添加午餐' })).toBeEnabled())
+      await user.click(screen.getByRole('button', { name: '添加午餐' }))
+      const lunchCard = () => screen.getByRole('heading', { name: '午餐' }).closest('section')!
+      await waitFor(() => expect(within(lunchCard()).getByText('干炒牛河')).toBeInTheDocument())
+      await user.click(screen.getByRole('button', { name: '移除' }))
+      await waitFor(() => expect(within(lunchCard()).getByText('未安排')).toBeInTheDocument())
+    } finally {
+      window.matchMedia = original
+    }
   })
 })

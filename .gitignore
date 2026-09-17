@@ -5,3 +5,16 @@ app/test-results/
 .superpowers/
 .worktrees/
 work/tool-design/.superpowers/
+
+# Source-research scratch (never commit)
+ccwork/
+work/screenshots/
+app/work/
+*.ldjson
+bing-rss1.xml
+cc_*.json
+cc_x_*.json
+wpapi*.json
+cel1.txt
+sg2.json
+jc-sm-*.xml

@@ -1,0 +1,36 @@
+{
+  "id": "congee",
+  "title": "白粥",
+  "ingredients": [
+    { "name": "大米", "amount": 240, "unit": "毫升", "category": "米面主食", "pantry": false, "mergeKey": "rice" },
+    { "name": "水", "amount": 2160, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
+    { "name": "生抽", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "香油", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
+    { "name": "辣椒油", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "chili-oil" },
+    { "name": "葱花", "quantityText": "适量", "category": "蔬菜", "pantry": false, "mergeKey": "scallion" },
+    { "name": "姜丝", "quantityText": "适量", "category": "蔬菜", "pantry": false, "mergeKey": "ginger" },
+    { "name": "香菜", "quantityText": "适量", "category": "蔬菜", "pantry": false, "mergeKey": "coriander" },
+    { "name": "榨菜", "quantityText": "适量", "category": "蔬菜", "pantry": false, "mergeKey": "pickled-mustard" },
+    { "name": "皮蛋", "quantityText": "适量", "category": "蛋类", "pantry": false, "mergeKey": "century-egg" },
+    { "name": "油条", "quantityText": "适量", "category": "米面主食", "pantry": false, "mergeKey": "youtiao" },
+    { "name": "肉松", "quantityText": "适量", "category": "肉类", "pantry": false, "mergeKey": "pork-floss" },
+    { "name": "烤花生米", "quantityText": "适量", "category": "干货", "pantry": false, "mergeKey": "peanuts" },
+    { "name": "芝麻", "quantityText": "适量", "category": "干货", "pantry": false, "mergeKey": "sesame-seeds" }
+  ],
+  "steps": [
+    { "text": "淘米：把大米放在流动水下快速冲洗一下即可。", "ingredientNames": ["大米"] },
+    { "text": "常规做法：锅中水烧至完全沸腾，放入大米；待水再次沸腾后转最小火并搅拌；待水面转为极轻的咕嘟状态后盖上锅盖，煮 35 至 40 分钟，至粥浓稠到自己喜欢的程度，期间搅拌数次。", "ingredientNames": ["水", "大米"], "timerSeconds": 2100 },
+    { "text": "快捷做法：把冲洗过的大米放冷冻室冻过夜至完全冻结，将冻成块的米直接放入沸水（水量减至 6 杯，约 1440 毫升），按上述方法煮 10 至 15 分钟即可。", "ingredientNames": ["大米", "水"], "timerSeconds": 600 },
+    { "text": "提前准备：若打算隔天食用，可稍微多放些水，因为粥放凉之后会变稠；剩余粥放入冰箱可保存最多 3 天，重新加热时用小火并时常搅拌，若显得过稠可加少许水。", "ingredientNames": ["水"] },
+    { "text": "享用：可原味直接吃，也可按个人喜好加入生抽、香油、辣椒油、葱花、姜丝、香菜、榨菜、皮蛋、油条、肉松、烤花生米、芝麻等任意搭配的调味料和配料。", "ingredientNames": ["生抽", "香油", "辣椒油", "葱花", "姜丝", "香菜", "榨菜", "皮蛋", "油条", "肉松", "烤花生米", "芝麻"] }
+  ],
+  "baseServings": 6,
+  "durationMinutes": 40,
+  "difficulty": "简单",
+  "tags": ["煮", "主食", "素菜"],
+  "sourceUrl": "https://redhousespice.com/congee/",
+  "author": "Wei Guo / Red House Spice",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自原站公开页面的完整配方（原页受访问限制，经公开镜像页面核对，标题与原文一致《白粥》）：烹制约 40 分钟（原文仅标注烹制与合计时间），备料时间原文未单列；原页标注 6 人份、每份原味约 125 千卡。单位换算：1 杯约 240 毫升；原文用量为 1 杯米配 9 杯水（可调为 8 至 10 杯），本文件按 9 杯记录；可选配料在原文中仅作推荐、无固定数量，均按“适量”处理，未计入份数与热量。",
+  "nutrition": { "kcal": 125 }
+}

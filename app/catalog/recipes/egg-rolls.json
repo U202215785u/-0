@@ -1,0 +1,39 @@
+{
+  "id": "egg-rolls",
+  "title": "春卷",
+  "ingredients": [
+    { "name": "干香菇", "amount": 14.0, "unit": "克", "category": "干货", "pantry": false, "mergeKey": "shiitake" },
+    { "name": "粉丝", "amount": 56.0, "unit": "克", "category": "米面主食", "pantry": false, "mergeKey": "vermicelli" },
+    { "name": "木耳", "amount": 7.0, "unit": "克", "category": "干货", "pantry": false, "mergeKey": "wood-ear" },
+    { "name": "卷心菜", "amount": 224.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "cabbage" },
+    { "name": "芹菜", "amount": 112.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "celery" },
+    { "name": "胡萝卜", "amount": 84.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "carrot" },
+    { "name": "荷兰豆", "amount": 28.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "snow-pea" },
+    { "name": "蒜", "amount": 3.0, "unit": "瓣", "category": "蔬菜", "pantry": false, "mergeKey": "garlic" },
+    { "name": "春卷皮", "amount": 20.0, "unit": "张", "category": "米面主食", "pantry": false, "mergeKey": "spring-roll-wrapper" },
+    { "name": "食用油", "amount": 448.0, "unit": "克", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
+    { "name": "食用油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
+    { "name": "面粉", "amount": 30.0, "unit": "毫升", "category": "米面主食", "pantry": false, "mergeKey": "flour" },
+    { "name": "清水", "amount": 30.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
+    { "name": "盐", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "白糖", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
+    { "name": "蚝油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "oyster-sauce" },
+    { "name": "白胡椒粉", "amount": 1.25, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
+    { "name": "香油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" }
+  ],
+  "steps": [
+    { "text": "粉丝用温水泡发至软（约十分钟即可）；干香菇与木耳分别用热水泡十至十五分钟（若买到鲜木耳可省略泡发）。", "timerSeconds": 600, "ingredientNames": ["粉丝", "干香菇", "木耳"] },
+    { "text": "卷心菜切掉中心硬梗，叠起菜叶切极细丝；泡发好的木耳与干香菇同样切细丝；芹菜先切约五厘米段再切细丝；荷兰豆切细丝；胡萝卜先削平一面便于稳定，切片后再切细丝；蒜拍碎去皮粗略切末。另取小碗将面粉与清水调成糊浆，作封口用。", "ingredientNames": ["卷心菜", "木耳", "干香菇", "芹菜", "荷兰豆", "胡萝卜", "蒜", "面粉", "清水"] },
+    { "text": "大火烧热炒锅约一分钟，下一汤匙食用油润锅，再烧三十至四十秒；下蒜末爆香；下香菇炒二十至三十秒；下芹菜和卷心菜炒约三十秒；下胡萝卜和木耳炒三十至四十秒；加盐、白糖、白胡椒粉和蚝油炒匀；加入荷兰豆拌匀；将食材拨到锅边留出中心，放入剪短的粉丝吸收蔬菜汁水，再与馅料拌匀；加香油再炒三十至四十秒；关火盛出晾凉备用。", "timerSeconds": 220, "ingredientNames": ["蒜", "干香菇", "芹菜", "卷心菜", "胡萝卜", "木耳", "盐", "白糖", "白胡椒粉", "蚝油", "荷兰豆", "粉丝", "香油", "食用油"] },
+    { "text": "春卷皮逐张揭开，未用的放回包装防干，取用时放入袋中保湿；取一张皮菱形摆放（一角朝向自己），在靠近己侧放约两汤匙馅料；翻起近端盖住馅料，卷紧并挤出空气；卷至中间时左右两侧向内折起；顶端抹上面粉糊浆，一直卷到底封口；全部包好后封口朝下摆放。", "ingredientNames": ["春卷皮"] },
+    { "text": "深锅中高火烧热食用油至约一百六十五摄氏度（三百三十华氏度），转小火；每次下六只春卷，小火炸约一分半，翻动使其均匀；转大火再炸约一分半至金黄酥脆；用漏勺捞出沥油，装盘即成，稍晾凉后食用。", "timerSeconds": 180, "ingredientNames": ["食用油", "春卷皮"] }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 60,
+  "difficulty": "中等",
+  "tags": ["炸", "点心", "素菜"],
+  "sourceUrl": "https://www.madewithlau.com/recipes/egg-rolls",
+  "author": "Daddy Lau",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自老刘家粤菜网站的公开菜谱页面，原文标准备料四十分钟、烹制二十分钟、共六十分钟、四人份；盎司按每盎司二十八克、汤匙按十五毫升、茶匙按五毫升换算，干粉类按同一体积表折算为毫升；炸油（四百四十八克）与炒馅用油（十五毫升）为同一食用油的不同用途，已分别列出；原文用素蚝油并注明可用普通蚝油替代，炸油建议用茶籽油等高烟点精炼油；来源未提供营养数据。"
+}

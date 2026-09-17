@@ -32,4 +32,5 @@ export type Recipe = {
   };
   tags?: string[];
   durationMinutes?: number;
+  difficulty?: '简单' | '中等' | '较难';
 };

@@ -1,0 +1,34 @@
+{
+  "id": "steamed-fish-ginger-scallion",
+  "title": "姜葱蒸鱼",
+  "ingredients": [
+    { "name": "罗非鱼", "amount": 681.0, "unit": "克", "category": "水产", "pantry": false, "mergeKey": "tilapia" },
+    { "name": "姜", "amount": 28.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "ginger" },
+    { "name": "葱", "amount": 5.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "green-onion" },
+    { "name": "香菜", "amount": 5.0, "unit": "棵", "category": "蔬菜", "pantry": false, "mergeKey": "cilantro" },
+    { "name": "食用油", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
+    { "name": "生抽", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "老抽", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "dark-soy-sauce" },
+    { "name": "料酒", "amount": 7.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-wine" },
+    { "name": "白胡椒粉", "amount": 1.25, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
+    { "name": "清水", "amount": 15.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
+    { "name": "白糖", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
+    { "name": "盐", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "香油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" }
+  ],
+  "steps": [
+    { "text": "将罗非鱼去鳞去内脏（购买时通常已处理，如未处理需自行清理），剪去腹部脂肪、刮净脊骨上的干血，里外冲洗干净后用厨房纸吸干；剪去两侧鱼鳍，沿鱼背切一道长口以便蒸汽渗入均匀蒸熟；放入能进蒸锅的盘中。", "ingredientNames": ["罗非鱼"] },
+    { "text": "姜分两半：一半切薄片后切极细的姜丝备用；另一半切薄片再对半切开，沿鱼身从头到尾铺在鱼背上。葱切三段，中段纵向切细丝备用，葱绿部分垫在鱼身下面增香。香菜洗净。", "ingredientNames": ["姜", "葱", "香菜"] },
+    { "text": "小碗中混合生抽、老抽、料酒、白胡椒粉、清水、白糖和盐，调成酱汁备用。", "ingredientNames": ["生抽", "老抽", "料酒", "白胡椒粉", "清水", "白糖", "盐"] },
+    { "text": "蒸锅加水烧至完全沸腾，放入鱼盘，盖盖大火蒸十二分钟（鱼较小约十分钟即可）；鱼眼变白即表示熟透。关火取出鱼盘，倒出鱼汁，取掉姜片，把姜丝和葱丝铺在鱼身上。", "timerSeconds": 720, "ingredientNames": ["罗非鱼", "姜", "葱"] },
+    { "text": "另起锅高火热油约一分钟至油面微烟，小心浇在鱼身的姜丝葱丝上激出香味；撒上香菜，淋上香油和调好的酱汁即成。", "timerSeconds": 60, "ingredientNames": ["食用油", "香菜", "香油"] }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "tags": ["蒸", "家常菜", "减脂高蛋白"],
+  "sourceUrl": "https://www.madewithlau.com/recipes/steamed-fish-ginger-scallion",
+  "author": "Daddy Lau",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自老刘家粤菜网站的公开菜谱页面，原文标准备料十分钟、蒸制十五分钟、共二十五分钟、四人份；磅按每磅四百五十四克、盎司按每盎司二十八克、茶匙按五毫升、汤匙按十五毫升换算，盐糖等干粉类按同一体积表折算为毫升；原文说明鲈鱼、比目鱼、红鲷等亦适用本法；来源未提供营养数据。"
+}

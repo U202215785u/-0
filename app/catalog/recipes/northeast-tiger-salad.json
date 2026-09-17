@@ -1,0 +1,33 @@
+{
+  "id": "northeast-tiger-salad",
+  "title": "东北老虎菜",
+  "ingredients": [
+    { "name": "黄瓜", "amount": 1.5, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "cucumber" },
+    { "name": "小葱（只用葱白）", "amount": 5.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "green-onion" },
+    { "name": "青尖椒（长绿辣椒）", "amount": 3.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "long-green-chili" },
+    { "name": "红辣椒（新鲜）", "amount": 1.0, "unit": "个", "category": "蔬菜", "pantry": false, "mergeKey": "red-chili" },
+    { "name": "香菜", "amount": 1.0, "unit": "把", "category": "蔬菜", "pantry": false, "mergeKey": "cilantro" },
+    { "name": "黑米醋（宜用镇江香醋）", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "chinkiang-vinegar" },
+    { "name": "生抽", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "大蒜（切末）", "amount": 3.0, "unit": "瓣", "category": "蔬菜", "pantry": false, "mergeKey": "garlic" },
+    { "name": "熟香油（芝麻油）", "amount": 22.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
+    { "name": "糖", "amount": 10.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
+    { "name": "盐", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "salt" }
+  ],
+  "steps": [
+    { "text": "黄瓜斜刀切片，再切成约 5 厘米长的细丝，无需去皮去籽。", "ingredientNames": ["黄瓜"] },
+    { "text": "小葱葱白和辣椒斜切成与黄瓜大小相近的丝。", "ingredientNames": ["小葱（只用葱白）", "青尖椒（长绿辣椒）", "红辣椒（新鲜）"] },
+    { "text": "香菜连梗带叶切成相近长度。", "ingredientNames": ["香菜"] },
+    { "text": "小碗中混合黑米醋、生抽、蒜末、香油和糖，搅拌至糖融化，尝味后按需加盐。", "ingredientNames": ["黑米醋（宜用镇江香醋）", "生抽", "大蒜（切末）", "熟香油（芝麻油）", "糖", "盐"] },
+    { "text": "所有蔬菜放入大碗，上桌前淋入酱汁，充分拌匀使酱汁均匀裹上，立即食用。", "ingredientNames": ["黄瓜", "小葱（只用葱白）", "青尖椒（长绿辣椒）", "红辣椒（新鲜）", "香菜"] }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 5,
+  "difficulty": "简单",
+  "tags": ["凉拌", "家常菜", "素菜", "快手菜"],
+  "sourceUrl": "https://redhousespice.com/northeast-tiger-salad/",
+  "author": "Wei Guo",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自红屋香料（魏国）公开菜谱页「东北老虎菜」菜谱卡原文（备料 5 分钟、无需烹饪，供 4 人食用，每份约 96 千卡，含碳水 10 克、蛋白 2 克、脂肪 6 克），并翻译为简体中文。单位换算：1 汤匙≈15 毫升（黑米醋 30 毫升、香油 22.5 毫升、生抽 15 毫升），1 茶匙≈5 毫升（糖 10 毫升），盐按原文「适量」。原文注明黑米醋宜用镇江香醋；葱白可用粗大葱替代；酱汁须上桌前再淋，避免蔬菜出水。",
+  "nutrition": { "kcal": 96, "proteinG": 2, "carbsG": 10, "fatG": 6 }
+}

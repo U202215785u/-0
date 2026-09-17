@@ -1,6 +1,7 @@
 import { mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { parseRecipe } from '../src/catalog/schema';
+import { assertCatalogQuality } from '../src/catalog/quality';
 import type { Recipe } from '../src/catalog/types';
 
 export function buildCatalog(inputDir: string): Recipe[] {
@@ -28,6 +29,8 @@ if (process.argv[1] && resolve(process.argv[1]) === resolve(import.meta.filename
   const inputDir = resolve(process.argv[2] ?? 'catalog/recipes');
   const outputFile = resolve(process.argv[3] ?? 'src/generated/catalog.json');
   const catalog = buildCatalog(inputDir);
+  const minimumCount = Number(process.env.MIN_CATALOG ?? 50);
+  assertCatalogQuality(catalog, minimumCount);
   mkdirSync(dirname(outputFile), { recursive: true });
   writeFileSync(outputFile, `${JSON.stringify(catalog, null, 2)}\n`);
 }

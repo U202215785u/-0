@@ -1,0 +1,212 @@
+{
+  "id": "xiao-long-bao",
+  "title": "小笼包",
+  "ingredients": [
+    {
+      "name": "整鸡（中等大小）",
+      "amount": 1.0,
+      "unit": "只",
+      "category": "肉类",
+      "pantry": false,
+      "mergeKey": "chicken"
+    },
+    {
+      "name": "小葱",
+      "amount": 6.0,
+      "unit": "根",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "scallion"
+    },
+    {
+      "name": "生姜（切片）",
+      "amount": 6.0,
+      "unit": "片",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "ginger"
+    },
+    {
+      "name": "中筋面粉",
+      "amount": 180.0,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": false,
+      "mergeKey": "all-purpose-flour"
+    },
+    {
+      "name": "清水",
+      "amount": 95.0,
+      "unit": "克",
+      "category": "其他",
+      "pantry": false,
+      "mergeKey": "water"
+    },
+    {
+      "name": "猪肉末",
+      "amount": 450.0,
+      "unit": "克",
+      "category": "肉类",
+      "pantry": false,
+      "mergeKey": "minced-pork"
+    },
+    {
+      "name": "姜末",
+      "amount": 1.0,
+      "unit": "汤匙",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "ginger"
+    },
+    {
+      "name": "生抽",
+      "amount": 1.0,
+      "unit": "汤匙",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "soy-sauce"
+    },
+    {
+      "name": "绍兴料酒",
+      "amount": 1.0,
+      "unit": "汤匙",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "shaoxing-wine"
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": 0.25,
+      "unit": "茶匙",
+      "category": "调味料",
+      "pantry": false,
+      "mergeKey": "white-pepper"
+    },
+    {
+      "name": "盐",
+      "amount": 0.25,
+      "unit": "茶匙",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "salt"
+    },
+    {
+      "name": "糖",
+      "amount": 0.5,
+      "unit": "茶匙",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "sugar"
+    },
+    {
+      "name": "红米醋（或黑米醋）",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": false,
+      "mergeKey": "rice-vinegar"
+    },
+    {
+      "name": "姜丝",
+      "quantityText": "适量",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "ginger"
+    }
+  ],
+  "steps": [
+    {
+      "text": "烤箱预热至三百九十华氏度（约二百摄氏度，风扇烤箱约一百八十摄氏度）。"
+    },
+    {
+      "text": "将整鸡放入耐热锅或烤盘中，把葱段和姜片塞进鸡腹，用盖子或锡纸盖紧。",
+      "ingredientNames": ["整鸡（中等大小）", "小葱", "生姜（切片）"]
+    },
+    {
+      "text": "放入烤箱烤1小时，之后盖着晾凉。",
+      "timerSeconds": 3600,
+      "ingredientNames": ["整鸡（中等大小）"]
+    },
+    {
+      "text": "鸡肉留作他用。把烤出的汤汁倒入容器，冷藏至少4小时，直到凝成胶冻状皮冻（约250克）。",
+      "timerSeconds": 14400
+    },
+    {
+      "text": "和面盆中把热水倒入面粉，用筷子或刮刀拌匀，再加入常温水（原文热水六十克、常温水三十五克）。",
+      "ingredientNames": ["中筋面粉", "清水"]
+    },
+    {
+      "text": "揉成面团，盖好醒10分钟，再揉至非常光滑。",
+      "timerSeconds": 600,
+      "ingredientNames": ["中筋面粉"]
+    },
+    {
+      "text": "盖好再醒30至60分钟，直到面团变软。",
+      "ingredientNames": ["中筋面粉"]
+    },
+    {
+      "text": "把猪肉末与全部调味料充分拌匀。",
+      "ingredientNames": ["猪肉末", "生抽", "绍兴料酒", "白胡椒粉", "盐", "糖"]
+    },
+    {
+      "text": "用勺子撇去皮冻表面的鸡油，再用叉子把皮冻捣成小碎块，加入猪肉中拌匀。",
+      "ingredientNames": ["猪肉末"]
+    },
+    {
+      "text": "继续冷藏至少30分钟，包制前再取出。",
+      "timerSeconds": 1800,
+      "ingredientNames": ["猪肉末"]
+    },
+    {
+      "text": "把面团搓成长条，分成20份，用手掌压成小圆饼。不用的面团随时盖好（用保鲜膜、塑料袋或倒扣的碗等）。",
+      "ingredientNames": ["中筋面粉"]
+    },
+    {
+      "text": "用擀面杖以边擀边转的手法擀成约12厘米直径的薄皮（可参照原文的视频教程）。若粘手可撒少许面粉防粘。",
+      "ingredientNames": ["中筋面粉"]
+    },
+    {
+      "text": "注意：每擀好一张皮就立即包一只小笼包，皮很薄容易风干，不要提前囤积。"
+    },
+    {
+      "text": "在皮中央放一勺馅料（约35克）。",
+      "ingredientNames": ["猪肉末"]
+    },
+    {
+      "text": "捏出约15至20道褶子，收成圆形小笼包（顶部可留口或收口，参照原文视频教程）。"
+    },
+    {
+      "text": "蒸笼垫上蒸笼纸，或用普通烘焙纸裁成方块垫入。"
+    },
+    {
+      "text": "放入小笼包，彼此留出至少3厘米空隙。"
+    },
+    {
+      "text": "锅中水烧至大开，放上蒸笼，转中小火蒸8分钟（一次蒸10只以上则延长至10分钟）。",
+      "timerSeconds": 480
+    },
+    {
+      "text": "连蒸笼一起端上桌。"
+    },
+    {
+      "text": "用筷子夹住小笼包顶部，放到汤勺或小碟上，用筷子扎一个小口让汤汁流出，先喝汤（也可直接咬开小口吸汤，小心烫嘴）。"
+    },
+    {
+      "text": "把小笼包蘸上蘸料（醋与姜丝调匀）后，一至两口吃完。",
+      "ingredientNames": ["红米醋（或黑米醋）", "姜丝"]
+    },
+    {
+      "text": "剩的小笼包可冷藏保存最多2天，重新蒸3分钟加热（但汤汁可能已被面皮吸收）。",
+      "timerSeconds": 180
+    },
+    {
+      "text": "小笼包很娇贵，不建议提前制作或冷冻保存。"
+    }
+  ],
+  "durationMinutes": 130,
+  "difficulty": "较难",
+  "tags": ["蒸", "点心", "主食"],
+  "sourceUrl": "https://redhousespice.com/xiao-long-bao-soup-dumplings/",
+  "author": "Wei Guo / Red House Spice",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自红房子中菜网公开菜谱页（二〇二三年十二月抓取存档）。原文一茶匙约五毫升、一汤匙约十五毫升；和面用水原文为热水六十克与常温水三十五克，按同类食材合并为清水九十五克；小葱原文三根切段加三根切碎合并为六根；总时长按原文标注两小时十分钟即一百三十分钟（不含冷藏凝冻皮冻的四小时等等待时间）。"
+}

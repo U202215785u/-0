@@ -1,0 +1,37 @@
+{
+  "id": "wonton-noodle-soup",
+  "title": "云吞面",
+  "ingredients": [
+    { "name": "云吞面", "amount": 420.0, "unit": "克", "category": "米面主食", "pantry": false, "mergeKey": "wonton-noodles" },
+    { "name": "云吞", "amount": 30.0, "unit": "个", "category": "米面主食", "pantry": false, "mergeKey": "wonton" },
+    { "name": "小白菜", "amount": 336.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "bok-choy" },
+    { "name": "小葱", "amount": 1.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "green-onion" },
+    { "name": "虾", "amount": 8.0, "unit": "只", "category": "水产", "pantry": false, "mergeKey": "shrimp" },
+    { "name": "鸡汤", "amount": 392.0, "unit": "克", "category": "其他", "pantry": false, "mergeKey": "chicken-broth" },
+    { "name": "水", "amount": 960.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
+    { "name": "盐", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "橄榄油", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "olive-oil" },
+    { "name": "鱼露", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "fish-sauce" },
+    { "name": "香油", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
+    { "name": "白胡椒粉", "amount": 1.25, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" }
+  ],
+  "steps": [
+    { "text": "洗净小白菜，沿菜茎切成四瓣；小葱切小段；虾若已去壳去虾线则无需处理。", "ingredientNames": ["小白菜", "小葱", "虾"] },
+    { "text": "灶开大火烧开一大锅水（水多一点面条熟得更快，口感更弹韧）。把云吞面抖散下锅，避免粘连。保持大火煮约六十秒。", "timerSeconds": 60, "ingredientNames": ["云吞面", "水"] },
+    { "text": "捞出面条在冷水中浸几秒，再放回锅中煮约十五到二十秒。", "timerSeconds": 20, "ingredientNames": ["云吞面", "水"] },
+    { "text": "把面条转入碗中，加一点橄榄油拌匀防粘。", "ingredientNames": ["橄榄油"] },
+    { "text": "做汤底：锅中加入水和鸡汤烧开；水开后加入橄榄油和盐（气泡可能快速上涌，小心），下入小白菜稍搅后加盖，保持大火煮约一至两分钟直到重新烧开。", "timerSeconds": 90, "ingredientNames": ["水", "鸡汤", "橄榄油", "盐", "小白菜"] },
+    { "text": "加入鱼露、香油和白胡椒粉，尝味调整。", "ingredientNames": ["鱼露", "香油", "白胡椒粉"] },
+    { "text": "下入虾，同时开始把小白菜捞到面条上摆盘；虾约一分钟即熟，变橙红色即可捞出摆盘。", "timerSeconds": 60, "ingredientNames": ["虾"] },
+    { "text": "生云吞放入滚水中煮约三至五分钟直到浮起。", "timerSeconds": 240, "ingredientNames": ["云吞"] },
+    { "text": "把云吞放到面条碗上，小心倒入汤底，撒上葱花即可享用。", "ingredientNames": ["小葱"] }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 30,
+  "difficulty": "中等",
+  "tags": ["煮", "汤羹", "主食", "家常菜"],
+  "sourceUrl": "https://www.madewithlau.com/recipes/wonton-noodle-soup",
+  "author": "刘爸爸",
+  "fidelity": "structured-transcription",
+  "sourceNote": "转录自「与刘家一起做菜」网站公开菜谱页的页面正文与内嵌结构化数据（原作者：刘爸爸），并翻译为简体中文。单位换算：一盎司约合二十八克，一茶匙约合五毫升，一汤匙约合十五毫升，一杯约合二百四十毫升。原文标注备料十五分钟、烹饪十五分钟、合计约三十分钟，供四人食用。页面食材中橄榄油分两处各一汤匙，已合并为一笔两汤匙；步骤计时（煮面约六十秒、复煮约十五至二十秒、煮菜约一至两分钟、虾约一分钟、云吞约三至五分钟）取自原文给出的区间，本文件取约值。"
+}

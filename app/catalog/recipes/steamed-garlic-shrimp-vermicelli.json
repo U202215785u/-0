@@ -1,0 +1,33 @@
+{
+  "id": "steamed-garlic-shrimp-vermicelli",
+  "title": "蒜蓉粉丝蒸虾",
+  "ingredients": [
+    { "name": "绿豆粉丝", "amount": 100.0, "unit": "克", "category": "米面主食", "pantry": false, "mergeKey": "vermicelli" },
+    { "name": "虎虾", "amount": 10.0, "unit": "只", "category": "水产", "pantry": false, "mergeKey": "prawn" },
+    { "name": "食用油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
+    { "name": "蒜末", "amount": 30.0, "unit": "毫升", "category": "蔬菜", "pantry": false, "mergeKey": "garlic" },
+    { "name": "剁椒酱", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "pickled-chili-garlic-sauce" },
+    { "name": "生抽", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "绍兴料酒", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "shaoxing-wine" },
+    { "name": "清水", "amount": 15.0, "unit": "毫升", "category": "其他", "pantry": true, "mergeKey": "water" },
+    { "name": "糖", "amount": 1.25, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
+    { "name": "白胡椒粉", "amount": 1.25, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
+    { "name": "盐", "quantityText": "1 撮", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "葱花", "quantityText": "适量", "category": "蔬菜", "pantry": false, "mergeKey": "scallion" }
+  ],
+  "steps": [
+    { "text": "把粉丝放入温水中浸泡五分钟（或用冷水泡十分钟），至粉丝变软，再用冷水冲洗后沥干，铺在盘中。", "timerSeconds": 300, "ingredientNames": ["绿豆粉丝"] },
+    { "text": "剥去虾身外壳（保留虾头和虾尾）。把虾平放在砧板上，从背部横切一刀（不要切断），展开虾背摊开，铺在粉丝上。", "ingredientNames": ["虎虾"] },
+    { "text": "锅中放油，中火把蒜末和剁椒酱（或改用新鲜辣椒末）炒出香味（不要炒糊），盛入小碗，加入生抽、绍兴料酒、清水、白胡椒粉、糖和盐，拌匀成酱汁。", "ingredientNames": ["食用油", "蒜末", "剁椒酱", "生抽", "绍兴料酒", "清水", "白胡椒粉", "糖", "盐"] },
+    { "text": "把酱汁淋在虾上。蒸锅加水烧开，放入盘子，转小火蒸五分钟。若没有蒸锅或蒸锅放不下盘子，可在炒锅中放水，用小碗垫高托住虾盘，加盖蒸。", "timerSeconds": 300, "ingredientNames": ["虎虾"] },
+    { "text": "出锅后按喜好撒上葱花，趁热配白米饭食用。", "ingredientNames": ["葱花"] }
+  ],
+  "baseServings": 2,
+  "durationMinutes": 17,
+  "difficulty": "简单",
+  "tags": ["蒸", "快手菜", "家常菜"],
+  "sourceUrl": "https://redhousespice.com/steamed-garlic-prawns/",
+  "author": "Wei Guo / Red House Spice",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自红房子厨房官网蒜蓉粉丝蒸虾公开页面，原站受访问保护，经公共网页存档库二〇二四年二月抓取版本核对；已换算：汤匙约十五毫升、茶匙约五毫升；原文为虎虾十只（约二百五十克）；蒸制五分钟后关小火焖蒸的计时按原文；原文另注可用炒锅加小碗代替蒸笼。"
+}

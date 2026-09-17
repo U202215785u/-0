@@ -1,0 +1,32 @@
+{
+  "id": "egg-fried-rice",
+  "title": "蛋炒饭",
+  "ingredients": [
+    { "name": "冷白米饭（煮熟冷藏）", "amount": 400.0, "unit": "克", "category": "米面主食", "pantry": false, "mergeKey": "cooked-rice" },
+    { "name": "鸡蛋", "amount": 2.0, "unit": "个", "category": "蛋类", "pantry": false, "mergeKey": "egg" },
+    { "name": "食用油（味道中性）", "amount": 22.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
+    { "name": "大蒜（切末）", "amount": 2.0, "unit": "瓣", "category": "蔬菜", "pantry": false, "mergeKey": "garlic" },
+    { "name": "小葱（切碎）", "amount": 1.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "green-onion" },
+    { "name": "生抽", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "香油", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
+    { "name": "盐", "amount": 1.25, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "白胡椒粉", "amount": 1.0, "unit": "撮", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" }
+  ],
+  "steps": [
+    { "text": "用筷子或勺尽量把饭粒打散；鸡蛋打散，搅至蛋清蛋黄完全融合。", "ingredientNames": ["冷白米饭（煮熟冷藏）", "鸡蛋"] },
+    { "text": "空锅大火烧至极热（冒烟），倒入约 15 毫升油并晃匀润满锅壁。使用不粘锅时切勿空烧，应先下油再开火。", "ingredientNames": ["食用油（味道中性）"] },
+    { "text": "倒入蛋液，待底部开始凝固时搅动让未凝固的蛋液流开，用锅铲快速划散成小块，盛出备用。", "ingredientNames": ["鸡蛋"] },
+    { "text": "锅回火上，加入剩余约 7.5 毫升油，将蒜末炒香后下米饭，不断翻炒颠锅至米饭烫透，用铲子压散米团。", "ingredientNames": ["食用油（味道中性）", "大蒜（切末）", "冷白米饭（煮熟冷藏）"] },
+    { "text": "将炒好的鸡蛋和小葱倒回锅中，继续翻炒至全部热透。", "ingredientNames": ["鸡蛋", "小葱（切碎）"] },
+    { "text": "用生抽、香油、盐和白胡椒粉调味，充分拌匀，出锅前尝味按需补盐，盛出后立即食用。", "ingredientNames": ["生抽", "香油", "盐", "白胡椒粉"] }
+  ],
+  "baseServings": 3,
+  "durationMinutes": 10,
+  "difficulty": "简单",
+  "tags": ["炒", "主食", "快手菜", "家常菜"],
+  "sourceUrl": "https://redhousespice.com/egg-fried-rice/",
+  "author": "Wei Guo",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自红屋香料（魏国）公开菜谱页「蛋炒饭」菜谱卡原文（备料 5 分钟、烹饪 5 分钟、共 10 分钟，供 3 人食用，每份约 281 千卡），并翻译为简体中文。单位换算：原文 3 杯冷饭按作者脚注约 400 克；1 汤匙≈15 毫升（原文 1 又 1/2 汤匙分次使用，已合并为 22.5 毫升）；1 茶匙≈5 毫升；1 撮为无数量单位按原文保留。原文脚注：不粘锅不可空烧，先下油再开火。",
+  "nutrition": { "kcal": 281 }
+}

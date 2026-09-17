@@ -1,0 +1,40 @@
+{
+  "id": "sichuan-spicy-wontons-chili-oil",
+  "title": "红油抄手",
+  "ingredients": [
+    { "name": "葱", "amount": 2, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "scallion" },
+    { "name": "姜末", "amount": 15, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "ginger" },
+    { "name": "温水", "amount": 80, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
+    { "name": "猪肉末", "amount": 200, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "ground-pork" },
+    { "name": "鸡蛋", "amount": 1, "unit": "个", "category": "蛋类", "pantry": false, "mergeKey": "egg" },
+    { "name": "盐", "quantityText": "四分之一茶匙", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "白胡椒粉", "quantityText": "1 小撮", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
+    { "name": "云吞皮", "amount": 40, "unit": "张", "category": "米面主食", "pantry": false, "mergeKey": "wonton-wrapper" },
+    { "name": "蒜末", "amount": 5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "garlic" },
+    { "name": "生抽", "amount": 15, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "黑米醋", "amount": 5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "black-rice-vinegar" },
+    { "name": "花椒粉", "quantityText": "四分之一茶匙", "category": "调味料", "pantry": true, "mergeKey": "sichuan-pepper" },
+    { "name": "糖", "quantityText": "四分之一茶匙", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
+    { "name": "辣椒油", "amount": 30, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "chili-oil" }
+  ],
+  "steps": [
+    { "text": "泡葱姜水：葱切碎，葱白部分放入碗中（葱绿留作最后点缀），加入姜末，倒入温水，浸泡 5 分钟。", "ingredientNames": ["葱", "姜末", "温水"], "timerSeconds": 300 },
+    { "text": "调馅：另取一碗，放入肉末、鸡蛋、盐和白胡椒粉，搅拌至完全混合；滤去葱姜，把泡好的水分次倒入肉馅，朝同一方向搅拌至水分被完全吸收。", "ingredientNames": ["猪肉末", "鸡蛋", "盐", "白胡椒粉", "葱", "姜末", "温水"] },
+    { "text": "包抄手：取一张云吞皮放在手心，用勺背沾水润湿相邻的两条边，中间放约一茶匙馅料，对折成三角形并轻压封口。", "ingredientNames": ["云吞皮"] },
+    { "text": "在一个尖角上沾点水，把另一个尖角折过来压在上面，捏紧使两角粘牢；重复包完所有云吞皮。", "ingredientNames": ["云吞皮"] },
+    { "text": "煮抄手：大锅水烧至滚开，轻轻滑入抄手，大火煮制，用勺推动防止粘底（40 只可一次煮完或按锅具大小分两批，需有足够空间翻动）。", "ingredientNames": ["云吞皮"] },
+    { "text": "待抄手全部浮起后，再煮 1 分钟。", "timerSeconds": 60 },
+    { "text": "调汁：煮抄手的同时，在每只上桌的碗中放入所有酱汁用料：蒜末、生抽、黑米醋、花椒粉、糖和辣椒油（可按口味增减）。", "ingredientNames": ["蒜末", "生抽", "黑米醋", "花椒粉", "糖", "辣椒油"] },
+    { "text": "装盘：用漏勺捞出抄手放入碗中，撒上第一步留下的葱绿，拌匀后立即享用。", "ingredientNames": ["葱"] },
+    { "text": "储存：生抄手可冷冻保存——平铺在托盘上冻至完全变硬，再转入密封盒或袋中放回冷冻，3 个月内吃完；煮冷冻抄手流程相同，无需也不建议解冻。", "ingredientNames": ["云吞皮"] }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 30,
+  "difficulty": "中等",
+  "tags": ["煮", "家常菜", "快手菜"],
+  "sourceUrl": "https://redhousespice.com/sichuan-spicy-wonton-in-chili-oil/",
+  "author": "Wei Guo / Red House Spice",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自原站公开页面的完整配方（原页受访问限制，经两个独立公开镜像交叉核对一致）：备料约 25 分钟、烹制约 5 分钟，合计约 30 分钟；原页标注 4 人份，每份约 348 千卡。单位换算：1 汤匙约 15 毫升，1 茶匙约 5 毫升；原文的葱用量按 2 根记录。配方中酱汁用料按每份单独调配的记录，故写入数量为每份用量。辣椒油与花椒粉若自制更佳，市售亦可。",
+  "nutrition": { "kcal": 348, "proteinG": 18, "carbsG": 8, "fatG": 22 }
+}

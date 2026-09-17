@@ -1,0 +1,43 @@
+{
+  "id": "chicken-chow-mein",
+  "title": "鸡肉炒面",
+  "ingredients": [
+    { "name": "粗炒面", "amount": 504, "unit": "克", "category": "米面主食", "mergeKey": "chow-mein-noodles" },
+    { "name": "红洋葱", "amount": 56, "unit": "克", "category": "蔬菜", "mergeKey": "red-onion" },
+    { "name": "胡萝卜", "amount": 56, "unit": "克", "category": "蔬菜", "mergeKey": "carrot" },
+    { "name": "卷心菜", "amount": 168, "unit": "克", "category": "蔬菜", "mergeKey": "cabbage" },
+    { "name": "小葱", "amount": 28, "unit": "克", "category": "蔬菜", "mergeKey": "green-onion" },
+    { "name": "豆芽", "amount": 112, "unit": "克", "category": "蔬菜", "mergeKey": "bean-sprouts" },
+    { "name": "鸡腿肉", "amount": 336, "unit": "克", "category": "肉类", "mergeKey": "chicken-thigh" },
+    { "name": "玉米油", "amount": 60, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "corn-oil" },
+    { "name": "蚝油", "amount": 45, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "oyster-sauce" },
+    { "name": "玉米淀粉", "amount": 15, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
+    { "name": "清水", "amount": 45, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "water" },
+    { "name": "白胡椒粉", "amount": 1.25, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
+    { "name": "生抽", "amount": 30, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "老抽", "amount": 10, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "dark-soy-sauce" },
+    { "name": "糖", "amount": 5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
+    { "name": "鸡粉", "amount": 5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "chicken-bouillon" },
+    { "name": "香油", "amount": 15, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" }
+  ],
+  "steps": [
+    { "text": "先切蔬菜：红洋葱切丝；胡萝卜先沿一侧切下一薄片便于稳固，再切薄片并斜切成较长的片，最后切丝；卷心菜切成约 1 厘米宽的丝；小葱切 2.5 厘米长的段。", "ingredientNames": ["红洋葱", "胡萝卜", "卷心菜", "小葱"] },
+    { "text": "备鸡肉：若是带骨鸡腿肉先去骨，再削平厚薄，沿纹理切成长条。鸡肉放入碗中，加蚝油、玉米淀粉、清水和白胡椒粉拌匀，使鸡肉均匀裹上腌料，静置腌制。", "ingredientNames": ["鸡腿肉", "蚝油", "玉米淀粉", "清水", "白胡椒粉"] },
+    { "text": "调酱汁：碗中混合蚝油、生抽、老抽、糖和鸡粉，搅匀备用。", "ingredientNames": ["蚝油", "生抽", "老抽", "糖", "鸡粉"] },
+    { "text": "蒸面：炒锅中放蒸架并加水烧开，水面别超过蒸架顶。把粗炒面放在盘子或带孔蒸笼里入锅，盖盖大火蒸 12 至 15 分钟，水一开就开始计时。", "ingredientNames": ["粗炒面"], "timerSeconds": 720 },
+    { "text": "煮面：取出面条，撤掉蒸架，把面条直接倒入锅中沸水里，中大火煮 5 至 6 分钟，边煮边拨散。掰断一根面条，若中心还有白点就继续煮，没有白点即熟，捞出沥干。", "ingredientNames": ["粗炒面"], "timerSeconds": 300 },
+    { "text": "炒鸡肉：腌好的鸡肉拌入 1 汤匙油。炒锅大火烧至刚冒烟，下 2 汤匙油晃匀；转中火下鸡肉铺开，先让底部煎出焦色，约 30 至 40 秒后鸡肉自然会离锅，再转大火翻拌 40 至 50 秒至基本熟透。用炒锅可盛出备用；用平底大锅则留在锅里。", "ingredientNames": ["鸡腿肉", "玉米油"], "timerSeconds": 40 },
+    { "text": "炒蔬菜：锅中留有炒鸡肉的余油，下红洋葱炒出香味；下卷心菜一起炒 20 至 30 秒；下胡萝卜大火再炒 30 秒。用炒锅可把蔬菜盛到装鸡肉的盘中；用平底锅则把鸡肉和蔬菜一起盛出。", "ingredientNames": ["红洋葱", "卷心菜", "胡萝卜"], "timerSeconds": 30 },
+    { "text": "煎面：锅或平底锅下 1 汤匙油，下面条转大火，用筷子拨散并摊开在锅面，先不要翻动，让面条煎出金黄焦色约 1 分钟；翻面再煎约 1 分钟；转中火再煎最后 40 秒。", "ingredientNames": ["粗炒面", "玉米油"], "timerSeconds": 60 },
+    { "text": "淋酱汁并回锅：把酱汁再搅匀，转小火倒入锅中，翻拌至酱汁均匀裹在面上；加入预先炒好的鸡肉和蔬菜，一起翻匀约 30 秒。", "ingredientNames": ["蚝油", "生抽", "老抽", "糖", "鸡粉", "鸡腿肉", "红洋葱", "卷心菜", "胡萝卜"], "timerSeconds": 30 },
+    { "text": "收尾：转中大火下豆芽，翻拌约 1 分钟至豆芽变热并混匀；最后淋上香油，大火翻拌约 1 分钟至均匀，装盘享用。", "ingredientNames": ["豆芽", "香油"], "timerSeconds": 60 }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 35,
+  "difficulty": "中等",
+  "tags": ["炒", "主食", "家常菜"],
+  "sourceUrl": "https://www.madewithlau.com/recipes/chow-mein",
+  "author": "刘老爹 / 刘家厨房",
+  "fidelity": "structured-transcription",
+  "sourceNote": "食材、数量、步骤顺序与时间转录自公开来源页面及其结构化数据（页面标注备料 20 分钟、烹制 15 分钟、共 35 分钟、4 人份）。单位已换算：1 盎司约 28 克，1 汤匙约 15 毫升，1 茶匙约 5 毫升。蚝油、玉米淀粉、清水等在不同用途（腌肉、酱汁）中分别列出，本表已按同种食材合计；烹饪用油按主食材栏合计 4 汤匙。"
+}

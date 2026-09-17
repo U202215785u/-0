@@ -3,5 +3,5 @@ import { App } from '../app'
 
 it('renders the recipe-first home screen', () => {
   render(<App />)
-  expect(screen.getByRole('heading', { name: '找菜' })).toBeInTheDocument()
+  expect(screen.getByRole('heading', { name: '今天吃什么' })).toBeInTheDocument()
 })

@@ -1,0 +1,40 @@
+{
+  "id": "fried-wontons",
+  "title": "炸云吞",
+  "ingredients": [
+    { "name": "云吞皮", "amount": 40, "unit": "张", "category": "米面主食", "pantry": false, "mergeKey": "wonton-wrapper" },
+    { "name": "猪肉末", "amount": 224, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "ground-pork" },
+    { "name": "虾仁", "amount": 196, "unit": "克", "category": "水产", "pantry": false, "mergeKey": "shrimp" },
+    { "name": "葱", "amount": 1, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "scallion" },
+    { "name": "姜末", "amount": 5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "ginger" },
+    { "name": "水", "amount": 45, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
+    { "name": "绍兴酒", "amount": 15, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "shaoxing-wine" },
+    { "name": "生抽", "amount": 5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "玉米淀粉", "quantityText": "1 汤匙", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
+    { "name": "香油", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
+    { "name": "盐", "quantityText": "半茶匙", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "白胡椒粉", "quantityText": "四分之一茶匙", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
+    { "name": "糖", "quantityText": "1 小撮", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
+    { "name": "食用油", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
+    { "name": "辣椒油", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "chili-oil" },
+    { "name": "蒜蓉辣酱", "quantityText": "适量", "category": "调味料", "pantry": false, "mergeKey": "chili-garlic-sauce" },
+    { "name": "甜辣酱", "quantityText": "适量", "category": "调味料", "pantry": false, "mergeKey": "sweet-chili-sauce" }
+  ],
+  "steps": [
+    { "text": "准备云吞皮：若使用冷冻云吞皮，提前一晚放入冰箱冷藏解冻；包制前再拆开包装，防止皮子变干。", "ingredientNames": ["云吞皮"] },
+    { "text": "调馅：把猪肉末和虾仁放入碗中，加入葱花、姜末、水及全部调味料，朝同一方向持续搅拌，直至混合均匀、水分被完全吸收。", "ingredientNames": ["猪肉末", "虾仁", "葱", "姜末", "水", "绍兴酒", "生抽", "玉米淀粉", "香油", "盐", "白胡椒粉", "糖"] },
+    { "text": "包云吞：将云吞皮相邻的两条边沾水，中间放适量馅料，对折成三角形并捏紧边缘封口，尽量排尽内部空气；在一个尖角上沾一点水，把另一尖角折过来压在上面并捏紧粘合。", "ingredientNames": ["云吞皮"] },
+    { "text": "深炸做法：锅中加油至约 5 厘米深，加热到约 180 摄氏度，转小火，逐个滑入云吞，炸至金黄（中途翻面一两次），分批炸制、避免过挤。", "ingredientNames": ["食用油"] },
+    { "text": "气炸做法：空气炸锅预热至 190 摄氏度，云吞表面刷一层薄油，单层铺在炸篮中不重叠，先炸约 5 分钟。", "ingredientNames": ["食用油"], "timerSeconds": 300 },
+    { "text": "翻面后再炸约 2 分钟；具体时间随炸锅性能调整，可拉开抽屉查看。", "timerSeconds": 120 },
+    { "text": "储存：只炸当天打算吃的量；未炸的云吞可冷冻保存最多 2 个月，炸之前在冰箱冷藏解冻。", "ingredientNames": ["云吞皮"] }
+  ],
+  "durationMinutes": 33,
+  "difficulty": "简单",
+  "tags": ["炸", "点心", "快手菜"],
+  "sourceUrl": "https://redhousespice.com/fried-wontons/",
+  "author": "Wei Guo / Red House Spice",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自原站公开页面，原页受访问限制，经公开镜像页面核对，为原站《炸云吞，两种做法》一文的完整配方：备料约 25 分钟、烹制约 8 分钟，合计约 33 分钟；份量约 40 只，每只约 39 千卡。单位换算：1 盎司约 28 克，1 汤匙约 15 毫升，1 茶匙约 5 毫升；油温按公式换算为摄氏度（350 华氏度约 180 摄氏度，375 华氏度约 190 摄氏度）。辣椒油、蒜蓉辣酱、甜辣酱为三选一的可选蘸料，原文未给数量。原文未注明按人数计的分量，故未写份数基数。",
+  "nutrition": { "kcal": 39, "proteinG": 2, "carbsG": 1, "fatG": 3 }
+}

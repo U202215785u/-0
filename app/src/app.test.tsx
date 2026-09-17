@@ -13,11 +13,11 @@ describe('App navigation', () => {
   it('rerenders the detail view after selecting a recipe', async () => {
     const user = userEvent.setup()
     render(<App />)
-    const link = screen.getByRole('link', { name: /Beef Chow Fun/ })
+    const link = screen.getByRole('link', { name: /干炒牛河/ })
     await user.click(link)
-    expect(await screen.findByRole('heading', { name: /Beef Chow Fun/ })).toBeInTheDocument()
+    expect(await screen.findByRole('heading', { name: /干炒牛河/ })).toBeInTheDocument()
     await user.click(screen.getByRole('link', { name: '返回食谱' }))
-    expect(screen.getByRole('heading', { name: '找菜' })).toBeInTheDocument()
+    expect(screen.getByRole('heading', { name: '今天吃什么' })).toBeInTheDocument()
   })
 
   it('passes a planner recipe query through to the planner selection', async () => {

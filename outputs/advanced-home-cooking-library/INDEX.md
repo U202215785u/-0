@@ -11,14 +11,14 @@
 | 5 | 叉烧 Char Siu Pork | braise | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/char-siu-chinese-bbq-pork | 烤箱 | 腌制、烘烤与分次刷汁 | verbatim-public |
 | 6 | 白菜焖冬菇 Braised Mushrooms with Bok Choy | braise | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/braised-mushrooms-with-bok-choy | 炒锅 | 香菇复水与菜、菇分烧 | verbatim-public |
 | 7 | 啫啫鸡煲 Chicken Clay Pot | stew | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/chicken-clay-pot | 砂锅或厚底锅 | 浆汁、炒制与煲仔收香 | verbatim-public |
-| 8 | 猪脚姜醋 Pork Knuckles in Ginger Vinegar Stew | stew | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/pork-knuckles-ginger-vinegar-stew | 炖锅 | 姜、醋和肉分阶段煮制 | verbatim-public |
+| 8 | 猪脚姜醋 Pork Knuckles in Ginger Vinegar Stew | stew | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/pork-knuckles-ginger-vinegar-stew | 炖锅 | 姜、醋和肉分阶段煮制 | structured-transcription；已入 canonical JSON |
 | 9 | 烧卖 Siu Mai | steam | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/siu-mai | 蒸锅 | 馅料调制、成型和蒸制 | verbatim-public |
 | 10 | 豉汁蒸排骨 Steamed Spare Ribs | steam | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/steamed-spare-ribs | 蒸锅 | 豆豉、陈皮复水与排骨腌制 | verbatim-public |
 | 11 | 榨菜蒸猪肉饼 Steamed Pork Patty | steam | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/steamed-pork-patty | 蒸锅 | 肉糜调制、盘面抹油和沸水蒸制 | verbatim-public |
 | 12 | 姜葱蒸鱼 Steamed Fish with Ginger and Scallion | steam | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/steamed-fish-ginger-scallion | 蒸锅、小锅 | 蒸熟度和热油浇香 | verbatim-public |
 | 13 | 椒盐猪扒 Salt and Pepper Pork Chops | fry | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/salt-pepper-pork-chops | 炒锅或炸锅 | 腌制、挂糊、炸制后回锅拌料 | verbatim-public |
 | 14 | 酥炸生蚝 Fried Oysters | fry | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/fried-oysters | 炸锅 | 生蚝清理、调糊和分段炸制 | verbatim-public |
-| 15 | 春卷 Egg Rolls | fry | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/egg-rolls | 炒锅、炸锅 | 馅料先炒、卷制、油炸 | verbatim-public |
+| 15 | 春卷 Egg Rolls | fry | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/egg-rolls | 炒锅、炸锅 | 馅料先炒、卷制、油炸 | structured-transcription；已入 canonical JSON |
 | 16 | 云吞面 Wonton Noodle Soup | soup | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/wonton-noodle-soup | 汤锅 | 面、汤、青菜、虾与云吞分锅处理 | verbatim-public |
 | 17 | 鸡肉玉米汤 Chicken Corn Soup | soup | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/chicken-corn-soup | 汤锅 | 水淀粉与蛋液的收尾顺序 | verbatim-public |
 | 18 | 酸辣汤 Hot and Sour Soup | soup | Daddy Lau / Made With Lau | https://www.madewithlau.com/recipes/hot-sour-soup | 汤锅 | 芡汁、蛋液、醋和香油的末段加入 | verbatim-public |

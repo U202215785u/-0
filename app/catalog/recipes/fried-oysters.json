@@ -1,0 +1,31 @@
+{
+  "id": "fried-oysters",
+  "title": "酥炸生蚝",
+  "ingredients": [
+    { "name": "生蚝", "amount": 280.0, "unit": "克", "category": "水产", "pantry": false, "mergeKey": "oyster" },
+    { "name": "玉米淀粉", "amount": 52.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
+    { "name": "卷心菜", "amount": 56.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "cabbage" },
+    { "name": "玉米油", "amount": 280.0, "unit": "克", "category": "调味料", "pantry": true, "mergeKey": "corn-oil" },
+    { "name": "面粉", "amount": 60.0, "unit": "毫升", "category": "米面主食", "pantry": false, "mergeKey": "flour" },
+    { "name": "泡打粉", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "baking-powder" },
+    { "name": "蒜盐", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "garlic-salt" },
+    { "name": "鱼露", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "fish-sauce" },
+    { "name": "白胡椒粉", "amount": 1.65, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
+    { "name": "清水", "amount": 67.5, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
+    { "name": "食用油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" }
+  ],
+  "steps": [
+    { "text": "生蚝放入碗中，撒入玉米淀粉轻轻拌匀（注意不要弄碎生蚝）；倒入干净冷水轻轻旋洗，洗去淀粉后倒掉脏水，再冲洗两次，放入漏勺沥水。", "ingredientNames": ["生蚝", "玉米淀粉"] },
+    { "text": "碗中加入面粉、剩余玉米淀粉、泡打粉、蒜盐、白胡椒粉、鱼露和清水，搅拌成顺滑面糊（倒出时呈连贯细流）；卷心菜切细丝，用手拨散铺在盘中；把生蚝放在厨房纸间轻轻按压吸干水分，使面糊更易附着；最后将食用油拌入面糊。", "ingredientNames": ["面粉", "玉米淀粉", "泡打粉", "蒜盐", "白胡椒粉", "鱼露", "清水", "食用油", "生蚝", "卷心菜"] },
+    { "text": "烧热炒锅后倒入玉米油，加热至约一百六十五摄氏度（三百三十华氏度）后转中火（无温度计时可用筷子蘸面糊滴入油中，浮起即油温合适）；将生蚝放入面糊碗中用手轻轻拌匀裹糊；逐只下锅炸至金黄（约一分钟），锅小则分批炸完；用漏勺捞出，再捞净油中的小碎屑。", "timerSeconds": 60, "ingredientNames": ["玉米油", "生蚝"] },
+    { "text": "转大火把油温升至约一百九十九摄氏度（三百九十华氏度）；再次放入生蚝复炸约二十秒至金黄酥脆，捞出沥油，放在铺好的卷心菜丝上即可。", "timerSeconds": 20, "ingredientNames": ["生蚝", "卷心菜"] }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 15,
+  "difficulty": "中等",
+  "tags": ["炸", "点心"],
+  "sourceUrl": "https://www.madewithlau.com/recipes/fried-oysters",
+  "author": "Daddy Lau",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自老刘家粤菜网站的公开菜谱页面，原文标准备料十分钟、烹制五分钟、共十五分钟、四人份；盎司按每盎司二十八克、汤匙按十五毫升、茶匙按五毫升换算，干粉类按同一体积表折算为毫升；玉米淀粉为洗蚝与面糊两处用量合计；原文采用两次油炸技法使外壳酥脆；来源未提供营养数据。"
+}

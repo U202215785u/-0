@@ -1,0 +1,81 @@
+{
+  "id": "lo-mai-gai",
+  "title": "糯米鸡",
+  "ingredients": [
+    { "name": "糯米", "amount": 454.0, "unit": "克", "category": "米面主食", "pantry": false, "mergeKey": "glutinous-rice" },
+    { "name": "荷叶", "amount": 4.0, "unit": "张", "category": "干货", "pantry": false, "mergeKey": "lotus-leaf" },
+    { "name": "咸蛋", "amount": 4.0, "unit": "个", "category": "蛋类", "pantry": false, "mergeKey": "salted-egg" },
+    { "name": "广式腊肠", "amount": 1.0, "unit": "根", "category": "肉类", "pantry": false, "mergeKey": "chinese-sausage" },
+    { "name": "鸡腿肉", "amount": 84.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "chicken-thigh" },
+    { "name": "叉烧", "amount": 56.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "char-siu" },
+    { "name": "干香菇", "amount": 6.0, "unit": "朵", "category": "干货", "pantry": false, "mergeKey": "dried-shiitake" },
+    { "name": "红葱头", "amount": 3.0, "unit": "个", "category": "蔬菜", "pantry": false, "mergeKey": "shallot" },
+    { "name": "玉米淀粉", "amount": 10.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
+    { "name": "蚝油", "amount": 22.5, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "oyster-sauce" },
+    { "name": "生抽", "amount": 20.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "日式酱油", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "soy-sauce" },
+    { "name": "鸡粉", "amount": 10.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "chicken-bouillon" },
+    { "name": "糖", "amount": 10.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
+    { "name": "盐", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "香油", "amount": 10.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
+    { "name": "橄榄油", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "olive-oil" },
+    { "name": "水", "amount": 435.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" }
+  ],
+  "steps": [
+    {
+      "text": "大碗或盆中倒入温水，把荷叶完全浸没浸泡 2 小时（可用重碗压住防浮起）。泡好后每张荷叶洗净检查，一叶可包 2 个糯米鸡：将荷叶剪成四份，去掉中间硬梗，备用。",
+      "timerSeconds": 7200,
+      "ingredientNames": ["荷叶"]
+    },
+    {
+      "text": "糯米（约 454 克）至少淘洗三次。原文提示：许多人会浸泡几小时再蒸，但作者家习惯洗净直接煮。把糯米放入电饭煲，加水约 12 盎司（约 340 克）铺平煮熟；熟后趁热打散，便于之后汤汁渗入。",
+      "ingredientNames": ["糯米", "水"]
+    },
+    {
+      "text": "煮一锅水，水沸后放入咸蛋煮 2 分钟，捞出浸入冷水碗中。",
+      "timerSeconds": 120,
+      "ingredientNames": ["咸蛋"]
+    },
+    {
+      "text": "鸡腿肉（约 84 克）用厨房纸撕去皮，沿骨头纵向剖开露出骨、敲断靠近踝部的一段，把肉整块扯离骨头，去除筋膜，切成一口大小的肉丁。入碗加玉米淀粉（1 茶匙）与水（2 茶匙）拌匀腌制。",
+      "ingredientNames": ["鸡腿肉", "玉米淀粉", "水"]
+    },
+    {
+      "text": "干香菇用温水泡发 10 至 15 分钟再切（泡菇水务必留用）；6 朵香菇中 3 朵剁碎、3 朵切厚片。广式腊肠与叉烧各切成 8 块。红葱头去头去皮拍碎剁成末。",
+      "ingredientNames": ["干香菇", "广式腊肠", "叉烧", "红葱头"]
+    },
+    {
+      "text": "大火烧热炒锅约 2 至 3 分钟，油热至起波纹冒烟时关火，下鸡丁用余温炒 30 秒，再开大火；下红葱头末炒约 15 至 30 秒，加入香菇与水约 4 盎司（约 110 克）；翻炒约 45 至 60 秒后转小火，准备调味。",
+      "ingredientNames": ["鸡腿肉", "红葱头", "干香菇", "水"]
+    },
+    {
+      "text": "馅料调味：加蚝油（1 汤匙）、生抽（1 汤匙）、日式酱油（半茶匙）、鸡粉（2 茶匙）、糖（2 茶匙）、盐（半茶匙）。另用玉米淀粉（1 茶匙）与水（1 茶匙）调成芡汁，开大火边搅边下芡，汤汁变稠后调小火，再煮约 2 至 3 分钟；最后淋入香油（2 茶匙），把馅料倒在大盘中摊开散热。",
+      "ingredientNames": ["蚝油", "生抽", "日式酱油", "鸡粉", "糖", "盐", "玉米淀粉", "水", "香油"]
+    },
+    {
+      "text": "咸蛋凉至不烫手后剥壳，待完全冷却再轻轻剥去蛋白，只留蛋黄，每个蛋黄对半切开备用。",
+      "ingredientNames": ["咸蛋"]
+    },
+    {
+      "text": "取泡发干香菇留下的泡菇水，加约 3 盎司（约 85 克）水、蚝油（半汤匙）、生抽（1 茶匙）与橄榄油（1 茶匙）调成饭汁。把饭汁浇在糯米饭上拌匀，摊到盘中放凉至不烫手；用饭勺把米饭粗略分份，数量对应准备包的糯米鸡个数。",
+      "ingredientNames": ["干香菇", "水", "蚝油", "生抽", "橄榄油", "糯米"]
+    },
+    {
+      "text": "取两片荷叶四分之一块上下交错叠放（宽边重叠、窄边分别朝向上下），中心放一份糯米压成中间略薄的圆饼，铺一满勺鸡肉香菇馅，再放上广式腊肠、叉烧与咸蛋黄；上盖另一份糯米饼，将荷叶自 3 点、9 点两侧向中间折拢，再把 12 点、6 点两端折下，包紧。按此方法共包 8 个；荷叶有破洞可另剪一片补上。",
+      "ingredientNames": ["荷叶", "糯米", "广式腊肠", "叉烧", "咸蛋"]
+    },
+    {
+      "text": "蒸锅加水大火烧开上汽，把糯米鸡封口朝下、单层平摆在蒸屉上（不可叠放），大火蒸 20 分钟即可。",
+      "timerSeconds": 1200,
+      "ingredientNames": []
+    }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 90,
+  "difficulty": "中等",
+  "tags": ["蒸", "主食", "点心", "家常菜"],
+  "sourceUrl": "https://www.madewithlau.com/recipes/lo-mai-gai",
+  "author": "Daddy Lau",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自公开菜谱页面（页面署名作者为刘家父子）。食材与步骤按原文照录，同类食材已合并取合计（含水合计约 435 毫升）；单位换算：1 磅≈454 克、1 盎司≈28 克、1 茶匙≈5 毫升、1 汤匙≈15 毫升。总用时 90 分钟（备料 30 分钟＋烹饪 60 分钟）取自页面标注，供 4 人食用；荷叶浸泡 2 小时、咸蛋煮 2 分钟、大火蒸 20 分钟为原文明确计时。"
+}

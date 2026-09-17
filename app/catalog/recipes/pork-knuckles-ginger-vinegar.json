@@ -1,0 +1,57 @@
+{
+  "id": "pork-knuckles-ginger-vinegar",
+  "title": "猪脚姜醋",
+  "ingredients": [
+    { "name": "姜", "amount": 908.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "ginger" },
+    { "name": "猪脚", "amount": 908.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "pork-knuckles" },
+    { "name": "鸡蛋", "amount": 10.0, "unit": "个", "category": "蛋类", "pantry": false, "mergeKey": "egg" },
+    { "name": "甜醋", "amount": 1135.0, "unit": "克", "category": "调味料", "pantry": false, "mergeKey": "sweet-black-vinegar" },
+    { "name": "镇江香醋", "amount": 89.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "zhenjiang-black-vinegar" },
+    { "name": "冰糖", "amount": 28.0, "unit": "克", "category": "调味料", "pantry": true, "mergeKey": "rock-sugar" },
+    { "name": "盐", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" }
+  ],
+  "steps": [
+    {
+      "text": "处理姜：可去皮也可保留姜皮（留皮需彻底洗净）；大块姜对半切开或切成便于操作的大块，用刀身侧面轻轻拍裂姜块帮助出味，再切成约 0.6 厘米厚的姜片（约四分之一英寸）。",
+      "ingredientNames": ["姜"]
+    },
+    {
+      "text": "焯猪脚：锅中加约 5 杯冷水（以没过猪脚为准），大火加盖煮至滚沸；开盖转中火，用筷子轻轻拨动肉块使其受热均匀，待浮沫浮出；中火续煮 2 至 3 分钟（不必撇沫，稍后会统一冲洗）；关火，把猪脚小心移入一大盆清水中，边冲凉水边用手搓洗去浮沫，沥水备用。",
+      "timerSeconds": 150,
+      "ingredientNames": ["猪脚"]
+    },
+    {
+      "text": "干炒姜：干净无油的炒锅（建议不锈钢等无反应性材质）中火加热，放入姜片翻炒约 5 分钟至颜色变深、边缘微焦、香气浓郁后关火；无需预热或大火，以免炒焦。",
+      "timerSeconds": 300,
+      "ingredientNames": ["姜"]
+    },
+    {
+      "text": "加醋调味：把 2.5 磅甜醋倒入锅中，转中火搅匀；加入镇江香醋搅拌；转大火放入冰糖和盐搅拌至化开；转中小火煮 2 分钟。",
+      "timerSeconds": 120,
+      "ingredientNames": ["甜醋", "镇江香醋", "冰糖", "盐"]
+    },
+    {
+      "text": "盖盖转小火继续煮 5 至 7 分钟；尝味并按喜好调整（喜甜加糖、喜酸加醋）；开盖再煮约 4 至 5 分钟，期间偶尔翻动姜片。",
+      "timerSeconds": 360,
+      "ingredientNames": ["甜醋", "镇江香醋"]
+    },
+    {
+      "text": "煮鸡蛋：鸡蛋冷水下锅，煮滚后计时 5 分钟关火，借余温继续闷 5 分钟；捞出立即浸入冷水盆中，使蛋壳收缩与蛋分离、容易剥壳；临加锅前再剥壳，蛋黄全熟较适合本菜。",
+      "timerSeconds": 300,
+      "ingredientNames": ["鸡蛋"]
+    },
+    {
+      "text": "转入砂锅（或无反应性锅）：先把姜片在锅底铺一层（既是最先受热出味的一层，也能防止猪脚粘锅），再倒入其余姜片；戴好防烫保护，小心把整锅醋汁倒入砂锅；砂锅中低火（最好明火）盖盖煮滚，滚后放入猪脚，骨头朝下摆放以便入味与析出钙质；如液体不够可补甜醋，需没过全部猪脚；至少继续炖 1 小时。临吃前再放鸡蛋，鸡蛋可在醋汁中浸炖约 1 小时吸收风味（浸得越久越入味）；此煲传统上可存放数天至数周，随吃随热。",
+      "timerSeconds": 3600,
+      "ingredientNames": ["猪脚", "甜醋", "姜", "鸡蛋"]
+    }
+  ],
+  "baseServings": 10,
+  "durationMinutes": 100,
+  "difficulty": "简单",
+  "tags": ["炖", "汤羹", "家常菜"],
+  "sourceUrl": "https://www.madewithlau.com/recipes/pork-knuckles-ginger-vinegar-stew",
+  "author": "Daddy Lau",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自美国华人菜谱网站「麦德威斯劳」（原站名为英文）的公开食谱页《猪脚姜醋》，食材、步骤、时间均按原文转录；单位换算：1 磅约 454 克、1 盎司约 28 克、1 茶匙约 5 毫升，液态盎司按 1 液量盎司约 29.6 毫升计，3 液量盎司约 89 毫升；甜醋按原文以重量计 2.5 磅约 1135 克；原文标注备料 30 分钟、烹饪 70 分钟、共 100 分钟、供 10 人食用。"
+}

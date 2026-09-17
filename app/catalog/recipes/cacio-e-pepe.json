@@ -1,0 +1,26 @@
+{
+  "id": "cacio-e-pepe",
+  "title": "黑椒芝士意面",
+  "ingredients": [
+    { "name": "意大利面", "amount": 227.0, "unit": "克", "category": "米面主食", "pantry": false, "mergeKey": "意大利面" },
+    { "name": "粗盐（犹太盐）", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "盐" },
+    { "name": "无盐黄油", "amount": 4.0, "unit": "汤匙", "category": "乳制品", "pantry": false, "mergeKey": "黄油" },
+    { "name": "粗磨黑胡椒", "amount": 1.5, "unit": "茶匙", "category": "调味料", "pantry": true, "mergeKey": "黑胡椒" },
+    { "name": "帕玛森奶酪或格拉纳帕达诺奶酪", "amount": 85.0, "unit": "克", "category": "乳制品", "pantry": false, "mergeKey": "帕玛森奶酪" },
+    { "name": "佩科里诺罗马诺奶酪", "amount": 43.0, "unit": "克", "category": "乳制品", "pantry": false, "mergeKey": "佩科里诺奶酪" }
+  ],
+  "steps": [
+    { "text": "在大锅沸盐水中煮 227 克意大利面（如直面、扁面条或带孔粗面），偶尔搅拌，煮到非常弹牙的硬芯程度，比包装说明少煮约 2 分钟。捞出沥水，保留 360 毫升煮面水。", "ingredientNames": ["意大利面", "粗盐（犹太盐）"] },
+    { "text": "同时，在大号深边平底锅中用中火融化 1 汤匙冷藏无盐黄油（切小块）。加入 1 茶匙半粗磨黑胡椒，晃动锅子煸至出香，约 1 分钟。", "timerSeconds": 60, "ingredientNames": ["无盐黄油", "粗磨黑胡椒"] },
+    { "text": "将 180 毫升保留的煮面水倒入锅中，煮至微沸。加入意面和剩下 3 汤匙冷藏无盐黄油（切小块）。转小火，加入 85 克帕玛森奶酪或格拉纳帕达诺奶酪（用刨丝器最细孔刨碎），用夹子翻拌，煮到奶酪融化、意面弹牙，约 2 分钟。", "timerSeconds": 120, "ingredientNames": ["意大利面", "无盐黄油", "帕玛森奶酪或格拉纳帕达诺奶酪"] },
+    { "text": "离火，加入 43 克佩科里诺罗马诺奶酪（最细孔刨碎），翻拌（酱汁太干可再加煮面水），直到奶酪融化、酱汁均匀裹住意面。分装入温热的碗中，再撒上黑胡椒。", "ingredientNames": ["佩科里诺罗马诺奶酪", "粗磨黑胡椒"] }
+  ],
+  "baseServings": 2,
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "tags": ["煮", "主食", "快手菜"],
+  "sourceUrl": "https://www.bonappetit.com/recipe/cacio-e-pepe",
+  "author": "Mark Ladner",
+  "fidelity": "structured-transcription",
+  "sourceNote": "转录自《好胃口》杂志网站公开页面的结构化菜谱数据（作者马克·拉德纳）。单位换算：1 盎司约 28 克、1 杯约 240 毫升、1 汤匙约 15 毫升、1 茶匙约 5 毫升。总时长 25 分钟为原文所给（备料约 5 分钟加烹饪 20 分钟）；黄油原文为 4 汤匙冷藏无盐黄油分次使用，黑胡椒另备部分用于装盘点缀。"
+}

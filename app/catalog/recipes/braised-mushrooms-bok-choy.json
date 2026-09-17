@@ -1,0 +1,79 @@
+{
+  "id": "braised-mushrooms-bok-choy",
+  "title": "白菜焖冬菇",
+  "ingredients": [
+    { "name": "干香菇", "amount": 84.0, "unit": "克", "category": "干货", "pantry": false, "mergeKey": "dried-shiitake" },
+    { "name": "小白菜", "amount": 454.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "bok-choy" },
+    { "name": "大蒜", "amount": 3.0, "unit": "瓣", "category": "蔬菜", "pantry": false, "mergeKey": "garlic" },
+    { "name": "姜", "amount": 4.0, "unit": "片", "category": "蔬菜", "pantry": false, "mergeKey": "ginger" },
+    { "name": "食用油", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
+    { "name": "水", "amount": 1440.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
+    { "name": "玉米淀粉", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
+    { "name": "蚝油", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "oyster-sauce" },
+    { "name": "生抽", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "老抽", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "dark-soy-sauce" },
+    { "name": "白糖", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
+    { "name": "盐", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "料酒", "amount": 10.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-wine" },
+    { "name": "鸡精", "amount": 7.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "chicken-bouillon" },
+    { "name": "香油", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" }
+  ],
+  "steps": [
+    {
+      "text": "干香菇用清水洗净两次，轻轻搓洗去除灰尘与杂质；放入温水中（约 40 至 50 摄氏度）浸泡 30 分钟，可用重物压住浮起的香菇使其完全浸没。",
+      "timerSeconds": 1800,
+      "ingredientNames": ["干香菇"]
+    },
+    {
+      "text": "处理小白菜：切掉硬化的脏根；若整棵较大，在茎部切一道深口再用手撕开；洗净后浸泡在清水盆中备用。",
+      "ingredientNames": ["小白菜"]
+    },
+    {
+      "text": "切香料：大蒜去皮、切掉硬根，每瓣切成 3 至 4 块；姜切成薄片后再对半切开。",
+      "ingredientNames": ["大蒜", "姜"]
+    },
+    {
+      "text": "沥干小白菜：浸泡后泥沙已松动，抓住菜茎在水中来回涮洗去除沙粒，注意搓洗茎根连接处；倒掉脏水后快速冲洗一遍并沥干。",
+      "ingredientNames": ["小白菜"]
+    },
+    {
+      "text": "处理泡发冬菇：用厨房剪刀或小刀剪掉泡发香菇的菇柄丢弃，挤掉多余水分备用，保留泡菇水。",
+      "ingredientNames": ["干香菇"]
+    },
+    {
+      "text": "调酱汁：将蚝油、生抽、老抽、白糖、盐、料酒混合拌匀；想做素食可换用素蚝油。",
+      "ingredientNames": ["蚝油", "生抽", "老抽", "白糖", "盐", "料酒"]
+    },
+    {
+      "text": "炒锅以中等火力加热，下 1 汤匙油，放入一半大蒜和一半姜炒香约 90 秒。",
+      "timerSeconds": 90,
+      "ingredientNames": ["食用油", "大蒜", "姜"]
+    },
+    {
+      "text": "加入 6 杯沸水和盐，转大火煮至滚沸，放入小白菜煮约 2 分钟，至叶片翠绿、茎部略软；捞出立即浸入冰水激凉，沥干备用。",
+      "timerSeconds": 120,
+      "ingredientNames": ["水", "盐", "小白菜"]
+    },
+    {
+      "text": "炒锅快速擦干（无需彻底清洗），小火加热，下 1 汤匙油和剩余的姜蒜炒香约 40 至 50 秒；加入冬菇翻炒出香味约 50 至 60 秒，沿锅边烹入 1 茶匙料酒。",
+      "ingredientNames": ["食用油", "姜", "大蒜", "干香菇", "料酒"]
+    },
+    {
+      "text": "加入 2 杯泡菇水与调好的酱汁，转大火煮至滚沸后转小火，焖 10 至 15 分钟；期间将小白菜在圆盘中摆成环状（菜梗朝外、叶片朝内），让后续酱汁浸入菜叶。",
+      "timerSeconds": 750,
+      "ingredientNames": ["水", "蚝油", "生抽", "老抽", "白糖", "料酒", "小白菜"]
+    },
+    {
+      "text": "用筷子试插冬菇，能轻松穿透即已熟透；尝味后按喜好调整咸淡，加入半汤匙鸡精（素食可省略或用少许味精代替）；另取 1 茶匙玉米淀粉与泡菇水按约一比三调成芡汁，保持小火边搅动边缓缓倒入，转中大火再次煮滚后淋入香油；把焖好的冬菇铺在小白菜中央（菇帽朝上），淋上剩余酱汁即可。",
+      "ingredientNames": ["鸡精", "玉米淀粉", "香油", "干香菇"]
+    }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 60,
+  "difficulty": "中等",
+  "tags": ["烧", "家常菜"],
+  "sourceUrl": "https://www.madewithlau.com/recipes/braised-mushrooms-with-bok-choy",
+  "author": "Daddy Lau",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自美国华人菜谱网站「麦德威斯劳」（原站名为英文）的公开食谱页《白菜焖冬菇》，食材、步骤、时间均按原文转录；单位换算：1 盎司约 28 克、1 磅约 454 克、1 汤匙约 15 毫升、1 茶匙约 5 毫升、1 杯约 240 毫升；油按原文两处各 1 汤匙合计 30 毫升，料酒按酱汁与调味各 1 茶匙合计 10 毫升；原文标注备料 40 分钟、烹饪 20 分钟、共 60 分钟、供 4 人食用。"
+}

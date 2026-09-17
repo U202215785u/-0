@@ -1,0 +1,34 @@
+{
+  "id": "pan-fried-pork-chive-dumplings",
+  "title": "猪肉韭菜锅贴",
+  "ingredients": [
+    { "name": "中筋面粉", "amount": 250, "unit": "克", "category": "米面主食", "pantry": false, "mergeKey": "flour" },
+    { "name": "水", "amount": 220, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
+    { "name": "猪肉末", "amount": 230, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "ground-pork" },
+    { "name": "盐", "quantityText": "1.5 茶匙", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "香油", "amount": 5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
+    { "name": "五香粉", "quantityText": "四分之一茶匙", "category": "调味料", "pantry": true, "mergeKey": "five-spice-powder" },
+    { "name": "韭菜", "amount": 140, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "chinese-chives" },
+    { "name": "食用油", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
+    { "name": "辣椒油", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "chili-oil" },
+    { "name": "黑米醋", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "black-rice-vinegar" }
+  ],
+  "steps": [
+    { "text": "和面：取一碗，将水分次加入面粉，边加边搅拌，直至看不到干粉，然后揉合成团，盖好静置 10 分钟，再揉至光滑。", "ingredientNames": ["中筋面粉", "水"], "timerSeconds": 600 },
+    { "text": "继续盖好静置 30 至 60 分钟，让面团变软；若用厨师机：把面粉和水放入搅拌碗，低速揉约 8 分钟至光滑，盖好静置 30 至 60 分钟。", "ingredientNames": ["中筋面粉", "水"] },
+    { "text": "调馅：猪肉末放入碗中，加入盐、香油和五香粉（或用花椒粉、白胡椒粉代替），朝同一方向搅拌，同时分次加入水（或高汤）；待水分完全被吸收、肉馅发粘后，加入韭菜拌匀。", "ingredientNames": ["猪肉末", "盐", "香油", "五香粉", "水", "韭菜"] },
+    { "text": "分剂子：把面团分成三份，取一份搓成长条并切成 10 等份（其余两份盖好防干）；把面剂用手掌压成小圆饼，再用擀面杖擀成薄圆片，粘手时撒少许面粉，重复做完所有面团。", "ingredientNames": ["中筋面粉"] },
+    { "text": "包制：取一勺馅料放在面皮中央，用顺手的方式折起并捏紧封口；若用冷冻饺子皮，需提前冷藏解冻，包制时边缘沾少许水再折叠捏紧。", "ingredientNames": ["猪肉末", "韭菜"] },
+    { "text": "煎制：平底锅中放少量油（口径约 30 厘米的锅约 1 汤匙），放入锅贴（锅不够大可分两批），大火煎至底部金黄（可掀起一只查看）。", "ingredientNames": ["食用油"] },
+    { "text": "加水焖蒸：向锅中倒入冷水，至没过锅贴高度约三分之一，盖上锅盖，保持大火，直至水分完全蒸发。", "ingredientNames": ["水"] },
+    { "text": "收尾：揭开锅盖再煎约 20 秒，让底部更脆，盛盘；可单吃，或配辣椒油与黑米醋调成的蘸汁。", "ingredientNames": ["辣椒油", "黑米醋"], "timerSeconds": 20 }
+  ],
+  "durationMinutes": 90,
+  "difficulty": "中等",
+  "tags": ["煎", "主食", "家常菜"],
+  "sourceUrl": "https://redhousespice.com/pan-fried-pork-chive-dumplings/",
+  "author": "Wei Guo / Red House Spice",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自原站公开页面，原页受访问限制，经两个独立公开镜像交叉核对一致：备料约 50 分钟、烹制约 10 分钟、醒面约 30 分钟，合计约 1 小时 30 分钟；份量约 30 只锅贴，每只约 59 千卡。单位换算：1 磅约 454 克，1 盎司约 28 克，1 汤匙约 15 毫升，1 茶匙约 5 毫升；面团用水与馅料用水为同一食材，已合并为一条（约 220 毫升）。辣椒油与黑米醋为可选蘸料，原文未给数量。原文未注明按人数计的分量，故未写份数基数。",
+  "nutrition": { "kcal": 59, "proteinG": 2, "carbsG": 7, "fatG": 3 }
+}

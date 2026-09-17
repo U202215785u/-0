@@ -1,0 +1,32 @@
+{
+  "id": "chicken-corn-soup",
+  "title": "鸡肉玉米汤",
+  "ingredients": [
+    { "name": "鸡胸肉", "amount": 84.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "chicken-breast" },
+    { "name": "玉米粒", "amount": 224.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "corn" },
+    { "name": "胡萝卜", "quantityText": "半个", "category": "蔬菜", "pantry": false, "mergeKey": "carrot" },
+    { "name": "香菜", "amount": 120.0, "unit": "毫升", "category": "蔬菜", "pantry": false, "mergeKey": "cilantro" },
+    { "name": "鸡蛋", "amount": 1.0, "unit": "个", "category": "蛋类", "pantry": false, "mergeKey": "egg" },
+    { "name": "玉米淀粉", "amount": 35.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
+    { "name": "盐", "amount": 7.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "水", "amount": 1229.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
+    { "name": "鸡粉", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "chicken-powder" },
+    { "name": "白胡椒粉", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
+    { "name": "香油", "amount": 1.25, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" }
+  ],
+  "steps": [
+    { "text": "鸡胸肉切小丁，放入小碗，加入玉米淀粉、盐和水，搅拌至鸡肉完全吸收腌料。", "ingredientNames": ["鸡胸肉", "玉米淀粉", "盐", "水"] },
+    { "text": "把无糖玉米粒和等量水放入料理机，打成细腻的玉米糊（约十五到三十秒）。", "timerSeconds": 30, "ingredientNames": ["玉米粒", "水"] },
+    { "text": "胡萝卜切薄片再切条、切小丁；若用香菜点缀可顺手切碎。碗中把玉米淀粉和水搅至完全溶解调成淀粉水；鸡蛋磕入碗中打散。", "ingredientNames": ["胡萝卜", "香菜", "玉米淀粉", "水", "鸡蛋"] },
+    { "text": "大锅上灶开最大火，倒入水加盖烧开；水开后加入玉米糊和胡萝卜丁搅匀；再次烧开后，慢慢分次加入淀粉水、鸡肉和蛋液，边加边不停搅拌，避免鸡肉结块；蛋液分两到三批缓慢倒入，让蛋液在汤中开出蛋花；全部加完后再搅几秒，等汤再次煮开让鸡肉熟透。", "ingredientNames": ["水", "玉米粒", "胡萝卜", "玉米淀粉", "鸡胸肉", "鸡蛋"] },
+    { "text": "关火，加入盐、鸡粉、白胡椒粉和香油增鲜提味，搅匀尝味调整；可按喜好撒上香菜点缀。", "ingredientNames": ["盐", "鸡粉", "白胡椒粉", "香油", "香菜"] }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "tags": ["煮", "汤羹", "快手菜", "家常菜"],
+  "sourceUrl": "https://www.madewithlau.com/recipes/chicken-corn-soup",
+  "author": "刘爸爸",
+  "fidelity": "structured-transcription",
+  "sourceNote": "转录自「与刘家一起做菜」网站公开菜谱页的页面正文与内嵌结构化数据（原作者：刘爸爸），并翻译为简体中文。单位换算：一盎司约合二十八克，一茶匙约合五毫升，一汤匙约合十五毫升，一杯约合二百四十毫升，半杯约一百二十毫升。原文标注备料十五分钟、烹饪十分钟、合计约二十五分钟，供四人食用。页面食材中水出现多处（腌鸡肉、打玉米糊、调淀粉水、煮汤），已合并为一笔合计约一千二百二十九毫升；玉米淀粉两处合计七茶匙；盐两处合计一茶匙半。步骤计时（打玉米糊约十五至三十秒）取自原文。"
+}

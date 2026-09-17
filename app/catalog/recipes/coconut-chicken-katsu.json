@@ -1,0 +1,38 @@
+{
+  "id": "coconut-chicken-katsu",
+  "title": "椰子炸鸡排配拍黄瓜",
+  "ingredients": [
+    { "name": "波斯小黄瓜", "amount": 8.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "黄瓜" },
+    { "name": "糖", "amount": 1.0, "unit": "茶匙", "category": "调味料", "pantry": true, "mergeKey": "糖" },
+    { "name": "粗盐（犹太盐）", "amount": 1.0, "unit": "茶匙", "category": "调味料", "pantry": true, "mergeKey": "盐" },
+    { "name": "去皮去骨鸡胸肉（中等大小）", "amount": 4.0, "unit": "块", "category": "肉类", "pantry": false, "mergeKey": "鸡胸肉" },
+    { "name": "现磨黑胡椒", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "黑胡椒" },
+    { "name": "中筋面粉", "amount": 120.0, "unit": "毫升", "category": "米面主食", "pantry": true, "mergeKey": "面粉" },
+    { "name": "鸡蛋", "amount": 2.0, "unit": "个", "category": "蛋类", "pantry": false, "mergeKey": "鸡蛋" },
+    { "name": "日式面包糠", "amount": 240.0, "unit": "毫升", "category": "米面主食", "pantry": false, "mergeKey": "面包糠" },
+    { "name": "无糖椰丝（椰蓉）", "amount": 240.0, "unit": "毫升", "category": "干货", "pantry": false, "mergeKey": "椰丝" },
+    { "name": "植物油（炸用）", "amount": 720.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "植物油" },
+    { "name": "蛋黄酱", "amount": 120.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "蛋黄酱" },
+    { "name": "是拉差辣酱", "amount": 2.0, "unit": "汤匙", "category": "调味料", "pantry": false, "mergeKey": "是拉差辣酱" },
+    { "name": "小红洋葱", "amount": 1.0, "unit": "个", "category": "蔬菜", "pantry": false, "mergeKey": "洋葱" },
+    { "name": "青柠", "amount": 2.0, "unit": "个", "category": "蔬菜", "pantry": false, "mergeKey": "青柠" },
+    { "name": "特级初榨橄榄油（淋用）", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "橄榄油" }
+  ],
+  "steps": [
+    { "text": "密封袋中放入 8 根波斯小黄瓜（切约 3.8 厘米段）、1 茶匙糖和 1 茶匙粗盐。封口后用肉锤、擀面杖或厚重的锅底敲拍黄瓜，放一旁腌渍。", "ingredientNames": ["波斯小黄瓜", "糖", "粗盐（犹太盐）"] },
+    { "text": "取 1 块鸡胸肉，夹在两层保鲜膜之间，敲成约 0.6 厘米厚，两面撒盐和现磨黑胡椒调味，逐块处理 4 块鸡胸肉。", "ingredientNames": ["去皮去骨鸡胸肉（中等大小）", "粗盐（犹太盐）", "现磨黑胡椒"] },
+    { "text": "浅碗中放 120 毫升中筋面粉；另一浅碗打散 2 个鸡蛋；第三个浅碗混合 240 毫升日式面包糠和 240 毫升无糖椰丝。面粉、蛋液和面包糠混合物分别加盐调味。逐块操作：鸡胸肉先裹面粉拍掉多余，再蘸蛋液沥去多余，最后裹面包糠混合物并按压紧实，放到烤盘上。", "ingredientNames": ["中筋面粉", "鸡蛋", "日式面包糠", "无糖椰丝（椰蓉）", "去皮去骨鸡胸肉（中等大小）", "粗盐（犹太盐）"] },
+    { "text": "大号铸铁煎锅中倒入植物油，深度约 1.3 厘米。中高火加热至即读温度计显示 190 摄氏度。分批下鸡排，中途翻面，炸至金黄酥脆，约 4 分钟。移到铺在带边烤盘上的网架，撒盐调味。", "timerSeconds": 240, "ingredientNames": ["植物油（炸用）", "去皮去骨鸡胸肉（中等大小）", "粗盐（犹太盐）"] },
+    { "text": "小碗中混合 120 毫升蛋黄酱和 2 汤匙是拉差辣酱。", "ingredientNames": ["蛋黄酱", "是拉差辣酱"] },
+    { "text": "沥干腌渍的黄瓜，加入 1 个小红洋葱（切薄丝）、2 个青柠的汁和一小撮盐，淋一些特级初榨橄榄油，拌匀。", "ingredientNames": ["波斯小黄瓜", "小红洋葱", "青柠", "粗盐（犹太盐）", "特级初榨橄榄油（淋用）"] },
+    { "text": "把鸡排分装到盘中，淋上辣酱（也可另碟蘸食），撒上 2 个青柠的皮屑，旁边堆上拍黄瓜。", "ingredientNames": ["青柠", "波斯小黄瓜"] }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 45,
+  "difficulty": "中等",
+  "tags": ["炸", "快手菜", "家常菜"],
+  "sourceUrl": "https://www.bonappetit.com/recipe/coconut-chicken-katsu-with-smashed-cucumbers",
+  "author": "Kendra Vaculin",
+  "fidelity": "structured-transcription",
+  "sourceNote": "转录自《好胃口》杂志网站公开页面的结构化菜谱数据（作者肯德拉·瓦库林）。单位换算：1 杯约 240 毫升、1 汤匙约 15 毫升、1 茶匙约 5 毫升、1 英寸约 2.5 厘米；炸油约 3 杯（720 毫升），油温约 190 摄氏度（原文按华氏度）。总时长 45 分钟为原文所给；原文另提示可换无麸质面包糠与米粉制作无麸质版本。"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "chicken-clay-pot",
+  "title": "啫啫鸡煲",
+  "ingredients": [
+    { "name": "云耳", "amount": 7.0, "unit": "克", "category": "干货", "pantry": false, "mergeKey": "cloud-ear-fungus" },
+    { "name": "干香菇", "amount": 28.0, "unit": "克", "category": "干货", "pantry": false, "mergeKey": "dried-shiitake" },
+    { "name": "葱白", "amount": 28.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "scallion" },
+    { "name": "鸡腿", "amount": 908.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "chicken-drumstick" },
+    { "name": "姜", "amount": 28.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "ginger" },
+    { "name": "红葱头", "amount": 28.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "shallot" },
+    { "name": "大蒜", "amount": 14.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "garlic" },
+    { "name": "腊肠", "amount": 1.0, "unit": "根", "category": "肉类", "pantry": false, "mergeKey": "chinese-sausage" },
+    { "name": "蚝油", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "oyster-sauce" },
+    { "name": "生抽", "amount": 25.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "料酒", "amount": 60.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-wine" },
+    { "name": "玉米淀粉", "amount": 20.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
+    { "name": "白胡椒粉", "amount": 1.65, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
+    { "name": "食用油", "amount": 45.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
+    { "name": "水", "amount": 135.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
+    { "name": "白糖", "amount": 7.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
+    { "name": "香油", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
+    { "name": "老抽", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "dark-soy-sauce" },
+    { "name": "盐", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" }
+  ],
+  "steps": [
+    {
+      "text": "备料：云耳放小碗中加温水泡发；干香菇另用温水泡发，可用小碟压住使其完全浸没；葱白顺长切成细条；姜、红葱头、大蒜切成小三角块；腊肠斜切成薄片；泡发后的香菇沥干；云耳剪去硬梗、撕成适口小块。",
+      "ingredientNames": ["云耳", "干香菇", "葱白", "姜", "红葱头", "大蒜", "腊肠"]
+    },
+    {
+      "text": "处理鸡肉：鸡腿去骨——沿肉切开露出骨头，用刀背敲裂腿骨末端，压住骨头用手把整块肉撕下，再切去骨肉相连处，其余鸡腿同样处理（骨头可留作鸡高汤）；也可不剔骨，把鸡腿砍成 3 至 4 块大小相近的块。另取小碗混合 1 汤匙蚝油、1 汤匙生抽、1 汤匙料酒、1 汤匙玉米淀粉和三分之一茶匙白胡椒粉调成腌料，倒入鸡肉用手揉匀。",
+      "ingredientNames": ["鸡腿", "蚝油", "生抽", "料酒", "玉米淀粉", "白胡椒粉"]
+    },
+    {
+      "text": "调酱汁与芡汁：碗中混合 1 汤匙蚝油、2 茶匙生抽、半茶匙老抽、1 汤匙料酒、1 茶匙盐和 1 茶匙糖，拌匀成酱汁；另取小碗混合 1 茶匙玉米淀粉与 3 茶匙水，拌匀成芡汁。",
+      "ingredientNames": ["蚝油", "生抽", "老抽", "料酒", "盐", "白糖", "玉米淀粉", "水"]
+    },
+    {
+      "text": "炒锅大火烧至冒烟，下约 0.9 汤匙油；转小火放入姜炒 10 至 15 秒，再加入蒜和红葱头炒 15 至 20 秒至出香。",
+      "timerSeconds": 20,
+      "ingredientNames": ["食用油", "姜", "大蒜", "红葱头"]
+    },
+    {
+      "text": "转中火，把鸡肉在锅中铺开不翻动，煎约 1 分钟至底部上色；用锅铲翻面再煎 30 至 40 秒。",
+      "timerSeconds": 60,
+      "ingredientNames": ["鸡腿"]
+    },
+    {
+      "text": "在锅中央留出空位，放入香菇并淋上约 0.9 汤匙油，保持香菇在锅中央炒约 1 分钟至出香；把全部食材一起翻炒 20 至 30 秒；加入腊肠、云耳和 1 汤匙料酒，再翻炒 15 至 20 秒。",
+      "timerSeconds": 60,
+      "ingredientNames": ["干香菇", "食用油", "腊肠", "云耳", "料酒"]
+    },
+    {
+      "text": "边搅拌边倒入酱汁，加入半杯热水拌匀；转大火煮至滚沸，盖盖转中火煮 1.5 至 2 分钟，此时鸡肉应已熟透。",
+      "timerSeconds": 110,
+      "ingredientNames": ["蚝油", "生抽", "老抽", "料酒", "盐", "白糖", "水"]
+    },
+    {
+      "text": "转小火开盖，尝味并按喜好调整（配方会再补约半茶匙糖拌匀）；保持小火，边搅动边把芡汁倒入锅中央，煮至酱汁浓稠；淋入 1 茶匙香油，加入葱白拌匀。",
+      "ingredientNames": ["白糖", "玉米淀粉", "水", "香油", "葱白"]
+    },
+    {
+      "text": "砂锅带盖小火预热，热后倒入剩余油；待砂锅冒烟，把炒锅中的全部食材移入砂锅，盖盖转大火，约 30 至 40 秒后见蒸汽冒出。",
+      "timerSeconds": 40,
+      "ingredientNames": ["食用油"]
+    },
+    {
+      "text": "沿锅盖边缘淋入 1 汤匙料酒，再煮约 30 秒至锅内咕嘟冒泡，关火；连砂锅直接上桌，可在盘上垫湿纸巾防烫。",
+      "timerSeconds": 30,
+      "ingredientNames": ["料酒"]
+    }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 30,
+  "difficulty": "中等",
+  "tags": ["炒", "炖", "家常菜"],
+  "sourceUrl": "https://www.madewithlau.com/recipes/chicken-clay-pot",
+  "author": "Daddy Lau",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自美国华人菜谱网站「麦德威斯劳」（原站名为英文）的公开食谱页《啫啫鸡煲》，食材、步骤、时间均按原文转录；单位换算：1 磅约 454 克、1 汤匙约 15 毫升、1 茶匙约 5 毫升、1 杯约 240 毫升；料酒按腌制、酱汁、爆炒、砂锅淋边四处共 4 汤匙合计 60 毫升，油按原文用量合并为 45 毫升，水含半杯热水与 3 茶匙芡汁用水合计 135 毫升；原文标注备料 20 分钟、烹饪 10 分钟、共 30 分钟、供 4 人食用。"
+}

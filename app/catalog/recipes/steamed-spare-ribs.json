@@ -1,0 +1,67 @@
+{
+  "id": "steamed-spare-ribs",
+  "title": "豉汁蒸排骨",
+  "ingredients": [
+    { "name": "豆豉", "amount": 15.0, "unit": "毫升", "category": "干货", "pantry": false, "mergeKey": "fermented-black-bean" },
+    { "name": "陈皮", "amount": 5.0, "unit": "毫升", "category": "干货", "pantry": false, "mergeKey": "tangerine-peel" },
+    { "name": "排骨", "amount": 454.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "spare-ribs" },
+    { "name": "玉米淀粉", "amount": 45.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
+    { "name": "红辣椒", "quantityText": "适量", "category": "蔬菜", "pantry": false, "mergeKey": "red-chili" },
+    { "name": "葱", "amount": 2.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "scallion" },
+    { "name": "食用油", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
+    { "name": "盐", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
+    { "name": "白糖", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
+    { "name": "生抽", "amount": 7.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "蚝油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "oyster-sauce" },
+    { "name": "料酒", "amount": 7.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-wine" },
+    { "name": "大蒜", "amount": 1.0, "unit": "瓣", "category": "蔬菜", "pantry": false, "mergeKey": "garlic" },
+    { "name": "姜", "amount": 5.0, "unit": "毫升", "category": "蔬菜", "pantry": false, "mergeKey": "ginger" },
+    { "name": "香油", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" }
+  ],
+  "steps": [
+    {
+      "text": "洗豆豉泡陈皮：豆豉放入碗中，流水冲洗 15 至 20 秒并轻轻揉搓，倒掉水后静置回潮；掰下所需量的干陈皮，用温水浸泡 5 至 10 分钟。",
+      "timerSeconds": 300,
+      "ingredientNames": ["豆豉", "陈皮"]
+    },
+    {
+      "text": "剁排骨：排骨沿骨间剁成约 2.5 至 4 厘米（约 1 至 1.5 英寸）的小块，放入碗中；选脂肪较少的尾部排骨，超市若无现切可请肉铺沿骨横切。",
+      "ingredientNames": ["排骨"]
+    },
+    {
+      "text": "淀粉清洗排骨：先加 1 汤匙玉米淀粉裹住排骨揉匀，淀粉会裹住肉中的肌红蛋白与肉汁；流水冲洗 1 至 2 分钟并边冲边揉；倒掉水，在漏勺中按压挤去多余水分；用厚纸巾包住排骨按压吸干。",
+      "timerSeconds": 90,
+      "ingredientNames": ["排骨", "玉米淀粉"]
+    },
+    {
+      "text": "调腌料：可先烧 3 至 4 杯热水备用蒸排骨；碗中放入盐、糖、生抽、蚝油、料酒；大蒜、姜与泡发陈皮剁成细末加入碗中；红辣椒切数片、葱切段，留作最后装饰。",
+      "ingredientNames": ["盐", "白糖", "生抽", "蚝油", "料酒", "大蒜", "姜", "陈皮", "红辣椒", "葱"]
+    },
+    {
+      "text": "腌排骨：把调味碗倒入排骨碗中，揉捏 45 至 60 秒；豆豉剁碎后加入，再揉捏 20 至 30 秒；加入 1 茶匙香油和 2 汤匙玉米淀粉，继续揉捏约 60 秒，让每块排骨均匀裹上淀粉。",
+      "timerSeconds": 60,
+      "ingredientNames": ["排骨", "豆豉", "香油", "玉米淀粉"]
+    },
+    {
+      "text": "准备蒸制：炒锅开始加热，把蒸架放在锅中央，加沸水至刚刚没过蒸架；排骨铺入蒸盘，注意互不叠压以保证受热均匀；放上辣椒片，淋半茶匙食用油，蒸后排骨会油亮好看。",
+      "ingredientNames": ["排骨", "红辣椒", "食用油"]
+    },
+    {
+      "text": "加盖蒸 20 分钟：把蒸盘小心放到蒸架上，确认盘底与水面有少许接触；盖盖，开最大火蒸 20 分钟。",
+      "timerSeconds": 1200,
+      "ingredientNames": ["排骨"]
+    },
+    {
+      "text": "出锅装饰：20 分钟后关火开盖，撒上葱花，小心取出蒸盘，趁热与家人一起享用。",
+      "ingredientNames": ["葱"]
+    }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 45,
+  "difficulty": "简单",
+  "tags": ["蒸", "家常菜"],
+  "sourceUrl": "https://www.madewithlau.com/recipes/steamed-spare-ribs",
+  "author": "Daddy Lau",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自美国华人菜谱网站「麦德威斯劳」（原站名为英文）的公开食谱页《豉汁蒸排骨》，食材、步骤、时间均按原文转录；单位换算：1 磅约 454 克、1 汤匙约 15 毫升、1 茶匙约 5 毫升；玉米淀粉按清洗裹粉 1 汤匙与腌料 2 汤匙合计 45 毫升，陈皮为干陈皮泡发后切末用量；红辣椒原文未标数量，以适量计；原文标注备料 25 分钟、烹饪 20 分钟、共 45 分钟、供 4 人食用。"
+}

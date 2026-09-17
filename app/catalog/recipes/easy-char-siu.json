@@ -1,0 +1,36 @@
+{
+  "id": "easy-char-siu",
+  "title": "简易叉烧",
+  "ingredients": [
+    { "name": "猪肩肉", "amount": 350.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "pork-shoulder" },
+    { "name": "叉烧酱", "amount": 60.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "char-siu-sauce" },
+    { "name": "蚝油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "oyster-sauce" },
+    { "name": "生抽", "amount": 7.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
+    { "name": "五香粉", "amount": 1.3, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "five-spice-powder" },
+    { "name": "大蒜", "amount": 4.0, "unit": "瓣", "category": "蔬菜", "pantry": false, "mergeKey": "garlic" },
+    { "name": "姜", "amount": 5.0, "unit": "片", "category": "蔬菜", "pantry": false, "mergeKey": "ginger" },
+    { "name": "辣椒粉", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "chilli-powder" },
+    { "name": "蜂蜜", "amount": 10.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "honey" }
+  ],
+  "steps": [
+    { "text": "将猪肩肉放入可密封的塑料袋，加入叉烧酱、蚝油、生抽、五香粉、蒜片、姜片和辣椒粉（可选）全部腌料。", "ingredientNames": ["猪肩肉", "叉烧酱", "蚝油", "生抽", "五香粉", "大蒜", "姜", "辣椒粉"] },
+    { "text": "挤出袋内空气后封口，反复揉搓使腌料均匀包裹肉面，放入冰箱冷藏腌制至少六小时（最好过夜）。", "timerSeconds": 21600, "ingredientNames": ["猪肩肉"] },
+    { "text": "烘烤前取出猪肉，保留腌料备用。", "ingredientNames": ["猪肩肉"] },
+    { "text": "烤箱预热至二百二十摄氏度（风扇模式二百度）。若烤盘配烤架，盘内注入低于烤架的热水，肉放烤架上，烤盘置于烤箱中层；也可在烤箱底部放一只盛满热水的大烤盘，再把肉放中层烤架。", "ingredientNames": ["猪肩肉"] },
+    { "text": "烤十五分钟后取出翻面，刷一层腌料放回烤箱（确保盘内始终有足够的水）。", "timerSeconds": 900, "ingredientNames": ["猪肩肉", "叉烧酱"] },
+    { "text": "再烤十分钟；等待期间把两茶匙蜂蜜与两茶匙腌料拌匀。", "timerSeconds": 600, "ingredientNames": ["蜂蜜", "叉烧酱"] },
+    { "text": "将烤箱温度升至二百四十摄氏度（风扇二百二十度）。取出肉，刷上蜂蜜混合液。", "ingredientNames": ["猪肩肉", "蜂蜜"] },
+    { "text": "放回烤箱烤五分钟。", "timerSeconds": 300, "ingredientNames": ["猪肩肉"] },
+    { "text": "取出刷另一面蜂蜜混合液，再烤最后三分钟。", "timerSeconds": 180, "ingredientNames": ["猪肩肉", "蜂蜜"] },
+    { "text": "出炉静置五分钟再切片享用；也可把剩余腌料（捞出蒜片与姜片）加热后作蘸酱、汤底或拌面调味。", "timerSeconds": 300, "ingredientNames": ["大蒜", "姜"] }
+  ],
+  "baseServings": 3,
+  "durationMinutes": 40,
+  "difficulty": "简单",
+  "tags": ["烤", "家常菜"],
+  "sourceUrl": "https://redhousespice.com/char-siu-chinese-bbq-pork/",
+  "author": "Wei Guo / Red House Spice",
+  "fidelity": "verbatim-public",
+  "sourceNote": "本稿转录自对原页面的公开完整存档（含原作者署名、备料五分钟、烤制三十五分钟、共计四十分钟、三人份），食材与步骤为原文内容。换算：一汤匙约十五毫升、一茶匙约五毫升，十二盎司约三百四十克、原文按约三百五十克计；烤箱温度直接采用原文给出的摄氏数值（二百二十度与二百四十度）。辣椒粉在原文中标注可选。原文每份热量约四百一十九千卡。",
+  "nutrition": { "kcal": 419 }
+}

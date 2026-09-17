@@ -1,0 +1,25 @@
+{
+  "id": "homemade-chicken-stock",
+  "title": "自制鸡高汤",
+  "ingredients": [
+    { "name": "整鸡", "amount": 1816.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "whole-chicken" },
+    { "name": "小葱（切大段）", "amount": 3.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "green-onion" },
+    { "name": "姜（拍碎）", "amount": 1.0, "unit": "块", "category": "蔬菜", "pantry": false, "mergeKey": "ginger" },
+    { "name": "水", "amount": 3600.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" }
+  ],
+  "steps": [
+    { "text": "把整鸡放入大锅，加入小葱和姜，倒入水。", "ingredientNames": ["整鸡", "小葱（切大段）", "姜（拍碎）", "水"] },
+    { "text": "大火煮至沸腾，然后转小火保持微沸状态。", "ingredientNames": ["水"] },
+    { "text": "用勺撇去表面浮沫，盖上锅盖，小火慢炖约 4 小时。", "timerSeconds": 14400, "ingredientNames": ["整鸡", "小葱（切大段）", "姜（拍碎）"] },
+    { "text": "关火，让高汤连同鸡肉在锅内自然冷却至室温，然后小心取出鸡肉、小葱和姜。本配方约得 14 杯（3.3 升）高汤。" },
+    { "text": "将高汤分装入储存容器，按需分成小份。冷藏可存 4 天，冷冻可存 6 个月。" }
+  ],
+  "durationMinutes": 250,
+  "difficulty": "简单",
+  "tags": ["煮", "汤底", "家常菜"],
+  "sourceUrl": "https://redhousespice.com/homemade-chicken-stock/",
+  "author": "Wei Guo",
+  "fidelity": "verbatim-public",
+  "sourceNote": "转录自红屋香料（魏国）公开菜谱页「自制鸡高汤」菜谱卡原文（备料 2 分钟、烹饪约 4 小时 8 分钟、合计 250 分钟，成品约 14 杯即 3.3 升，每杯约 25 千卡），并翻译为简体中文。原文份量为杯数而非人数，故未填基础份量。单位换算：4 磅≈1816 克；15 杯≈3600 毫升（3.6 升）；原文建议选用新鲜放养鸡，高汤不调味，用前务必煮沸。第 3 步计时（约 4 小时）及冷藏 4 天、冷冻 6 个月均取自原文。",
+  "nutrition": { "kcal": 25 }
+}

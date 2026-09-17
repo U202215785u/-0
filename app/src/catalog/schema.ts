@@ -39,6 +39,7 @@ export const recipeSchema = z.object({
   }).strict().optional(),
   tags: z.array(z.string()).optional(),
   durationMinutes: positiveNumber.optional(),
+  difficulty: z.enum(['简单', '中等', '较难']).optional(),
 }).strict().superRefine(({ ingredients, steps }, context) => {
   const ingredientNames = new Set(ingredients.map((ingredient) => ingredient.name));
   steps.forEach((step, stepIndex) => {
