@@ -3,6 +3,8 @@ import type { Recipe } from './types';
 export type QualityIssueCode =
   | 'minimum-count'
   | 'duplicate-id'
+  | 'duplicate-title'
+  | 'duplicate-source-url'
   | 'missing-source-author'
   | 'missing-source-url'
   | 'missing-duration'
@@ -49,9 +51,19 @@ export function getCatalogQualityIssues(catalog: Recipe[], minimumCount = 50): Q
   }
 
   const seen = new Set<string>();
+  const titles = new Map<string, string>();
+  const sources = new Map<string, string>();
   for (const recipe of catalog) {
     if (seen.has(recipe.id)) issues.push({ code: 'duplicate-id', recipeId: recipe.id });
     seen.add(recipe.id);
+    const existingTitle = recipe.title.trim() && titles.get(recipe.title.trim());
+    if (existingTitle !== undefined) issues.push({ code: 'duplicate-title', recipeId: recipe.id, detail: `title "${recipe.title}" also used by ${existingTitle}` });
+    if (recipe.title.trim()) titles.set(recipe.title.trim(), recipe.id);
+    if (recipe.sourceUrl?.trim()) {
+      const existingSource = sources.get(recipe.sourceUrl.trim());
+      if (existingSource !== undefined) issues.push({ code: 'duplicate-source-url', recipeId: recipe.id, detail: `source ${recipe.sourceUrl} also used by ${existingSource}` });
+      else sources.set(recipe.sourceUrl.trim(), recipe.id);
+    }
     if (!recipe.sourceUrl?.trim()) issues.push({ code: 'missing-source-url', recipeId: recipe.id });
     if (!recipe.author?.trim()) issues.push({ code: 'missing-source-author', recipeId: recipe.id });
     if (recipe.durationMinutes === undefined) issues.push({ code: 'missing-duration', recipeId: recipe.id });

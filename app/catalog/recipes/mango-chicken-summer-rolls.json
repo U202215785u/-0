@@ -1,0 +1,49 @@
+{
+  "id": "mango-chicken-summer-rolls",
+  "title": "芒果鸡肉夏卷",
+  "ingredients": [
+    { "name": "花生酱（顺滑型）", "amount": 120.0, "unit": "克", "category": "调味料", "pantry": false, "mergeKey": "花生酱" },
+    { "name": "辣椒酱（如是拉差酱）", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "辣椒酱" },
+    { "name": "蒸馏白醋", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "白醋" },
+    { "name": "蚝油", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "蚝油" },
+    { "name": "鱼露", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "鱼露" },
+    { "name": "糖", "amount": 12.0, "unit": "克", "category": "调味料", "pantry": true, "mergeKey": "糖" },
+    { "name": "清水", "amount": 60.0, "unit": "毫升", "category": "其他", "pantry": true, "mergeKey": "水" },
+    { "name": "熟鸡肉（手撕，约半只烤鸡）", "amount": 280.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "鸡肉" },
+    { "name": "辣椒酱（如是拉差酱）", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "辣椒酱" },
+    { "name": "蚝油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "蚝油" },
+    { "name": "粗盐（犹太盐）", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "盐" },
+    { "name": "越南米纸（直径 20 厘米）", "amount": 12.0, "unit": "张", "category": "米面主食", "pantry": false, "mergeKey": "米纸" },
+    { "name": "黄油生菜", "amount": 1.0, "unit": "棵", "category": "蔬菜", "pantry": false, "mergeKey": "生菜" },
+    { "name": "爽脆蔬菜（胡萝卜、樱桃萝卜或黄瓜切 5 厘米火柴棒状）", "amount": 360.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "爽脆蔬菜" },
+    { "name": "大个芒果（去皮去核，切 5 厘米条）", "amount": 1.0, "unit": "个", "category": "水果", "pantry": false, "mergeKey": "芒果" },
+    { "name": "香菜（去粗茎，切 2.5 厘米段）", "amount": 0.5, "unit": "把", "category": "蔬菜", "pantry": false, "mergeKey": "香菜" },
+    { "name": "植物油（装盘用）", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "植物油" }
+  ],
+  "steps": [
+    {
+      "text": "中碗中放入半杯（约 120 克）顺滑花生酱、2 汤匙辣椒酱（如是拉差酱）、2 汤匙蒸馏白醋、2 汤匙蚝油、1 汤匙鱼露、1 汤匙糖和四分之一杯（约 60 毫升）清水，搅打至顺滑浓稠。若酱汁偏稠，加几滴水调稀到番茄酱般的稠度。",
+      "ingredientNames": ["花生酱（顺滑型）", "辣椒酱（如是拉差酱）", "蒸馏白醋", "蚝油", "鱼露", "糖", "清水"]
+    },
+    {
+      "text": "中碗中放入 2 杯（约 280 克）手撕熟鸡肉、1 汤匙辣椒酱（如是拉差酱）、1 汤匙蚝油和一小撮粗盐，拌匀让鸡肉裹上酱料。",
+      "ingredientNames": ["熟鸡肉（手撕，约半只烤鸡）", "辣椒酱（如是拉差酱）", "蚝油", "粗盐（犹太盐）"]
+    },
+    {
+      "text": "每次一张，把 12 张直径 20 厘米的越南米纸逐一浸入装满凉水的大浅碗中，浸到表面刚沾上一层水膜即可（不要泡到软塌）。抖掉多余水分，平铺在案板上。取黄油生菜 1 片（叶片小就 2 片）铺在米纸下三分之一处当作\"小碗\"，在生菜上放约四分之一杯爽脆蔬菜条、2 汤匙拌好的鸡肉、几根芒果条和几段香菜，然后把米纸两侧向中间折，从靠身体的一侧开始，轻轻但紧实地卷起来。用剩余食材再卷 11 个。",
+      "ingredientNames": ["越南米纸（直径 20 厘米）", "黄油生菜", "爽脆蔬菜（胡萝卜、樱桃萝卜或黄瓜切 5 厘米火柴棒状）", "熟鸡肉（手撕，约半只烤鸡）", "大个芒果（去皮去核，切 5 厘米条）", "香菜（去粗茎，切 2.5 厘米段）"]
+    },
+    {
+      "text": "盘子上薄薄涂一层植物油，放上夏卷。喜欢的话斜切成两半，蘸花生酱汁食用。",
+      "ingredientNames": ["植物油（装盘用）"]
+    }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 30,
+  "difficulty": "简单",
+  "tags": ["凉拌", "快手菜", "家常菜"],
+  "sourceUrl": "https://www.bonappetit.com/recipe/mango-chicken-summer-rolls",
+  "author": "Shilpa Uskokovic",
+  "fidelity": "structured-transcription",
+  "sourceNote": "转录自《好胃口》杂志网站公开页面的结构化菜谱数据（作者希帕·乌斯科科维奇；原文标注 4 人份、总时长 30 分钟）。单位换算：1 杯约 240 毫升、1 汤匙约 15 毫升、1 茶匙约 5 毫升；半杯花生酱约 120 克、2 杯手撕鸡肉约 280 克、3 杯爽脆蔬菜约 360 克、1 汤匙糖约 12 克；米纸直径 8 英寸约 20 厘米、切条 2 英寸约 5 厘米、1 英寸约 2.5 厘米。花生酱汁与拌鸡肉使用的辣椒酱和蚝油为同一物料，周计划购物清单会自动合并数量。"
+}

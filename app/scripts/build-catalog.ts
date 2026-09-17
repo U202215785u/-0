@@ -17,7 +17,12 @@ export function buildCatalog(inputDir: string): Recipe[] {
       }
 
       try {
-        return parseRecipe(contents);
+        const recipe = parseRecipe(contents);
+        const filenameStem = entry.name.slice(0, -'.json'.length);
+        if (recipe.id !== filenameStem) {
+          throw new Error(`recipe id "${recipe.id}" does not match filename "${entry.name}"`);
+        }
+        return recipe;
       } catch (error) {
         throw new Error(`Failed to validate ${entry.name}: ${error instanceof Error ? error.message : String(error)}`, { cause: error });
       }

@@ -43,6 +43,15 @@ describe('catalog quality gate', () => {
     ]))
   })
 
+  it('flags recipes that repeat a title or reuse the same source page', () => {
+    const recipeA = validRecipe(1)
+    const duplicateTitle = { ...validRecipe(2), title: recipeA.title }
+    const duplicateSource = { ...validRecipe(3), sourceUrl: recipeA.sourceUrl }
+
+    expect(getCatalogQualityIssues([recipeA, duplicateTitle, duplicateSource], 1).map((issue) => issue.code))
+      .toEqual(expect.arrayContaining(['duplicate-title', 'duplicate-source-url']))
+  })
+
   it('builds the cookable catalog only from canonical recipe files', () => {
     const catalog = loadGeneratedCatalog()
 

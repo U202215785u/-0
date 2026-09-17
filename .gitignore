@@ -18,3 +18,7 @@ wpapi*.json
 cel1.txt
 sg2.json
 jc-sm-*.xml
+
+# Transient data extraction (work/ keeps only tracked docs and ignored screenshots)
+work/*
+!work/docs/

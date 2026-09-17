@@ -1,6 +1,8 @@
-# 菜品索引（已核验 54 道）
+# 菜品索引（已核验 57 道）
 
 以下每一条都直接链接至署名创作者或机构的公开原始页面。`verbatim-public` 表示原页公开了食材与方法；`structured-transcription` 表示本库另有一份仅按公开内容整理的 Cooklang 文件；`source-summary` 表示原页可用，但本库不把它转为本地可执行文件。
+
+`app/catalog/recipes/` 中每道菜只保留一份 canonical JSON，同一来源页面不重复收录；质量门会拦截重复标题、重复来源链接与文件名和 id 不一致的记录。
 
 | # | 菜名 | 分类 | 来源 | 原始页面 | 家庭设备 | 技术重点 | 状态 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -58,3 +60,6 @@
 | 52 | Green chutney chicken | international | Shilpa Uskokovic / Bon Appetit | https://www.bonappetit.com/recipe/green-chutney-chicken | 烤箱 | 香草酱平衡、腌制和炙烤 | source-summary |
 | 53 | 东北老虎菜 Northeast Tiger Salad | cold-dish | Wei Guo / Red House Spice | https://redhousespice.com/northeast-tiger-salad/ | 刀、拌碗 | 同形切配、现拌控水和醋香平衡 | verbatim-public |
 | 54 | 凉拌粉丝 Glass Noodle Salad | cold-dish | Wei Guo / Red House Spice | https://redhousespice.com/glass-noodle-salad/ | 汤锅、拌碗 | 粉丝泡煮、冰水冷却和热油激香 | verbatim-public |
+| 55 | 简易叉烧 Easy Char Siu | braise | Wei Guo / Red House Spice | https://redhousespice.com/char-siu-chinese-bbq-pork/ | 烤箱 | 腌料组合、低温烤制与上色 | verbatim-public |
+| 56 | 炸酱面 Zha Jiang Mian | staple | Wei Guo / Red House Spice | https://redhousespice.com/zha-jiang-mian/ | 炒锅、汤锅 | 肉酱炒制、配菜切配与面条煮制 | verbatim-public |
+| 57 | 芒果鸡肉夏卷 Mango Chicken Summer Rolls | cold-dish | Shilpa Uskokovic / Bon Appétit | https://www.bonappetit.com/recipe/mango-chicken-summer-rolls | 案板、大浅碗 | 米纸浸水、蔬菜条切配与花生酱汁 | structured-transcription |

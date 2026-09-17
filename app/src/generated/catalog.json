@@ -843,179 +843,6 @@
     "difficulty": "中等"
   },
   {
-    "id": "char-siu",
-    "title": "叉烧",
-    "ingredients": [
-      {
-        "name": "猪肩肉",
-        "mergeKey": "pork-shoulder",
-        "amount": 2,
-        "unit": "块",
-        "category": "肉类",
-        "pantry": false
-      },
-      {
-        "name": "叉烧酱",
-        "mergeKey": "char-siu-sauce",
-        "amount": 4,
-        "unit": "汤匙",
-        "category": "调味料",
-        "pantry": false
-      },
-      {
-        "name": "蚝油",
-        "mergeKey": "oyster-sauce",
-        "amount": 1,
-        "unit": "汤匙",
-        "category": "调味料",
-        "pantry": true
-      },
-      {
-        "name": "生抽",
-        "mergeKey": "soy-sauce",
-        "amount": 0.5,
-        "unit": "汤匙",
-        "category": "调味料",
-        "pantry": true
-      },
-      {
-        "name": "五香粉",
-        "mergeKey": "five-spice",
-        "amount": 0.25,
-        "unit": "茶匙",
-        "category": "调味料",
-        "pantry": false
-      },
-      {
-        "name": "大蒜",
-        "mergeKey": "garlic",
-        "amount": 4,
-        "unit": "瓣",
-        "category": "蔬菜",
-        "pantry": false
-      },
-      {
-        "name": "生姜",
-        "mergeKey": "ginger",
-        "amount": 5,
-        "unit": "片",
-        "category": "蔬菜",
-        "pantry": false
-      },
-      {
-        "name": "辣椒粉（可选）",
-        "mergeKey": "chilli-flakes",
-        "amount": 0.5,
-        "unit": "茶匙",
-        "category": "调味料",
-        "pantry": false
-      },
-      {
-        "name": "蜂蜜",
-        "mergeKey": "honey",
-        "amount": 2,
-        "unit": "茶匙",
-        "category": "调味料",
-        "pantry": false
-      }
-    ],
-    "steps": [
-      {
-        "text": "把猪肩肉放入可密封的塑料袋，加入全部腌料（叉烧酱、蚝油、生抽、五香粉、蒜瓣、姜片和辣椒粉）。",
-        "ingredientNames": [
-          "猪肩肉",
-          "叉烧酱",
-          "蚝油",
-          "生抽",
-          "五香粉",
-          "大蒜",
-          "生姜",
-          "辣椒粉（可选）"
-        ]
-      },
-      {
-        "text": "排出袋内空气后封口，揉搓使腌料均匀裹上肉面，放入冰箱腌制至少6小时（最好过夜）。",
-        "timerSeconds": 21600,
-        "ingredientNames": [
-          "猪肩肉"
-        ]
-      },
-      {
-        "text": "烤制前从袋中取出肉，腌料保留备用。"
-      },
-      {
-        "text": "烤箱预热至四百二十五华氏度（约二百二十摄氏度，风扇烤箱约二百摄氏度）。"
-      },
-      {
-        "text": "若使用能放入烤盘的烤架，在烤盘里注入热水（水面低于烤架），把肉放在烤架上，烤盘置于烤箱中层。",
-        "ingredientNames": [
-          "猪肩肉"
-        ]
-      },
-      {
-        "text": "也可在烤箱底部放一大盘热水，再把肉放在中层烤架上烤。",
-        "ingredientNames": [
-          "猪肩肉"
-        ]
-      },
-      {
-        "text": "烤15分钟后取出翻面，刷一层腌料后放回烤箱（确保烤盘里始终有水）。",
-        "timerSeconds": 900,
-        "ingredientNames": [
-          "猪肩肉"
-        ]
-      },
-      {
-        "text": "再烤10分钟。等待期间把2茶匙蜂蜜与2茶匙腌料拌匀。",
-        "timerSeconds": 600,
-        "ingredientNames": [
-          "蜂蜜"
-        ]
-      },
-      {
-        "text": "把烤箱温度升至四百六十华氏度（约二百四十摄氏度，风扇烤箱约二百二十摄氏度），取出肉，刷上蜂蜜混合液。",
-        "ingredientNames": [
-          "猪肩肉"
-        ]
-      },
-      {
-        "text": "放回烤箱烤5分钟，另一面也刷上蜂蜜混合液，最后再烤3分钟。",
-        "timerSeconds": 480,
-        "ingredientNames": [
-          "猪肩肉"
-        ]
-      },
-      {
-        "text": "静置5分钟后切片，按喜好装盘食用。",
-        "timerSeconds": 300,
-        "ingredientNames": [
-          "猪肩肉"
-        ]
-      },
-      {
-        "text": "也可把剩余腌料（拣去蒜片和姜片）加热后作为酱汁、汤底或拌面调料。",
-        "ingredientNames": [
-          "大蒜",
-          "生姜"
-        ]
-      }
-    ],
-    "baseServings": 3,
-    "sourceUrl": "https://redhousespice.com/char-siu-chinese-bbq-pork/",
-    "author": "Wei Guo / Red House Spice",
-    "fidelity": "verbatim-public",
-    "sourceNote": "转录自红房子中菜网公开菜谱页（对应公开存档数据，该页为作者原创叉烧食谱）。备料五分钟加烤制三十五分钟合计四十分钟；一茶匙约五毫升、一汤匙约十五毫升；华氏温度换算按原文给出（约二百二十度与约二百四十度，风扇烤箱略低）。",
-    "nutrition": {
-      "kcal": 419
-    },
-    "tags": [
-      "烤",
-      "家常菜"
-    ],
-    "durationMinutes": 40,
-    "difficulty": "简单"
-  },
-  {
     "id": "silken-tofu-soy-dressing",
     "title": "豉油嫩豆腐",
     "ingredients": [
@@ -4947,6 +4774,198 @@
     ],
     "durationMinutes": 20,
     "difficulty": "中等"
+  },
+  {
+    "id": "mango-chicken-summer-rolls",
+    "title": "芒果鸡肉夏卷",
+    "ingredients": [
+      {
+        "name": "花生酱（顺滑型）",
+        "mergeKey": "花生酱",
+        "amount": 120,
+        "unit": "克",
+        "category": "调味料",
+        "pantry": false
+      },
+      {
+        "name": "辣椒酱（如是拉差酱）",
+        "mergeKey": "辣椒酱",
+        "amount": 30,
+        "unit": "毫升",
+        "category": "调味料",
+        "pantry": false
+      },
+      {
+        "name": "蒸馏白醋",
+        "mergeKey": "白醋",
+        "amount": 30,
+        "unit": "毫升",
+        "category": "调味料",
+        "pantry": false
+      },
+      {
+        "name": "蚝油",
+        "mergeKey": "蚝油",
+        "amount": 30,
+        "unit": "毫升",
+        "category": "调味料",
+        "pantry": true
+      },
+      {
+        "name": "鱼露",
+        "mergeKey": "鱼露",
+        "amount": 15,
+        "unit": "毫升",
+        "category": "调味料",
+        "pantry": false
+      },
+      {
+        "name": "糖",
+        "mergeKey": "糖",
+        "amount": 12,
+        "unit": "克",
+        "category": "调味料",
+        "pantry": true
+      },
+      {
+        "name": "清水",
+        "mergeKey": "水",
+        "amount": 60,
+        "unit": "毫升",
+        "category": "其他",
+        "pantry": true
+      },
+      {
+        "name": "熟鸡肉（手撕，约半只烤鸡）",
+        "mergeKey": "鸡肉",
+        "amount": 280,
+        "unit": "克",
+        "category": "肉类",
+        "pantry": false
+      },
+      {
+        "name": "辣椒酱（如是拉差酱）",
+        "mergeKey": "辣椒酱",
+        "amount": 15,
+        "unit": "毫升",
+        "category": "调味料",
+        "pantry": false
+      },
+      {
+        "name": "蚝油",
+        "mergeKey": "蚝油",
+        "amount": 15,
+        "unit": "毫升",
+        "category": "调味料",
+        "pantry": true
+      },
+      {
+        "name": "粗盐（犹太盐）",
+        "mergeKey": "盐",
+        "quantityText": "适量",
+        "category": "调味料",
+        "pantry": true
+      },
+      {
+        "name": "越南米纸（直径 20 厘米）",
+        "mergeKey": "米纸",
+        "amount": 12,
+        "unit": "张",
+        "category": "米面主食",
+        "pantry": false
+      },
+      {
+        "name": "黄油生菜",
+        "mergeKey": "生菜",
+        "amount": 1,
+        "unit": "棵",
+        "category": "蔬菜",
+        "pantry": false
+      },
+      {
+        "name": "爽脆蔬菜（胡萝卜、樱桃萝卜或黄瓜切 5 厘米火柴棒状）",
+        "mergeKey": "爽脆蔬菜",
+        "amount": 360,
+        "unit": "克",
+        "category": "蔬菜",
+        "pantry": false
+      },
+      {
+        "name": "大个芒果（去皮去核，切 5 厘米条）",
+        "mergeKey": "芒果",
+        "amount": 1,
+        "unit": "个",
+        "category": "水果",
+        "pantry": false
+      },
+      {
+        "name": "香菜（去粗茎，切 2.5 厘米段）",
+        "mergeKey": "香菜",
+        "amount": 0.5,
+        "unit": "把",
+        "category": "蔬菜",
+        "pantry": false
+      },
+      {
+        "name": "植物油（装盘用）",
+        "mergeKey": "植物油",
+        "quantityText": "适量",
+        "category": "调味料",
+        "pantry": true
+      }
+    ],
+    "steps": [
+      {
+        "text": "中碗中放入半杯（约 120 克）顺滑花生酱、2 汤匙辣椒酱（如是拉差酱）、2 汤匙蒸馏白醋、2 汤匙蚝油、1 汤匙鱼露、1 汤匙糖和四分之一杯（约 60 毫升）清水，搅打至顺滑浓稠。若酱汁偏稠，加几滴水调稀到番茄酱般的稠度。",
+        "ingredientNames": [
+          "花生酱（顺滑型）",
+          "辣椒酱（如是拉差酱）",
+          "蒸馏白醋",
+          "蚝油",
+          "鱼露",
+          "糖",
+          "清水"
+        ]
+      },
+      {
+        "text": "中碗中放入 2 杯（约 280 克）手撕熟鸡肉、1 汤匙辣椒酱（如是拉差酱）、1 汤匙蚝油和一小撮粗盐，拌匀让鸡肉裹上酱料。",
+        "ingredientNames": [
+          "熟鸡肉（手撕，约半只烤鸡）",
+          "辣椒酱（如是拉差酱）",
+          "蚝油",
+          "粗盐（犹太盐）"
+        ]
+      },
+      {
+        "text": "每次一张，把 12 张直径 20 厘米的越南米纸逐一浸入装满凉水的大浅碗中，浸到表面刚沾上一层水膜即可（不要泡到软塌）。抖掉多余水分，平铺在案板上。取黄油生菜 1 片（叶片小就 2 片）铺在米纸下三分之一处当作\"小碗\"，在生菜上放约四分之一杯爽脆蔬菜条、2 汤匙拌好的鸡肉、几根芒果条和几段香菜，然后把米纸两侧向中间折，从靠身体的一侧开始，轻轻但紧实地卷起来。用剩余食材再卷 11 个。",
+        "ingredientNames": [
+          "越南米纸（直径 20 厘米）",
+          "黄油生菜",
+          "爽脆蔬菜（胡萝卜、樱桃萝卜或黄瓜切 5 厘米火柴棒状）",
+          "熟鸡肉（手撕，约半只烤鸡）",
+          "大个芒果（去皮去核，切 5 厘米条）",
+          "香菜（去粗茎，切 2.5 厘米段）"
+        ]
+      },
+      {
+        "text": "盘子上薄薄涂一层植物油，放上夏卷。喜欢的话斜切成两半，蘸花生酱汁食用。",
+        "ingredientNames": [
+          "植物油（装盘用）"
+        ]
+      }
+    ],
+    "baseServings": 4,
+    "sourceUrl": "https://www.bonappetit.com/recipe/mango-chicken-summer-rolls",
+    "author": "Shilpa Uskokovic",
+    "fidelity": "structured-transcription",
+    "sourceNote": "转录自《好胃口》杂志网站公开页面的结构化菜谱数据（作者希帕·乌斯科科维奇；原文标注 4 人份、总时长 30 分钟）。单位换算：1 杯约 240 毫升、1 汤匙约 15 毫升、1 茶匙约 5 毫升；半杯花生酱约 120 克、2 杯手撕鸡肉约 280 克、3 杯爽脆蔬菜约 360 克、1 汤匙糖约 12 克；米纸直径 8 英寸约 20 厘米、切条 2 英寸约 5 厘米、1 英寸约 2.5 厘米。花生酱汁与拌鸡肉使用的辣椒酱和蚝油为同一物料，周计划购物清单会自动合并数量。",
+    "tags": [
+      "凉拌",
+      "快手菜",
+      "家常菜"
+    ],
+    "durationMinutes": 30,
+    "difficulty": "简单"
   },
   {
     "id": "mei-cai-kou-rou",

@@ -44,9 +44,18 @@ describe('buildCatalog', () => {
     expect(() => buildCatalog(directory)).toThrow(/invalid\.json/);
   });
 
+  it('rejects a recipe whose id does not match its filename', () => {
+    const directory = fixtureDirectory({
+      'beef.json': { id: 'beef-chow-fun', title: 'Beef Chow Fun', ingredients: [{ name: 'beef' }], steps: [{ text: 'Cook beef.' }] },
+    });
+
+    expect(() => buildCatalog(directory)).toThrow(/beef\.json/);
+    expect(() => buildCatalog(directory)).toThrow(/beef-chow-fun/);
+  });
+
   it('retains source fidelity fields in generated catalog records', () => {
     const directory = fixtureDirectory({
-      'beef.json': {
+      'beef-chow-fun.json': {
         id: 'beef-chow-fun', title: 'Beef Chow Fun', ingredients: [{ name: 'beef' }], steps: [{ text: 'Cook beef.' }],
         fidelity: 'structured-transcription', sourceNote: 'Quantities, timing, and operational sequence are transcribed from the cited public recipe page. Read the source page for its full visual guidance and context.',
       },
