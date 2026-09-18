@@ -1,5 +1,6 @@
 import type { Recipe } from '../../catalog/types'
 import type { TagDimensionKey } from '../../catalog/tags'
+import { scoreQuery } from '../../search/fuzzy'
 
 export type DifficultyFilter = '简单' | '中等' | '较难'
 
@@ -34,8 +35,7 @@ export function hasActiveFilters(filters: RecipeFilters): boolean {
 
 function matchesQuery(recipe: Recipe, needle: string): boolean {
   if (!needle) return true
-  return [recipe.title, ...recipe.ingredients.map((item) => item.name), ...(recipe.tags ?? [])]
-    .join(' ').toLocaleLowerCase().includes(needle)
+  return scoreQuery(recipe, needle) > 0
 }
 
 function matchesDuration(recipe: Recipe, bucket?: DurationBucketKey): boolean {

@@ -10,7 +10,7 @@ test.describe('mobile recipe flow', () => {
       await expect(page.getByRole('heading', { name: '今天吃什么' })).toBeVisible()
       await expect(page.getByRole('navigation', { name: '底部导航' })).toBeVisible()
 
-      await page.getByPlaceholder('搜菜名、食材或标签').fill('牛河')
+      await page.getByPlaceholder('搜菜名、食材、标签或拼音').fill('牛河')
       await page.getByRole('link', { name: /干炒牛河/ }).click()
       await expect(page.getByRole('heading', { name: /干炒牛河/ })).toBeVisible()
 
@@ -73,7 +73,8 @@ test.describe('choose and import flow at 390px', () => {
 
 test.describe('mobile shopping persistence', () => {
   test('checked state survives a reload', async ({ page }) => {
-    await page.setViewportSize({ width: 390, height: 844 })
+    // 依赖移动端日期条 + .planner-slot-card 布局，桌面网格不适用
+    test.skip((await page.viewportSize())!.width > 640, 'mobile layout only')
     await page.goto('/#/planner')
     await page.getByRole('combobox', { name: '菜单食谱' }).selectOption({ label: '干炒牛河' })
     await page.getByRole('button', { name: /添加午餐/ }).click()
@@ -81,6 +82,23 @@ test.describe('mobile shopping persistence', () => {
     const checkbox = page.getByRole('checkbox', { name: '牛肉' })
     await checkbox.check()
     await expect(checkbox).toBeChecked()
+    // 等 IndexedDB 写入落定再刷新，避免 reload 打断写事务（确定性而非碰运气）
+    await page.waitForFunction(async () => {
+      const open = indexedDB.open('family-recipe')
+      const db = await new Promise<IDBDatabase>((resolve, reject) => {
+        open.onsuccess = () => resolve(open.result)
+        open.onerror = () => reject(open.error)
+      })
+      try {
+        const tx = db.transaction('shopping', 'readonly')
+        return await new Promise<boolean>((resolve) => {
+          const req = tx.objectStore('shopping').get('beef|克')
+          req.onsuccess = () => resolve(Boolean(req.result && req.result.checked))
+        })
+      } finally {
+        db.close()
+      }
+    }, { polling: 50, timeout: 5000 })
     await page.reload()
     await expect(page.getByRole('heading', { name: '购物清单' })).toBeVisible({ timeout: 10000 })
     await expect(page.getByRole('checkbox', { name: '牛肉' })).toBeChecked({ timeout: 10000 })

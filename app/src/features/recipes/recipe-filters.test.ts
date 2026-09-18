@@ -30,6 +30,22 @@ describe('recipe filters', () => {
     expect(filterRecipes(catalog, { ...emptyFilters(), query: '高蛋白' }).map((r) => r.id)).toEqual(['steamed-fish'])
   })
 
+  it('fuzzy search: subsequence, typo tolerance and pinyin', () => {
+    const catalogFuzzy: Recipe[] = [
+      ...catalog,
+      { id: 'yuba-pork', title: '腐竹烧肉', ingredients: [{ name: '五花肉' }, { name: '腐竹' }], steps: [{ text: '红烧收汁' }], tags: ['烧焖', '家常菜'] },
+    ]
+    // 漏字（子序列）：腐竹肉 → 腐竹烧肉
+    expect(filterRecipes(catalogFuzzy, { ...emptyFilters(), query: '腐竹肉' }).map((r) => r.id)).toEqual(['yuba-pork'])
+    // 错字（编辑距离）：腐轩烧肉 → 腐竹烧肉
+    expect(filterRecipes(catalogFuzzy, { ...emptyFilters(), query: '腐轩烧肉' }).map((r) => r.id)).toEqual(['yuba-pork'])
+    // 拼音全拼与首字母
+    expect(filterRecipes(catalogFuzzy, { ...emptyFilters(), query: 'fuzhushaorou' }).map((r) => r.id)).toEqual(['yuba-pork'])
+    expect(filterRecipes(catalogFuzzy, { ...emptyFilters(), query: 'fzsr' }).map((r) => r.id)).toEqual(['yuba-pork'])
+    // 无关查询不命中
+    expect(filterRecipes(catalogFuzzy, { ...emptyFilters(), query: '披萨' })).toEqual([])
+  })
+
   it('treats tags within one dimension as OR', () => {
     const filters = withTags(emptyFilters(), { method: ['炒', '煮'] })
     expect(filterRecipes(catalog, filters).map((r) => r.id).sort()).toEqual(['beef-chow-fun', 'fried-rice', 'tomato-soup'])

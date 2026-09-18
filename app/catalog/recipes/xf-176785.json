@@ -40,7 +40,7 @@
       "category": "调味料",
       "pantry": true,
       "amount": 30,
-      "unit": "ml"
+      "unit": "毫升"
     },
     {
       "name": "老抽",
@@ -48,7 +48,7 @@
       "category": "调味料",
       "pantry": true,
       "amount": 10,
-      "unit": "ml"
+      "unit": "毫升"
     },
     {
       "name": "冰糖",
@@ -64,7 +64,7 @@
       "category": "调味料",
       "pantry": true,
       "amount": 15,
-      "unit": "ml"
+      "unit": "毫升"
     }
   ],
   "steps": [

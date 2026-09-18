@@ -3,9 +3,12 @@
   "title": "豆角炒肉",
   "ingredients": [
     {
-      "name": "豆角500g",
+      "name": "豆角",
+      "mergeKey": "green-bean",
       "category": "蔬菜",
-      "pantry": false
+      "pantry": false,
+      "amount": 500,
+      "unit": "克"
     },
     {
       "name": "姜",
@@ -41,7 +44,7 @@
   ],
   "steps": [
     {
-      "text": "准备好食材，豆角500g+五花肉"
+      "text": "准备好食材，豆角500+五花肉"
     },
     {
       "text": "首先热锅冷油将大蒜，姜，加入 其次将五花肉爆炸，八分熟之后再加入豆角爆炒。 最后差不多熟加入适量的盐和鸡精"
@@ -63,9 +66,9 @@
   "durationMinutes": 21,
   "difficulty": "简单",
   "nutrition": {
-    "kcal": 16,
-    "proteinG": 0.8,
-    "carbsG": 3.1,
-    "fatG": 0
+    "kcal": 100,
+    "proteinG": 5.8,
+    "carbsG": 18.1,
+    "fatG": 0.5
   }
 }

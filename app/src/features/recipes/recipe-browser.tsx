@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import type { Recipe } from '../../catalog/types'
 import { TAG_DIMENSION_LIST, type TagDimensionKey } from '../../catalog/tags'
+import { scoreQuery } from '../../search/fuzzy'
 import {
   DIFFICULTIES,
   DURATION_BUCKETS,
@@ -25,7 +26,15 @@ function toggleTag(selection: TagSelection, dimension: TagDimensionKey, tag: str
 
 export function RecipeBrowser({ catalog, chooseOnly = false }: { catalog: Recipe[]; chooseOnly?: boolean }) {
   const [filters, setFilters] = useState<RecipeFilters>(emptyFilters)
-  const recipes = useMemo(() => filterRecipes(catalog, filters), [catalog, filters])
+  const filtered = useMemo(() => filterRecipes(catalog, filters), [catalog, filters])
+  // 有查询词时按模糊相关度排序：精确标题命中最靠前，其次子串/拼音/错字容忍命中
+  const recipes = useMemo(() => {
+    const query = filters.query.trim()
+    if (!query) return filtered
+    return [...filtered].sort(
+      (a, b) => scoreQuery(b, query) - scoreQuery(a, query) || a.title.localeCompare(b.title, 'zh-CN'),
+    )
+  }, [filtered, filters.query])
   const active = hasActiveFilters(filters)
   const clearAll = () => setFilters(emptyFilters())
 
@@ -46,9 +55,9 @@ export function RecipeBrowser({ catalog, chooseOnly = false }: { catalog: Recipe
   )
 
   return <main className="recipe-browser">
-    <header>{chooseOnly && <a className="back-link" href="#/choose">返回点菜</a>}<p className="eyebrow">{chooseOnly ? '点菜模式' : '家庭菜谱'}</p><h1>{chooseOnly ? '选菜' : '今天吃什么'}</h1><p className="subtitle">{chooseOnly ? '只选想吃的菜，不做其他修改。' : '搜索菜名、食材或标签，再用下面的筛选收窄范围。'}</p></header>
+    <header>{chooseOnly && <a className="back-link" href="#/choose">返回点菜</a>}<p className="eyebrow">{chooseOnly ? '点菜模式' : '家庭菜谱'}</p><h1>{chooseOnly ? '选菜' : '今天吃什么'}</h1><p className="subtitle">{chooseOnly ? '只选想吃的菜，不做其他修改。' : '支持菜名、食材、标签或拼音的模糊搜索，再用下面的筛选收窄范围。'}</p></header>
     <div className="browse-filters">
-      <label className="search-field">搜索食谱<input aria-label="搜索食谱" role="searchbox" value={filters.query} onChange={(event) => setFilters((current) => ({ ...current, query: event.target.value }))} placeholder="搜菜名、食材或标签" /></label>
+      <label className="search-field">搜索食谱<input aria-label="搜索食谱" role="searchbox" value={filters.query} onChange={(event) => setFilters((current) => ({ ...current, query: event.target.value }))} placeholder="搜菜名、食材、标签或拼音" /></label>
       {TAG_DIMENSION_LIST.map(tagGroup)}
       <fieldset className="filter-group">
         <legend>难度</legend>

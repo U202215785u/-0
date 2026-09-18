@@ -31,7 +31,7 @@
       "category": "调味料",
       "pantry": true,
       "amount": 15,
-      "unit": "ml"
+      "unit": "毫升"
     },
     {
       "name": "醋",
@@ -39,7 +39,7 @@
       "category": "调味料",
       "pantry": true,
       "amount": 3,
-      "unit": "ml"
+      "unit": "毫升"
     },
     {
       "name": "水淀粉",
@@ -54,7 +54,7 @@
       "category": "调味料",
       "pantry": true,
       "amount": 5,
-      "unit": "ml"
+      "unit": "毫升"
     },
     {
       "name": "盐",

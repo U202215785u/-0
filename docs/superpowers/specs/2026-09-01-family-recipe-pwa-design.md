@@ -11,7 +11,8 @@ is source-based; the app must not invent recipes or fetch recipe pages.
 
 - Chinese home cooking is the primary content; international recipes are a
   small supplement.
-- The curated library currently contains 54 direct-source entries.
+- The curated library currently contains 1,193 source-based entries (1,108
+  baseline plus 85 common homestyle dishes added in the 2026-09-18 round).
 - Recipe data is read-only inside the app. New and corrected recipes arrive
   only in a later app release.
 - The app is local-first, requires no account, backend, cloud sync, or AI.
@@ -64,8 +65,10 @@ from applicable nutrition totals rather than being guessed.
 ### Find and cook
 
 The home screen is recipe-first. Users can search by dish name, ingredient, or
-technique, then filter by cooking method, duration, fat-loss friendliness,
-calories, and protein. A card shows available time and nutrition summary.
+technique with fuzzy matching (missing/wrong characters tolerated, plus pinyin
+syllables and initials), then filter by cooking method, duration, fat-loss
+friendliness, calories, and protein. A card shows available time and nutrition
+summary.
 
 Recipe detail shows ingredients, steps, source information when present, and
 nutrition when present. The user can set servings, add the dish to a specified

@@ -31,13 +31,13 @@
       "mergeKey": "cinnamon",
       "category": "调味料",
       "pantry": true,
-      "quantityText": "1小块约2g"
+      "quantityText": "1小块约2"
     },
     {
       "name": "红茶",
       "category": "其他",
       "pantry": false,
-      "quantityText": "12g（1袋）"
+      "quantityText": "12（1袋）"
     },
     {
       "name": "小茴香",
@@ -52,14 +52,14 @@
       "mergeKey": "dark-soy-sauce",
       "category": "调味料",
       "pantry": true,
-      "quantityText": "1汤勺15ml"
+      "quantityText": "1汤勺15"
     },
     {
       "name": "生抽",
       "mergeKey": "soy-sauce",
       "category": "调味料",
       "pantry": true,
-      "quantityText": "2汤勺25ml"
+      "quantityText": "2汤勺25"
     },
     {
       "name": "糖",
@@ -86,10 +86,10 @@
       "text": "煮鸡蛋，冷水下锅，大火煮开后煮3分钟。"
     },
     {
-      "text": "八角2个，香叶3-4片，小茴香2-3g，肉桂1小块"
+      "text": "八角2个，香叶3-4片，小茴香2-3，肉桂1小块"
     },
     {
-      "text": "加入高级红茶12g。。。。其实用好茶叶很心疼，便宜货即可"
+      "text": "加入高级红茶12。。。。其实用好茶叶很心疼，便宜货即可"
     },
     {
       "text": "煮好的鸡蛋，稍稍凉一下，用勺轻轻砸碎，越碎越香"
@@ -98,7 +98,7 @@
       "text": "心里默想着它会变好吃好吃好吃。。。"
     },
     {
-      "text": "刚刚的香料先下锅煮开，让香味进入汤汁，加入糖30g，盐20g，老抽15ml，生抽30ml。等香气飘出，下入敲好的鸡蛋。小火炖煮10分钟。"
+      "text": "刚刚的香料先下锅煮开，让香味进入汤汁，加入糖30，盐20，老抽15，生抽30。等香气飘出，下入敲好的鸡蛋。小火炖煮10分钟。"
     },
     {
       "text": "出锅，浸泡料汁，最好可以隔夜吃。浸上8小时才是美味的关键。"
