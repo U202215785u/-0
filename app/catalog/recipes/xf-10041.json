@@ -75,9 +75,7 @@
     "carbsG": 4,
     "fatG": 7.3
   },
-  "tags": [
-    "凉拌"
-  ],
+  "tags": ["凉拌","素菜","快手菜"],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

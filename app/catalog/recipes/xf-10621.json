@@ -55,10 +55,7 @@
   "author": "笑笑厨房",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": [
-    "炒",
-    "烧焖"
-  ],
+  "tags": ["素菜"],
   "nutrition": {
     "kcal": 200,
     "proteinG": 7.5,

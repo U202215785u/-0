@@ -111,10 +111,7 @@
     "carbsG": 4.6,
     "fatG": 4.8
   },
-  "tags": [
-    "煎",
-    "炸"
-  ],
+  "tags": ["炸"],
   "durationMinutes": 40,
   "difficulty": "中等"
 }

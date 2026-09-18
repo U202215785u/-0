@@ -86,10 +86,7 @@
     "carbsG": 62.1,
     "fatG": 5.6
   },
-  "tags": [
-    "烧焖",
-    "炒"
-  ],
+  "tags": ["烤","主食"],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

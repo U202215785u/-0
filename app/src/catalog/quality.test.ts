@@ -52,6 +52,15 @@ describe('catalog quality gate', () => {
       .toEqual(expect.arrayContaining(['duplicate-title', 'duplicate-source-url']))
   })
 
+  it('flags tag vocabulary, dimension, and count violations', () => {
+    const unknown = { ...validRecipe(1), tags: ['神秘标签'] }
+    const twoMethods = { ...validRecipe(2), tags: ['烤', '炒'] }
+    const tooMany = { ...validRecipe(3), tags: ['炒', '主食', '家常菜', '快手菜', '素菜'] }
+
+    const issues = getCatalogQualityIssues([unknown, twoMethods, tooMany], 1)
+    expect(issues.map((issue) => issue.code)).toEqual(expect.arrayContaining(['unknown-tag', 'tag-dimension-overflow', 'too-many-tags']))
+  })
+
   it('builds the cookable catalog only from canonical recipe files', () => {
     const catalog = loadGeneratedCatalog()
 

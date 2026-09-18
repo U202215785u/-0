@@ -66,11 +66,7 @@
     "carbsG": 10.2,
     "fatG": 4.2
   },
-  "tags": [
-    "主食",
-    "蒸",
-    "炒"
-  ],
+  "tags": ["蒸","点心","快手菜"],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

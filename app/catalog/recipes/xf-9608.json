@@ -87,9 +87,7 @@
     "carbsG": 5.4,
     "fatG": 7.2
   },
-  "tags": [
-    "炒"
-  ],
+  "tags": ["炒","快手菜"],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

@@ -111,10 +111,7 @@
     "carbsG": 12.1,
     "fatG": 0.7
   },
-  "tags": [
-    "凉拌",
-    "炒"
-  ],
+  "tags": ["凉拌","家常菜","素菜"],
   "durationMinutes": 70,
   "difficulty": "中等"
 }

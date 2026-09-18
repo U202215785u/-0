@@ -77,9 +77,7 @@
   "author": "臻妈美食厨房",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": [
-    "煮"
-  ],
+  "tags": ["煮","汤羹","家常菜"],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

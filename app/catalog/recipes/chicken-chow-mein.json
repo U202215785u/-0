@@ -35,7 +35,7 @@
   "baseServings": 4,
   "durationMinutes": 35,
   "difficulty": "中等",
-  "tags": ["炒", "主食", "家常菜"],
+  "tags": ["炒","主食","家常菜"],
   "sourceUrl": "https://www.madewithlau.com/recipes/chow-mein",
   "author": "刘老爹 / 刘家厨房",
   "fidelity": "structured-transcription",

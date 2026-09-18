@@ -124,11 +124,7 @@
     "carbsG": 33.1,
     "fatG": 3.7
   },
-  "tags": [
-    "主食",
-    "炒",
-    "烤"
-  ],
+  "tags": ["炒","主食","快手菜"],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

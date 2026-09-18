@@ -91,9 +91,7 @@
     "carbsG": 12.6,
     "fatG": 11.5
   },
-  "tags": [
-    "煮"
-  ],
+  "tags": ["煮"],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

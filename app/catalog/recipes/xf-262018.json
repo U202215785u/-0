@@ -287,9 +287,7 @@
     "carbsG": 101.9,
     "fatG": 12.5
   },
-  "tags": [
-    "烤"
-  ],
+  "tags": ["煮","主食"],
   "durationMinutes": 120,
   "difficulty": "中等"
 }

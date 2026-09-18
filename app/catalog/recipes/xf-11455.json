@@ -48,9 +48,7 @@
     "carbsG": 0.3,
     "fatG": 0.1
   },
-  "tags": [
-    "炒"
-  ],
+  "tags": ["煮","素菜"],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

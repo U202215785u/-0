@@ -70,9 +70,7 @@
     "carbsG": 42.2,
     "fatG": 18.2
   },
-  "tags": [
-    "凉拌"
-  ],
+  "tags": ["凉拌","家常菜"],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

@@ -82,8 +82,9 @@ describe('RecipeDetail', () => {
   })
 
   it('renders all supplied nutrition fields including zero and supplied tags', () => {
-    render(<RecipeDetail recipe={{ ...recipe, tags: ['快手'], nutrition: { kcal: 0, proteinG: 0, carbsG: 12, fatG: 3 } }} />)
-    expect(screen.getByText(/快手/)).toBeInTheDocument()
+    render(<RecipeDetail recipe={{ ...recipe, tags: ['炒', '家常菜'], nutrition: { kcal: 0, proteinG: 0, carbsG: 12, fatG: 3 } }} />)
+    expect(screen.getByText(/炒/)).toBeInTheDocument()
+    expect(screen.getByText('家常菜')).toBeInTheDocument()
     expect(screen.getByText(/0 千卡/)).toBeInTheDocument()
     expect(screen.getByText('0 克')).toBeInTheDocument()
     expect(screen.getByText('12 克')).toBeInTheDocument()

@@ -118,9 +118,7 @@
     "carbsG": 22.7,
     "fatG": 34.6
   },
-  "tags": [
-    "炸"
-  ],
+  "tags": ["炸"],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

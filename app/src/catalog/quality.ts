@@ -1,4 +1,5 @@
 import type { Recipe } from './types';
+import { getRecipeTagIssues } from './tags';
 
 export type QualityIssueCode =
   | 'minimum-count'
@@ -9,7 +10,11 @@ export type QualityIssueCode =
   | 'missing-source-url'
   | 'missing-duration'
   | 'missing-difficulty'
-  | 'english-execution-field';
+  | 'english-execution-field'
+  | 'unknown-tag'
+  | 'duplicate-tag'
+  | 'tag-dimension-overflow'
+  | 'too-many-tags';
 
 export type QualityIssue = {
   code: QualityIssueCode;
@@ -68,6 +73,13 @@ export function getCatalogQualityIssues(catalog: Recipe[], minimumCount = 50): Q
     if (!recipe.author?.trim()) issues.push({ code: 'missing-source-author', recipeId: recipe.id });
     if (recipe.durationMinutes === undefined) issues.push({ code: 'missing-duration', recipeId: recipe.id });
     if (recipe.difficulty === undefined) issues.push({ code: 'missing-difficulty', recipeId: recipe.id });
+    for (const issue of getRecipeTagIssues(recipe)) {
+      issues.push({
+        code: issue.code,
+        recipeId: recipe.id,
+        detail: issue.detail ?? issue.tag,
+      });
+    }
     issues.push(...executionFieldIssues(recipe));
   }
 

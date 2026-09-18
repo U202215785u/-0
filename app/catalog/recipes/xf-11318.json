@@ -125,10 +125,7 @@
     "carbsG": 56.8,
     "fatG": 8.1
   },
-  "tags": [
-    "蒸",
-    "烧焖"
-  ],
+  "tags": ["蒸","素菜"],
   "durationMinutes": 45,
   "difficulty": "中等"
 }

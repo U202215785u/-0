@@ -75,9 +75,7 @@
     "carbsG": 14.8,
     "fatG": 62.8
   },
-  "tags": [
-    "煮"
-  ],
+  "tags": ["煮","汤羹"],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

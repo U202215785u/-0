@@ -49,10 +49,7 @@
     "carbsG": 0.5,
     "fatG": 5
   },
-  "tags": [
-    "凉拌",
-    "蒸"
-  ],
+  "tags": ["炸","素菜"],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

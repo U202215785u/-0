@@ -70,9 +70,7 @@
     "carbsG": 2.7,
     "fatG": 4.7
   },
-  "tags": [
-    "煮"
-  ],
+  "tags": ["煮","汤羹","快手菜"],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

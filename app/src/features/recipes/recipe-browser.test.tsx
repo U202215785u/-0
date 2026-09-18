@@ -5,17 +5,50 @@ import { RecipeBrowser } from './recipe-browser'
 import type { Recipe } from '../../catalog/types'
 
 const fixtureCatalog: Recipe[] = [
-  { id: 'beef-chow-fun', title: '干炒牛河', tags: ['炒'], ingredients: [{ name: '牛肉' }], steps: [] },
-  { id: 'soup', title: '番茄汤', tags: ['煮'], ingredients: [{ name: '番茄' }], steps: [] },
+  { id: 'beef-chow-fun', title: '干炒牛河', tags: ['炒', '家常菜'], difficulty: '中等', durationMinutes: 20, ingredients: [{ name: '牛肉' }], steps: [] },
+  { id: 'soup', title: '番茄汤', tags: ['煮', '汤羹'], difficulty: '简单', durationMinutes: 40, ingredients: [{ name: '番茄' }], steps: [] },
+  { id: 'fried-rice', title: '蛋炒饭', tags: ['炒', '主食', '快手菜'], difficulty: '简单', durationMinutes: 10, ingredients: [{ name: '鸡蛋' }], steps: [] },
 ]
 
 describe('RecipeBrowser', () => {
   it('filters results when a cooking-method tag is selected', async () => {
     const user = userEvent.setup()
     render(<RecipeBrowser catalog={fixtureCatalog} />)
-    await user.click(screen.getByRole('button', { name: '炒' }))
+    await user.click(screen.getByRole('button', { name: /^炒/ }))
     expect(screen.getByText('干炒牛河')).toBeInTheDocument()
+    expect(screen.getByText('蛋炒饭')).toBeInTheDocument()
     expect(screen.queryByText('番茄汤')).not.toBeInTheDocument()
+  })
+
+  it('only combines within-dimension selections with OR and across dimensions with AND', async () => {
+    const user = userEvent.setup()
+    render(<RecipeBrowser catalog={fixtureCatalog} />)
+    await user.click(screen.getByRole('button', { name: /^炒/ }))
+    await user.click(screen.getByRole('button', { name: /^煮/ }))
+    expect(screen.getByText('干炒牛河')).toBeInTheDocument()
+    expect(screen.getByText('番茄汤')).toBeInTheDocument()
+    expect(screen.getByText('蛋炒饭')).toBeInTheDocument()
+    await user.click(screen.getByRole('button', { name: /^主食/ }))
+    expect(screen.queryByText('干炒牛河')).not.toBeInTheDocument()
+    expect(screen.queryByText('番茄汤')).not.toBeInTheDocument()
+    expect(screen.getByText('蛋炒饭')).toBeInTheDocument()
+  })
+
+  it('filters by difficulty and clears everything', async () => {
+    const user = userEvent.setup()
+    render(<RecipeBrowser catalog={fixtureCatalog} />)
+    await user.click(screen.getByRole('button', { name: /^简单/ }))
+    expect(screen.getByText('番茄汤')).toBeInTheDocument()
+    expect(screen.getByText('蛋炒饭')).toBeInTheDocument()
+    expect(screen.queryByText('干炒牛河')).not.toBeInTheDocument()
+    await user.click(screen.getByRole('button', { name: /清除全部筛选/ }))
+    expect(screen.getByText('干炒牛河')).toBeInTheDocument()
+  })
+
+  it('shows result counts and chip counts', () => {
+    render(<RecipeBrowser catalog={fixtureCatalog} />)
+    expect(screen.getByRole('button', { name: /^炒/ })).toHaveTextContent('2')
+    expect(screen.getByText(/共找到 3 道/)).toBeInTheDocument()
   })
 
   it('uses choose-only links when requested', () => {

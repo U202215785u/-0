@@ -5,10 +5,7 @@
   "author": "冇伱灬冇我",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
-  "tags": [
-    "烧焖",
-    "炸"
-  ],
+  "tags": ["蒸","家常菜"],
   "ingredients": [
     {
       "name": "鱼头",

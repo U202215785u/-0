@@ -60,10 +60,7 @@
     "carbsG": 50,
     "fatG": 0
   },
-  "tags": [
-    "炒",
-    "烧焖"
-  ],
+  "tags": ["煮"],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

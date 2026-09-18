@@ -70,10 +70,7 @@
     "carbsG": 105.3,
     "fatG": 5.1
   },
-  "tags": [
-    "烧焖",
-    "炒"
-  ],
+  "tags": ["烧焖","素菜"],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

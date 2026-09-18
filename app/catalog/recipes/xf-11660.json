@@ -54,9 +54,7 @@
     "carbsG": 3.5,
     "fatG": 0.2
   },
-  "tags": [
-    "炒"
-  ],
+  "tags": ["煮"],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

@@ -184,10 +184,7 @@
     "carbsG": 48,
     "fatG": 15.9
   },
-  "tags": [
-    "炸",
-    "烤"
-  ],
+  "tags": ["煎","主食"],
   "durationMinutes": 120,
   "difficulty": "中等"
 }

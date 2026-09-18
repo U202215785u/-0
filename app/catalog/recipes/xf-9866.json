@@ -70,11 +70,7 @@
   "author": "飞雪无霜",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": [
-    "主食",
-    "烤",
-    "烧焖"
-  ],
+  "tags": ["煮","主食"],
   "nutrition": {
     "kcal": 101.5,
     "proteinG": 4,

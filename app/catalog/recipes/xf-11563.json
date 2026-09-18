@@ -77,9 +77,7 @@
     "carbsG": 34.5,
     "fatG": 2.5
   },
-  "tags": [
-    "蒸"
-  ],
+  "tags": ["蒸","点心"],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

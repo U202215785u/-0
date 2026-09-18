@@ -93,11 +93,7 @@
     "carbsG": 31.2,
     "fatG": 2.8
   },
-  "tags": [
-    "炒",
-    "烧焖",
-    "烤"
-  ],
+  "tags": ["烤","点心"],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

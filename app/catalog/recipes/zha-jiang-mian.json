@@ -29,7 +29,7 @@
   "baseServings": 4,
   "durationMinutes": 35,
   "difficulty": "中等",
-  "tags": ["主食", "家常菜", "煮"],
+  "tags": ["煮","主食","家常菜"],
   "sourceUrl": "https://redhousespice.com/zha-jiang-mian/",
   "author": "Wei Guo / Red House Spice",
   "fidelity": "verbatim-public",

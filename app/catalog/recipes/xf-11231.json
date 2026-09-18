@@ -71,10 +71,7 @@
     "carbsG": 1.2,
     "fatG": 10
   },
-  "tags": [
-    "炸",
-    "炒"
-  ],
+  "tags": ["炒","素菜","家常菜"],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

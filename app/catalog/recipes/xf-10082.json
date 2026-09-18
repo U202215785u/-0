@@ -224,11 +224,7 @@
     "carbsG": 20.6,
     "fatG": 8.9
   },
-  "tags": [
-    "汤羹",
-    "蒸",
-    "烧焖"
-  ],
+  "tags": ["炸","家常菜"],
   "durationMinutes": 100,
   "difficulty": "中等"
 }

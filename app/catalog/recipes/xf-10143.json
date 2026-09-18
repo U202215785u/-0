@@ -138,10 +138,7 @@
     "carbsG": 20.7,
     "fatG": 6.5
   },
-  "tags": [
-    "煎",
-    "炸"
-  ],
+  "tags": ["煎","家常菜"],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

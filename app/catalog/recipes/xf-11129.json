@@ -111,10 +111,7 @@
     "carbsG": 23.3,
     "fatG": 3.2
   },
-  "tags": [
-    "烧焖",
-    "炒"
-  ],
+  "tags": ["点心"],
   "durationMinutes": 75,
   "difficulty": "中等"
 }

@@ -121,11 +121,7 @@
     "carbsG": 7.8,
     "fatG": 3.8
   },
-  "tags": [
-    "蒸",
-    "烧焖",
-    "烤"
-  ],
+  "tags": ["烧焖","家常菜"],
   "durationMinutes": 35,
   "difficulty": "中等"
 }

@@ -108,10 +108,7 @@
     "carbsG": 9.8,
     "fatG": 8
   },
-  "tags": [
-    "炒",
-    "炸"
-  ],
+  "tags": ["炸","家常菜"],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

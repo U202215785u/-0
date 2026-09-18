@@ -66,11 +66,7 @@
     "carbsG": 7,
     "fatG": 1.3
   },
-  "tags": [
-    "汤羹",
-    "煮",
-    "烧焖"
-  ],
+  "tags": ["煮","主食","减脂高蛋白"],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

@@ -47,9 +47,7 @@
     "carbsG": 137.5,
     "fatG": 1.1
   },
-  "tags": [
-    "蒸"
-  ],
+  "tags": ["煮","素菜","快手菜"],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

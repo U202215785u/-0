@@ -37,7 +37,7 @@ export const recipeSchema = z.object({
     carbsG: z.number().nonnegative().optional(),
     fatG: z.number().nonnegative().optional(),
   }).strict().optional(),
-  tags: z.array(z.string()).optional(),
+  tags: z.array(z.string().min(1)).optional(),
   durationMinutes: positiveNumber.optional(),
   difficulty: z.enum(['简单', '中等', '较难']).optional(),
 }).strict().superRefine(({ ingredients, steps }, context) => {

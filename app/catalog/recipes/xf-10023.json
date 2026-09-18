@@ -58,10 +58,7 @@
   "author": "子闻妈咪",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": [
-    "汤羹",
-    "煮"
-  ],
+  "tags": ["煮","点心"],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

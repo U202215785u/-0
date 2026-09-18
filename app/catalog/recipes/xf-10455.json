@@ -99,10 +99,7 @@
     "carbsG": 96.2,
     "fatG": 8.5
   },
-  "tags": [
-    "主食",
-    "炒"
-  ],
+  "tags": ["烤","点心","快手菜"],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

@@ -123,9 +123,7 @@
   "author": "新西兰三娃妈",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
-  "tags": [
-    "烤"
-  ],
+  "tags": ["烤"],
   "durationMinutes": 55,
   "difficulty": "中等"
 }

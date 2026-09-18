@@ -30,7 +30,7 @@
   "baseServings": 2,
   "durationMinutes": 25,
   "difficulty": "中等",
-  "tags": ["煮", "家常菜"],
+  "tags": ["煮","家常菜"],
   "sourceUrl": "https://redhousespice.com/sichuan-boiled-fish/",
   "author": "Wei Guo / Red House Spice",
   "fidelity": "verbatim-public",

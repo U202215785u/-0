@@ -90,11 +90,7 @@
     "carbsG": 0.3,
     "fatG": 0.1
   },
-  "tags": [
-    "炒",
-    "烧焖",
-    "烤"
-  ],
+  "tags": ["炒"],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

@@ -27,7 +27,7 @@
   "baseServings": 6,
   "durationMinutes": 40,
   "difficulty": "简单",
-  "tags": ["煮", "主食", "素菜"],
+  "tags": ["煮","主食","家常菜","素菜"],
   "sourceUrl": "https://redhousespice.com/congee/",
   "author": "Wei Guo / Red House Spice",
   "fidelity": "verbatim-public",

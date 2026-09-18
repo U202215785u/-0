@@ -70,10 +70,7 @@
     "carbsG": 55.5,
     "fatG": 0.8
   },
-  "tags": [
-    "煎",
-    "炸"
-  ],
+  "tags": ["炸","点心"],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

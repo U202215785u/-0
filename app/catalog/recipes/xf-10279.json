@@ -110,10 +110,7 @@
     "carbsG": 24.5,
     "fatG": 20.4
   },
-  "tags": [
-    "凉拌",
-    "蒸"
-  ],
+  "tags": ["凉拌","主食","快手菜"],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

@@ -23,7 +23,7 @@
   "baseServings": 3,
   "durationMinutes": 10,
   "difficulty": "简单",
-  "tags": ["炒", "主食", "快手菜", "家常菜"],
+  "tags": ["炒","主食","家常菜","快手菜"],
   "sourceUrl": "https://redhousespice.com/egg-fried-rice/",
   "author": "Wei Guo",
   "fidelity": "verbatim-public",

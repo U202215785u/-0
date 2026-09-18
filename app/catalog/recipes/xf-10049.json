@@ -104,10 +104,7 @@
     "carbsG": 24.9,
     "fatG": 8.1
   },
-  "tags": [
-    "汤羹",
-    "煮"
-  ],
+  "tags": ["煮","汤羹","家常菜"],
   "durationMinutes": 35,
   "difficulty": "中等"
 }

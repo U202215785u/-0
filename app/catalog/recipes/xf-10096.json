@@ -91,12 +91,7 @@
     "carbsG": 37.8,
     "fatG": 2.6
   },
-  "tags": [
-    "主食",
-    "炸",
-    "炒",
-    "烧焖"
-  ],
+  "tags": ["炒","主食","快手菜"],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

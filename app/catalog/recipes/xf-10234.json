@@ -110,10 +110,7 @@
     "carbsG": 170.3,
     "fatG": 32.3
   },
-  "tags": [
-    "蒸",
-    "炒"
-  ],
+  "tags": ["炒","主食"],
   "durationMinutes": 40,
   "difficulty": "中等"
 }

@@ -94,10 +94,7 @@
   "author": "圆猪猪",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": [
-    "蒸",
-    "烧焖"
-  ],
+  "tags": ["蒸","减脂高蛋白"],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

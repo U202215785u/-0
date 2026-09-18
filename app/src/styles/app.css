@@ -109,6 +109,17 @@ select { min-height: 44px; }
 .filters::-webkit-scrollbar { display: none; }
 .filters button { font-size: 0.9rem; padding: 8px 12px; white-space: nowrap; flex-shrink: 0; }
 .actions { flex-wrap: wrap; }
+.browse-filters { display: grid; gap: 12px; margin-bottom: 16px; }
+.browse-filters .search-field { display: block; }
+.filter-group { border: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.filter-group legend { padding: 0; font-size: 0.8rem; font-weight: 600; color: var(--text-secondary); }
+.filter-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.filter-chips .filter-chip { min-height: 36px; padding: 5px 11px; font-size: 0.85rem; border-radius: 999px; }
+.filter-chips .filter-chip .chip-count { margin-left: 5px; font-size: 0.75rem; color: var(--text-secondary); }
+.filter-chips .filter-chip[aria-pressed="true"] .chip-count { color: rgb(255 255 255 / 85%); }
+.clear-filters { justify-self: start; min-height: 40px; padding: 7px 14px; font-size: 0.85rem; }
+.result-count { display: flex; align-items: center; gap: 10px; color: var(--text-secondary); font-size: 0.9rem; margin: 0 0 12px; }
+.result-count .result-clear { min-height: 32px; padding: 4px 10px; font-size: 0.8rem; border-radius: 999px; }
 .recipe-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; }
 .recipe-card {
   background: var(--surface);

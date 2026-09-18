@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import type { Ingredient, Recipe } from '../../catalog/types'
+import { TAG_DIMENSION_LIST, tagDimension } from '../../catalog/tags'
 import { scaleIngredients } from '../../domain/servings'
 import { appDb } from '../../db/app-db'
 
@@ -20,6 +21,13 @@ function groupIngredients(ingredients: Ingredient[]): { category: string; items:
 function recipeAmountText(item: Ingredient): string {
   if (item.amount !== undefined) return `${item.amount} ${item.unit ?? ''}`.trim()
   return item.quantityText ?? ''
+}
+
+function groupedTags(recipe: Recipe): { label: string; tags: string[] }[] {
+  const tags = recipe.tags ?? []
+  return TAG_DIMENSION_LIST
+    .map((dimension) => ({ label: dimension.label, tags: tags.filter((tag) => tagDimension(tag) === dimension.key) }))
+    .filter((group) => group.tags.length > 0)
 }
 
 export function RecipeDetail({ recipe, chooseOnly = false }: { recipe: Recipe; chooseOnly?: boolean }) {
@@ -64,7 +72,7 @@ export function RecipeDetail({ recipe, chooseOnly = false }: { recipe: Recipe; c
   return <main className="recipe-detail">
     <header><a className="back-link" href={backHref}>{backLabel}</a><p className="eyebrow">{chooseOnly ? '点菜模式' : '家庭菜谱'}</p><h1>{recipe.title}</h1></header>
     {status === 'loading' && <p role="status">正在读取状态</p>}{status === 'pending' && <p role="status">正在保存</p>}{status === 'error' && <p role="alert">状态读取失败 <button type="button" onClick={load}>重试</button></p>}{errorMessage && <p role="alert">{errorMessage}</p>}
-    <dl className="recipe-metrics">{recipe.durationMinutes !== undefined && <div><dt>时长</dt><dd>{recipe.durationMinutes} 分钟</dd></div>}{recipe.difficulty && <div><dt>难度</dt><dd>{recipe.difficulty}</dd></div>}{recipe.baseServings !== undefined && <div><dt>适用</dt><dd>{recipe.baseServings} 人份</dd></div>}{recipe.tags && recipe.tags.length > 0 && <div><dt>标签</dt><dd>{recipe.tags.join('、')}</dd></div>}</dl>
+    <dl className="recipe-metrics">{recipe.durationMinutes !== undefined && <div><dt>时长</dt><dd>{recipe.durationMinutes} 分钟</dd></div>}{recipe.difficulty && <div><dt>难度</dt><dd>{recipe.difficulty}</dd></div>}{recipe.baseServings !== undefined && <div><dt>适用</dt><dd>{recipe.baseServings} 人份</dd></div>}{groupedTags(recipe).map((group) => <div key={group.label}><dt>{group.label}</dt><dd>{group.tags.join('、')}</dd></div>)}</dl>
     <div className="actions">{!chooseOnly && <button type="button" disabled={status !== 'ready'} onClick={() => void toggle('favorite')}>{favorite ? '已收藏' : '收藏'}</button>}<button type="button" disabled={status !== 'ready'} onClick={() => void toggle('wanted')}>{wanted ? '已想吃' : '想吃'}</button>{!chooseOnly && <><a className="button-link" href={`#/recipes/${recipe.id}/cook?servings=${servings}`}>开始烹饪</a><a className="button-link" href={`#/planner?recipeId=${encodeURIComponent(recipe.id)}`}>加入菜单</a></>}</div>
     {recipe.baseServings !== undefined && <section className="servings-stepper"><h2>份数</h2><div className="stepper"><button type="button" aria-label="减少份数" onClick={() => stepServings(-1)} disabled={servings <= 1}>−</button><input aria-label="份数" type="number" min="1" step="1" value={input} onChange={(event) => changeServings(event.target.value)} onBlur={() => { invalid.current = false; setInput(String(servings)) }} /><button type="button" aria-label="增加份数" onClick={() => stepServings(1)}>＋</button></div><p className="stepper-hint">按 {recipe.baseServings} 人份菜谱缩放</p></section>}
     {groups.map((group) => <section key={group.category} className="ingredient-group"><h2>{group.category}</h2><ul>{group.items.map((item, index) => <li key={`${item.name}-${index}`}>{recipeAmountText(item) ? `${recipeAmountText(item)} ${item.name}` : item.name}</li>)}</ul></section>)}
