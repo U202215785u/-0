@@ -1,0 +1,49 @@
+{
+  "id": "xf-105962310",
+  "title": "洋葱炒鸡蛋",
+  "ingredients": [
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "1个（中）"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类",
+      "pantry": false,
+      "amount": 3,
+      "unit": "个"
+    }
+  ],
+  "steps": [
+    {
+      "text": "2勺生抽➕一勺老抽➕一勺蚝油➕少许糖调成酱汁备用 2️⃣洋葱洗干净切段"
+    },
+    {
+      "text": "鸡蛋打散少许油下锅煎炒散捞起备用 3️⃣锅里到少许油放洋葱炒断生倒入鸡蛋翻炒均匀倒入酱汁翻炒入味收汁即可"
+    },
+    {
+      "text": "赶紧试试叭"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/105962310/",
+  "author": "炘炘食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 21,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 105,
+    "proteinG": 9.5,
+    "carbsG": 0.8,
+    "fatG": 7.1
+  }
+}

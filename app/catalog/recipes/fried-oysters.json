@@ -115,6 +115,25 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、准备10分钟、烹调5分钟、总时长15分钟、12项配料和4段方法；保留面糊流动状态与两段油温。",
-  "tags": ["炸","快手菜"],
-  "difficulty": "中等"
+  "tags": [
+    "炸",
+    "快手菜"
+  ],
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 427,
+    "proteinG": 15.7,
+    "carbsG": 24.8,
+    "fatG": 29.4,
+    "fiberG": 0.9,
+    "sugarG": 0.6,
+    "saturatedFatG": 4.6,
+    "sodiumMg": 839,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；部分食材按分类近似值计入；炸制用油按保留量折算（未把整锅油计入）；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

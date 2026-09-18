@@ -138,12 +138,32 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
   "nutrition": {
-    "kcal": 1224,
-    "proteinG": 175.6,
-    "carbsG": 44,
-    "fatG": 41.3
+    "kcal": 408,
+    "proteinG": 34.1,
+    "carbsG": 18.8,
+    "fatG": 21.8,
+    "fiberG": 4.9,
+    "sugarG": 4.8,
+    "saturatedFatG": 6.8,
+    "sodiumMg": 1615,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.6,
+    "missingIngredientNames": [
+      "鲍鱼",
+      "海参",
+      "花胶",
+      "鱼翅",
+      "发菜丸子",
+      "笋"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算6 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炖"],
+  "tags": [
+    "炖"
+  ],
   "durationMinutes": 35,
   "difficulty": "中等"
 }

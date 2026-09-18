@@ -1,0 +1,93 @@
+{
+  "id": "xf-106138124",
+  "title": "腐竹烧肉",
+  "ingredients": [
+    {
+      "name": "腐竹",
+      "mergeKey": "tofu-skin",
+      "category": "豆制品",
+      "pantry": true,
+      "amount": 100,
+      "unit": "克"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 400,
+      "unit": "克"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "茶匙"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "茶匙"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "茶匙"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "约15颗"
+    }
+  ],
+  "steps": [
+    {
+      "text": "干腐竹用冷水泡5个小时，泡发泡软。"
+    },
+    {
+      "text": "腐竹切段，五花肉洗净切块。"
+    },
+    {
+      "text": "腐竹焯水捞出，五花肉加料酒焯水捞出。"
+    },
+    {
+      "text": "热锅少油，小火下五花肉煸炒出油，炒到两面微黄。这一步让五花肉出油，可以增加菜的整体风味，也能减少油腻的口感。"
+    },
+    {
+      "text": "下腐竹翻炒，加老抽翻炒均匀。"
+    },
+    {
+      "text": "加水没过菜，下冰糖和蚝油翻炒均匀，全程大火。"
+    },
+    {
+      "text": "约15分钟收干汤汁，尝尝咸淡，不够再加少许盐出锅。 可以作为招待客人的硬菜，步骤简单操作方便，也可以作为工作日的便当菜，腐竹烧肉的汤汁拌饭，两碗吃不够。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/106138124/",
+  "author": "AKA老虎大王",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 1274,
+    "proteinG": 41.5,
+    "carbsG": 13.7,
+    "fatG": 117
+  }
+}

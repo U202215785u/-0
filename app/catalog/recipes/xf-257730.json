@@ -1,0 +1,135 @@
+{
+  "id": "xf-257730",
+  "title": "辣炒花蛤",
+  "ingredients": [
+    {
+      "name": "花蛤",
+      "mergeKey": "clam",
+      "category": "水产",
+      "pantry": false,
+      "amount": 750,
+      "unit": "克"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "5-6瓣"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "5大片"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "5-6个"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "大匙"
+    },
+    {
+      "name": "黄酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "大匙"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "大匙"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "小勺"
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "amount": 1,
+      "unit": "小勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "小勺"
+    }
+  ],
+  "steps": [
+    {
+      "text": "买来的花蛤放在清水中，在水里放入一勺盐、一勺香油，促进花蛤吐泥。泡的时候可以切酱、葱、蒜。泡一会儿后，用两只手像大叉子一样在水里来回反复的揉搓花蛤，让花蛤头晕，多吐点泥出来"
+    },
+    {
+      "text": "长的干辣椒可以用剪子剪成两半、蒜切片、姜切丝、大葱的葱绿部分切成葱花，也可用小香葱"
+    },
+    {
+      "text": "反复清洗花蛤数次后，把花蛤放入开水锅中，盖上锅盖，一分钟后捞出"
+    },
+    {
+      "text": "焯过水的花蛤都把壳子张开了，再用清水冲洗两遍，把花蛤里的泥彻底洗干净，沥干水分备用"
+    },
+    {
+      "text": "起锅放油，煸香蒜片和姜丝后再放入干辣椒煸炒，然后放入花蛤"
+    },
+    {
+      "text": "翻炒锅中的花蛤和配料两三分钟后先烹入生抽、再烹入黄酒"
+    },
+    {
+      "text": "倒入蚝油、糖翻炒均匀，尝尝味道是否还需要加盐，如果味淡可以适量添加"
+    },
+    {
+      "text": "一小勺干淀粉中倒入两大勺清水，淋入锅中上芡"
+    },
+    {
+      "text": "出锅前烹入葱花，翻炒均匀就可以出锅了"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/257730/",
+  "author": "潘潘猫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 403,
+    "proteinG": 41.3,
+    "carbsG": 19,
+    "fatG": 18
+  }
+}

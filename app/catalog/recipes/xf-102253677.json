@@ -1,0 +1,130 @@
+{
+  "id": "xf-102253677",
+  "title": "茶树菇炒肉",
+  "ingredients": [
+    {
+      "name": "茶树菇",
+      "mergeKey": "chashugu",
+      "category": "菌菇",
+      "pantry": false,
+      "amount": 500,
+      "unit": "克"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "杭椒",
+      "mergeKey": "chili",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 5,
+      "unit": "个"
+    },
+    {
+      "name": "小米辣",
+      "mergeKey": "chili",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 5,
+      "unit": "个"
+    },
+    {
+      "name": "青蒜苗",
+      "mergeKey": "garlic-sprout",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "瓣"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "片"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "耗油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "食材清洗干净，沥干水分。 1.茶树菇切段，差不多小拇指长度即可 2.五花肉切薄片加淀粉、水、老抽、料酒搅拌均匀腌制十五分钟左右 3.蒜瓣切片，大葱切马耳朵片，姜切丝 4.青蒜苗斜切小段，杭椒斜切小段，小米辣切段 以上食材全部整理完毕，开始开火了。"
+    },
+    {
+      "text": "热锅起油，五花肉下锅，肉变色成型后再稍微煎一会儿，让油脂多出来一些，颜色微黄将肉捞出备用，留底油在锅中。"
+    },
+    {
+      "text": "锅中再少加一些油，爆香葱姜蒜以及小米辣，出香味后倒入沥干水分的茶树菇，茶树菇微软后再加入五花肉翻炒。翻炒均匀后加入杭椒翻炒。"
+    },
+    {
+      "text": "杭椒翻炒均匀后加入蚝油、生抽和盐调味，再加一丢丢的老抽调色。"
+    },
+    {
+      "text": "最后倒入切好的青蒜苗翻炒半分钟到一分钟即可关火。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102253677/",
+  "author": "sourirezhang",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 127,
+    "proteinG": 5.8,
+    "carbsG": 23.5,
+    "fatG": 1.1
+  }
+}

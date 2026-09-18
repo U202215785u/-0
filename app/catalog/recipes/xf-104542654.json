@@ -1,0 +1,126 @@
+{
+  "id": "xf-104542654",
+  "title": "蚂蚁上树",
+  "ingredients": [
+    {
+      "name": "红薯粉丝",
+      "category": "米面主食",
+      "pantry": false,
+      "amount": 80,
+      "unit": "克"
+    },
+    {
+      "name": "肉末(猪肉糜)",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 30,
+      "unit": "克"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "少许"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "少许"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    }
+  ],
+  "steps": [
+    {
+      "text": "红薯粉丝剪成段，用温水浸泡20分钟泡软备用。"
+    },
+    {
+      "text": "泡软后的粉丝沥干水分。"
+    },
+    {
+      "text": "葱切成末，姜切片。"
+    },
+    {
+      "text": "锅内倒入少许油，烧热后倒入葱末姜片爆香，加1勺豆瓣酱翻炒均匀后下猪肉糜(肉末)炒散。倒1勺料酒、1勺酱油、糖、盐调味炒均匀，加入小碗冷水，煮沸。"
+    },
+    {
+      "text": "汤煮沸后倒入沥干水分的红薯粉，入锅一起翻炒几下后小火焖煮5分钟。"
+    },
+    {
+      "text": "大火翻炒收汁出锅。此菜要速炒，时间长了粉条容易粘连，影响菜肴口感！"
+    },
+    {
+      "text": "出锅的肉末炒粉丝色泽油亮。"
+    },
+    {
+      "text": "装盘后可以撒少许葱花和白芝麻，美味诱人！"
+    },
+    {
+      "text": "粉丝油亮，柔软滑嫩，肉末香嫩！"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/104542654/",
+  "author": "小胖叽叽",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 159,
+    "proteinG": 7.4,
+    "carbsG": 22.9,
+    "fatG": 4.1
+  }
+}

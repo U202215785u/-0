@@ -1,0 +1,109 @@
+{
+  "id": "xf-100000768",
+  "title": "粉蒸排骨",
+  "ingredients": [
+    {
+      "name": "猪肋骨",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 400,
+      "unit": "克"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 300,
+      "unit": "克"
+    },
+    {
+      "name": "麻辣蒸肉粉",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 1,
+      "unit": "包"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "小勺"
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豆瓣",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "小勺"
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪肋骨切块，洗干净"
+    },
+    {
+      "text": "打开麻辣蒸肉粉，取出调料包和米粉包"
+    },
+    {
+      "text": "排骨中倒入料酒、花椒粒、豆瓣、酱油、4/5的调料包，腌10分钟"
+    },
+    {
+      "text": "土豆去皮、洗净、切块"
+    },
+    {
+      "text": "土豆中加入1/5的米粉个刚才剩下的调料包，加少许盐，搅匀，扑在准备蒸的碗底"
+    },
+    {
+      "text": "排骨裹上上面剩下的米粉，均匀铺在土豆上面"
+    },
+    {
+      "text": "上锅，大火蒸1个小时"
+    },
+    {
+      "text": "出锅时撒上葱花，就搞定了"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100000768/",
+  "author": "贺兰飘雪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "蒸",
+    "家常菜"
+  ],
+  "durationMinutes": 41,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 575,
+    "proteinG": 39.2,
+    "carbsG": 27.8,
+    "fatG": 34.2
+  }
+}

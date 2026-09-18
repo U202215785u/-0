@@ -144,6 +144,31 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的5人份、准备20分钟、烹调45分钟、总时长65分钟、15项配料和8段方法；保留浸煮15分钟、冰袋降温和豉油复用说明。",
-  "tags": ["煮","家常菜"],
-  "difficulty": "中等"
+  "tags": [
+    "煮",
+    "家常菜"
+  ],
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 749,
+    "proteinG": 69.7,
+    "carbsG": 28.2,
+    "fatG": 39.7,
+    "fiberG": 0.7,
+    "sugarG": 18.1,
+    "saturatedFatG": 10.5,
+    "sodiumMg": 2043,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.73,
+    "missingIngredientNames": [
+      "芝麻油",
+      "生抽",
+      "沸水",
+      "冰块"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

@@ -1,0 +1,115 @@
+{
+  "id": "xf-100253052",
+  "title": "酱牛肉",
+  "ingredients": [
+    {
+      "name": "牛腱子",
+      "category": "肉类",
+      "pantry": false
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "块"
+    },
+    {
+      "name": "大料",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 3,
+      "unit": "颗"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 40,
+      "unit": "颗"
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "块"
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "片"
+    },
+    {
+      "name": "丁香",
+      "mergeKey": "clove",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 8,
+      "unit": "颗"
+    },
+    {
+      "name": "150ml生抽",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "60ml老抽",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "欣和豆瓣酱",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 60,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "text": "1）一条牛腱子一切两半，洗净后泡入清水中浸泡30分钟，倒掉血水不要。"
+    },
+    {
+      "text": "2）锅中倒入清水，放入牛腱子，大火煮开后，撇去浮沫，然后将牛腱子捞出，煮肉的水倒掉不要。把牛肉放入冷水中浸泡5分钟至肉块冷却。"
+    },
+    {
+      "text": "3）然后捞出肉，放入锅中，倒入清水煮开后，再撇去少量浮沫，然后放入葱姜和调料包（大料，花椒，桂皮，香叶，丁香装入一次性无纺布料包），加入豆瓣酱，生抽，老抽搅匀后盖上盖子，改成中小后炖1个半小时。"
+    },
+    {
+      "text": "4）捞出后在室温放置2个小时冷却风干。然后再放回之前的肉汤中，大火煮15分钟即可。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100253052/",
+  "author": "橘子时尚",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 77,
+    "proteinG": 2.2,
+    "carbsG": 14.2,
+    "fatG": 1.3
+  }
+}

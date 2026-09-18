@@ -115,11 +115,29 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、22分钟、7项配料和10段方法；准确保留 guanciale、pancetta 或 bacon 的原始选项及肉脂回锅、面汤分次加入、离火乳化顺序。",
   "nutrition": {
-    "kcal": 219.5,
-    "proteinG": 10,
-    "carbsG": 11.9,
-    "fatG": 14.5
+    "kcal": 543,
+    "proteinG": 22,
+    "carbsG": 46.1,
+    "fatG": 30,
+    "fiberG": 1.7,
+    "sugarG": 2.1,
+    "saturatedFatG": 9.5,
+    "sodiumMg": 863,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.75,
+    "missingIngredientNames": [
+      "食盐",
+      "黑胡椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炒","主食","快手菜"],
+  "tags": [
+    "炒",
+    "主食",
+    "快手菜"
+  ],
   "difficulty": "中等"
 }

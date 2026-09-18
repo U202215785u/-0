@@ -1,0 +1,160 @@
+{
+  "id": "xf-103740454",
+  "title": "西红柿烧茄子",
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "mergeKey": "tomato",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "圆茄子",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "少许"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "少许"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "3-5瓣"
+    },
+    {
+      "name": "红烧酱油",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 3,
+      "unit": "克"
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "勺"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "category": "其他",
+      "pantry": false,
+      "amount": 1,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "text": "西红柿切块，圆茄子削成扁的滚刀块，葱花，姜末，蒜末切好备用。"
+    },
+    {
+      "text": "再调一个碗汁，如图片中的勺子大小，放入1勺红烧酱油，2勺生抽，1勺清水，半勺醋。"
+    },
+    {
+      "text": "如图片中勺子的大小，在碗汁中继续放入1勺白糖，1勺淀粉。"
+    },
+    {
+      "text": "最后在碗汁水加入2克盐。"
+    },
+    {
+      "text": "将碗汁搅拌均匀备用。"
+    },
+    {
+      "text": "锅中烧油，油的量比一般平时炒菜要多一点。"
+    },
+    {
+      "text": "油热后放入茄子煸炒。"
+    },
+    {
+      "text": "将茄子翻炒至8成熟的时候加入1克盐翻炒均匀后倒入盘中备用。"
+    },
+    {
+      "text": "锅内倒入少许底油爆香葱姜后西红柿一起翻炒均匀。"
+    },
+    {
+      "text": "将西红柿炒至软烂。"
+    },
+    {
+      "text": "加入茄子一起翻炒均匀。"
+    },
+    {
+      "text": "再加入蒜末一起翻炒均匀。"
+    },
+    {
+      "text": "倒入之前调好的碗汁，刚倒入后先不要翻炒，等里面的淀粉稍稍糊化后再翻炒。"
+    },
+    {
+      "text": "大火翻炒均匀，芡汁均匀的裹在茄子上就可以出锅啦😋"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/103740454/",
+  "author": "朴娃娃的私房菜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 56,
+    "proteinG": 1.6,
+    "carbsG": 11.9,
+    "fatG": 0.2
+  }
+}

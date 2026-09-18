@@ -207,12 +207,28 @@
   "fidelity": "structured-transcription",
   "sourceNote": "按来源页面公开的4人份、30分钟、28项配料和5段方法翻译整理；品牌调味品统一转为通用中文名称。",
   "nutrition": {
-    "kcal": 549.3,
-    "proteinG": 56.7,
-    "carbsG": 9.4,
-    "fatG": 29.1
+    "kcal": 582,
+    "proteinG": 46.6,
+    "carbsG": 18.8,
+    "fatG": 35.6,
+    "fiberG": 2.7,
+    "sugarG": 6.2,
+    "saturatedFatG": 8.4,
+    "sodiumMg": 2190,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.94,
+    "missingIngredientNames": [
+      "广式腊肠"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烧焖","家常菜"],
+  "tags": [
+    "烧焖",
+    "家常菜"
+  ],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

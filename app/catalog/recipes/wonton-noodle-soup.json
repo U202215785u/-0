@@ -116,7 +116,30 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、准备15分钟、烹调15分钟、总时长30分钟、12项配料和6段方法；保留生云吞3至5分钟煮制与浮起判断。",
-  "tags": ["煮","主食"],
+  "tags": [
+    "煮",
+    "主食"
+  ],
   "durationMinutes": 30,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 543,
+    "proteinG": 33,
+    "carbsG": 58,
+    "fatG": 19.9,
+    "fiberG": 3.2,
+    "sugarG": 3.2,
+    "saturatedFatG": 4,
+    "sodiumMg": 1161,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.83,
+    "missingIngredientNames": [
+      "云吞",
+      "葱"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

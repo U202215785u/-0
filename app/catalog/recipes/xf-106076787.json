@@ -1,0 +1,135 @@
+{
+  "id": "xf-106076787",
+  "title": "红烧鱼",
+  "ingredients": [
+    {
+      "name": "鱼",
+      "mergeKey": "fish",
+      "category": "水产",
+      "pantry": false,
+      "amount": 1,
+      "unit": "条"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 4,
+      "unit": "片"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 4,
+      "unit": "瓣"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "勺"
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "小米辣",
+      "mergeKey": "chili",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "几根"
+    },
+    {
+      "name": "豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "勺"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "几根"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鱼洗净，两面切花刀"
+    },
+    {
+      "text": "热锅冷油下鱼煎黄"
+    },
+    {
+      "text": "想鱼不粘锅，不要去翻动，等煎差不多翻至另一面也煎黄起锅备用"
+    },
+    {
+      "text": "锅放油下大蒜，蒜瓣，生姜，花椒，小米椒炒香放入豆瓣酱炒出红油加料酒去腥"
+    },
+    {
+      "text": "锅中放水，放入鱼，加白糖，生抽，老抽，大火烧开再煮8分钟，放一勺醋大火收汁"
+    },
+    {
+      "text": "起锅放上香菜，倒上汁"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/106076787/",
+  "author": "我是你的鑫鑫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煎",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 218,
+    "proteinG": 32.1,
+    "carbsG": 8.1,
+    "fatG": 6.3
+  }
+}

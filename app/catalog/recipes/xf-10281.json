@@ -67,7 +67,33 @@
   "author": "CANDEY",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["烧焖","主食","家常菜"],
+  "tags": [
+    "烧焖",
+    "主食",
+    "家常菜"
+  ],
   "durationMinutes": 35,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 128,
+    "proteinG": 3.5,
+    "carbsG": 26.3,
+    "fatG": 1,
+    "fiberG": 7.8,
+    "sugarG": 6,
+    "saturatedFatG": 0,
+    "sodiumMg": 276,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.33,
+    "missingIngredientNames": [
+      "青红尖椒",
+      "鸡腿",
+      "头洋葱",
+      "酱油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

@@ -2,39 +2,241 @@
   "id": "chicken-tikka-masala",
   "title": "鸡肉咖喱",
   "ingredients": [
-    { "name": "大蒜", "amount": 6.0, "unit": "瓣", "category": "蔬菜", "pantry": false, "mergeKey": "大蒜" },
-    { "name": "姜", "amount": 4.0, "unit": "茶匙", "category": "蔬菜", "pantry": false, "mergeKey": "姜" },
-    { "name": "姜黄粉", "amount": 4.0, "unit": "茶匙", "category": "调味料", "pantry": false, "mergeKey": "姜黄粉" },
-    { "name": "葛拉姆马萨拉香料粉", "amount": 2.0, "unit": "茶匙", "category": "调味料", "pantry": false, "mergeKey": "葛拉姆马萨拉" },
-    { "name": "香菜籽粉", "amount": 2.0, "unit": "茶匙", "category": "调味料", "pantry": false, "mergeKey": "香菜籽粉" },
-    { "name": "孜然粉", "amount": 2.0, "unit": "茶匙", "category": "调味料", "pantry": false, "mergeKey": "孜然粉" },
-    { "name": "全脂酸奶", "amount": 360.0, "unit": "毫升", "category": "乳制品", "pantry": false, "mergeKey": "酸奶" },
-    { "name": "粗盐（犹太盐）", "amount": 1.0, "unit": "汤匙", "category": "调味料", "pantry": true, "mergeKey": "盐" },
-    { "name": "去皮去骨鸡胸肉", "amount": 907.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "鸡胸肉" },
-    { "name": "酥油（澄清黄油）或植物油", "amount": 3.0, "unit": "汤匙", "category": "调味料", "pantry": true, "mergeKey": "酥油" },
-    { "name": "小洋葱", "amount": 1.0, "unit": "个", "category": "蔬菜", "pantry": false, "mergeKey": "洋葱" },
-    { "name": "番茄膏", "amount": 60.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "番茄膏" },
-    { "name": "豆蔻荚", "amount": 6.0, "unit": "颗", "category": "干货", "pantry": false, "mergeKey": "豆蔻" },
-    { "name": "干辣椒（树椒）", "quantityText": "2 根（或用半茶匙辣椒碎代替）", "category": "干货", "pantry": false, "mergeKey": "干辣椒" },
-    { "name": "去皮整番茄罐头", "amount": 1.0, "unit": "罐", "category": "蔬菜", "pantry": false, "mergeKey": "去皮番茄罐头" },
-    { "name": "淡奶油", "amount": 480.0, "unit": "毫升", "category": "乳制品", "pantry": false, "mergeKey": "淡奶油" },
-    { "name": "香菜", "amount": 180.0, "unit": "毫升", "category": "蔬菜", "pantry": false, "mergeKey": "香菜" },
-    { "name": "印度香米", "quantityText": "适量", "category": "米面主食", "pantry": false, "mergeKey": "印度香米" }
+    {
+      "name": "大蒜",
+      "amount": 6,
+      "unit": "瓣",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "大蒜"
+    },
+    {
+      "name": "姜",
+      "amount": 4,
+      "unit": "茶匙",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "姜"
+    },
+    {
+      "name": "姜黄粉",
+      "amount": 4,
+      "unit": "茶匙",
+      "category": "调味料",
+      "pantry": false,
+      "mergeKey": "姜黄粉"
+    },
+    {
+      "name": "葛拉姆马萨拉香料粉",
+      "amount": 2,
+      "unit": "茶匙",
+      "category": "调味料",
+      "pantry": false,
+      "mergeKey": "葛拉姆马萨拉"
+    },
+    {
+      "name": "香菜籽粉",
+      "amount": 2,
+      "unit": "茶匙",
+      "category": "调味料",
+      "pantry": false,
+      "mergeKey": "香菜籽粉"
+    },
+    {
+      "name": "孜然粉",
+      "amount": 2,
+      "unit": "茶匙",
+      "category": "调味料",
+      "pantry": false,
+      "mergeKey": "孜然粉"
+    },
+    {
+      "name": "全脂酸奶",
+      "amount": 360,
+      "unit": "毫升",
+      "category": "乳制品",
+      "pantry": false,
+      "mergeKey": "酸奶"
+    },
+    {
+      "name": "粗盐（犹太盐）",
+      "amount": 1,
+      "unit": "汤匙",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "盐"
+    },
+    {
+      "name": "去皮去骨鸡胸肉",
+      "amount": 907,
+      "unit": "克",
+      "category": "肉类",
+      "pantry": false,
+      "mergeKey": "鸡胸肉"
+    },
+    {
+      "name": "酥油（澄清黄油）或植物油",
+      "amount": 3,
+      "unit": "汤匙",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "酥油"
+    },
+    {
+      "name": "小洋葱",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "洋葱"
+    },
+    {
+      "name": "番茄膏",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": false,
+      "mergeKey": "番茄膏"
+    },
+    {
+      "name": "豆蔻荚",
+      "amount": 6,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": false,
+      "mergeKey": "豆蔻"
+    },
+    {
+      "name": "干辣椒（树椒）",
+      "quantityText": "2 根（或用半茶匙辣椒碎代替）",
+      "category": "干货",
+      "pantry": false,
+      "mergeKey": "干辣椒"
+    },
+    {
+      "name": "去皮整番茄罐头",
+      "amount": 1,
+      "unit": "罐",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "去皮番茄罐头"
+    },
+    {
+      "name": "淡奶油",
+      "amount": 480,
+      "unit": "毫升",
+      "category": "乳制品",
+      "pantry": false,
+      "mergeKey": "淡奶油"
+    },
+    {
+      "name": "香菜",
+      "amount": 180,
+      "unit": "毫升",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "香菜"
+    },
+    {
+      "name": "印度香米",
+      "quantityText": "适量",
+      "category": "米面主食",
+      "pantry": false,
+      "mergeKey": "印度香米"
+    }
   ],
   "steps": [
-    { "text": "将大蒜、姜、姜黄粉、葛拉姆马萨拉、香菜籽粉和孜然粉放入小碗混合。另取中碗，放入酸奶、粗盐和一半香料混合物搅匀，加入 907 克鸡胸肉翻拌裹匀，盖好冷藏腌制 4–6 小时。剩余香料混合物盖好冷藏备用。", "timerSeconds": 14400, "ingredientNames": ["大蒜", "姜", "姜黄粉", "葛拉姆马萨拉香料粉", "香菜籽粉", "孜然粉", "全脂酸奶", "粗盐（犹太盐）", "去皮去骨鸡胸肉"] },
-    { "text": "中火加热大厚底锅中的酥油。加入 1 个小洋葱（切薄丝）、60 毫升番茄膏、6 颗豆蔻荚（压碎）和干辣椒，经常翻动，炒至番茄膏颜色变深、洋葱变软，约 5 分钟。加入剩下的一半香料混合物，继续经常翻动，炒到锅底开始上色，约 4 分钟。", "timerSeconds": 300, "ingredientNames": ["酥油（澄清黄油）或植物油", "小洋葱", "番茄膏", "豆蔻荚", "干辣椒（树椒）"] },
-    { "text": "用手把去皮整番茄罐头中的番茄连汁捏碎放入锅中。煮沸后转小火，经常翻动并刮起锅底焦化物，煮到酱汁变稠，8–10 分钟。", "timerSeconds": 480, "ingredientNames": ["去皮整番茄罐头"] },
-    { "text": "加入淡奶油和 180 毫升香菜碎，不时搅拌，煮到酱汁变稠，30–40 分钟。", "timerSeconds": 1800, "ingredientNames": ["淡奶油", "香菜"] },
-    { "text": "同时，预热烤箱上火（炙烤档）。烤盘铺锡纸并放入金属网架，把鸡胸肉单层摆在架上。炙烤至鸡肉局部开始变黑（此时尚未全熟），约 10 分钟。", "timerSeconds": 600, "ingredientNames": ["去皮去骨鸡胸肉"] },
-    { "text": "把鸡肉切成入口大小，加入酱汁中，不时搅拌，煮至鸡肉全熟，8–10 分钟。配蒸好的印度香米饭上桌，用香菜整枝点缀。", "timerSeconds": 480, "ingredientNames": ["去皮去骨鸡胸肉", "印度香米", "香菜"] }
+    {
+      "text": "将大蒜、姜、姜黄粉、葛拉姆马萨拉、香菜籽粉和孜然粉放入小碗混合。另取中碗，放入酸奶、粗盐和一半香料混合物搅匀，加入 907 克鸡胸肉翻拌裹匀，盖好冷藏腌制 4–6 小时。剩余香料混合物盖好冷藏备用。",
+      "timerSeconds": 14400,
+      "ingredientNames": [
+        "大蒜",
+        "姜",
+        "姜黄粉",
+        "葛拉姆马萨拉香料粉",
+        "香菜籽粉",
+        "孜然粉",
+        "全脂酸奶",
+        "粗盐（犹太盐）",
+        "去皮去骨鸡胸肉"
+      ]
+    },
+    {
+      "text": "中火加热大厚底锅中的酥油。加入 1 个小洋葱（切薄丝）、60 毫升番茄膏、6 颗豆蔻荚（压碎）和干辣椒，经常翻动，炒至番茄膏颜色变深、洋葱变软，约 5 分钟。加入剩下的一半香料混合物，继续经常翻动，炒到锅底开始上色，约 4 分钟。",
+      "timerSeconds": 300,
+      "ingredientNames": [
+        "酥油（澄清黄油）或植物油",
+        "小洋葱",
+        "番茄膏",
+        "豆蔻荚",
+        "干辣椒（树椒）"
+      ]
+    },
+    {
+      "text": "用手把去皮整番茄罐头中的番茄连汁捏碎放入锅中。煮沸后转小火，经常翻动并刮起锅底焦化物，煮到酱汁变稠，8–10 分钟。",
+      "timerSeconds": 480,
+      "ingredientNames": [
+        "去皮整番茄罐头"
+      ]
+    },
+    {
+      "text": "加入淡奶油和 180 毫升香菜碎，不时搅拌，煮到酱汁变稠，30–40 分钟。",
+      "timerSeconds": 1800,
+      "ingredientNames": [
+        "淡奶油",
+        "香菜"
+      ]
+    },
+    {
+      "text": "同时，预热烤箱上火（炙烤档）。烤盘铺锡纸并放入金属网架，把鸡胸肉单层摆在架上。炙烤至鸡肉局部开始变黑（此时尚未全熟），约 10 分钟。",
+      "timerSeconds": 600,
+      "ingredientNames": [
+        "去皮去骨鸡胸肉"
+      ]
+    },
+    {
+      "text": "把鸡肉切成入口大小，加入酱汁中，不时搅拌，煮至鸡肉全熟，8–10 分钟。配蒸好的印度香米饭上桌，用香菜整枝点缀。",
+      "timerSeconds": 480,
+      "ingredientNames": [
+        "去皮去骨鸡胸肉",
+        "印度香米",
+        "香菜"
+      ]
+    }
   ],
   "baseServings": 6,
   "durationMinutes": 80,
   "difficulty": "中等",
-  "tags": ["炖"],
+  "tags": [
+    "炖"
+  ],
   "sourceUrl": "https://www.bonappetit.com/recipe/chicken-tikka-masala",
   "author": "Alison Roman",
   "fidelity": "structured-transcription",
-  "sourceNote": "转录自《好胃口》杂志网站公开页面的结构化菜谱数据（作者艾莉森·罗曼）。单位换算：1 磅约 454 克、1 杯约 240 毫升、1 汤匙约 15 毫升、1 茶匙约 5 毫升、1 盎司约 28 克。原文未给总时长，80 分钟为按备料与步骤估算（预计），另有冷藏腌制 4–6 小时未计入；鸡胸肉 2 磅（约 907 克）原文要求纵向对半切开。"
+  "sourceNote": "转录自《好胃口》杂志网站公开页面的结构化菜谱数据（作者艾莉森·罗曼）。单位换算：1 磅约 454 克、1 杯约 240 毫升、1 汤匙约 15 毫升、1 茶匙约 5 毫升、1 盎司约 28 克。原文未给总时长，80 分钟为按备料与步骤估算（预计），另有冷藏腌制 4–6 小时未计入；鸡胸肉 2 磅（约 907 克）原文要求纵向对半切开。",
+  "nutrition": {
+    "kcal": 443,
+    "proteinG": 48.2,
+    "carbsG": 19.6,
+    "fatG": 19.1,
+    "fiberG": 1.3,
+    "sugarG": 8.8,
+    "saturatedFatG": 9.9,
+    "sodiumMg": 316,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.61,
+    "missingIngredientNames": [
+      "大蒜",
+      "粗盐（犹太盐）",
+      "小洋葱",
+      "豆蔻荚",
+      "干辣椒（树椒）",
+      "去皮整番茄罐头",
+      "印度香米"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算7 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

@@ -161,7 +161,30 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、准备40分钟、烹调20分钟、总时长60分钟、18项配料和5段方法；保留干货分开泡发、春卷皮防干和165摄氏度油温信息。",
-  "tags": ["炸","点心"],
+  "tags": [
+    "炸",
+    "点心"
+  ],
   "durationMinutes": 60,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 199,
+    "proteinG": 4.1,
+    "carbsG": 29.2,
+    "fatG": 7.4,
+    "fiberG": 4.1,
+    "sugarG": 4.8,
+    "saturatedFatG": 1.1,
+    "sodiumMg": 542,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.89,
+    "missingIngredientNames": [
+      "春卷皮",
+      "食用油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

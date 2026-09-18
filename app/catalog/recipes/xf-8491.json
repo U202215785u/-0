@@ -77,12 +77,29 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 148.5,
-    "proteinG": 10.7,
-    "carbsG": 21.4,
-    "fatG": 3.7
+    "kcal": 132,
+    "proteinG": 1.4,
+    "carbsG": 2.2,
+    "fatG": 13,
+    "fiberG": 0.8,
+    "sugarG": 0.3,
+    "saturatedFatG": 1.7,
+    "sodiumMg": 581,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.57,
+    "missingIngredientNames": [
+      "豆腐片",
+      "火腿",
+      "小青菜"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；炸制用油按保留量折算（未把整锅油计入）；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮"],
+  "tags": [
+    "煮"
+  ],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

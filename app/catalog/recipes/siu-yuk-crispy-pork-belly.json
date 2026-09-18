@@ -112,6 +112,24 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、准备750分钟、烹调60分钟、总时长810分钟、11项配料和5段方法；保留原页面冷藏准备、焯水、吸干表皮和精确时长。",
-  "tags": ["烤"],
-  "difficulty": "中等"
+  "tags": [
+    "烤"
+  ],
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 951,
+    "proteinG": 17.4,
+    "carbsG": 2.7,
+    "fatG": 96.7,
+    "fiberG": 0.4,
+    "sugarG": 1.4,
+    "saturatedFatG": 34.6,
+    "sodiumMg": 2283,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "medium",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

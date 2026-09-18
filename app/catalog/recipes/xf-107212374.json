@@ -1,0 +1,137 @@
+{
+  "id": "xf-107212374",
+  "title": "青椒肉丝",
+  "ingredients": [
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "肉",
+      "mergeKey": "meat",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 200,
+      "unit": "克"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "瓣"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "片"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "段"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    }
+  ],
+  "steps": [
+    {
+      "text": "青椒洗干净切成丝状备用。"
+    },
+    {
+      "text": "买来的肉切成丝状备用。"
+    },
+    {
+      "text": "肉丝中加生抽一勺、老抽半勺后抓拌均匀，加入一勺淀粉后抓拌均匀，并用一勺食用油锁住水分。静待十分钟。"
+    },
+    {
+      "text": "切点姜丝、葱丝和蒜末备用。"
+    },
+    {
+      "text": "油热后加入肉丝，七成熟后盛入碗中备用，汤汁也一并盛入碗中。"
+    },
+    {
+      "text": "起锅烧油，油热后放入切好的蒜末葱丝姜丝爆香，然后加入切好的青椒丝翻炒，加入一勺盐，炒至青椒丝断生。"
+    },
+    {
+      "text": "加入肉丝继续翻炒，同时加入一勺生抽、一勺鸡精、一勺蚝油。"
+    },
+    {
+      "text": "继续翻炒均匀，一道美味下饭的青椒肉丝就做好啦！ (以上存在图片来源于网络，侵权删)"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107212374/",
+  "author": "4U木可小厨娘",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 283,
+    "proteinG": 20.2,
+    "carbsG": 12,
+    "fatG": 17.2
+  }
+}

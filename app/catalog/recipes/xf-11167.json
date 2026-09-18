@@ -130,12 +130,31 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 334.3,
-    "proteinG": 8.9,
-    "carbsG": 40.8,
-    "fatG": 16.3
+    "kcal": 572,
+    "proteinG": 14.1,
+    "carbsG": 90.3,
+    "fatG": 17.2,
+    "fiberG": 7.8,
+    "sugarG": 3.1,
+    "saturatedFatG": 2.1,
+    "sodiumMg": 8453,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.69,
+    "missingIngredientNames": [
+      "小油菜",
+      "小把黄豆芽",
+      "豇豆",
+      "小截大葱"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","主食"],
+  "tags": [
+    "煮",
+    "主食"
+  ],
   "durationMinutes": 45,
   "difficulty": "中等"
 }

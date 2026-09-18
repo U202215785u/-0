@@ -1,0 +1,104 @@
+{
+  "id": "xf-100526470",
+  "title": "凉拌腐竹",
+  "ingredients": [
+    {
+      "name": "腐竹",
+      "mergeKey": "tofu-skin",
+      "category": "豆制品",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "斤"
+    },
+    {
+      "name": "香醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "勺"
+    },
+    {
+      "name": "辣椒油",
+      "mergeKey": "chili-oil",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "汤匙"
+    },
+    {
+      "name": "耗油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "汤匙"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "小勺"
+    },
+    {
+      "name": "蒜泥",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "小勺"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "一小把"
+    }
+  ],
+  "steps": [
+    {
+      "text": "腐竹掰短一些，冷水泡软。不要用开水泡腐竹，不好吃。"
+    },
+    {
+      "text": "切短备用。"
+    },
+    {
+      "text": "坐一锅水，放半勺盐，烧开，把腐竹绰水。"
+    },
+    {
+      "text": "超软后捞出，过凉开水。"
+    },
+    {
+      "text": "拌入所有调料，放置一小时入味即可。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100526470/",
+  "author": "萌萌妈妈0407",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 652,
+    "proteinG": 57.4,
+    "carbsG": 33.2,
+    "fatG": 32.2
+  }
+}

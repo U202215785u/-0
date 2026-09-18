@@ -1,0 +1,88 @@
+{
+  "id": "xf-107651597",
+  "title": "蒜蓉西兰花",
+  "ingredients": [
+    {
+      "name": "西兰花",
+      "mergeKey": "broccoli",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 350,
+      "unit": "克"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "4-5瓣"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "2"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "淀粉水",
+      "category": "米面主食",
+      "pantry": false,
+      "amount": 15,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "西兰花切成小朵，清洗干净"
+    },
+    {
+      "text": "焯水，水中加入适量的盐和食用油，水沸后60秒即可断生"
+    },
+    {
+      "text": "沥干水分备用"
+    },
+    {
+      "text": "大蒜切末，准备好水淀粉 ，备用"
+    },
+    {
+      "text": "热油下入蒜末，炒出香味，加入西兰花 加入食盐、蚝油翻炒，再加入水淀粉，大火收汁"
+    },
+    {
+      "text": "盛盘出锅，干饭"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107651597/",
+  "author": "棒棒糖girl",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 97,
+    "proteinG": 5.9,
+    "carbsG": 16.3,
+    "fatG": 0.9
+  }
+}

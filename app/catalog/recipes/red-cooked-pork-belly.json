@@ -2,28 +2,134 @@
   "id": "red-cooked-pork-belly",
   "title": "红烧肉",
   "ingredients": [
-    { "name": "五花肉", "amount": 600.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "pork-belly" },
-    { "name": "绍兴黄酒", "amount": 250.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "shaoxing-wine" },
-    { "name": "生抽", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
-    { "name": "老抽", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "dark-soy-sauce" },
-    { "name": "姜", "amount": 5.0, "unit": "片", "category": "蔬菜", "pantry": false, "mergeKey": "ginger" },
-    { "name": "八角", "amount": 2.0, "unit": "颗", "category": "干货", "pantry": true, "mergeKey": "star-anise" },
-    { "name": "香叶", "amount": 2.0, "unit": "片", "category": "干货", "pantry": true, "mergeKey": "bay-leaf" },
-    { "name": "冰糖", "amount": 20.0, "unit": "克", "category": "调味料", "pantry": true, "mergeKey": "rock-sugar" }
+    {
+      "name": "五花肉",
+      "amount": 600,
+      "unit": "克",
+      "category": "肉类",
+      "pantry": false,
+      "mergeKey": "pork-belly"
+    },
+    {
+      "name": "绍兴黄酒",
+      "amount": 250,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "shaoxing-wine"
+    },
+    {
+      "name": "生抽",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "soy-sauce"
+    },
+    {
+      "name": "老抽",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "dark-soy-sauce"
+    },
+    {
+      "name": "姜",
+      "amount": 5,
+      "unit": "片",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "ginger"
+    },
+    {
+      "name": "八角",
+      "amount": 2,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true,
+      "mergeKey": "star-anise"
+    },
+    {
+      "name": "香叶",
+      "amount": 2,
+      "unit": "片",
+      "category": "干货",
+      "pantry": true,
+      "mergeKey": "bay-leaf"
+    },
+    {
+      "name": "冰糖",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "rock-sugar"
+    }
   ],
   "steps": [
-    { "text": "五花肉切成二至三厘米见方的块，放入锅中加水煮至沸腾。", "ingredientNames": ["五花肉"] },
-    { "text": "水煮沸后撇去浮沫，捞出沥水，用冷水冲洗干净。", "ingredientNames": ["五花肉"] },
-    { "text": "锅中倒入绍兴黄酒和热水（水量以刚没过肉为宜），加入生抽、老抽、姜、八角和香叶。", "ingredientNames": ["绍兴黄酒", "生抽", "老抽", "姜", "八角", "香叶"] },
-    { "text": "大火将汤汁煮至完全沸腾，盖上锅盖转小火慢炖一至一个半小时，直到肉用叉子可轻松戳透。", "timerSeconds": 3600, "ingredientNames": ["五花肉"] },
-    { "text": "开盖加入冰糖，转大火让汤汁猛烈沸腾收汁，期间不时搅拌，直到汤汁收至刚好能盖住锅底。", "ingredientNames": ["冰糖"] }
+    {
+      "text": "五花肉切成二至三厘米见方的块，放入锅中加水煮至沸腾。",
+      "ingredientNames": [
+        "五花肉"
+      ]
+    },
+    {
+      "text": "水煮沸后撇去浮沫，捞出沥水，用冷水冲洗干净。",
+      "ingredientNames": [
+        "五花肉"
+      ]
+    },
+    {
+      "text": "锅中倒入绍兴黄酒和热水（水量以刚没过肉为宜），加入生抽、老抽、姜、八角和香叶。",
+      "ingredientNames": [
+        "绍兴黄酒",
+        "生抽",
+        "老抽",
+        "姜",
+        "八角",
+        "香叶"
+      ]
+    },
+    {
+      "text": "大火将汤汁煮至完全沸腾，盖上锅盖转小火慢炖一至一个半小时，直到肉用叉子可轻松戳透。",
+      "timerSeconds": 3600,
+      "ingredientNames": [
+        "五花肉"
+      ]
+    },
+    {
+      "text": "开盖加入冰糖，转大火让汤汁猛烈沸腾收汁，期间不时搅拌，直到汤汁收至刚好能盖住锅底。",
+      "ingredientNames": [
+        "冰糖"
+      ]
+    }
   ],
   "baseServings": 4,
   "durationMinutes": 80,
   "difficulty": "简单",
-  "tags": ["烧焖","家常菜"],
+  "tags": [
+    "烧焖",
+    "家常菜"
+  ],
   "sourceUrl": "https://redhousespice.com/red-cooked-pork-belly/",
   "author": "Wei Guo / Red House Spice",
   "fidelity": "structured-transcription",
-  "sourceNote": "原站页面直接访问受验证机制拦截，本稿转录自公开镜像页的完整菜谱（镜像页标注出处即本道红烧肉页），食材、数量、步骤顺序与原文一致。原文标注备料五分钟、炖煮七十五分钟、四人份。换算：两汤匙生抽约三十毫升、一汤匙老抽约十五毫升、两百五十毫升绍兴黄酒，姜五片、八角两颗、香叶两片按原文计数。步骤中慢炖一至一个半小时的计时取自原文，取下限一小时。"
+  "sourceNote": "原站页面直接访问受验证机制拦截，本稿转录自公开镜像页的完整菜谱（镜像页标注出处即本道红烧肉页），食材、数量、步骤顺序与原文一致。原文标注备料五分钟、炖煮七十五分钟、四人份。换算：两汤匙生抽约三十毫升、一汤匙老抽约十五毫升、两百五十毫升绍兴黄酒，姜五片、八角两颗、香叶两片按原文计数。步骤中慢炖一至一个半小时的计时取自原文，取下限一小时。",
+  "nutrition": {
+    "kcal": 824,
+    "proteinG": 15.4,
+    "carbsG": 11.6,
+    "fatG": 79.6,
+    "fiberG": 0.2,
+    "sugarG": 5.8,
+    "saturatedFatG": 28.5,
+    "sodiumMg": 893,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "medium",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

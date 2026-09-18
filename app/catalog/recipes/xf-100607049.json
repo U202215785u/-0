@@ -1,0 +1,107 @@
+{
+  "id": "xf-100607049",
+  "title": "皮蛋豆腐",
+  "ingredients": [
+    {
+      "name": "内酯豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品",
+      "pantry": false,
+      "amount": 1,
+      "unit": "盒"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "瓣"
+    },
+    {
+      "name": "尖椒",
+      "mergeKey": "chili-pepper",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "少许"
+    },
+    {
+      "name": "朝天椒",
+      "mergeKey": "chili",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "少许"
+    },
+    {
+      "name": "耗油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "白醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "两勺"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "两勺"
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "滴"
+    },
+    {
+      "name": "皮蛋",
+      "mergeKey": "century-egg",
+      "category": "蛋类",
+      "pantry": false,
+      "amount": 1,
+      "unit": "个"
+    }
+  ],
+  "steps": [
+    {
+      "text": "内酯豆腐 放水里泡5分钟 捞出控水备用"
+    },
+    {
+      "text": "皮蛋切瓣放在上面"
+    },
+    {
+      "text": "酸捣成泥 加入尖椒 朝天椒 耗油 酱油 白醋"
+    },
+    {
+      "text": "酱汁淋到皮蛋豆腐上 加一两滴香油"
+    },
+    {
+      "text": "成品图"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100607049/",
+  "author": "杜杜饱饱",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 195,
+    "proteinG": 16.3,
+    "carbsG": 9.7,
+    "fatG": 10.1
+  }
+}

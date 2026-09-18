@@ -1,0 +1,88 @@
+{
+  "id": "xf-102231895",
+  "title": "蒜蓉菠菜",
+  "ingredients": [
+    {
+      "name": "菠菜",
+      "mergeKey": "spinach",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "按人口购买一顿的菜量(我家人多，每顿差不多八两左右)"
+    },
+    {
+      "name": "蒜瓣",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "只"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1.5,
+      "unit": "茶匙"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "凉水",
+      "mergeKey": "water",
+      "category": "其他",
+      "pantry": false,
+      "quantityText": "适量(用作焯菠菜)"
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许(如有宝宝吃可不加)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "菠菜泡水，洗净后用手掰断，一根掰两半即可"
+    },
+    {
+      "text": "准备好蒜瓣，用刀拍碎"
+    },
+    {
+      "text": "炒锅加凉水，根据菠菜的量适量多加，最好能埋住菠菜，再在水里滴几滴油以及少许盐"
+    },
+    {
+      "text": "待水烧开后，放入菠菜，若水埋不住菠菜，用筷子上下翻一翻，使每根菜都能浸到水，然后倒数5*4*3*2*1捞出菠菜放置一边"
+    },
+    {
+      "text": "炒锅放油，八成热时放蒜蓉爆香，将焯好的菠菜迅速倒进锅里翻炒，加少许糖和盐，出锅。"
+    },
+    {
+      "text": "成品图"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102231895/",
+  "author": "李白_5e9s",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单"
+}

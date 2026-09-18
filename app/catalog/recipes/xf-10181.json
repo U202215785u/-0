@@ -79,12 +79,34 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 27.5,
-    "proteinG": 0.5,
-    "carbsG": 5.8,
-    "fatG": 0.3
+    "kcal": 268,
+    "proteinG": 3.5,
+    "carbsG": 50.5,
+    "fatG": 5.8,
+    "fiberG": 6.4,
+    "sugarG": 14.5,
+    "saturatedFatG": 3.3,
+    "sodiumMg": 26,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.33,
+    "missingIngredientNames": [
+      "蜜枣",
+      "熟芝麻",
+      "花生仁",
+      "杏仁",
+      "黑巧克力碎",
+      "糖豆"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算6 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["蒸","点心","素菜"],
+  "tags": [
+    "蒸",
+    "点心",
+    "素菜"
+  ],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

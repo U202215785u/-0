@@ -1,0 +1,57 @@
+{
+  "id": "xf-104533061",
+  "title": "煎豆腐",
+  "ingredients": [
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "嫩豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品",
+      "pantry": false,
+      "quantityText": "4小块"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "1根（可不加）"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "撒一圈"
+    }
+  ],
+  "steps": [
+    {
+      "text": "1.每块豆腐根据个人喜好切成3-4小块，不要太薄，也不要太厚，可参考上图； 2.锅加入适量油，大火热锅，油烧到很烫（可切一小丁点蒜头试探），豆腐立马下锅，小心烫；"
+    },
+    {
+      "text": "3.煎到金黄，记得翻面煎； 4.两面煎好后，在锅中淋上一圈酱油，立马盖锅盖，关火，闷一分钟左右，最后再撒点葱点缀，即可出锅；"
+    },
+    {
+      "text": "🍴锵锵锵~外焦里嫩的豆腐~超美味✨"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/104533061/",
+  "author": "泡芙小喵的麻麻",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煎",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "简单"
+}

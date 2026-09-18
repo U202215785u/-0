@@ -157,6 +157,8 @@ select { min-height: 44px; }
 .nutrition-grid div { background: var(--surface); border: 1px solid var(--border-soft); border-radius: var(--radius); padding: 8px 12px; }
 .nutrition-grid dt { font-size: 0.78rem; color: var(--text-secondary); }
 .nutrition-grid dd { margin: 2px 0 0; font-weight: 600; }
+.nutrition-note { margin: 10px 0 4px; color: var(--text-secondary); font-size: 0.82rem; line-height: 1.5; }
+.nutrition-coverage { margin: 4px 0 10px; color: var(--text-secondary); font-size: 0.8rem; }
 .step-list { margin: 0; padding-left: 22px; }
 .step-timer-chip { display: inline-block; margin-left: 8px; color: var(--accent); font-variant-numeric: tabular-nums; font-size: 0.85rem; }
 .source-line { margin-top: 10px; color: var(--text-secondary); font-size: 0.85rem; }

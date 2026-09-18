@@ -131,12 +131,32 @@
   "fidelity": "structured-transcription",
   "sourceNote": "固定字段采用来源份量范围下限6人份作为缩放基准；来源页面公开30分钟、11项配料和4段方法。",
   "nutrition": {
-    "kcal": 124.1,
-    "proteinG": 6.7,
-    "carbsG": 23.9,
-    "fatG": 1.7
+    "kcal": 266,
+    "proteinG": 11.6,
+    "carbsG": 26.9,
+    "fatG": 12.4,
+    "fiberG": 10.5,
+    "sugarG": 9.5,
+    "saturatedFatG": 6.9,
+    "sodiumMg": 141,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.64,
+    "missingIngredientNames": [
+      "食盐",
+      "黑胡椒",
+      "柠檬皮屑",
+      "特级初榨橄榄油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","汤羹","素菜"],
+  "tags": [
+    "煮",
+    "汤羹",
+    "素菜"
+  ],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

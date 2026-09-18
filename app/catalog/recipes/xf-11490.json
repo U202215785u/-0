@@ -99,7 +99,40 @@
   "author": "臻妈美食厨房",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["炒","家常菜","快手菜"],
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
   "durationMinutes": 15,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 49,
+    "proteinG": 1.1,
+    "carbsG": 10.7,
+    "fatG": 0.2,
+    "fiberG": 2.7,
+    "sugarG": 5.1,
+    "saturatedFatG": 0,
+    "sodiumMg": 53,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.15,
+    "missingIngredientNames": [
+      "野生黄鳝",
+      "豆腐干",
+      "芦笋",
+      "湿淀粉",
+      "蛋清",
+      "盐",
+      "鸡精",
+      "胡椒粉",
+      "料酒",
+      "美极鲜酱油",
+      "糖"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算11 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

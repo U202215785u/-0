@@ -86,12 +86,28 @@
   "author": "文怡",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["炸","家常菜"],
+  "tags": [
+    "炸",
+    "家常菜"
+  ],
   "nutrition": {
-    "kcal": 681.1,
-    "proteinG": 47.6,
-    "carbsG": 2.6,
-    "fatG": 52.3
+    "kcal": 790,
+    "proteinG": 44.1,
+    "carbsG": 23.2,
+    "fatG": 57.9,
+    "fiberG": 0.4,
+    "sugarG": 2,
+    "saturatedFatG": 22,
+    "sodiumMg": 1750,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.88,
+    "missingIngredientNames": [
+      "麻辣花生"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 25,
   "difficulty": "中等"

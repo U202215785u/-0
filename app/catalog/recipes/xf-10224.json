@@ -102,12 +102,29 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 345.2,
-    "proteinG": 12.1,
-    "carbsG": 57.6,
-    "fatG": 6.9
+    "kcal": 1575,
+    "proteinG": 33.4,
+    "carbsG": 228.7,
+    "fatG": 58.5,
+    "fiberG": 11.2,
+    "sugarG": 92.9,
+    "saturatedFatG": 19.2,
+    "sodiumMg": 770,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.78,
+    "missingIngredientNames": [
+      "蛋黄液",
+      "黑芝麻"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤","点心"],
+  "tags": [
+    "烤",
+    "点心"
+  ],
   "durationMinutes": 45,
   "difficulty": "中等"
 }

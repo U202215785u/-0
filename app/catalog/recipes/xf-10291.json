@@ -73,7 +73,30 @@
   "author": "老鱼家的戏",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["烤"],
+  "tags": [
+    "烤"
+  ],
   "durationMinutes": 10,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 79,
+    "proteinG": 1.7,
+    "carbsG": 17.2,
+    "fatG": 0.4,
+    "fiberG": 0.1,
+    "sugarG": 13.1,
+    "saturatedFatG": 0,
+    "sodiumMg": 613,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.63,
+    "missingIngredientNames": [
+      "五花肥腩",
+      "姜片",
+      "、4只指天椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

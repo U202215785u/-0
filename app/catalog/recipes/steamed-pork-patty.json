@@ -132,12 +132,28 @@
   "fidelity": "structured-transcription",
   "sourceNote": "按来源页面公开的4人份、45分钟、11项配料和7段方法翻译整理；保留剁肉、挤水、抹油和15分钟蒸制要点。",
   "nutrition": {
-    "kcal": 121.7,
-    "proteinG": 4.3,
-    "carbsG": 17.8,
-    "fatG": 3.6
+    "kcal": 203,
+    "proteinG": 18.3,
+    "carbsG": 15.1,
+    "fatG": 7.7,
+    "fiberG": 1.1,
+    "sugarG": 3.1,
+    "saturatedFatG": 2.2,
+    "sodiumMg": 848,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.91,
+    "missingIngredientNames": [
+      "葱"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["蒸","家常菜"],
+  "tags": [
+    "蒸",
+    "家常菜"
+  ],
   "durationMinutes": 45,
   "difficulty": "中等"
 }

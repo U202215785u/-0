@@ -52,7 +52,31 @@
       "text": "放入番茄块，炒到番茄变软出汤后，放入盐翻炒均匀，关火后放入香菜段，和另一半的大蒜片翻炒几下出锅即可"
     }
   ],
-  "tags": ["炒","家常菜","素菜","快手菜"],
+  "tags": [
+    "炒",
+    "家常菜",
+    "素菜",
+    "快手菜"
+  ],
   "durationMinutes": 15,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 90,
+    "proteinG": 2.8,
+    "carbsG": 19,
+    "fatG": 0.3,
+    "fiberG": 2.8,
+    "sugarG": 2.7,
+    "saturatedFatG": 0,
+    "sodiumMg": 590,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.8,
+    "missingIngredientNames": [
+      "随意香菜"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

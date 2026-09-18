@@ -1,0 +1,99 @@
+{
+  "id": "xf-105950224",
+  "title": "蚝油生菜",
+  "ingredients": [
+    {
+      "name": "生菜",
+      "mergeKey": "lettuce",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "棵"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "勺"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "4-5瓣"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 3,
+      "unit": "勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "勺"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "勺"
+    }
+  ],
+  "steps": [
+    {
+      "text": "生菜去掉烂叶"
+    },
+    {
+      "text": "洗干净"
+    },
+    {
+      "text": "锅里加水和少许盐，几滴油，煮沸"
+    },
+    {
+      "text": "生菜放进去焯熟，大约十秒。用筷子把每棵生菜都能过烫水"
+    },
+    {
+      "text": "捞出码盘，控干水分"
+    },
+    {
+      "text": "调汁。蚝油，生抽，盐，糖，一起调匀，再加适量清水调匀"
+    },
+    {
+      "text": "起锅烧油，爆香蒜泥"
+    },
+    {
+      "text": "刚才调好的汁倒进去煮沸，马上关火"
+    },
+    {
+      "text": "淋在生菜上。大功告成，是不是很简单"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/105950224/",
+  "author": "淏妈厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 34,
+    "proteinG": 1.5,
+    "carbsG": 7,
+    "fatG": 0.1
+  }
+}

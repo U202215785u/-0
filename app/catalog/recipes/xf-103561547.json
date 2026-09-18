@@ -319,12 +319,35 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
   "nutrition": {
-    "kcal": 359.9,
-    "proteinG": 11.2,
-    "carbsG": 59.3,
-    "fatG": 9.1
+    "kcal": 2376,
+    "proteinG": 52.2,
+    "carbsG": 165.5,
+    "fatG": 167.2,
+    "fiberG": 8.2,
+    "sugarG": 5.2,
+    "saturatedFatG": 57.8,
+    "sodiumMg": 1846,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.64,
+    "missingIngredientNames": [
+      "炖肉",
+      "冰糖",
+      "小把花椒",
+      "几片甘草",
+      "~6根干辣椒",
+      "~4根香菜根",
+      "小结小香葱",
+      "白胡椒粉",
+      "白吉馍"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算9 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["主食"],
+  "tags": [
+    "主食"
+  ],
   "durationMinutes": 120,
   "difficulty": "中等"
 }

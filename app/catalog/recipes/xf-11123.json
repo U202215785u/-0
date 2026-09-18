@@ -66,12 +66,25 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 361.3,
-    "proteinG": 8.2,
-    "carbsG": 70.1,
-    "fatG": 5.8
+    "kcal": 1069,
+    "proteinG": 11.7,
+    "carbsG": 129.3,
+    "fatG": 56,
+    "fiberG": 2,
+    "sugarG": 50.3,
+    "saturatedFatG": 33.9,
+    "sodiumMg": 425,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "medium",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤","点心"],
+  "tags": [
+    "烤",
+    "点心"
+  ],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

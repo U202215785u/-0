@@ -55,12 +55,28 @@
   "author": "笑笑厨房",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["素菜"],
+  "tags": [
+    "素菜"
+  ],
   "nutrition": {
-    "kcal": 200,
-    "proteinG": 7.5,
-    "carbsG": 30,
-    "fatG": 5
+    "kcal": 96,
+    "proteinG": 1,
+    "carbsG": 22.4,
+    "fatG": 0.3,
+    "fiberG": 1.8,
+    "sugarG": 18.6,
+    "saturatedFatG": 0,
+    "sodiumMg": 1164,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.6,
+    "missingIngredientNames": [
+      "百香果",
+      "酸梅"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 15,
   "difficulty": "中等"

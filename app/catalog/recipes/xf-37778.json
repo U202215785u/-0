@@ -1,0 +1,97 @@
+{
+  "id": "xf-37778",
+  "title": "红烧鸡翅",
+  "ingredients": [
+    {
+      "name": "鸡翅中",
+      "mergeKey": "chicken-wing",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 500,
+      "unit": "克"
+    },
+    {
+      "name": "葱姜",
+      "mergeKey": "scallion-ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "几片"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "一小块"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "汤匙"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "小1汤匙"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 4,
+      "unit": "汤匙"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "2小块"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡翅洗净过水焯几分钟，洗净控干水份备用"
+    },
+    {
+      "text": "锅里热油，倒入鸡翅迅速掂锅翻炒均匀，煎一小会"
+    },
+    {
+      "text": "加入葱姜翻炒均匀后，倒入老抽和生抽使均匀上色"
+    },
+    {
+      "text": "倒入开水没过鸡翅，加八角和桂皮，大火烧开，转中火至汤汁浓稠时加入冰糖，翻炒至冰糖融化即可。鸡翅很好熟，大约15-20分钟即可。所以水不需要到太多，一定要倒开水。老抽和生抽足够咸，不用另外加盐。冰糖两三块就够，使肉色泽更亮，微甜，但不太甜"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/37778/",
+  "author": "万万",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 630,
+    "proteinG": 49.5,
+    "carbsG": 3.6,
+    "fatG": 46.3
+  }
+}

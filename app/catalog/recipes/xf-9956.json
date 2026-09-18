@@ -65,12 +65,25 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 999.5,
-    "proteinG": 157.3,
-    "carbsG": 42.2,
-    "fatG": 18.2
+    "kcal": 1054,
+    "proteinG": 96.6,
+    "carbsG": 44,
+    "fatG": 54.6,
+    "fiberG": 0.5,
+    "sugarG": 40.4,
+    "saturatedFatG": 14.5,
+    "sodiumMg": 1858,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "medium",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["凉拌","家常菜"],
+  "tags": [
+    "凉拌",
+    "家常菜"
+  ],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

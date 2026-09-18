@@ -135,12 +135,34 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 282,
-    "proteinG": 9.2,
-    "carbsG": 54.9,
-    "fatG": 3.2
+    "kcal": 790,
+    "proteinG": 22.5,
+    "carbsG": 154,
+    "fatG": 9.4,
+    "fiberG": 6.1,
+    "sugarG": 1.7,
+    "saturatedFatG": 1,
+    "sodiumMg": 8,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.42,
+    "missingIngredientNames": [
+      "大半个白萝卜",
+      "大半个胡萝卜",
+      "一小把虾皮",
+      "盐",
+      "酒",
+      "花椒粉",
+      "鸡精"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算7 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煎","主食"],
+  "tags": [
+    "煎",
+    "主食"
+  ],
   "durationMinutes": 80,
   "difficulty": "中等"
 }

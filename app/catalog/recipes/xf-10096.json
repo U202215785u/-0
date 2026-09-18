@@ -86,12 +86,29 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 198.7,
-    "proteinG": 6.2,
-    "carbsG": 37.8,
-    "fatG": 2.6
+    "kcal": 493,
+    "proteinG": 21.4,
+    "carbsG": 80,
+    "fatG": 9.8,
+    "fiberG": 3.1,
+    "sugarG": 5.3,
+    "saturatedFatG": 3,
+    "sodiumMg": 1669,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.89,
+    "missingIngredientNames": [
+      "香葱"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炒","主食","快手菜"],
+  "tags": [
+    "炒",
+    "主食",
+    "快手菜"
+  ],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

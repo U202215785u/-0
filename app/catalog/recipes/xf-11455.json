@@ -45,10 +45,28 @@
   "nutrition": {
     "kcal": 2,
     "proteinG": 0.1,
-    "carbsG": 0.3,
-    "fatG": 0.1
+    "carbsG": 0.1,
+    "fatG": 0.1,
+    "fiberG": 0,
+    "sugarG": 0.1,
+    "saturatedFatG": 0,
+    "sodiumMg": 1,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.25,
+    "missingIngredientNames": [
+      "紫薯",
+      "蜂蜜",
+      "杏仁"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","素菜"],
+  "tags": [
+    "煮",
+    "素菜"
+  ],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

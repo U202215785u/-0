@@ -61,7 +61,32 @@
   "author": "格妈",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["蒸","家常菜","减脂高蛋白"],
+  "tags": [
+    "蒸",
+    "家常菜",
+    "减脂高蛋白"
+  ],
   "durationMinutes": 15,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 212,
+    "proteinG": 29.8,
+    "carbsG": 0.6,
+    "fatG": 10,
+    "fiberG": 0,
+    "sugarG": 0.1,
+    "saturatedFatG": 1.8,
+    "sodiumMg": 404,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.5,
+    "missingIngredientNames": [
+      "豆豉",
+      "葱",
+      "盐"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

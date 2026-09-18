@@ -1,0 +1,135 @@
+{
+  "id": "xf-107248151",
+  "title": "白菜炖豆腐",
+  "ingredients": [
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品",
+      "pantry": false,
+      "amount": 1,
+      "unit": "块"
+    },
+    {
+      "name": "娃娃菜",
+      "mergeKey": "baby-cabbage",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "颗"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "少许"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "蒜苗",
+      "mergeKey": "garlic-sprout",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "根"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "两勺"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "黄豆酱",
+      "mergeKey": "soybean-paste",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备好食材，干辣椒可以用小米辣代替 喜欢吃肉的朋友可以切点五花肉煸炒"
+    },
+    {
+      "text": "把豆腐切成大小均匀的薄片，白菜和蒜苗切段，生姜切片，蒜切成末备用"
+    },
+    {
+      "text": "调个料汁黄豆酱一勺，生抽两勺，蚝油一勺，盐一勺，少许白糖加半碗水搅拌均匀备用"
+    },
+    {
+      "text": "锅中放油烧热把豆腐煎至两面金黄盛出备用"
+    },
+    {
+      "text": "锅里留底油放入姜蒜干辣椒爆香（喜欢吃肉的朋友可以先把肉煸炒一下再放姜蒜干辣椒）"
+    },
+    {
+      "text": "放入白菜大火炒至软榻"
+    },
+    {
+      "text": "放入煎好的豆腐"
+    },
+    {
+      "text": "加入调好的料汁大火烧开炖六分钟左右"
+    },
+    {
+      "text": "最后撒上蒜苗一锅热腾腾的白菜豆腐就做好了，这个季节吃最合适不过了"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107248151/",
+  "author": "多乐妈妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 204,
+    "proteinG": 16.5,
+    "carbsG": 11,
+    "fatG": 10.4
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "xf-105873156",
+  "title": "家常葱油饼",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true,
+      "amount": 500,
+      "unit": "克"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 3,
+      "unit": "克"
+    },
+    {
+      "name": "开水",
+      "mergeKey": "water",
+      "category": "其他",
+      "pantry": false,
+      "amount": 250,
+      "unit": "克"
+    },
+    {
+      "name": "凉水",
+      "mergeKey": "water",
+      "category": "其他",
+      "pantry": false,
+      "amount": 120,
+      "unit": "克"
+    },
+    {
+      "name": "葱末",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "所需食材大合照。"
+    },
+    {
+      "text": "500g面粉，3g盐，先倒入250g滚烫的开水烫面，再倒入120g凉水，揉成光滑的面团。"
+    },
+    {
+      "text": "分成十等份，表面刷油，盖上保鲜膜松弛40分钟。"
+    },
+    {
+      "text": "面粉一勺，食用油两勺，调成稀油酥备用。"
+    },
+    {
+      "text": "松弛好后擀成大薄片，抹上油酥，撒上盐，葱末。"
+    },
+    {
+      "text": "两端折起，中间再对折，从一端盘起，尾部压在下面，再松弛十分钟。最后擀成饼。"
+    },
+    {
+      "text": "放入刷油预热的饼铛中，表面刷油锁住水分，盖盖子中火烙制，两面变色就可以出锅啦。"
+    },
+    {
+      "text": "成品图棒棒哒，超级有食欲吧。"
+    },
+    {
+      "text": "动态视频呈现时间到，一层一层的超级柔软，赶快收藏起来试做吧。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/105873156/",
+  "author": "三月小厨",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 897,
+    "proteinG": 27.5,
+    "carbsG": 190,
+    "fatG": 3
+  }
+}

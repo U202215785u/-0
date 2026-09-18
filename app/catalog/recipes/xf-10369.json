@@ -97,12 +97,29 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 175.4,
-    "proteinG": 3.7,
-    "carbsG": 34.7,
-    "fatG": 2.4
+    "kcal": 640,
+    "proteinG": 11.4,
+    "carbsG": 61.3,
+    "fatG": 38.8,
+    "fiberG": 2.4,
+    "sugarG": 21.7,
+    "saturatedFatG": 5.9,
+    "sodiumMg": 44,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.78,
+    "missingIngredientNames": [
+      "熟香蕉",
+      "柠檬皮屑"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；炸制用油按保留量折算（未把整锅油计入）；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤","点心"],
+  "tags": [
+    "烤",
+    "点心"
+  ],
   "durationMinutes": 35,
   "difficulty": "中等"
 }

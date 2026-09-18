@@ -86,12 +86,32 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 300,
-    "proteinG": 57.8,
-    "carbsG": 0,
-    "fatG": 6.5
+    "kcal": 318,
+    "proteinG": 58.8,
+    "carbsG": 5.8,
+    "fatG": 6.6,
+    "fiberG": 0.4,
+    "sugarG": 3.7,
+    "saturatedFatG": 1.8,
+    "sodiumMg": 819,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.56,
+    "missingIngredientNames": [
+      "洋葱丝",
+      "葱花",
+      "辣椒粉",
+      "香菜"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["凉拌","快手菜","减脂高蛋白"],
+  "tags": [
+    "凉拌",
+    "快手菜",
+    "减脂高蛋白"
+  ],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

@@ -74,7 +74,34 @@
   "author": "百事小熊",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["煮","汤羹","家常菜"],
+  "tags": [
+    "煮",
+    "汤羹",
+    "家常菜"
+  ],
   "durationMinutes": 15,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 111,
+    "proteinG": 0.7,
+    "carbsG": 26.9,
+    "fatG": 0.1,
+    "fiberG": 0.7,
+    "sugarG": 0.7,
+    "saturatedFatG": 0,
+    "sodiumMg": 5,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.38,
+    "missingIngredientNames": [
+      "鸭血",
+      "油豆腐",
+      "香菜",
+      "盐",
+      "份咖喱块"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算5 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

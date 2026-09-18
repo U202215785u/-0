@@ -1,0 +1,55 @@
+{
+  "id": "xf-100293833",
+  "title": "苦瓜炒蛋",
+  "ingredients": [
+    {
+      "name": "苦瓜",
+      "mergeKey": "bitter-melon",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "2—3根"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类",
+      "pantry": false,
+      "quantityText": "3—4枚"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "熟花生粒",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "可以多放"
+    }
+  ],
+  "steps": [
+    {
+      "text": "把苦瓜从中间切开，用勺把把苦瓜瓤刮去，切片"
+    },
+    {
+      "text": "把苦瓜片放入碗中打入鸡蛋放点盐再放入花生粒搅拌"
+    },
+    {
+      "text": "搅拌好的苦瓜就可以上锅炒了，炒到鸡蛋变成金黄色就可以了"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100293833/",
+  "author": "萌厨娘",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 21,
+  "difficulty": "简单"
+}

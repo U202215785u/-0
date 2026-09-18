@@ -127,11 +127,29 @@
   "fidelity": "structured-transcription",
   "sourceNote": "固定字段采用来源份量范围下限4人份作为缩放基准；来源页面公开35分钟、9项配料和10段方法，保留番茄沥汁煎香、面水乳化和黄油收尾。",
   "nutrition": {
-    "kcal": 235,
-    "proteinG": 5.8,
-    "carbsG": 23.9,
-    "fatG": 13
+    "kcal": 608,
+    "proteinG": 20,
+    "carbsG": 77.1,
+    "fatG": 24.4,
+    "fiberG": 7.3,
+    "sugarG": 8.3,
+    "saturatedFatG": 7.6,
+    "sodiumMg": 547,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.67,
+    "missingIngredientNames": [
+      "食盐",
+      "干辣椒碎",
+      "罗勒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炒","主食"],
+  "tags": [
+    "炒",
+    "主食"
+  ],
   "difficulty": "中等"
 }

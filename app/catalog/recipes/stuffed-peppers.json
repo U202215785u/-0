@@ -189,12 +189,29 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、45分钟总时长和6段方法；保留鱼虾拍泥、甜椒去籽、填馅煎制与黑豆酱汁收尾顺序。",
   "nutrition": {
-    "kcal": 289.6,
-    "proteinG": 34.7,
-    "carbsG": 13,
-    "fatG": 11.3
+    "kcal": 321,
+    "proteinG": 28.9,
+    "carbsG": 21.2,
+    "fatG": 13.5,
+    "fiberG": 0.2,
+    "sugarG": 8.6,
+    "saturatedFatG": 2.3,
+    "sodiumMg": 1205,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.88,
+    "missingIngredientNames": [
+      "青甜椒",
+      "红甜椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煎","家常菜"],
+  "tags": [
+    "煎",
+    "家常菜"
+  ],
   "durationMinutes": 45,
   "difficulty": "中等"
 }

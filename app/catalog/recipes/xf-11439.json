@@ -50,7 +50,34 @@
   "author": "臻妈美食厨房",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["煎","主食","快手菜"],
+  "tags": [
+    "煎",
+    "主食",
+    "快手菜"
+  ],
   "durationMinutes": 10,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 29,
+    "proteinG": 0.8,
+    "carbsG": 6.4,
+    "fatG": 0,
+    "fiberG": 0.8,
+    "sugarG": 0.3,
+    "saturatedFatG": 0,
+    "sodiumMg": 2,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.17,
+    "missingIngredientNames": [
+      "豆渣",
+      "葱花",
+      "盐",
+      "鸡精",
+      "黑胡椒粉"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算5 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

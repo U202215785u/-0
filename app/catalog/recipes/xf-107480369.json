@@ -1,0 +1,60 @@
+{
+  "id": "xf-107480369",
+  "title": "玉米炒虾仁",
+  "ingredients": [
+    {
+      "name": "虾仁",
+      "mergeKey": "shrimp",
+      "category": "水产",
+      "pantry": false
+    },
+    {
+      "name": "玉米",
+      "mergeKey": "corn",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜（没有也行）",
+      "category": "蔬菜",
+      "pantry": false
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备工作： 虾】解冻后去虾线，剥皮，在加一勺粉抓两下去腥味，洗干净。每个切成3到4块的粒粒。 玉米】剥皮，剥成粒"
+    },
+    {
+      "text": "将玉米焯水，"
+    },
+    {
+      "text": "下油（不用特别多），下点姜粒粒（没有就不放）。下虾仁粒，炒熟的过程中放点生抽，下玉米。放盐🧂。"
+    },
+    {
+      "text": "尝尝味道，不够就加点生抽"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107480369/",
+  "author": "手机用户7655_r9g7",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "简单"
+}

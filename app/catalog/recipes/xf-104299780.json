@@ -1,0 +1,115 @@
+{
+  "id": "xf-104299780",
+  "title": "红烧鸡块",
+  "ingredients": [
+    {
+      "name": "鸡",
+      "mergeKey": "chicken",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 0.5,
+      "unit": "只"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "5-6粒"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 3,
+      "unit": "勺"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 4,
+      "unit": "片"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "鲜酱油",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "辣椒酱",
+      "mergeKey": "chili-paste",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "勺"
+    }
+  ],
+  "steps": [
+    {
+      "text": "半只鸡剪开凉水冲干净，也可以过热水，但我喜欢干炒所以省略！"
+    },
+    {
+      "text": "大火 锅烧热 下姜片煸炒一下，倒入鸡块翻炒。"
+    },
+    {
+      "text": "准备好冰糖，调点辣椒酱，女儿不大喜欢吃辣，所以只能放一点点。"
+    },
+    {
+      "text": "鸡块炒至焦黄时加入冰糖一起翻炒。"
+    },
+    {
+      "text": "加入冰糖炒至后颜色会变深，这会可以放点葱，蒜爆香 加进料酒少许盐。"
+    },
+    {
+      "text": "加进两碗清水，大火烧开，小火焖制20分钟 撒入一点美味鲜酱油提鲜。再大火收干汤汁。"
+    },
+    {
+      "text": "装盘撒入葱花即口。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/104299780/",
+  "author": "小于_kme0",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 374,
+    "proteinG": 41.1,
+    "carbsG": 6.4,
+    "fatG": 20.4
+  }
+}

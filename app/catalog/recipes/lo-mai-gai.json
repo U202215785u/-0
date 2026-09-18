@@ -234,11 +234,29 @@
   "fidelity": "structured-transcription",
   "sourceNote": "按来源页面公开的4人份、90分钟、27项配料和11段方法翻译整理；保留荷叶浸泡、糯米三洗、咸蛋短煮和高火蒸制流程。",
   "nutrition": {
-    "kcal": 260.5,
-    "proteinG": 13.3,
-    "carbsG": 36.2,
-    "fatG": 6.2
+    "kcal": 580,
+    "proteinG": 16.6,
+    "carbsG": 101.8,
+    "fatG": 11.9,
+    "fiberG": 2.7,
+    "sugarG": 4.8,
+    "saturatedFatG": 3,
+    "sodiumMg": 1632,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.83,
+    "missingIngredientNames": [
+      "荷叶",
+      "咸蛋",
+      "叉烧"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["蒸","主食"],
+  "tags": [
+    "蒸",
+    "主食"
+  ],
   "difficulty": "中等"
 }

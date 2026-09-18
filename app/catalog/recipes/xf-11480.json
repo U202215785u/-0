@@ -65,12 +65,30 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 35.8,
-    "proteinG": 3.3,
-    "carbsG": 0.3,
-    "fatG": 2.5
+    "kcal": 591,
+    "proteinG": 36.2,
+    "carbsG": 16.9,
+    "fatG": 42.1,
+    "fiberG": 1.3,
+    "sugarG": 11.2,
+    "saturatedFatG": 25.7,
+    "sodiumMg": 967,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.71,
+    "missingIngredientNames": [
+      "即熟燕麦片",
+      "蕃薯"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","主食","快手菜"],
+  "tags": [
+    "煮",
+    "主食",
+    "快手菜"
+  ],
   "durationMinutes": 10,
   "difficulty": "中等"
 }

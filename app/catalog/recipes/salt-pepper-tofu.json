@@ -4,7 +4,7 @@
   "ingredients": [
     {
       "name": "老豆腐",
-      "amount": 336.0,
+      "amount": 336,
       "unit": "克",
       "category": "豆制品",
       "pantry": false,
@@ -12,7 +12,7 @@
     },
     {
       "name": "中筋面粉",
-      "amount": 2.0,
+      "amount": 2,
       "unit": "汤匙",
       "category": "米面主食",
       "pantry": false,
@@ -20,7 +20,7 @@
     },
     {
       "name": "玉米淀粉",
-      "amount": 2.0,
+      "amount": 2,
       "unit": "汤匙",
       "category": "调味料",
       "pantry": true,
@@ -36,7 +36,7 @@
     },
     {
       "name": "椒盐",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "茶匙",
       "category": "调味料",
       "pantry": false,
@@ -51,7 +51,7 @@
     },
     {
       "name": "红葱头",
-      "amount": 2.0,
+      "amount": 2,
       "unit": "汤匙",
       "category": "蔬菜",
       "pantry": false,
@@ -59,7 +59,7 @@
     },
     {
       "name": "辣椒",
-      "amount": 2.0,
+      "amount": 2,
       "unit": "汤匙",
       "category": "蔬菜",
       "pantry": false,
@@ -67,7 +67,7 @@
     },
     {
       "name": "大蒜",
-      "amount": 2.0,
+      "amount": 2,
       "unit": "汤匙",
       "category": "蔬菜",
       "pantry": false,
@@ -75,7 +75,7 @@
     },
     {
       "name": "小葱",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "根",
       "category": "蔬菜",
       "pantry": false,
@@ -83,7 +83,7 @@
     },
     {
       "name": "花椒",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "茶匙",
       "category": "干货",
       "pantry": false,
@@ -115,7 +115,7 @@
     },
     {
       "name": "盐",
-      "amount": 4.0,
+      "amount": 4,
       "unit": "茶匙",
       "category": "调味料",
       "pantry": true,
@@ -125,54 +125,102 @@
   "steps": [
     {
       "text": "将老豆腐切成约2.5厘米见方的小块。",
-      "ingredientNames": ["老豆腐"]
+      "ingredientNames": [
+        "老豆腐"
+      ]
     },
     {
       "text": "把中筋面粉、玉米淀粉和泡打粉筛入大盘，加入半茶匙椒盐，拌匀。",
-      "ingredientNames": ["中筋面粉", "玉米淀粉", "泡打粉（可选）", "椒盐"]
+      "ingredientNames": [
+        "中筋面粉",
+        "玉米淀粉",
+        "泡打粉（可选）",
+        "椒盐"
+      ]
     },
     {
       "text": "用干净的厨房毛巾或厨房纸把豆腐块拍干，放入面粉混合物中，均匀且薄薄地裹上每一面，用手抖掉多余的粉。",
-      "ingredientNames": ["老豆腐"]
+      "ingredientNames": [
+        "老豆腐"
+      ]
     },
     {
       "text": "锅中倒入食用油，中高火烧热（油要足量覆盖整个锅底），轻轻放入豆腐块（不要挤在一起，必要时分两批煎）。放入后豆腐周围应立即冒泡，否则说明油温还不够。",
-      "ingredientNames": ["食用油", "老豆腐"]
+      "ingredientNames": [
+        "食用油",
+        "老豆腐"
+      ]
     },
     {
       "text": "用筷子或夹子多次翻动豆腐，使各面均匀煎炸，全部金黄后夹出，放到垫有厨房纸的盘上吸去多余油分。",
-      "ingredientNames": ["老豆腐"]
+      "ingredientNames": [
+        "老豆腐"
+      ]
     },
     {
       "text": "倒出大部分油，锅内留约半汤匙。放入红葱头、辣椒和大蒜，中火炒约1分钟。",
       "timerSeconds": 60,
-      "ingredientNames": ["红葱头", "辣椒", "大蒜"]
+      "ingredientNames": [
+        "红葱头",
+        "辣椒",
+        "大蒜"
+      ]
     },
     {
       "text": "加入煎好的豆腐块、葱花和半茶匙椒盐（或按口味），快速翻匀调味，装盘趁热食用。",
-      "ingredientNames": ["老豆腐", "小葱", "椒盐"]
+      "ingredientNames": [
+        "老豆腐",
+        "小葱",
+        "椒盐"
+      ]
     },
     {
       "text": "将花椒、八角、芝麻、小茴香和盐放入锅中，小火烘烤，不时翻动。",
-      "ingredientNames": ["花椒", "八角", "芝麻", "小茴香", "盐"]
+      "ingredientNames": [
+        "花椒",
+        "八角",
+        "芝麻",
+        "小茴香",
+        "盐"
+      ]
     },
     {
       "text": "待盐的颜色略微变深、香料香味浓郁时离火，用研钵或香料研磨器磨成粉即可。",
-      "ingredientNames": ["盐"]
+      "ingredientNames": [
+        "盐"
+      ]
     }
   ],
   "baseServings": 2,
   "durationMinutes": 20,
   "difficulty": "简单",
-  "tags": ["煎","素菜","家常菜","快手菜"],
+  "tags": [
+    "煎",
+    "素菜",
+    "家常菜",
+    "快手菜"
+  ],
   "sourceUrl": "https://redhousespice.com/salt-and-pepper-tofu/",
   "author": "Wei Guo / Red House Spice",
   "fidelity": "verbatim-public",
   "sourceNote": "转录自红房子中菜网公开菜谱页（二〇二三年十二月抓取存档）。原方豆腐为十二盎司，按一盎司约二十八克换算为三百三十六克；一茶匙约五毫升、一汤匙约十五毫升；备料十分钟加烹饪十分钟合计二十分钟。椒盐调味料原文出现两次（裹粉半茶匙、出锅半茶匙）已合并为一条共一茶匙。",
   "nutrition": {
-    "kcal": 317,
-    "proteinG": 2,
-    "carbsG": 17,
-    "fatG": 28
+    "kcal": 309,
+    "proteinG": 18.8,
+    "carbsG": 30.6,
+    "fatG": 12.3,
+    "fiberG": 3.5,
+    "sugarG": 2.8,
+    "saturatedFatG": 1.7,
+    "sodiumMg": 4820,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.93,
+    "missingIngredientNames": [
+      "食用油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   }
 }

@@ -1,0 +1,124 @@
+{
+  "id": "xf-103965411",
+  "title": "五香茶叶蛋",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类",
+      "pantry": false,
+      "amount": 10,
+      "unit": "个"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 5,
+      "unit": "片"
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "1小块约2g"
+    },
+    {
+      "name": "红茶",
+      "category": "其他",
+      "pantry": false,
+      "quantityText": "12g（1袋）"
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "1汤勺15ml"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "2汤勺25ml"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 30,
+      "unit": "克"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 20,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "text": "清洗鸡蛋，好好洗干净哦"
+    },
+    {
+      "text": "煮鸡蛋，冷水下锅，大火煮开后煮3分钟。"
+    },
+    {
+      "text": "八角2个，香叶3-4片，小茴香2-3g，肉桂1小块"
+    },
+    {
+      "text": "加入高级红茶12g。。。。其实用好茶叶很心疼，便宜货即可"
+    },
+    {
+      "text": "煮好的鸡蛋，稍稍凉一下，用勺轻轻砸碎，越碎越香"
+    },
+    {
+      "text": "心里默想着它会变好吃好吃好吃。。。"
+    },
+    {
+      "text": "刚刚的香料先下锅煮开，让香味进入汤汁，加入糖30g，盐20g，老抽15ml，生抽30ml。等香气飘出，下入敲好的鸡蛋。小火炖煮10分钟。"
+    },
+    {
+      "text": "出锅，浸泡料汁，最好可以隔夜吃。浸上8小时才是美味的关键。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/103965411/",
+  "author": "真的叫程海硕哦",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 416,
+    "proteinG": 31.7,
+    "carbsG": 18.7,
+    "fatG": 23.8
+  }
+}

@@ -80,12 +80,30 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 376.2,
-    "proteinG": 24.6,
-    "carbsG": 59.3,
-    "fatG": 8.8
+    "kcal": 289,
+    "proteinG": 21.4,
+    "carbsG": 23.5,
+    "fatG": 12.1,
+    "fiberG": 11.7,
+    "sugarG": 7.7,
+    "saturatedFatG": 1.5,
+    "sodiumMg": 1649,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.86,
+    "missingIngredientNames": [
+      "水疙瘩"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炒","家常菜","快手菜","素菜"],
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

@@ -60,7 +60,31 @@
   "author": "YOYO",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["点心"],
+  "tags": [
+    "点心"
+  ],
   "durationMinutes": 15,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 185,
+    "proteinG": 5.4,
+    "carbsG": 12.4,
+    "fatG": 12.6,
+    "fiberG": 4.2,
+    "sugarG": 6.2,
+    "saturatedFatG": 1,
+    "sodiumMg": 1,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.33,
+    "missingIngredientNames": [
+      "几条酸黄瓜",
+      "甜甜圈",
+      "火腿",
+      "鸭蛋"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

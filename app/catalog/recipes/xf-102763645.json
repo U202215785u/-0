@@ -1,0 +1,91 @@
+{
+  "id": "xf-102763645",
+  "title": "韭菜炒豆芽",
+  "ingredients": [
+    {
+      "name": "绿豆芽",
+      "mergeKey": "bean-sprout",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "韭菜",
+      "mergeKey": "chives",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "少许"
+    },
+    {
+      "name": "青葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "颗"
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "花椒粒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    }
+  ],
+  "steps": [
+    {
+      "text": "豆芽摘去尾巴，洗净控水备用。"
+    },
+    {
+      "text": "韭菜整理干净后，洗净，切段、青葱洗净切成葱花备用。"
+    },
+    {
+      "text": "锅内加食用油烧热，花椒粒、葱花炒香"
+    },
+    {
+      "text": "放入绿豆芽用旺火炒倒"
+    },
+    {
+      "text": "再放入事先备好的韭菜段，撒入少许的白糖提鲜、鸡精、食盐、炒匀即可出锅装盘。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102763645/",
+  "author": "生活的抚慰",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单"
+}

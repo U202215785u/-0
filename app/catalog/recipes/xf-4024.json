@@ -158,12 +158,29 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 627.9,
-    "proteinG": 73.1,
-    "carbsG": 38.7,
-    "fatG": 20.4
+    "kcal": 1450,
+    "proteinG": 64,
+    "carbsG": 101,
+    "fatG": 87.8,
+    "fiberG": 4.6,
+    "sugarG": 5.7,
+    "saturatedFatG": 30.4,
+    "sodiumMg": 2476,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.93,
+    "missingIngredientNames": [
+      "可以让肉汁更浓稠猪皮"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","主食","家常菜"],
+  "tags": [
+    "煮",
+    "主食",
+    "家常菜"
+  ],
   "durationMinutes": 60,
   "difficulty": "中等"
 }

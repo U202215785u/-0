@@ -123,7 +123,30 @@
   "author": "新西兰三娃妈",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
-  "tags": ["烤"],
+  "tags": [
+    "烤"
+  ],
   "durationMinutes": 55,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 1271,
+    "proteinG": 83.9,
+    "carbsG": 24.8,
+    "fatG": 92.9,
+    "fiberG": 2.9,
+    "sugarG": 18.4,
+    "saturatedFatG": 29.3,
+    "sodiumMg": 422,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.73,
+    "missingIngredientNames": [
+      "蒜",
+      "微博40秒买的饼皮",
+      "甜面酱"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

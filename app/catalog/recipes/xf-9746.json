@@ -175,12 +175,29 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 453.2,
-    "proteinG": 11.9,
-    "carbsG": 86.3,
-    "fatG": 7.2
+    "kcal": 1086,
+    "proteinG": 17.6,
+    "carbsG": 106.1,
+    "fatG": 65.8,
+    "fiberG": 2,
+    "sugarG": 50.6,
+    "saturatedFatG": 39.5,
+    "sodiumMg": 481,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.83,
+    "missingIngredientNames": [
+      "蔓越莓干",
+      "朗姆酒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤","点心"],
+  "tags": [
+    "烤",
+    "点心"
+  ],
   "durationMinutes": 120,
   "difficulty": "中等"
 }

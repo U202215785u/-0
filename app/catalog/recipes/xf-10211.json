@@ -5,7 +5,9 @@
   "author": "圆猪猪",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["主食"],
+  "tags": [
+    "主食"
+  ],
   "ingredients": [
     {
       "name": "中筋面粉",
@@ -185,10 +187,34 @@
     }
   ],
   "nutrition": {
-    "kcal": 331.8,
-    "proteinG": 28.3,
-    "carbsG": 34.1,
-    "fatG": 9.1
+    "kcal": 686,
+    "proteinG": 32.8,
+    "carbsG": 95.6,
+    "fatG": 19.1,
+    "fiberG": 3.6,
+    "sugarG": 0.6,
+    "saturatedFatG": 6.6,
+    "sodiumMg": 147,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.29,
+    "missingIngredientNames": [
+      "大片卷心菜",
+      "白糖",
+      "姜末",
+      "香葱",
+      "盐",
+      "鸡精",
+      "蚝油",
+      "老抽",
+      "十三香",
+      "香油",
+      "植物油",
+      "料酒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算12 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 110,
   "difficulty": "中等"

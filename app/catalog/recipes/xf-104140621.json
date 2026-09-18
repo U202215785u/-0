@@ -1,0 +1,106 @@
+{
+  "id": "xf-104140621",
+  "title": "山药炒木耳",
+  "ingredients": [
+    {
+      "name": "山药",
+      "mergeKey": "yam",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "段"
+    },
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇",
+      "pantry": true,
+      "amount": 1,
+      "unit": "把"
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "盐，糖，耗油",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "小葱叶",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "几段"
+    }
+  ],
+  "steps": [
+    {
+      "text": "山药切片，清水中加少许白醋浸泡3分钟。"
+    },
+    {
+      "text": "胡萝卜切片，小葱叶切段。"
+    },
+    {
+      "text": "木耳2小时泡软，撕成小块。"
+    },
+    {
+      "text": "淀粉加少许水搅拌均匀调成芡汁备用。"
+    },
+    {
+      "text": "锅中放水，水沸依次放入山药胡萝卜木耳，焯水30秒。"
+    },
+    {
+      "text": "捞出过凉水。"
+    },
+    {
+      "text": "捞出沥干水分。"
+    },
+    {
+      "text": "锅中放少许油。"
+    },
+    {
+      "text": "入锅大火翻炒片刻。"
+    },
+    {
+      "text": "转小火加入食盐，白糖，耗油，翻炒均匀。"
+    },
+    {
+      "text": "勾芡，至芡汁浓稠。"
+    },
+    {
+      "text": "放入葱段，淋香油出锅。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/104140621/",
+  "author": "柳色青青hyy",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 100,
+    "proteinG": 3.1,
+    "carbsG": 21.3,
+    "fatG": 0.3
+  }
+}

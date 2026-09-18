@@ -149,12 +149,32 @@
       "text": "过滤掉金枪鱼罐头中的油水，把鱼肉用勺子捣碎。用一个大一些的容器，将所有准备好的材料都放入容器中，淋上油醋汁，撒入盐，黑胡椒碎，拌匀即可"
     }
   ],
-  "tags": ["凉拌","减脂高蛋白","快手菜"],
+  "tags": [
+    "凉拌",
+    "减脂高蛋白",
+    "快手菜"
+  ],
   "nutrition": {
-    "kcal": 370.2,
-    "proteinG": 9.1,
-    "carbsG": 31.4,
-    "fatG": 24.5
+    "kcal": 397,
+    "proteinG": 6.2,
+    "carbsG": 19.7,
+    "fatG": 32.7,
+    "fiberG": 3.7,
+    "sugarG": 3.3,
+    "saturatedFatG": 5.1,
+    "sodiumMg": 1022,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.78,
+    "missingIngredientNames": [
+      "/2罐金枪鱼罐头",
+      "/2根黄瓜",
+      "黑橄榄",
+      "甜豆"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 15,
   "difficulty": "中等"

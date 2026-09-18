@@ -1,0 +1,92 @@
+{
+  "id": "xf-84026",
+  "title": "芹菜炒香干",
+  "ingredients": [
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "一小把"
+    },
+    {
+      "name": "香干",
+      "category": "其他",
+      "pantry": false,
+      "quantityText": "两三片"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "花生油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "芹菜摘洗干净，香干也用清水冲洗一下"
+    },
+    {
+      "text": "都切成段，芹菜太粗的要切细"
+    },
+    {
+      "text": "装保鲜盒放冰箱里保存，如果马上就炒这步就省啦，俺是要第二天早晨做，所以多了这一步"
+    },
+    {
+      "text": "超过注油烧热，放姜蒜末爆香后先放芹菜翻炒一下，再放入香干翻炒，加胡椒粉和酱油翻炒至熟，出锅时放盐、葱花还有鸡精调味即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/84026/",
+  "author": "金山茶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 23,
+  "difficulty": "简单"
+}

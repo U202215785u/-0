@@ -5,7 +5,10 @@
   "author": "冇伱灬冇我",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
-  "tags": ["蒸","家常菜"],
+  "tags": [
+    "蒸",
+    "家常菜"
+  ],
   "ingredients": [
     {
       "name": "鱼头",
@@ -147,5 +150,34 @@
     }
   ],
   "durationMinutes": 80,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 131,
+    "proteinG": 20.5,
+    "carbsG": 1.3,
+    "fatG": 4.9,
+    "fiberG": 0.2,
+    "sugarG": 0.1,
+    "saturatedFatG": 0,
+    "sodiumMg": 73,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.15,
+    "missingIngredientNames": [
+      "大蒜",
+      "剁椒",
+      "泡椒（可不放）",
+      "油",
+      "白糖",
+      "白胡椒粉",
+      "蒸鱼豉油",
+      "芝麻油",
+      "葱",
+      "啤酒",
+      "盐（看情况加不加）"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算11 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

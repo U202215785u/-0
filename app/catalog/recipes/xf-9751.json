@@ -108,12 +108,39 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 132.8,
-    "proteinG": 18,
+    "kcal": 140,
+    "proteinG": 15.2,
     "carbsG": 0,
-    "fatG": 6
+    "fatG": 8.8,
+    "fiberG": 0,
+    "sugarG": 0,
+    "saturatedFatG": 2.4,
+    "sodiumMg": 64,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.08,
+    "missingIngredientNames": [
+      "蒜末",
+      "花椒",
+      "青椒",
+      "干辣椒",
+      "生粉",
+      "盐",
+      "食用油",
+      "料酒",
+      "生抽",
+      "胡椒粉",
+      "糖",
+      "香油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算12 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炸","家常菜"],
+  "tags": [
+    "炸",
+    "家常菜"
+  ],
   "durationMinutes": 35,
   "difficulty": "中等"
 }

@@ -189,7 +189,27 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、准备18分钟、烹调12分钟、总时长30分钟、21项配料和7段方法；保留逆纹切片、油拌牛肉和沿锅边淋料酒顺序。",
-  "tags": ["炒","家常菜","快手菜"],
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
   "durationMinutes": 30,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 378,
+    "proteinG": 22.6,
+    "carbsG": 19.1,
+    "fatG": 23.4,
+    "fiberG": 2.7,
+    "sugarG": 4.3,
+    "saturatedFatG": 6.3,
+    "sodiumMg": 1005,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

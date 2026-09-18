@@ -91,12 +91,36 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 35.8,
-    "proteinG": 3.3,
-    "carbsG": 0.3,
-    "fatG": 2.5
+    "kcal": 53,
+    "proteinG": 4.2,
+    "carbsG": 0.9,
+    "fatG": 3.6,
+    "fiberG": 0,
+    "sugarG": 0,
+    "saturatedFatG": 1.1,
+    "sodiumMg": 165,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.1,
+    "missingIngredientNames": [
+      "豌豆苗",
+      "咸鸭蛋",
+      "两三瓣蒜",
+      "四五朵香菇",
+      "火腿",
+      "盐",
+      "干椒丝",
+      "食用油",
+      "一大碗大骨汤"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算9 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","汤羹"],
+  "tags": [
+    "煮",
+    "汤羹"
+  ],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

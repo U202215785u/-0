@@ -113,7 +113,39 @@
   "author": "格妈",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["煮","家常菜"],
+  "tags": [
+    "煮",
+    "家常菜"
+  ],
   "durationMinutes": 35,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 690,
+    "proteinG": 108.7,
+    "carbsG": 12.9,
+    "fatG": 22.6,
+    "fiberG": 0.4,
+    "sugarG": 0.5,
+    "saturatedFatG": 4,
+    "sodiumMg": 1870,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.21,
+    "missingIngredientNames": [
+      "干辣椒",
+      "花椒",
+      "朝天椒",
+      "蒜末",
+      "姜末",
+      "葱花",
+      "盐",
+      "料酒",
+      "生抽",
+      "生粉",
+      "胡椒粉"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算11 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

@@ -208,12 +208,30 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、45分钟总时长和6段方法；保留先蒸15分钟、鱼香汁调制及分段炒香顺序。",
   "nutrition": {
-    "kcal": 152.1,
-    "proteinG": 5.2,
-    "carbsG": 27.5,
-    "fatG": 3.3
+    "kcal": 183,
+    "proteinG": 4,
+    "carbsG": 32.4,
+    "fatG": 4.1,
+    "fiberG": 5.7,
+    "sugarG": 19.5,
+    "saturatedFatG": 0.5,
+    "sodiumMg": 1424,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.89,
+    "missingIngredientNames": [
+      "小甜椒",
+      "干辣椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烧焖","家常菜","素菜"],
+  "tags": [
+    "烧焖",
+    "家常菜",
+    "素菜"
+  ],
   "durationMinutes": 45,
   "difficulty": "中等"
 }

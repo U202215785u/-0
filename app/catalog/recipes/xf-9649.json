@@ -41,12 +41,26 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 188.4,
-    "proteinG": 5.3,
-    "carbsG": 33.5,
-    "fatG": 3.5
+    "kcal": 182,
+    "proteinG": 2,
+    "carbsG": 23,
+    "fatG": 9.2,
+    "fiberG": 0.8,
+    "sugarG": 17.5,
+    "saturatedFatG": 5.5,
+    "sodiumMg": 12,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "medium",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["蒸","汤羹","快手菜"],
+  "tags": [
+    "蒸",
+    "汤羹",
+    "快手菜"
+  ],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

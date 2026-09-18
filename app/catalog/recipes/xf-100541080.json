@@ -1,0 +1,138 @@
+{
+  "id": "xf-100541080",
+  "title": "土豆烧排骨",
+  "ingredients": [
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "个"
+    },
+    {
+      "name": "猪排",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 500,
+      "unit": "克"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "若干"
+    },
+    {
+      "name": "大葱段",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "若干"
+    },
+    {
+      "name": "豆瓣",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "两勺"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "大料",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "若干"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "少许"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    }
+  ],
+  "steps": [
+    {
+      "text": "土豆切块备用，水中放入姜块，倒入排骨煮沸去血泡，捞起备用。"
+    },
+    {
+      "text": "锅内多倒点油，加热后倒入土豆块，炸至金黄，捞出滤油。"
+    },
+    {
+      "text": "用锅中剩余的油继续加热，倒入排骨翻炒，炒至金黄色，捞出滤油。"
+    },
+    {
+      "text": "利用剩余的油，倒入花椒，姜片，豆瓣炒香，倒入排骨，再加入酱油和料酒，继续翻炒。"
+    },
+    {
+      "text": "倒入开水，莫过排骨，加入大料，葱段，中火煮十五分钟左右。"
+    },
+    {
+      "text": "倒入土豆，加入盐，白糖，蚝油，大火收汁，出锅。"
+    },
+    {
+      "text": "最后可以撒上葱花点缀。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100541080/",
+  "author": "靜瘦肉",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 191,
+    "proteinG": 4.5,
+    "carbsG": 42.8,
+    "fatG": 0.2
+  }
+}

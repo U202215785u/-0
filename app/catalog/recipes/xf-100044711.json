@@ -1,0 +1,63 @@
+{
+  "id": "xf-100044711",
+  "title": "蒜蓉油麦菜",
+  "ingredients": [
+    {
+      "name": "油麦菜",
+      "mergeKey": "youmaicai",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "棵"
+    },
+    {
+      "name": "蒜瓣",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 7,
+      "unit": "瓣"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将油麦菜洗净，沥干水分，切成8厘米左右的段。"
+    },
+    {
+      "text": "将蒜拍成蒜蓉。"
+    },
+    {
+      "text": "锅内放入适量的油，待油热，放入蒜蓉爆香。"
+    },
+    {
+      "text": "向锅内加入油麦菜。"
+    },
+    {
+      "text": "加入适量的盐，翻炒均匀，盛盘即可。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100044711/",
+  "author": "偏离.于墨尔本.",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 28,
+    "proteinG": 1.1,
+    "carbsG": 5.8,
+    "fatG": 0.1
+  }
+}

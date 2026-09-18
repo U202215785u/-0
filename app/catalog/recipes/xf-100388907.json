@@ -1,0 +1,67 @@
+{
+  "id": "xf-100388907",
+  "title": "凉拌海带丝",
+  "ingredients": [
+    {
+      "name": "海带丝",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜、蒜、盐",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油、味精",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽、陈醋（黑色）",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小米椒",
+      "mergeKey": "chili",
+      "category": "蔬菜",
+      "pantry": false
+    }
+  ],
+  "steps": [
+    {
+      "text": "姜、蒜、小米椒（1：1：1）切碎备用。"
+    },
+    {
+      "text": "海带丝在水里煮10分钟左右，捞出过凉水备用。"
+    },
+    {
+      "text": "生抽、醋、盐、味精、白糖放在碗中，我这里是800克海带丝，用生抽、醋各三勺，盐、味精、白糖各2/3勺。"
+    },
+    {
+      "text": "把上步骤准备好的调料倒在海带里，姜、蒜也放在海带上面，热锅入油，油烧开以后，关火，放入小米椒炸香，把辣椒油倒在海带丝上。"
+    },
+    {
+      "text": "搅拌即可，我喜欢吃凉凉的，所以是冷藏一晚才端出来食用的，味道更好呢！"
+    },
+    {
+      "text": "成品"
+    },
+    {
+      "text": "成品"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100388907/",
+  "author": "小美的美食",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "简单"
+}

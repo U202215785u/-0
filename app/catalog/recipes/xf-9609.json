@@ -84,7 +84,29 @@
   "author": "圆猪猪",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["烤","减脂高蛋白"],
+  "tags": [
+    "烤",
+    "减脂高蛋白"
+  ],
   "durationMinutes": 40,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 166,
+    "proteinG": 15.2,
+    "carbsG": 4,
+    "fatG": 9.9,
+    "fiberG": 0.4,
+    "sugarG": 2.7,
+    "saturatedFatG": 1.6,
+    "sodiumMg": 235,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.86,
+    "missingIngredientNames": [
+      "各半个青黄红三色彩椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

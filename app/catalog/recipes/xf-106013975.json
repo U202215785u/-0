@@ -1,0 +1,80 @@
+{
+  "id": "xf-106013975",
+  "title": "红烧冬瓜",
+  "ingredients": [
+    {
+      "name": "冬瓜",
+      "mergeKey": "winter-melon",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "克"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "勺"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "克"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "勺"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "瓣"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "克"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "1：冬瓜去皮去籽切片 2：适量油下冬瓜炒软"
+    },
+    {
+      "text": "3：炒软放蒜末，两勺生抽，一勺蚝油，适量盐，适量白糖，少许老抽 4：加水没过冬瓜煮熟撒葱花"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/106013975/",
+  "author": "八一是只cat",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 19,
+  "difficulty": "简单"
+}

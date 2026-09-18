@@ -1,0 +1,152 @@
+{
+  "id": "xf-102242185",
+  "title": "红烧日本豆腐",
+  "ingredients": [
+    {
+      "name": "日本豆腐",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 5,
+      "unit": "根"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "辣椒酱",
+      "mergeKey": "chili-paste",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "scallion-ginger-garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "西红柿",
+      "mergeKey": "tomato",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "味极鲜",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "网上买的这种日本豆腐"
+    },
+    {
+      "text": "切成这样的厚片"
+    },
+    {
+      "text": "碗里放玉米淀粉，然后把切好的豆腐放里面裹上淀粉"
+    },
+    {
+      "text": "锅里倒油，油热了把豆腐两面都煎制金黄色"
+    },
+    {
+      "text": "煎成这样就出锅备用"
+    },
+    {
+      "text": "葱姜蒜红辣椒切碎备用"
+    },
+    {
+      "text": "青椒，西红柿切碎备用"
+    },
+    {
+      "text": "锅里倒油把葱姜蒜辣椒炒香"
+    },
+    {
+      "text": "加一勺辣椒酱进去，继续翻炒"
+    },
+    {
+      "text": "倒入西红柿和青椒，一直翻炒直到西红柿炒烂成糊状"
+    },
+    {
+      "text": "取小碗加盐，胡椒粉，生抽，味极鲜，白糖，淀粉，加入水搅拌均匀，倒入炒好的西红柿酱里面翻炒一分钟，然后把煎好的日本豆腐倒进去，慢慢翻炒两分钟汤汁收干就出锅"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102242185/",
+  "author": "小厨娘范范",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 16,
+    "proteinG": 0.7,
+    "carbsG": 2.9,
+    "fatG": 0.2
+  }
+}

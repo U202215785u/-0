@@ -97,12 +97,30 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 336.9,
-    "proteinG": 10.3,
-    "carbsG": 60.2,
-    "fatG": 6.8
+    "kcal": 781,
+    "proteinG": 12.6,
+    "carbsG": 79.1,
+    "fatG": 46,
+    "fiberG": 1.4,
+    "sugarG": 37.9,
+    "saturatedFatG": 27.1,
+    "sodiumMg": 588,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.7,
+    "missingIngredientNames": [
+      "蜜红豆",
+      "盐",
+      ".柠檬汁和柠檬屑"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤","点心"],
+  "tags": [
+    "烤",
+    "点心"
+  ],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

@@ -68,12 +68,31 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
   "nutrition": {
-    "kcal": 120,
-    "proteinG": 4.5,
-    "carbsG": 18,
-    "fatG": 3
+    "kcal": 118,
+    "proteinG": 8.4,
+    "carbsG": 19,
+    "fatG": 0.9,
+    "fiberG": 8.6,
+    "sugarG": 7.5,
+    "saturatedFatG": 0,
+    "sodiumMg": 126,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.33,
+    "missingIngredientNames": [
+      "一盘咸肉+鲜排骨",
+      "葱姜、料酒",
+      "百叶结",
+      "盐、胡椒粉"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炖","汤羹"],
+  "tags": [
+    "炖",
+    "汤羹"
+  ],
   "durationMinutes": 35,
   "difficulty": "中等"
 }

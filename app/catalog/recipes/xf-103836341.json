@@ -1,0 +1,120 @@
+{
+  "id": "xf-103836341",
+  "title": "青椒鸡腿肉",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 3,
+      "unit": "只"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 4,
+      "unit": "个"
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "片"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "瓣"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡腿肉解冻切成小块，放入老抽，生抽，盐，淀粉，味精，鸡精，料酒。充分按摩后静置20分钟左右"
+    },
+    {
+      "text": "葱姜蒜切好"
+    },
+    {
+      "text": "锅内放入油加热后，放入葱姜蒜炒香"
+    },
+    {
+      "text": "放入腌制好的鸡腿肉，翻炒均匀。"
+    },
+    {
+      "text": "放入青椒炒一会儿"
+    },
+    {
+      "text": "炒好装盘就ok啦～"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/103836341/",
+  "author": "蓝蓝蓝蓝蓝victoria",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 450,
+    "proteinG": 46.6,
+    "carbsG": 6.2,
+    "fatG": 26.5
+  }
+}

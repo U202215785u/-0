@@ -97,11 +97,29 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、15分钟、7项配料和5段方法；补全了来源明确列出的淡奶油、柠檬和黄油分次乳化步骤。",
   "nutrition": {
-    "kcal": 138,
-    "proteinG": 5.2,
-    "carbsG": 20.7,
-    "fatG": 3.5
+    "kcal": 710,
+    "proteinG": 19.6,
+    "carbsG": 65.7,
+    "fatG": 40.9,
+    "fiberG": 3.3,
+    "sugarG": 2,
+    "saturatedFatG": 24.6,
+    "sodiumMg": 495,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.71,
+    "missingIngredientNames": [
+      "食盐",
+      "黑胡椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","主食","快手菜"],
+  "tags": [
+    "煮",
+    "主食",
+    "快手菜"
+  ],
   "difficulty": "中等"
 }

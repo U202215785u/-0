@@ -168,11 +168,25 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、7分钟准备、3分钟烹调、10分钟总时长和6步方法；保留盐糖杀水、调汁、热油激香顺序。",
   "nutrition": {
-    "kcal": 135.9,
-    "proteinG": 4.2,
-    "carbsG": 25.3,
-    "fatG": 2.8
+    "kcal": 145,
+    "proteinG": 3.1,
+    "carbsG": 22.9,
+    "fatG": 4.6,
+    "fiberG": 2,
+    "sugarG": 15.4,
+    "saturatedFatG": 0.6,
+    "sodiumMg": 1056,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["凉拌","素菜","快手菜"],
+  "tags": [
+    "凉拌",
+    "素菜",
+    "快手菜"
+  ],
   "difficulty": "中等"
 }

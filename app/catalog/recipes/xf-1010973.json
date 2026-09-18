@@ -1,0 +1,75 @@
+{
+  "id": "xf-1010973",
+  "title": "蚝油豆腐",
+  "ingredients": [
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品",
+      "pantry": false,
+      "amount": 1,
+      "unit": "盒"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "葱、蒜片",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    }
+  ],
+  "steps": [
+    {
+      "text": "做水，将切成小块后的豆腐放入水中抄1-2分钟，记得水中放少许盐。这样抄熟的豆腐不易碎。沥干水份后备用。"
+    },
+    {
+      "text": "锅内倒入适量食用油，将豆腐块煎至金黄色（一定要热油，否则豆腐会扒锅，不沾锅的话，倒一点油就可以了）"
+    },
+    {
+      "text": "豆腐盛出后，在锅内放出切好的葱丝和蒜片，爆出香味后放入煎过的豆腐，加入适量蚝油翻炒。"
+    },
+    {
+      "text": "这时倒入少许生抽炖一下，由于蚝油有咸味，盐可以不用放了（如果想提鲜的话，在放入葱丝和蒜片炒豆腐时，可以放少许糖）"
+    },
+    {
+      "text": "出锅盛盘即可。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/1010973/",
+  "author": "akuma蕾蕾",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 213,
+    "proteinG": 18,
+    "carbsG": 6,
+    "fatG": 13
+  }
+}

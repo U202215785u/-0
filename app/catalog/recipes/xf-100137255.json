@@ -1,0 +1,99 @@
+{
+  "id": "xf-100137255",
+  "title": "青椒炒香干",
+  "ingredients": [
+    {
+      "name": "大青椒",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 4,
+      "unit": "个"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 4,
+      "unit": "瓣"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "香干",
+      "category": "其他",
+      "pantry": false,
+      "amount": 5,
+      "unit": "块"
+    },
+    {
+      "name": "小红椒",
+      "mergeKey": "chili",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "起锅热油，油多放一点，炒出来色泽和口味会好一点。然后放入姜末和蒜末和切圈的小红椒翻炒出香味"
+    },
+    {
+      "text": "放入切丝的青椒，放少量盐。爆炒片刻"
+    },
+    {
+      "text": "加入切好的香干爆炒。加入盐鸡精和酱油炒匀"
+    },
+    {
+      "text": "最后加入水淀粉勾芡。等汤汁收紧，撒上葱花。出锅。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100137255/",
+  "author": "哼哼。",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 23,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 20,
+    "proteinG": 0.7,
+    "carbsG": 4.2,
+    "fatG": 0.1
+  }
+}

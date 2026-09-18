@@ -1,0 +1,65 @@
+{
+  "id": "xf-107664856",
+  "title": "酸辣豆芽",
+  "ingredients": [
+    {
+      "name": "绿豆芽",
+      "mergeKey": "bean-sprout",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "油热放干辣椒，放豆芽，翻炒一两分钟放生抽白醋盐鸡精，关火翻炒，出锅！"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107664856/",
+  "author": "我爱做饭嘿嘿",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 17,
+  "difficulty": "简单"
+}

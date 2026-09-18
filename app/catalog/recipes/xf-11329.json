@@ -96,12 +96,39 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 140,
-    "proteinG": 12.5,
-    "carbsG": 0,
-    "fatG": 10
+    "kcal": 8,
+    "proteinG": 0.3,
+    "carbsG": 1.7,
+    "fatG": 0,
+    "fiberG": 0.1,
+    "sugarG": 0.1,
+    "saturatedFatG": 0,
+    "sodiumMg": 1,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.08,
+    "missingIngredientNames": [
+      "米饭",
+      "肉馅",
+      "青椒",
+      "红椒",
+      "香葱",
+      "蚝油",
+      "色拉油",
+      "生抽",
+      "盐",
+      "鸡精",
+      "胡椒粉"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算11 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炒","主食","快手菜"],
+  "tags": [
+    "炒",
+    "主食",
+    "快手菜"
+  ],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

@@ -14,7 +14,9 @@ export type QualityIssueCode =
   | 'unknown-tag'
   | 'duplicate-tag'
   | 'tag-dimension-overflow'
-  | 'too-many-tags';
+  | 'too-many-tags'
+  | 'nutrition-macro-mismatch'
+  | 'nutrition-zero-kcal';
 
 export type QualityIssue = {
   code: QualityIssueCode;
@@ -45,6 +47,31 @@ function executionFieldIssues(recipe: Recipe): QualityIssue[] {
     if (isEnglishText(tag)) push(`tags[${index}]`);
   });
   if (recipe.difficulty !== undefined && isEnglishText(recipe.difficulty)) push('difficulty');
+  return issues;
+}
+
+function nutritionIssues(recipe: Recipe): QualityIssue[] {
+  const issues: QualityIssue[] = [];
+  const nutrition = recipe.nutrition;
+  if (!nutrition) return issues;
+
+  const kcal = nutrition.kcal;
+  const proteinG = nutrition.proteinG;
+  const carbsG = nutrition.carbsG;
+  const fatG = nutrition.fatG;
+  if (kcal === 0 && (nutrition.quantityCoverage ?? 0) > 0 && proteinG !== undefined && carbsG !== undefined && fatG !== undefined) {
+    issues.push({ code: 'nutrition-zero-kcal', recipeId: recipe.id, detail: 'coverage > 0 but 0 kcal estimate' });
+  }
+  if (kcal !== undefined && kcal > 0 && proteinG !== undefined && carbsG !== undefined && fatG !== undefined) {
+    const fromMacros = proteinG * 4 + carbsG * 4 + fatG * 9;
+    if (Math.abs(fromMacros - kcal) / kcal > 0.35) {
+      issues.push({
+        code: 'nutrition-macro-mismatch',
+        recipeId: recipe.id,
+        detail: `macro sum ${Math.round(fromMacros)} kcal vs declared ${Math.round(kcal)} kcal`,
+      });
+    }
+  }
   return issues;
 }
 
@@ -80,6 +107,7 @@ export function getCatalogQualityIssues(catalog: Recipe[], minimumCount = 50): Q
         detail: issue.detail ?? issue.tag,
       });
     }
+    issues.push(...nutritionIssues(recipe));
     issues.push(...executionFieldIssues(recipe));
   }
 

@@ -1,0 +1,43 @@
+{
+  "id": "xf-1050296",
+  "title": "蒜蓉空心菜",
+  "ingredients": [
+    {
+      "name": "空心菜",
+      "mergeKey": "water-spinach",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "蒜末"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "油"
+    }
+  ],
+  "steps": [
+    {
+      "text": "空心菜洗净，沥干（空心菜要选哪种梗小的这样比较嫩）"
+    },
+    {
+      "text": "把空心菜切成段，大蒜切成蒜末，分成2份，我比较喜欢吃蒜蓉，所以我会加比较多的蒜末"
+    },
+    {
+      "text": "锅里放油，烧热后下一份蒜蓉，炒香，倒入空心菜，大火翻炒，稍微翻炒即可（我比较喜欢吃硬朗点的，喜欢吃软点的童鞋可以多炒一会）加入适量的盐，炒匀，最后加入另外一份蒜蓉即可出锅"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/1050296/",
+  "author": "海曲夜场",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 21,
+  "difficulty": "简单"
+}

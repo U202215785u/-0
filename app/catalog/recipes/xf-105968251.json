@@ -1,0 +1,76 @@
+{
+  "id": "xf-105968251",
+  "title": "豆豉鲮鱼油麦菜",
+  "ingredients": [
+    {
+      "name": "油麦菜",
+      "mergeKey": "youmaicai",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "棵"
+    },
+    {
+      "name": "鲮鱼",
+      "category": "水产",
+      "pantry": false,
+      "amount": 1,
+      "unit": "盒"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "2一3瓣"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "花生油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "买新鲜油麦菜，量根据自己需求，这个菜洗了比较多，所以要看锅的大小好不好炒和翻动。豆豉鲮鱼一盒，大蒜适量。"
+    },
+    {
+      "text": "油麦菜洗净切好沥干水，接近根茎的位置需要一瓣一瓣掰下来洗净，可能里面藏沙或者其他杂质。"
+    },
+    {
+      "text": "鲮鱼撕小一点，一盒我用了两条，豆豉没有用完，也可以全部放完。油可以用罐头鱼里的，也可以用花生油。"
+    },
+    {
+      "text": "热油爆香蒜末。"
+    },
+    {
+      "text": "倒入豆豉鲮鱼，爆香，倒入油麦菜翻炒。"
+    },
+    {
+      "text": "要不断翻动，盐根据自己口味可以加适量或者不加都可以，罐头里的食盐吃淡点也可以了。待全部变色变软就可以关火了。"
+    },
+    {
+      "text": "配饭配粥简直太好吃了，油麦菜特有的香味和鲮鱼结合在一起了，好神奇的搭配。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/105968251/",
+  "author": "zhangfeibi",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单"
+}

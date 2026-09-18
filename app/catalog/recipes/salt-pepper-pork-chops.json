@@ -201,11 +201,29 @@
   "fidelity": "structured-transcription",
   "sourceNote": "按来源页面公开的4人份、50分钟、18项配料和8段方法翻译整理；保留约193℃油温和分批炸制信息。",
   "nutrition": {
-    "kcal": 208.2,
-    "proteinG": 24.1,
-    "carbsG": 6.3,
-    "fatG": 9.2
+    "kcal": 279,
+    "proteinG": 24.6,
+    "carbsG": 20.7,
+    "fatG": 10.9,
+    "fiberG": 0.3,
+    "sugarG": 2.2,
+    "saturatedFatG": 4.2,
+    "sodiumMg": 1312,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.78,
+    "missingIngredientNames": [
+      "红甜椒",
+      "青甜椒",
+      "红辣椒",
+      "鸡蛋"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炸"],
+  "tags": [
+    "炸"
+  ],
   "difficulty": "中等"
 }

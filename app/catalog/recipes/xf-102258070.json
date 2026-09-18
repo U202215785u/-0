@@ -1,0 +1,122 @@
+{
+  "id": "xf-102258070",
+  "title": "榨菜肉丝",
+  "ingredients": [
+    {
+      "name": "榨菜",
+      "mergeKey": "pickled-mustard",
+      "category": "蔬菜",
+      "pantry": true,
+      "amount": 2,
+      "unit": "包"
+    },
+    {
+      "name": "瘦肉",
+      "mergeKey": "pork",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 300,
+      "unit": "克"
+    },
+    {
+      "name": "蒜蓉",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "指天椒",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "把瘦肉切成丝，用生粉、蚝油、鸡粉、料酒、生抽、油，拌匀后加一勺水接着拌匀放进冰箱冷藏一个小时。"
+    },
+    {
+      "text": "把榨菜盛在网状漏勺里用水反复冲洗。然后晾干水分。"
+    },
+    {
+      "text": "姜丝蒜蓉指天椒切好备用（不喜欢辣可以不放）"
+    },
+    {
+      "text": "锅内放入适量的油，先把腌制好的肉丝翻炒均匀、再加入姜丝蒜蓉和指天椒，最后把洗干净的榨菜放入锅内不停的翻炒好，加一茶匙糖。差不多就起锅装盘。其他调料不用放，本来腌制的肉丝是咸的、榨菜也有咸味。我觉得咸淡正好、喜欢重口味的根据自己口味加入适量的盐。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102258070/",
+  "author": "HXEW",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 23,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 206,
+    "proteinG": 30.5,
+    "carbsG": 0,
+    "fatG": 9.3
+  }
+}

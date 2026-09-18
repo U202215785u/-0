@@ -1,0 +1,140 @@
+{
+  "id": "xf-254133",
+  "title": "糖醋里脊",
+  "ingredients": [
+    {
+      "name": "猪里脊",
+      "mergeKey": "pork",
+      "category": "肉类",
+      "pantry": false
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "番茄酱",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类",
+      "pantry": false
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "（熟的）"
+    }
+  ],
+  "steps": [
+    {
+      "text": "取姜汁"
+    },
+    {
+      "text": "打蛋，取蛋清"
+    },
+    {
+      "text": "里脊肉切长条"
+    },
+    {
+      "text": "放适量盐"
+    },
+    {
+      "text": "适量白胡椒粉"
+    },
+    {
+      "text": "适量蛋清"
+    },
+    {
+      "text": "放姜汁"
+    },
+    {
+      "text": "拌匀，腌制一会儿"
+    },
+    {
+      "text": "腌制好的里脊沾上生粉"
+    },
+    {
+      "text": "入油锅炸，表面生粉变色"
+    },
+    {
+      "text": "捞出"
+    },
+    {
+      "text": "再复炸一次，表面微焦变脆"
+    },
+    {
+      "text": "捞出滤油"
+    },
+    {
+      "text": "另起一锅，放适量番茄酱"
+    },
+    {
+      "text": "适量白糖"
+    },
+    {
+      "text": "少许清水，煮开"
+    },
+    {
+      "text": "加少许淀粉水（生粉+清水）"
+    },
+    {
+      "text": "煮到汤汁变稠关火"
+    },
+    {
+      "text": "快速倒入炸好的里脊肉"
+    },
+    {
+      "text": "拌炒均匀"
+    },
+    {
+      "text": "撒芝麻"
+    },
+    {
+      "text": "出锅！啃吧"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/254133/",
+  "author": "apple爱自己",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炸",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "较难"
+}

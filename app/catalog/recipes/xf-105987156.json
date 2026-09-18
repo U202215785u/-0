@@ -1,0 +1,87 @@
+{
+  "id": "xf-105987156",
+  "title": "香干炒肉",
+  "ingredients": [
+    {
+      "name": "豆干",
+      "mergeKey": "dried-tofu",
+      "category": "豆制品",
+      "pantry": false,
+      "amount": 6,
+      "unit": "块"
+    },
+    {
+      "name": "猪肉",
+      "mergeKey": "pork",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 0.5,
+      "unit": "斤"
+    },
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 4,
+      "unit": "根"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 6,
+      "unit": "个"
+    }
+  ],
+  "steps": [
+    {
+      "text": "材料：猪肉、香干、红椒，芹菜、姜"
+    },
+    {
+      "text": "材料切适合的形状"
+    },
+    {
+      "text": "冷锅放入肥肉煸炒出油"
+    },
+    {
+      "text": "加入姜片和花椒爆香"
+    },
+    {
+      "text": "放入瘦肉炒至变色"
+    },
+    {
+      "text": "加入适量老抽上色翻炒均匀"
+    },
+    {
+      "text": "加入香干翻炒均匀（2分钟左右）"
+    },
+    {
+      "text": "加入红椒翻炒均匀（1-2分钟左右）"
+    },
+    {
+      "text": "加入芹菜翻炒1分钟"
+    },
+    {
+      "text": "加入适量的盐，鸡精，蚝油，翻炒均匀即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/105987156/",
+  "author": "小锅巴t",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 396,
+    "proteinG": 47.8,
+    "carbsG": 9.7,
+    "fatG": 18.5
+  }
+}

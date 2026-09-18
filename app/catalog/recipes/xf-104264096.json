@@ -1,0 +1,71 @@
+{
+  "id": "xf-104264096",
+  "title": "豆角炒肉",
+  "ingredients": [
+    {
+      "name": "豆角500g",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "片"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "瓣"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 30,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备好食材，豆角500g+五花肉"
+    },
+    {
+      "text": "首先热锅冷油将大蒜，姜，加入 其次将五花肉爆炸，八分熟之后再加入豆角爆炒。 最后差不多熟加入适量的盐和鸡精"
+    },
+    {
+      "text": "简单易懂"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/104264096/",
+  "author": "我家蛋糕",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 21,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 16,
+    "proteinG": 0.8,
+    "carbsG": 3.1,
+    "fatG": 0
+  }
+}

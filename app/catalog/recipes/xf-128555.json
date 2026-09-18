@@ -1,0 +1,104 @@
+{
+  "id": "xf-128555",
+  "title": "醋溜白菜",
+  "ingredients": [
+    {
+      "name": "白菜",
+      "mergeKey": "cabbage",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "一汤勺"
+    },
+    {
+      "name": "海鲜酱油",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "一汤勺"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "一茶勺"
+    },
+    {
+      "name": "陈醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "两汤勺,或白醋"
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许（或麻油）"
+    }
+  ],
+  "steps": [
+    {
+      "text": "白菜洗净，打斜刀片成薄片"
+    },
+    {
+      "text": "葱姜蒜切末，蒜要多切些，一半用来爆锅，一半用来调汁"
+    },
+    {
+      "text": "取一碗，加入醋、糖、一，两种酱油、盐、一半蒜末，调匀"
+    },
+    {
+      "text": "起热锅入油，三成热时下葱姜蒜末爆香，下白菜片翻炒到稍软，倒入调汁继续翻炒至白菜6、7成熟，加水淀粉勾薄芡，淋香油即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/128555/",
+  "author": "桃园",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 23,
+  "difficulty": "简单"
+}

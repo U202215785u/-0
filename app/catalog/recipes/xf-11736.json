@@ -76,12 +76,28 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 137,
-    "proteinG": 13.3,
-    "carbsG": 9.3,
-    "fatG": 4.9
+    "kcal": 483,
+    "proteinG": 19.9,
+    "carbsG": 55.7,
+    "fatG": 20.1,
+    "fiberG": 8.2,
+    "sugarG": 40.8,
+    "saturatedFatG": 3.1,
+    "sodiumMg": 151,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.75,
+    "missingIngredientNames": [
+      "牛角包",
+      "几片洋葱"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["主食"],
+  "tags": [
+    "主食"
+  ],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

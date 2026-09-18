@@ -90,7 +90,26 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的6人份、准备25分钟、烹调35分钟、总时长60分钟、7项配料和9段方法；保留冰水降温、筷子检查熟度和托鸡出锅信息。",
-  "tags": ["煮","家常菜"],
+  "tags": [
+    "煮",
+    "家常菜"
+  ],
   "durationMinutes": 60,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 616,
+    "proteinG": 57,
+    "carbsG": 1.9,
+    "fatG": 42.3,
+    "fiberG": 0.3,
+    "sugarG": 0.3,
+    "saturatedFatG": 10.1,
+    "sodiumMg": 1229,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "medium",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

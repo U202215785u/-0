@@ -106,12 +106,31 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 205.6,
-    "proteinG": 36.6,
-    "carbsG": 4.6,
-    "fatG": 4.8
+    "kcal": 204,
+    "proteinG": 32.4,
+    "carbsG": 14.3,
+    "fatG": 1.9,
+    "fiberG": 0.3,
+    "sugarG": 0.2,
+    "saturatedFatG": 0.5,
+    "sodiumMg": 217,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.5,
+    "missingIngredientNames": [
+      "橄榄油",
+      "小半勺盐",
+      "泡打粉",
+      "酵母",
+      "白胡椒粉"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算5 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炸"],
+  "tags": [
+    "炸"
+  ],
   "durationMinutes": 40,
   "difficulty": "中等"
 }

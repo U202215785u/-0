@@ -89,12 +89,39 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 71.5,
-    "proteinG": 10.3,
+    "kcal": 69,
+    "proteinG": 10.2,
     "carbsG": 0,
-    "fatG": 3.3
+    "fatG": 3.1,
+    "fiberG": 0,
+    "sugarG": 0,
+    "saturatedFatG": 1.1,
+    "sodiumMg": 30,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.08,
+    "missingIngredientNames": [
+      "新鲜雪里蕻",
+      "毛豆",
+      "千张",
+      "小葱",
+      "盐",
+      "鸡精",
+      "生粉",
+      "白胡椒粉",
+      "美极鲜酱油",
+      "糖",
+      "香油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算11 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炒","家常菜","快手菜"],
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

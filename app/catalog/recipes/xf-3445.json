@@ -69,12 +69,28 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 80.2,
-    "proteinG": 3.7,
-    "carbsG": 11.7,
-    "fatG": 2.1
+    "kcal": 397,
+    "proteinG": 5.5,
+    "carbsG": 90.1,
+    "fatG": 1.6,
+    "fiberG": 0.9,
+    "sugarG": 50.3,
+    "saturatedFatG": 0.4,
+    "sodiumMg": 281,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.71,
+    "missingIngredientNames": [
+      "-3个桔子",
+      "水"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炸"],
+  "tags": [
+    "炸"
+  ],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

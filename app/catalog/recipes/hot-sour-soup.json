@@ -196,6 +196,29 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、准备10分钟、烹调20分钟、总时长30分钟、22项配料和7段方法；保留番茄炒制30至60秒、淀粉浆和盖锅烧开信息。",
-  "tags": ["煮","汤羹","家常菜"],
-  "difficulty": "中等"
+  "tags": [
+    "煮",
+    "汤羹",
+    "家常菜"
+  ],
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 283,
+    "proteinG": 14.7,
+    "carbsG": 27.4,
+    "fatG": 12.7,
+    "fiberG": 3.8,
+    "sugarG": 8.7,
+    "saturatedFatG": 2.3,
+    "sodiumMg": 1196,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.95,
+    "missingIngredientNames": [
+      "芝麻油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

@@ -5,7 +5,10 @@
   "author": "冇伱灬冇我",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
-  "tags": ["煮","家常菜"],
+  "tags": [
+    "煮",
+    "家常菜"
+  ],
   "ingredients": [
     {
       "name": "带皮五花肉",
@@ -141,10 +144,34 @@
     }
   ],
   "nutrition": {
-    "kcal": 259,
-    "proteinG": 4.7,
-    "carbsG": 0,
-    "fatG": 26.5
+    "kcal": 778,
+    "proteinG": 14.2,
+    "carbsG": 1.4,
+    "fatG": 79.6,
+    "fiberG": 0.3,
+    "sugarG": 0.3,
+    "saturatedFatG": 28.5,
+    "sodiumMg": 75,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.2,
+    "missingIngredientNames": [
+      "大蒜",
+      "油辣子",
+      "油",
+      "盐",
+      "生抽",
+      "白胡椒粉",
+      "陈醋",
+      "白糖",
+      "啤酒",
+      "芝麻油",
+      "熟白芝麻",
+      "鸡精"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算12 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 45,
   "difficulty": "中等"

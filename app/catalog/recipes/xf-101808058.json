@@ -1,0 +1,125 @@
+{
+  "id": "xf-101808058",
+  "title": "卤鸡爪",
+  "ingredients": [
+    {
+      "name": "鸡爪",
+      "mergeKey": "chicken-feet",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 400,
+      "unit": "克"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 15,
+      "unit": "克"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "块"
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "2、3片"
+    },
+    {
+      "name": "小葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "15"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 3,
+      "unit": "克"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "一小块"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡爪洗干净，剪掉指甲，冷水下锅焯熟，再捞起来，用冷水再洗干净"
+    },
+    {
+      "text": "锅中放一点点油，下冰糖炒糖色，火要小点好掌握不容易焦，炒到枣红色，然后把火调小，如果冒泡了马上关火，不然会焦发苦。炒糖色做出来的色泽漂亮，但会偏甜，不喜欢吃甜的可以不炒糖色。"
+    },
+    {
+      "text": "倒入鸡爪，再加点老抽炒一会，老抽炒一下颜色会更好看"
+    },
+    {
+      "text": "倒入水，加料酒、生抽、醋、盐、八角、桂皮、香叶、姜、葱，大火烧开，中火加盖煮二十分钟。喜欢辣的可以再加点干辣椒，喜欢麻的加点花椒"
+    },
+    {
+      "text": "煮到收汁上色，出锅享用吧！照这个方子还可以卤鸡翅鸭翅鸭脚五花肉鸡蛋等等，家庭版的卤味讲究简单美味，香料不用太多，不必像卤味店一样放十几二十种香料"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/101808058/",
+  "author": "隅安然",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 492,
+    "proteinG": 48.5,
+    "carbsG": 11.4,
+    "fatG": 28.1
+  }
+}

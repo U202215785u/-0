@@ -144,6 +144,29 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、准备25分钟、烹调15分钟、总时长40分钟、15项配料和6段方法；保留吸干、薄裹粉和锅边煎香顺序。",
-  "tags": ["煎","家常菜"],
-  "difficulty": "中等"
+  "tags": [
+    "煎",
+    "家常菜"
+  ],
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 189,
+    "proteinG": 1.3,
+    "carbsG": 22.4,
+    "fatG": 10.5,
+    "fiberG": 0.6,
+    "sugarG": 4.8,
+    "saturatedFatG": 1.6,
+    "sodiumMg": 1079,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.87,
+    "missingIngredientNames": [
+      "猪扒",
+      "红洋葱"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

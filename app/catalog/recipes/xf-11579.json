@@ -126,12 +126,27 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 425.4,
-    "proteinG": 7.2,
-    "carbsG": 89,
-    "fatG": 4.8
+    "kcal": 1737,
+    "proteinG": 32.1,
+    "carbsG": 137.5,
+    "fatG": 117.6,
+    "fiberG": 11.1,
+    "sugarG": 76.5,
+    "saturatedFatG": 43.9,
+    "sodiumMg": 612,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.9,
+    "missingIngredientNames": [
+      "香草精"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["点心"],
+  "tags": [
+    "点心"
+  ],
   "durationMinutes": 70,
   "difficulty": "中等"
 }

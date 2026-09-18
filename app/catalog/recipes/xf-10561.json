@@ -111,7 +111,35 @@
   "author": "蜜腊",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["主食"],
+  "tags": [
+    "主食"
+  ],
   "durationMinutes": 70,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 311,
+    "proteinG": 14.4,
+    "carbsG": 45.6,
+    "fatG": 7.9,
+    "fiberG": 3.6,
+    "sugarG": 5,
+    "saturatedFatG": 1.6,
+    "sodiumMg": 430,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.2,
+    "missingIngredientNames": [
+      "火腿丁",
+      "生菜",
+      "植物油",
+      "白芝麻",
+      "盐",
+      "黑巧克力",
+      "白巧克力",
+      "番茄沙司"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算8 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

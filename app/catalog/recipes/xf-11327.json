@@ -110,12 +110,30 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 458,
-    "proteinG": 15.8,
-    "carbsG": 81.3,
-    "fatG": 7.6
+    "kcal": 926,
+    "proteinG": 22.2,
+    "carbsG": 152,
+    "fatG": 25.5,
+    "fiberG": 5.4,
+    "sugarG": 1,
+    "saturatedFatG": 11.2,
+    "sodiumMg": 126,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.63,
+    "missingIngredientNames": [
+      "去皮绿豆",
+      "白糖",
+      "白芝麻"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["主食","素菜"],
+  "tags": [
+    "主食",
+    "素菜"
+  ],
   "durationMinutes": 70,
   "difficulty": "中等"
 }

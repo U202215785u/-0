@@ -74,12 +74,28 @@
       "text": "放入预热好的烤箱中，以200度先烤10分钟，然后刷一层腌渍时用的酱料，再烤5分钟即可"
     }
   ],
-  "tags": ["烤"],
+  "tags": [
+    "烤"
+  ],
   "nutrition": {
-    "kcal": 399.1,
-    "proteinG": 64.3,
-    "carbsG": 18.7,
-    "fatG": 8
+    "kcal": 95,
+    "proteinG": 3.5,
+    "carbsG": 19.1,
+    "fatG": 0.5,
+    "fiberG": 0.1,
+    "sugarG": 15.4,
+    "saturatedFatG": 0.1,
+    "sodiumMg": 526,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.71,
+    "missingIngredientNames": [
+      "墨鱼仔",
+      "蒜片"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 20,
   "difficulty": "中等"

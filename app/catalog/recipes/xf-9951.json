@@ -105,7 +105,36 @@
   "author": "月亮晶晶",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["煮","主食"],
+  "tags": [
+    "煮",
+    "主食"
+  ],
   "durationMinutes": 50,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 40,
+    "proteinG": 1.4,
+    "carbsG": 8.1,
+    "fatG": 0.2,
+    "fiberG": 1.6,
+    "sugarG": 3.6,
+    "saturatedFatG": 0,
+    "sodiumMg": 6,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.27,
+    "missingIngredientNames": [
+      "(细圆面)意大利面条",
+      "肉末",
+      "番茄酱",
+      "黄油",
+      "淡奶油",
+      "盐",
+      "胡椒粉",
+      "乳酪粉"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算8 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

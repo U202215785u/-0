@@ -78,7 +78,36 @@
   "author": "月亮晶晶",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["煎","主食","快手菜"],
+  "tags": [
+    "煎",
+    "主食",
+    "快手菜"
+  ],
   "durationMinutes": 25,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 88,
+    "proteinG": 7,
+    "carbsG": 4.2,
+    "fatG": 4.9,
+    "fiberG": 0.5,
+    "sugarG": 2.2,
+    "saturatedFatG": 1.6,
+    "sodiumMg": 72,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.22,
+    "missingIngredientNames": [
+      "活虾",
+      "清水",
+      "面粉",
+      "盐",
+      "胡椒粉",
+      "水淀粉",
+      "食用油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算7 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

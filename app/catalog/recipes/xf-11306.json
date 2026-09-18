@@ -96,12 +96,28 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 302.2,
-    "proteinG": 5.8,
-    "carbsG": 44.3,
-    "fatG": 11.9
+    "kcal": 603,
+    "proteinG": 15.1,
+    "carbsG": 109.2,
+    "fatG": 11.8,
+    "fiberG": 5.7,
+    "sugarG": 11.2,
+    "saturatedFatG": 1.3,
+    "sodiumMg": 986,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.88,
+    "missingIngredientNames": [
+      "白芝麻"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤","主食"],
+  "tags": [
+    "烤",
+    "主食"
+  ],
   "durationMinutes": 40,
   "difficulty": "中等"
 }

@@ -95,12 +95,31 @@
       "text": "待水分略有收干后，关火，加入意大利干酪拌匀，盛入盘中，最后再撒一些干酪即可"
     }
   ],
-  "tags": ["炖","主食","快手菜"],
+  "tags": [
+    "炖",
+    "主食",
+    "快手菜"
+  ],
   "nutrition": {
-    "kcal": 392.7,
-    "proteinG": 10.5,
-    "carbsG": 41.5,
-    "fatG": 20.3
+    "kcal": 728,
+    "proteinG": 20.9,
+    "carbsG": 96.3,
+    "fatG": 28.8,
+    "fiberG": 2.5,
+    "sugarG": 7.1,
+    "saturatedFatG": 9.9,
+    "sodiumMg": 1044,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.7,
+    "missingIngredientNames": [
+      "枝迷迭香",
+      "盐",
+      "黑胡椒碎"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 25,
   "difficulty": "中等"

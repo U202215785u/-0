@@ -1,0 +1,107 @@
+{
+  "id": "xf-107077748",
+  "title": "炒合菜",
+  "ingredients": [
+    {
+      "name": "绿豆芽",
+      "mergeKey": "bean-sprout",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 300,
+      "unit": "克"
+    },
+    {
+      "name": "红薯粉条",
+      "mergeKey": "sweet-potato-noodle",
+      "category": "干货",
+      "pantry": true,
+      "amount": 1,
+      "unit": "把"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类",
+      "pantry": false,
+      "amount": 3,
+      "unit": "个"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "小米辣",
+      "mergeKey": "chili",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "2-3"
+    },
+    {
+      "name": "韭菜",
+      "mergeKey": "chives",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "5-6根"
+    },
+    {
+      "name": "盐/鸡精见图量",
+      "category": "肉类",
+      "pantry": false,
+      "quantityText": "各半勺"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "勺"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1.5,
+      "unit": "勺"
+    }
+  ],
+  "steps": [
+    {
+      "text": "粉条热水泡三十分钟捞出沥干、倒入一茶勺食用油，一瓶盖老抽拌匀备用，韭菜切段。"
+    },
+    {
+      "text": "蒜切末、小米辣切段； 鸡蛋打散煎成型盛出备用；"
+    },
+    {
+      "text": "热油下蒜末小米辣炒香、放入豆芽翻炒两下， 接着放入粉条和鸡蛋、翻炒均匀；"
+    },
+    {
+      "text": "调味：放盐、鸡精各半勺、一勺半生抽、半勺蚝油；"
+    },
+    {
+      "text": "粉条炒至透明、下入韭菜段翻炒几下即可。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107077748/",
+  "author": "吃饱再减肥啊77",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 159,
+    "proteinG": 14.6,
+    "carbsG": 8.4,
+    "fatG": 7.4
+  }
+}

@@ -68,7 +68,28 @@
   "author": "子闻妈咪",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["点心"],
+  "tags": [
+    "点心"
+  ],
   "durationMinutes": 15,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 355,
+    "proteinG": 12.1,
+    "carbsG": 30,
+    "fatG": 20.8,
+    "fiberG": 0,
+    "sugarG": 28.7,
+    "saturatedFatG": 12.6,
+    "sodiumMg": 132,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.86,
+    "missingIngredientNames": [
+      "柠檬汁"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

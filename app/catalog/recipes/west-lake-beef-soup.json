@@ -2,36 +2,207 @@
   "id": "west-lake-beef-soup",
   "title": "西湖牛肉羹",
   "ingredients": [
-    { "name": "牛肉", "amount": 224.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "beef" },
-    { "name": "嫩豆腐", "amount": 224.0, "unit": "克", "category": "豆制品", "pantry": false, "mergeKey": "tofu" },
-    { "name": "蛋清", "amount": 4.0, "unit": "个", "category": "蛋类", "pantry": false, "mergeKey": "egg-white" },
-    { "name": "韭黄", "amount": 56.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "yellow-chive" },
-    { "name": "鸡汤", "amount": 392.0, "unit": "克", "category": "其他", "pantry": false, "mergeKey": "chicken-broth" },
-    { "name": "水", "amount": 1620.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
-    { "name": "玉米淀粉", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
-    { "name": "马铃薯淀粉", "amount": 90.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "potato-starch" },
-    { "name": "白胡椒粉", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
-    { "name": "糖", "amount": 6.25, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
-    { "name": "盐", "amount": 12.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
-    { "name": "香油", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" }
+    {
+      "name": "牛肉",
+      "amount": 224,
+      "unit": "克",
+      "category": "肉类",
+      "pantry": false,
+      "mergeKey": "beef"
+    },
+    {
+      "name": "嫩豆腐",
+      "amount": 224,
+      "unit": "克",
+      "category": "豆制品",
+      "pantry": false,
+      "mergeKey": "tofu"
+    },
+    {
+      "name": "蛋清",
+      "amount": 4,
+      "unit": "个",
+      "category": "蛋类",
+      "pantry": false,
+      "mergeKey": "egg-white"
+    },
+    {
+      "name": "韭黄",
+      "amount": 56,
+      "unit": "克",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "yellow-chive"
+    },
+    {
+      "name": "鸡汤",
+      "amount": 392,
+      "unit": "克",
+      "category": "其他",
+      "pantry": false,
+      "mergeKey": "chicken-broth"
+    },
+    {
+      "name": "水",
+      "amount": 1620,
+      "unit": "毫升",
+      "category": "其他",
+      "pantry": false,
+      "mergeKey": "water"
+    },
+    {
+      "name": "玉米淀粉",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "cornstarch"
+    },
+    {
+      "name": "马铃薯淀粉",
+      "amount": 90,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "potato-starch"
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "white-pepper"
+    },
+    {
+      "name": "糖",
+      "amount": 6.25,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "sugar"
+    },
+    {
+      "name": "盐",
+      "amount": 12.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "salt"
+    },
+    {
+      "name": "香油",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "sesame-oil"
+    }
   ],
   "steps": [
-    { "text": "牛肉先切薄片、再切细条，最后剁成小粒；想要更细可在整堆肉末上多剁几遍，也可直接用市售绞肉。", "ingredientNames": ["牛肉"] },
-    { "text": "把牛肉末放入水中抓洗，洗去多余的血红蛋白（可减少金属味、让汤更清亮），再用细网筛沥干。", "ingredientNames": ["牛肉", "水"] },
-    { "text": "用玉米淀粉、白胡椒粉、糖、盐和水调成腌料；牛肉尽量挤干后拌入腌料，充分拌匀备用。", "ingredientNames": ["玉米淀粉", "白胡椒粉", "糖", "盐", "水", "牛肉"] },
-    { "text": "嫩豆腐切成约一点三厘米厚的片，再垂直切条、切丁，侧面再切约一点三厘米见方的小丁；韭黄洗净去根，切成约一点三厘米长的段。", "ingredientNames": ["嫩豆腐", "韭黄"] },
-    { "text": "准备两个碗，逐只磕蛋：在蛋壳间来回倒蛋黄，让蛋清落入蛋清碗，蛋黄放入蛋黄碗，重复至全部蛋清分离完毕（蛋黄本菜不用，可另行处理）。", "ingredientNames": ["蛋清"] },
-    { "text": "锅中加热约两杯热水，下牛肉末拨散，轻轻一碰即散；焯三十到四十秒后关火，捞出沥水。", "timerSeconds": 40, "ingredientNames": ["牛肉", "水"] },
-    { "text": "锅中加入鸡汤和水，开大火加盖烧开；等水开时，把马铃薯淀粉和水调成芡汁搅至完全溶解（浓稠度可按喜好增减）；蛋清打发至起泡。", "ingredientNames": ["鸡汤", "水", "马铃薯淀粉", "蛋清"] },
-    { "text": "汤烧开后先下牛肉搅散，再边搅拌边缓缓倒入芡汁（视频里觉得汤还可更浓，又调了一份加进去，可按喜好调整）；浓稠合适后加入豆腐丁轻轻拌匀，再边搅拌边缓缓倒入蛋清，蛋清遇热凝成白色蛋丝；如有浮沫可撇去。", "ingredientNames": ["牛肉", "马铃薯淀粉", "嫩豆腐", "蛋清"] },
-    { "text": "关火，加入盐、糖、白胡椒粉和香油，拌匀尝味调整，盛入碗中享用。", "ingredientNames": ["盐", "糖", "白胡椒粉", "香油"] }
+    {
+      "text": "牛肉先切薄片、再切细条，最后剁成小粒；想要更细可在整堆肉末上多剁几遍，也可直接用市售绞肉。",
+      "ingredientNames": [
+        "牛肉"
+      ]
+    },
+    {
+      "text": "把牛肉末放入水中抓洗，洗去多余的血红蛋白（可减少金属味、让汤更清亮），再用细网筛沥干。",
+      "ingredientNames": [
+        "牛肉",
+        "水"
+      ]
+    },
+    {
+      "text": "用玉米淀粉、白胡椒粉、糖、盐和水调成腌料；牛肉尽量挤干后拌入腌料，充分拌匀备用。",
+      "ingredientNames": [
+        "玉米淀粉",
+        "白胡椒粉",
+        "糖",
+        "盐",
+        "水",
+        "牛肉"
+      ]
+    },
+    {
+      "text": "嫩豆腐切成约一点三厘米厚的片，再垂直切条、切丁，侧面再切约一点三厘米见方的小丁；韭黄洗净去根，切成约一点三厘米长的段。",
+      "ingredientNames": [
+        "嫩豆腐",
+        "韭黄"
+      ]
+    },
+    {
+      "text": "准备两个碗，逐只磕蛋：在蛋壳间来回倒蛋黄，让蛋清落入蛋清碗，蛋黄放入蛋黄碗，重复至全部蛋清分离完毕（蛋黄本菜不用，可另行处理）。",
+      "ingredientNames": [
+        "蛋清"
+      ]
+    },
+    {
+      "text": "锅中加热约两杯热水，下牛肉末拨散，轻轻一碰即散；焯三十到四十秒后关火，捞出沥水。",
+      "timerSeconds": 40,
+      "ingredientNames": [
+        "牛肉",
+        "水"
+      ]
+    },
+    {
+      "text": "锅中加入鸡汤和水，开大火加盖烧开；等水开时，把马铃薯淀粉和水调成芡汁搅至完全溶解（浓稠度可按喜好增减）；蛋清打发至起泡。",
+      "ingredientNames": [
+        "鸡汤",
+        "水",
+        "马铃薯淀粉",
+        "蛋清"
+      ]
+    },
+    {
+      "text": "汤烧开后先下牛肉搅散，再边搅拌边缓缓倒入芡汁（视频里觉得汤还可更浓，又调了一份加进去，可按喜好调整）；浓稠合适后加入豆腐丁轻轻拌匀，再边搅拌边缓缓倒入蛋清，蛋清遇热凝成白色蛋丝；如有浮沫可撇去。",
+      "ingredientNames": [
+        "牛肉",
+        "马铃薯淀粉",
+        "嫩豆腐",
+        "蛋清"
+      ]
+    },
+    {
+      "text": "关火，加入盐、糖、白胡椒粉和香油，拌匀尝味调整，盛入碗中享用。",
+      "ingredientNames": [
+        "盐",
+        "糖",
+        "白胡椒粉",
+        "香油"
+      ]
+    }
   ],
   "baseServings": 4,
   "durationMinutes": 35,
   "difficulty": "中等",
-  "tags": ["煮","汤羹","家常菜","减脂高蛋白"],
+  "tags": [
+    "煮",
+    "汤羹",
+    "家常菜",
+    "减脂高蛋白"
+  ],
   "sourceUrl": "https://www.madewithlau.com/recipes/west-lake-beef-soup",
   "author": "刘爸爸",
   "fidelity": "structured-transcription",
-  "sourceNote": "转录自「与刘家一起做菜」网站公开菜谱页的页面正文与内嵌结构化数据（原作者：刘爸爸），并翻译为简体中文。单位换算：一盎司约合二十八克，一茶匙约合五毫升，一汤匙约合十五毫升，一杯约合二百四十毫升。原文标注备料二十分钟、烹饪十五分钟、合计约三十五分钟，供四人食用。页面食材中水出现三处（腌肉、煮汤、调芡汁），已合并为一笔合计约一千六百二十毫升；盐两处合计约二茶匙半，糖两处合计约一茶匙二五，白胡椒粉两处合计半茶匙；蛋清数量取自内嵌结构化数据（页面食材列表未单列）。步骤计时（焯牛肉三十至四十秒）取自原文。"
+  "sourceNote": "转录自「与刘家一起做菜」网站公开菜谱页的页面正文与内嵌结构化数据（原作者：刘爸爸），并翻译为简体中文。单位换算：一盎司约合二十八克，一茶匙约合五毫升，一汤匙约合十五毫升，一杯约合二百四十毫升。原文标注备料二十分钟、烹饪十五分钟、合计约三十五分钟，供四人食用。页面食材中水出现三处（腌肉、煮汤、调芡汁），已合并为一笔合计约一千六百二十毫升；盐两处合计约二茶匙半，糖两处合计约一茶匙二五，白胡椒粉两处合计半茶匙；蛋清数量取自内嵌结构化数据（页面食材列表未单列）。步骤计时（焯牛肉三十至四十秒）取自原文。",
+  "nutrition": {
+    "kcal": 451,
+    "proteinG": 41.7,
+    "carbsG": 17.4,
+    "fatG": 23.8,
+    "fiberG": 0.6,
+    "sugarG": 1.9,
+    "saturatedFatG": 6.9,
+    "sodiumMg": 1666,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.92,
+    "missingIngredientNames": [
+      "韭黄"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

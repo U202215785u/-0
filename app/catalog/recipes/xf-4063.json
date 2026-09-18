@@ -1,7 +1,11 @@
 {
   "id": "xf-4063",
   "title": "鱼香豇豆",
-  "tags": ["凉拌","家常菜","素菜"],
+  "tags": [
+    "凉拌",
+    "家常菜",
+    "素菜"
+  ],
   "ingredients": [
     {
       "name": "豇豆",
@@ -116,10 +120,26 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 167.5,
-    "proteinG": 5.1,
-    "carbsG": 29.5,
-    "fatG": 3.1
+    "kcal": 70,
+    "proteinG": 1.1,
+    "carbsG": 15.9,
+    "fatG": 0.2,
+    "fiberG": 0.7,
+    "sugarG": 10.5,
+    "saturatedFatG": 0,
+    "sodiumMg": 312,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.64,
+    "missingIngredientNames": [
+      "豇豆",
+      "香油",
+      "盐",
+      "鸡精"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 40,
   "difficulty": "中等"

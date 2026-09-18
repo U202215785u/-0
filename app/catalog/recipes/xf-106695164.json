@@ -1,0 +1,96 @@
+{
+  "id": "xf-106695164",
+  "title": "凉拌藕片",
+  "ingredients": [
+    {
+      "name": "藕",
+      "mergeKey": "lotus-root",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "节"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "1小段"
+    },
+    {
+      "name": "米醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 4,
+      "unit": "勺"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "勺"
+    },
+    {
+      "name": "鸡精或味精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "勺"
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    }
+  ],
+  "steps": [
+    {
+      "text": "藕削皮，切成薄片，焯水1分钟捞出，过凉水备用。"
+    },
+    {
+      "text": "葱切碎，与盐、白糖、鸡精、米醋、酱油、香油调制成料汁。"
+    },
+    {
+      "text": "将料汁淋到藕片上，装盘。 又酸又甜又脆的凉拌藕片就出炉啦！"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/106695164/",
+  "author": "ME忐忑猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 127,
+    "proteinG": 2.5,
+    "carbsG": 28.8,
+    "fatG": 0.2
+  }
+}

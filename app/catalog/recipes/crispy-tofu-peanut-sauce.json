@@ -176,12 +176,34 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、30分钟、17项配料和2段方法；中文执行字段为忠实翻译，清水为来源步骤中明确加入的半杯液体。",
   "nutrition": {
-    "kcal": 404.5,
-    "proteinG": 15.3,
-    "carbsG": 49.7,
-    "fatG": 17.6
+    "kcal": 355,
+    "proteinG": 12,
+    "carbsG": 17.4,
+    "fatG": 26.3,
+    "fiberG": 0.5,
+    "sugarG": 6.2,
+    "saturatedFatG": 10.3,
+    "sodiumMg": 622,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.65,
+    "missingIngredientNames": [
+      "姜",
+      "食盐",
+      "香菜",
+      "墨西哥辣椒",
+      "米饭",
+      "青柠角"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算6 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煎","家常菜","素菜"],
+  "tags": [
+    "煎",
+    "家常菜",
+    "素菜"
+  ],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

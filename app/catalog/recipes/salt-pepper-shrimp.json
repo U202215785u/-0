@@ -129,6 +129,29 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、准备15分钟、烹调10分钟、总时长25分钟、13项配料和7段方法；保留虾线处理、190摄氏度油温和香料下锅顺序。",
-  "tags": ["炸","快手菜"],
-  "difficulty": "中等"
+  "tags": [
+    "炸",
+    "快手菜"
+  ],
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 146,
+    "proteinG": 21.2,
+    "carbsG": 9.9,
+    "fatG": 2.4,
+    "fiberG": 0.6,
+    "sugarG": 0.6,
+    "saturatedFatG": 0.5,
+    "sodiumMg": 760,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.85,
+    "missingIngredientNames": [
+      "泰椒",
+      "玉米油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

@@ -1,0 +1,155 @@
+{
+  "id": "xf-107253414",
+  "title": "肉末豆腐",
+  "ingredients": [
+    {
+      "name": "豆腐（切块）",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "盒"
+    },
+    {
+      "name": "肉沫",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 100,
+      "unit": "克"
+    },
+    {
+      "name": "小米椒（切小）",
+      "category": "米面主食",
+      "pantry": false,
+      "quantityText": "随个人口味添加"
+    },
+    {
+      "name": "葱（切粒）",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "根"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "勺"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "半勺～1勺"
+    },
+    {
+      "name": "辣椒酱",
+      "mergeKey": "chili-paste",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "勺"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "小勺"
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "勺"
+    },
+    {
+      "name": "水淀粉（淀粉加水）",
+      "category": "米面主食",
+      "pantry": false,
+      "amount": 2,
+      "unit": "大勺"
+    }
+  ],
+  "steps": [
+    {
+      "text": "起油锅，油中撒点盐（不容易粘锅）放入豆腐"
+    },
+    {
+      "text": "两面煎香，盛出待用"
+    },
+    {
+      "text": "锅留底油，放肉沫炒香"
+    },
+    {
+      "text": "加入料酒、老抽、葱白和小米椒"
+    },
+    {
+      "text": "炒香"
+    },
+    {
+      "text": "倒入煎好的豆腐"
+    },
+    {
+      "text": "加勺辣椒酱"
+    },
+    {
+      "text": "加适量清水，调味加生抽、老抽、盐、白糖和蚝油"
+    },
+    {
+      "text": "焖煮入味"
+    },
+    {
+      "text": "出锅前放葱花和鸡精，加水淀粉炒匀即可！"
+    },
+    {
+      "text": "美味家常菜～喜欢😘"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107253414/",
+  "author": "春暖花开9628wm",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 193,
+    "proteinG": 11.7,
+    "carbsG": 16.1,
+    "fatG": 9.1
+  }
+}

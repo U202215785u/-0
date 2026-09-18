@@ -1,0 +1,99 @@
+{
+  "id": "xf-22266",
+  "title": "洋葱炒牛肉",
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "mergeKey": "beef",
+      "category": "肉类",
+      "pantry": false
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "老姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "辣椒酱",
+      "mergeKey": "chili-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉（马铃薯）",
+      "category": "米面主食",
+      "pantry": false
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛肉洗净沥干水，将牛肉切成小块，加1/3匙淀粉、1/3匙酱油、1/3匙白糖、一匙料酒，拌匀，腌制一会儿。下油锅之前再放半匙色拉油拌匀，为的是锁住牛肉本身的水分"
+    },
+    {
+      "text": "快炒所以要先调好调味料：一匙清水、半匙辣椒酱、半匙酱油、半匙芝麻油、半匙盐、1/3匙白糖"
+    },
+    {
+      "text": "姜剁成末。切洋葱：洋葱逆纹切条，这样炒出来的洋葱口感更脆"
+    },
+    {
+      "text": "锅中加油，加至8成热后，关火，将牛肉和洋葱一起过油，洋葱先过一遍油可以去除洋葱辛辣味"
+    },
+    {
+      "text": "捞出沥油"
+    },
+    {
+      "text": "锅中留少许油，大火爆香姜末"
+    },
+    {
+      "text": "转小火，下洋葱牛肉"
+    },
+    {
+      "text": "倒调味汁，转大火，翻炒至收汁"
+    },
+    {
+      "text": "出锅前加少许料酒即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/22266/",
+  "author": "apple爱自己",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单"
+}

@@ -176,12 +176,25 @@
   "author": "卤煮鲍鱼",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["烤","点心"],
+  "tags": [
+    "烤",
+    "点心"
+  ],
   "nutrition": {
-    "kcal": 1714.8,
-    "proteinG": 15.5,
-    "carbsG": 409.3,
-    "fatG": 6.6
+    "kcal": 3364,
+    "proteinG": 34.9,
+    "carbsG": 536.1,
+    "fatG": 120.1,
+    "fiberG": 9.3,
+    "sugarG": 325.5,
+    "saturatedFatG": 72.2,
+    "sodiumMg": 914,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 110,
   "difficulty": "中等"

@@ -1,0 +1,98 @@
+{
+  "id": "xf-176785",
+  "title": "冬瓜烧肉",
+  "ingredients": [
+    {
+      "name": "冬瓜",
+      "mergeKey": "winter-melon",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 250,
+      "unit": "克"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 400,
+      "unit": "克"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "粒"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 4,
+      "unit": "片"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 10,
+      "unit": "ml"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 20,
+      "unit": "克"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 15,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将五花肉洗干净，切方块；冬瓜去皮，切方块；大蒜去皮，拍扁，备用"
+    },
+    {
+      "text": "锅里放油烧热，爆香姜片和大蒜，倒入五花肉翻炒变色后，继续煸炒2分钟直到出油，放入生抽，老抽，冰糖和料酒，不断翻炒5分钟左右，使其上色"
+    },
+    {
+      "text": "加入清水（水量要没过肉面），用大火烧开后，改用小火炖45分钟，放入冬瓜块，再煮15分钟，待冬瓜入味后，调成大火待汤汁浓稠，上碟即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/176785/",
+  "author": "高雅",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 21,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 1108,
+    "proteinG": 20.5,
+    "carbsG": 17.7,
+    "fatG": 106.2
+  }
+}

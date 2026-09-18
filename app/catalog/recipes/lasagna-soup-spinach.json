@@ -133,11 +133,28 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、40分钟、11项配料和6段方法；保留香肠先煎、番茄膏炒深、面片煮制和离火拌菠菜的顺序。",
   "nutrition": {
-    "kcal": 662.2,
-    "proteinG": 81.5,
-    "carbsG": 32.7,
-    "fatG": 20.4
+    "kcal": 703,
+    "proteinG": 35.4,
+    "carbsG": 59.3,
+    "fatG": 36,
+    "fiberG": 3.1,
+    "sugarG": 11.8,
+    "saturatedFatG": 11.2,
+    "sodiumMg": 1193,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.82,
+    "missingIngredientNames": [
+      "食盐",
+      "黑胡椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","汤羹"],
+  "tags": [
+    "煮",
+    "汤羹"
+  ],
   "difficulty": "中等"
 }

@@ -102,11 +102,28 @@
   "fidelity": "structured-transcription",
   "sourceNote": "按来源页面公开的10人份、100分钟、7项配料和6段方法翻译整理；保留先焯猪脚、炒姜和分段加入醋的顺序。",
   "nutrition": {
-    "kcal": 435.2,
-    "proteinG": 29.1,
-    "carbsG": 28.4,
-    "fatG": 22.4
+    "kcal": 159,
+    "proteinG": 7.9,
+    "carbsG": 19.5,
+    "fatG": 5.5,
+    "fiberG": 1.8,
+    "sugarG": 4.8,
+    "saturatedFatG": 1.6,
+    "sodiumMg": 275,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.57,
+    "missingIngredientNames": [
+      "猪脚",
+      "甜黑醋",
+      "镇江香醋"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炖"],
+  "tags": [
+    "炖"
+  ],
   "difficulty": "中等"
 }

@@ -69,7 +69,35 @@
   "author": "臻妈美食厨房",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["凉拌","素菜","快手菜"],
+  "tags": [
+    "凉拌",
+    "素菜",
+    "快手菜"
+  ],
   "durationMinutes": 15,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 31,
+    "proteinG": 2.3,
+    "carbsG": 4.9,
+    "fatG": 0.3,
+    "fiberG": 3.3,
+    "sugarG": 2.1,
+    "saturatedFatG": 0,
+    "sodiumMg": 3,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.25,
+    "missingIngredientNames": [
+      "绿芥末",
+      "红椒",
+      "盐",
+      "麻油",
+      "多一些糖",
+      "白醋"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算6 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

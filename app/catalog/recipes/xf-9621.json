@@ -85,12 +85,33 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 141.3,
-    "proteinG": 11.5,
-    "carbsG": 15,
-    "fatG": 3.4
+    "kcal": 750,
+    "proteinG": 69.5,
+    "carbsG": 43,
+    "fatG": 33.3,
+    "fiberG": 2.8,
+    "sugarG": 3,
+    "saturatedFatG": 8.8,
+    "sodiumMg": 445,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.33,
+    "missingIngredientNames": [
+      "八角",
+      "桂皮",
+      "葱",
+      "姜",
+      "酱油",
+      "盐"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算6 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炖","家常菜"],
+  "tags": [
+    "炖",
+    "家常菜"
+  ],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

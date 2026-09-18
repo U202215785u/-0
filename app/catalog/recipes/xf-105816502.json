@@ -1,0 +1,103 @@
+{
+  "id": "xf-105816502",
+  "title": "虾仁滑蛋",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类",
+      "pantry": false,
+      "amount": 6,
+      "unit": "个"
+    },
+    {
+      "name": "虾仁",
+      "mergeKey": "shrimp",
+      "category": "水产",
+      "pantry": false,
+      "amount": 200,
+      "unit": "克"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 6,
+      "unit": "克"
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "category": "乳制品",
+      "pantry": false,
+      "amount": 30,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "text": "我买的是大颗的黑虎虾仁，解冻后清洗干净"
+    },
+    {
+      "text": "虾仁沥干水，放入盐，白胡椒，料酒"
+    },
+    {
+      "text": "抓匀腌制15分钟"
+    },
+    {
+      "text": "鸡蛋中加入牛奶（一点就好）是让鸡蛋嫩滑的秘诀"
+    },
+    {
+      "text": "加入盐，快速打匀"
+    },
+    {
+      "text": "热油，先炒熟虾仁，变色后马上捞出"
+    },
+    {
+      "text": "虾仁冷却片刻后倒入蛋液中，搅拌均匀"
+    },
+    {
+      "text": "热锅热油，倒入蛋液和虾仁，全程中火！用筷子搅拌均匀"
+    },
+    {
+      "text": "即将完全凝固的时候，转小火，继续慢慢翻炒，不要糊锅"
+    },
+    {
+      "text": "最后撒上葱花即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/105816502/",
+  "author": "Yran燕",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 328,
+    "proteinG": 40.6,
+    "carbsG": 5.2,
+    "fatG": 16
+  }
+}

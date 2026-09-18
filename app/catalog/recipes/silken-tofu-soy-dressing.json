@@ -4,7 +4,7 @@
   "ingredients": [
     {
       "name": "绢豆腐",
-      "amount": 500.0,
+      "amount": 500,
       "unit": "克",
       "category": "豆制品",
       "pantry": false,
@@ -20,7 +20,7 @@
     },
     {
       "name": "小葱",
-      "amount": 3.0,
+      "amount": 3,
       "unit": "根",
       "category": "蔬菜",
       "pantry": false,
@@ -28,7 +28,7 @@
     },
     {
       "name": "大蒜",
-      "amount": 3.0,
+      "amount": 3,
       "unit": "瓣",
       "category": "蔬菜",
       "pantry": false,
@@ -44,7 +44,7 @@
     },
     {
       "name": "生抽",
-      "amount": 2.0,
+      "amount": 2,
       "unit": "汤匙",
       "category": "调味料",
       "pantry": true,
@@ -52,7 +52,7 @@
     },
     {
       "name": "黑米醋",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "茶匙",
       "category": "调味料",
       "pantry": false,
@@ -60,7 +60,7 @@
     },
     {
       "name": "糖",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "撮",
       "category": "调味料",
       "pantry": true,
@@ -77,30 +77,65 @@
   "steps": [
     {
       "text": "撕开绢豆腐盒的封口，盖上几层厨房纸后倒扣，放在平整台面上，让厨房纸吸走多余水分。",
-      "ingredientNames": ["绢豆腐"]
+      "ingredientNames": [
+        "绢豆腐"
+      ]
     },
     {
       "text": "趁等待时调酱汁：小锅中加入油、葱花和大蒜（留部分葱花作装饰），小火熬至香料微黄，关火后拌入辣椒碎（如用），最后加入生抽、黑米醋和糖，充分拌匀。",
-      "ingredientNames": ["食用油", "小葱", "大蒜", "辣椒碎（可选）", "生抽", "黑米醋", "糖"]
+      "ingredientNames": [
+        "食用油",
+        "小葱",
+        "大蒜",
+        "辣椒碎（可选）",
+        "生抽",
+        "黑米醋",
+        "糖"
+      ]
     },
     {
       "text": "把豆腐翻正，小心揭去厨房纸。将餐盘倒扣在豆腐盒开口上，整体翻转后轻轻提起盒子，让豆腐落在盘中。",
-      "ingredientNames": ["绢豆腐"]
+      "ingredientNames": [
+        "绢豆腐"
+      ]
     },
     {
       "text": "把酱汁淋在豆腐上，撒上葱花和熟白芝麻作点缀。",
-      "ingredientNames": ["小葱", "熟白芝麻"]
+      "ingredientNames": [
+        "小葱",
+        "熟白芝麻"
+      ]
     }
   ],
   "baseServings": 2,
   "durationMinutes": 10,
   "difficulty": "简单",
-  "tags": ["凉拌","素菜","快手菜"],
+  "tags": [
+    "凉拌",
+    "素菜",
+    "快手菜"
+  ],
   "sourceUrl": "https://redhousespice.com/silken-tofu-salad/",
   "author": "Wei Guo / Red House Spice",
   "fidelity": "verbatim-public",
   "sourceNote": "转录自红房子中菜网公开菜谱页（二〇二三年十二月抓取存档）。一茶匙约五毫升、一汤匙约十五毫升；备料五分钟加烹饪五分钟合计十分钟；原文未给出该菜的营养明细之外的完整营养数据，仅保留热量一项。",
   "nutrition": {
-    "kcal": 227
+    "kcal": 447,
+    "proteinG": 27.3,
+    "carbsG": 21.4,
+    "fatG": 28.1,
+    "fiberG": 1.2,
+    "sugarG": 1.9,
+    "saturatedFatG": 5.3,
+    "sodiumMg": 1452,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.89,
+    "missingIngredientNames": [
+      "熟白芝麻"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   }
 }

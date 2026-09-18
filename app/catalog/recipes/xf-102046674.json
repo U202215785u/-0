@@ -5,7 +5,11 @@
   "author": "小荷悠悠清莲语",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
-  "tags": ["煮","汤羹","家常菜"],
+  "tags": [
+    "煮",
+    "汤羹",
+    "家常菜"
+  ],
   "ingredients": [
     {
       "name": "小黄鱼，",
@@ -67,10 +71,26 @@
     }
   ],
   "nutrition": {
-    "kcal": 310,
-    "proteinG": 50.3,
-    "carbsG": 11,
-    "fatG": 7.5
+    "kcal": 667,
+    "proteinG": 117.8,
+    "carbsG": 0,
+    "fatG": 21.7,
+    "fiberG": 0,
+    "sugarG": 0,
+    "saturatedFatG": 4.3,
+    "sodiumMg": 353,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.2,
+    "missingIngredientNames": [
+      "左右雪里蕻",
+      "葱姜蒜",
+      "干辣椒，白胡椒粉",
+      "料酒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 40,
   "difficulty": "中等"

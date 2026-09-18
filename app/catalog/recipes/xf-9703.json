@@ -69,12 +69,26 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 393.5,
-    "proteinG": 7.5,
-    "carbsG": 92.5,
-    "fatG": 1.4
+    "kcal": 622,
+    "proteinG": 2,
+    "carbsG": 74.5,
+    "fatG": 35.1,
+    "fiberG": 3.8,
+    "sugarG": 54.8,
+    "saturatedFatG": 5.3,
+    "sodiumMg": 69,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；炸制用油按保留量折算（未把整锅油计入）；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炸","家常菜","素菜"],
+  "tags": [
+    "炸",
+    "家常菜",
+    "素菜"
+  ],
   "durationMinutes": 60,
   "difficulty": "中等"
 }

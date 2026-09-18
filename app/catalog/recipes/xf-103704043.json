@@ -1,0 +1,129 @@
+{
+  "id": "xf-103704043",
+  "title": "红烧大虾",
+  "ingredients": [
+    {
+      "name": "虾",
+      "mergeKey": "shrimp",
+      "category": "水产",
+      "pantry": false,
+      "amount": 1,
+      "unit": "斤"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "片"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "瓣"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "勺"
+    },
+    {
+      "name": "辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "耗油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "勺"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 15,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备好的虾"
+    },
+    {
+      "text": "用剪刀开背去虾线，剪掉头上的刺跟虾胡子"
+    },
+    {
+      "text": "蒜，姜，辣椒，葱，切好备用"
+    },
+    {
+      "text": "处理好的虾"
+    },
+    {
+      "text": "热锅下油，中小火，煎的时候拿筷子把虾稍微定型"
+    },
+    {
+      "text": "煎至虾变红色即可翻面"
+    },
+    {
+      "text": "放入蒜蓉，姜蓉，辣椒，翻炒"
+    },
+    {
+      "text": "倒入提前调制好的酱汁（1勺酱油，1/2勺料酒，1/2勺耗油，白糖2克）翻炒均匀后撒入葱花，香喷喷的红烧大虾就完成啦"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/103704043/",
+  "author": "小毛驴她是个怪物",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 341,
+    "proteinG": 53.6,
+    "carbsG": 7.7,
+    "fatG": 10.6
+  }
+}

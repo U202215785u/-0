@@ -365,11 +365,27 @@
   "fidelity": "structured-transcription",
   "sourceNote": "根据来源页面公开的4人份配料、45分钟总时长和7步方法整理；页面可见鸡肉腌制、花生低温炸制、蔬菜焯制和分段收汁顺序。",
   "nutrition": {
-    "kcal": 317,
-    "proteinG": 30.1,
-    "carbsG": 16,
-    "fatG": 14.3
+    "kcal": 372,
+    "proteinG": 30.2,
+    "carbsG": 23.2,
+    "fatG": 17.6,
+    "fiberG": 3.5,
+    "sugarG": 7.3,
+    "saturatedFatG": 2.9,
+    "sodiumMg": 2145,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.97,
+    "missingIngredientNames": [
+      "花生米"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炒","家常菜"],
+  "tags": [
+    "炒",
+    "家常菜"
+  ],
   "difficulty": "中等"
 }

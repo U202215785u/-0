@@ -143,7 +143,30 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、准备15分钟、烹调10分钟、总时长25分钟、16项配料和5段方法；保留玉米与等量清水打碎及淀粉浆制作信息。",
-  "tags": ["煮","汤羹","减脂高蛋白"],
+  "tags": [
+    "煮",
+    "汤羹",
+    "减脂高蛋白"
+  ],
   "durationMinutes": 25,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 142,
+    "proteinG": 7.7,
+    "carbsG": 23.7,
+    "fatG": 1.9,
+    "fiberG": 3,
+    "sugarG": 3.8,
+    "saturatedFatG": 0.2,
+    "sodiumMg": 883,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.94,
+    "missingIngredientNames": [
+      "鸡蛋"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

@@ -157,12 +157,29 @@
   "fidelity": "structured-transcription",
   "sourceNote": "按来源页面公开的4人份、25分钟、13项配料和5段方法翻译整理；保留姜分两种形态、沸水蒸鱼和热油激香步骤。",
   "nutrition": {
-    "kcal": 291,
-    "proteinG": 41.9,
-    "carbsG": 4.3,
-    "fatG": 12.2
+    "kcal": 304,
+    "proteinG": 33.6,
+    "carbsG": 7.3,
+    "fatG": 15.6,
+    "fiberG": 1,
+    "sugarG": 1.7,
+    "saturatedFatG": 2.9,
+    "sodiumMg": 1038,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.92,
+    "missingIngredientNames": [
+      "香菜"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["蒸","家常菜","减脂高蛋白"],
+  "tags": [
+    "蒸",
+    "家常菜",
+    "减脂高蛋白"
+  ],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

@@ -1,0 +1,96 @@
+{
+  "id": "xf-102131599",
+  "title": "香菇油菜",
+  "ingredients": [
+    {
+      "name": "油菜",
+      "mergeKey": "bok-choy",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "500克只取梗"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇",
+      "pantry": false,
+      "quantityText": "中等大小十个"
+    },
+    {
+      "name": "炒菜油",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "15毫升左右"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 15,
+      "unit": "克"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "品尝后酌情添加"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "片"
+    },
+    {
+      "name": "葱段",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "3-4段"
+    }
+  ],
+  "steps": [
+    {
+      "text": "油菜一切两半，另一半可以做菜羹，也可以做菜粥。 如果想做出主页图那样的油菜梗，刀切的还要离根部近一些 香菇洗净、切片。"
+    },
+    {
+      "text": "更快的处理办法是：成批处理。"
+    },
+    {
+      "text": "锅内烧水，水烧开，加几滴炒菜油在水里。 放入油菜烫一下，变色即捞出，沥干水分。 注意：烫时间长了油菜就不绿了。"
+    },
+    {
+      "text": "锅内加炒菜油15毫升，加八成热，倒入姜片、葱段和切好的香菇。 接着倒入15毫升左右的蚝油，翻炒，加10毫升水炖几分钟香菇。"
+    },
+    {
+      "text": "香菇变软以后会缩小，水也会蒸发掉了一些。把姜片和葱段从锅中捡出不要。 再把油菜倒入锅中，翻炒均匀。"
+    },
+    {
+      "text": "在把香菇和油菜混合一下。尝一下味道，酌情加些盐。 因为油菜已经焯水熟了，稍微翻炒均匀，就可以盛盘。"
+    },
+    {
+      "text": "这是口蘑油菜。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102131599/",
+  "author": "动妈要做一道好看的菜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 13,
+    "proteinG": 0.4,
+    "carbsG": 2.6,
+    "fatG": 0.1
+  }
+}

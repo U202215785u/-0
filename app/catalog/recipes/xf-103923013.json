@@ -1,0 +1,104 @@
+{
+  "id": "xf-103923013",
+  "title": "豌豆虾仁炒蛋",
+  "ingredients": [
+    {
+      "name": "虾仁",
+      "mergeKey": "shrimp",
+      "category": "水产",
+      "pantry": false,
+      "amount": 150,
+      "unit": "克"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类",
+      "pantry": false,
+      "amount": 4,
+      "unit": "个"
+    },
+    {
+      "name": "豌豆",
+      "mergeKey": "pea",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 150,
+      "unit": "克"
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "amount": 1,
+      "unit": "小勺"
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 5,
+      "unit": "小勺"
+    },
+    {
+      "name": "白胡椒",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "小勺"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "虾仁自然解冻，用厨房纸擦干水分。加入1勺料酒、1小勺食盐、半小勺胡椒粉、1小勺淀粉抓匀，静置15分钟。"
+    },
+    {
+      "text": "少量水烧开，加入3小勺食盐，放入豌豆煮3-4分钟。"
+    },
+    {
+      "text": "豌豆捞出用冷水冲洗，避免变色。"
+    },
+    {
+      "text": "鸡蛋稍微搅打均匀，放入1小勺食盐。"
+    },
+    {
+      "text": "油烧至6层热，下入虾仁，炒至变色。"
+    },
+    {
+      "text": "倒入蛋液，待锅边蛋液凝固后再翻炒几下。"
+    },
+    {
+      "text": "加入豌豆，翻炒均匀，起锅。"
+    },
+    {
+      "text": "看起来就很有食欲。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/103923013/",
+  "author": "亦兮",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 285,
+    "proteinG": 32.5,
+    "carbsG": 14.6,
+    "fatG": 10.7
+  }
+}

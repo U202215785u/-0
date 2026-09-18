@@ -4,7 +4,7 @@
   "ingredients": [
     {
       "name": "整鸡（中等大小）",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "只",
       "category": "肉类",
       "pantry": false,
@@ -12,7 +12,7 @@
     },
     {
       "name": "小葱",
-      "amount": 6.0,
+      "amount": 6,
       "unit": "根",
       "category": "蔬菜",
       "pantry": false,
@@ -20,7 +20,7 @@
     },
     {
       "name": "生姜（切片）",
-      "amount": 6.0,
+      "amount": 6,
       "unit": "片",
       "category": "蔬菜",
       "pantry": false,
@@ -28,7 +28,7 @@
     },
     {
       "name": "中筋面粉",
-      "amount": 180.0,
+      "amount": 180,
       "unit": "克",
       "category": "米面主食",
       "pantry": false,
@@ -36,7 +36,7 @@
     },
     {
       "name": "清水",
-      "amount": 95.0,
+      "amount": 95,
       "unit": "克",
       "category": "其他",
       "pantry": false,
@@ -44,7 +44,7 @@
     },
     {
       "name": "猪肉末",
-      "amount": 450.0,
+      "amount": 450,
       "unit": "克",
       "category": "肉类",
       "pantry": false,
@@ -52,7 +52,7 @@
     },
     {
       "name": "姜末",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "汤匙",
       "category": "蔬菜",
       "pantry": false,
@@ -60,7 +60,7 @@
     },
     {
       "name": "生抽",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "汤匙",
       "category": "调味料",
       "pantry": true,
@@ -68,7 +68,7 @@
     },
     {
       "name": "绍兴料酒",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "汤匙",
       "category": "调味料",
       "pantry": true,
@@ -119,12 +119,18 @@
     },
     {
       "text": "将整鸡放入耐热锅或烤盘中，把葱段和姜片塞进鸡腹，用盖子或锡纸盖紧。",
-      "ingredientNames": ["整鸡（中等大小）", "小葱", "生姜（切片）"]
+      "ingredientNames": [
+        "整鸡（中等大小）",
+        "小葱",
+        "生姜（切片）"
+      ]
     },
     {
       "text": "放入烤箱烤1小时，之后盖着晾凉。",
       "timerSeconds": 3600,
-      "ingredientNames": ["整鸡（中等大小）"]
+      "ingredientNames": [
+        "整鸡（中等大小）"
+      ]
     },
     {
       "text": "鸡肉留作他用。把烤出的汤汁倒入容器，冷藏至少4小时，直到凝成胶冻状皮冻（约250克）。",
@@ -132,44 +138,68 @@
     },
     {
       "text": "和面盆中把热水倒入面粉，用筷子或刮刀拌匀，再加入常温水（原文热水六十克、常温水三十五克）。",
-      "ingredientNames": ["中筋面粉", "清水"]
+      "ingredientNames": [
+        "中筋面粉",
+        "清水"
+      ]
     },
     {
       "text": "揉成面团，盖好醒10分钟，再揉至非常光滑。",
       "timerSeconds": 600,
-      "ingredientNames": ["中筋面粉"]
+      "ingredientNames": [
+        "中筋面粉"
+      ]
     },
     {
       "text": "盖好再醒30至60分钟，直到面团变软。",
-      "ingredientNames": ["中筋面粉"]
+      "ingredientNames": [
+        "中筋面粉"
+      ]
     },
     {
       "text": "把猪肉末与全部调味料充分拌匀。",
-      "ingredientNames": ["猪肉末", "生抽", "绍兴料酒", "白胡椒粉", "盐", "糖"]
+      "ingredientNames": [
+        "猪肉末",
+        "生抽",
+        "绍兴料酒",
+        "白胡椒粉",
+        "盐",
+        "糖"
+      ]
     },
     {
       "text": "用勺子撇去皮冻表面的鸡油，再用叉子把皮冻捣成小碎块，加入猪肉中拌匀。",
-      "ingredientNames": ["猪肉末"]
+      "ingredientNames": [
+        "猪肉末"
+      ]
     },
     {
       "text": "继续冷藏至少30分钟，包制前再取出。",
       "timerSeconds": 1800,
-      "ingredientNames": ["猪肉末"]
+      "ingredientNames": [
+        "猪肉末"
+      ]
     },
     {
       "text": "把面团搓成长条，分成20份，用手掌压成小圆饼。不用的面团随时盖好（用保鲜膜、塑料袋或倒扣的碗等）。",
-      "ingredientNames": ["中筋面粉"]
+      "ingredientNames": [
+        "中筋面粉"
+      ]
     },
     {
       "text": "用擀面杖以边擀边转的手法擀成约12厘米直径的薄皮（可参照原文的视频教程）。若粘手可撒少许面粉防粘。",
-      "ingredientNames": ["中筋面粉"]
+      "ingredientNames": [
+        "中筋面粉"
+      ]
     },
     {
       "text": "注意：每擀好一张皮就立即包一只小笼包，皮很薄容易风干，不要提前囤积。"
     },
     {
       "text": "在皮中央放一勺馅料（约35克）。",
-      "ingredientNames": ["猪肉末"]
+      "ingredientNames": [
+        "猪肉末"
+      ]
     },
     {
       "text": "捏出约15至20道褶子，收成圆形小笼包（顶部可留口或收口，参照原文视频教程）。"
@@ -192,7 +222,10 @@
     },
     {
       "text": "把小笼包蘸上蘸料（醋与姜丝调匀）后，一至两口吃完。",
-      "ingredientNames": ["红米醋（或黑米醋）", "姜丝"]
+      "ingredientNames": [
+        "红米醋（或黑米醋）",
+        "姜丝"
+      ]
     },
     {
       "text": "剩的小笼包可冷藏保存最多2天，重新蒸3分钟加热（但汤汁可能已被面皮吸收）。",
@@ -204,9 +237,31 @@
   ],
   "durationMinutes": 130,
   "difficulty": "较难",
-  "tags": ["主食"],
+  "tags": [
+    "主食"
+  ],
   "sourceUrl": "https://redhousespice.com/xiao-long-bao-soup-dumplings/",
   "author": "Wei Guo / Red House Spice",
   "fidelity": "verbatim-public",
-  "sourceNote": "转录自红房子中菜网公开菜谱页（二〇二三年十二月抓取存档）。原文一茶匙约五毫升、一汤匙约十五毫升；和面用水原文为热水六十克与常温水三十五克，按同类食材合并为清水九十五克；小葱原文三根切段加三根切碎合并为六根；总时长按原文标注两小时十分钟即一百三十分钟（不含冷藏凝冻皮冻的四小时等等待时间）。"
+  "sourceNote": "转录自红房子中菜网公开菜谱页（二〇二三年十二月抓取存档）。原文一茶匙约五毫升、一汤匙约十五毫升；和面用水原文为热水六十克与常温水三十五克，按同类食材合并为清水九十五克；小葱原文三根切段加三根切碎合并为六根；总时长按原文标注两小时十分钟即一百三十分钟（不含冷藏凝冻皮冻的四小时等等待时间）。",
+  "nutrition": {
+    "kcal": 1462,
+    "proteinG": 129,
+    "carbsG": 58.3,
+    "fatG": 79.3,
+    "fiberG": 4.2,
+    "sugarG": 5.4,
+    "saturatedFatG": 24.9,
+    "sodiumMg": 1476,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.86,
+    "missingIngredientNames": [
+      "红米醋（或黑米醋）",
+      "姜丝"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

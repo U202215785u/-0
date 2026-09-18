@@ -64,12 +64,33 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 87.5,
-    "proteinG": 5,
-    "carbsG": 17.5,
-    "fatG": 1
+    "kcal": 126,
+    "proteinG": 4.4,
+    "carbsG": 25.4,
+    "fatG": 0.8,
+    "fiberG": 11.5,
+    "sugarG": 13.2,
+    "saturatedFatG": 0,
+    "sodiumMg": 9,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.29,
+    "missingIngredientNames": [
+      "剁椒",
+      "生抽",
+      "糖",
+      "醋",
+      "橄榄油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算5 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["凉拌","素菜","快手菜"],
+  "tags": [
+    "凉拌",
+    "素菜",
+    "快手菜"
+  ],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

@@ -137,12 +137,32 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验 Bon Appetit 公开的4人份、25分钟总时长、Chris Morocco署名、10项配料和4段方法；按公开内容翻译为中文并保留鸡排拍薄、分批煎制、白葡萄酒收汁和柠檬离火加入。",
   "nutrition": {
-    "kcal": 148.6,
-    "proteinG": 2,
-    "carbsG": 9.5,
-    "fatG": 11.5
+    "kcal": 264,
+    "proteinG": 2.1,
+    "carbsG": 14.2,
+    "fatG": 22.1,
+    "fiberG": 0.5,
+    "sugarG": 0.5,
+    "saturatedFatG": 8.7,
+    "sodiumMg": 87,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.58,
+    "missingIngredientNames": [
+      "去皮鸡胸肉",
+      "粗盐",
+      "酸豆",
+      "欧芹",
+      "柠檬角"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算5 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煎","快手菜"],
+  "tags": [
+    "煎",
+    "快手菜"
+  ],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

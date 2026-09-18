@@ -85,12 +85,29 @@
   "fidelity": "structured-transcription",
   "sourceNote": "根据来源页面公开的2人份配料与4步方法整理；盎司和汤匙换算为克，面汤容量按页面公开的1.5杯换算为约360毫升。",
   "nutrition": {
-    "kcal": 167.8,
-    "proteinG": 6.3,
-    "carbsG": 25.2,
-    "fatG": 4.2
+    "kcal": 716,
+    "proteinG": 19.4,
+    "carbsG": 89.3,
+    "fatG": 31.3,
+    "fiberG": 4.4,
+    "sugarG": 3.2,
+    "saturatedFatG": 18.4,
+    "sodiumMg": 260,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.83,
+    "missingIngredientNames": [
+      "食盐"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","主食","快手菜"],
+  "tags": [
+    "煮",
+    "主食",
+    "快手菜"
+  ],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

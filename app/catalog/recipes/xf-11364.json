@@ -45,7 +45,31 @@
   "author": "百事小熊",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["炒","家常菜","快手菜"],
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
   "durationMinutes": 15,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 431,
+    "proteinG": 46.1,
+    "carbsG": 2,
+    "fatG": 26.5,
+    "fiberG": 0.6,
+    "sugarG": 0.8,
+    "saturatedFatG": 7.2,
+    "sodiumMg": 198,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.5,
+    "missingIngredientNames": [
+      "姜片或者姜粉",
+      "小葱"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

@@ -148,12 +148,29 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 849.1,
-    "proteinG": 42.1,
-    "carbsG": 143.5,
-    "fatG": 22.3
+    "kcal": 412,
+    "proteinG": 12.2,
+    "carbsG": 44.1,
+    "fatG": 20.8,
+    "fiberG": 18.2,
+    "sugarG": 5.1,
+    "saturatedFatG": 2.1,
+    "sodiumMg": 2018,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.81,
+    "missingIngredientNames": [
+      "大重庆火锅底料",
+      "桂皮",
+      "草果"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮"],
+  "tags": [
+    "煮"
+  ],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

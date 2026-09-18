@@ -223,12 +223,40 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 238,
-    "proteinG": 8.3,
-    "carbsG": 42,
-    "fatG": 4
+    "kcal": 624,
+    "proteinG": 32.3,
+    "carbsG": 76,
+    "fatG": 21.2,
+    "fiberG": 2.7,
+    "sugarG": 0.5,
+    "saturatedFatG": 7.5,
+    "sodiumMg": 91,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.18,
+    "missingIngredientNames": [
+      "豆角",
+      "鸡蛋",
+      "水发木耳",
+      "胡萝卜",
+      "生姜",
+      "香葱",
+      "芹菜",
+      "盐",
+      "生抽",
+      "料酒",
+      "砂糖",
+      "十三香粉",
+      "香油",
+      "白胡椒粉"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算14 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["主食"],
+  "tags": [
+    "主食"
+  ],
   "durationMinutes": 120,
   "difficulty": "中等"
 }

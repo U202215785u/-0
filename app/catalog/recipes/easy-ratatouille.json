@@ -149,12 +149,31 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、1小时、13项配料和5段方法；保留茄子先盐渍、分两批煎制和最后加醋的顺序。",
   "nutrition": {
-    "kcal": 560.7,
-    "proteinG": 8.1,
-    "carbsG": 31.2,
-    "fatG": 45.7
+    "kcal": 492,
+    "proteinG": 4.5,
+    "carbsG": 23.5,
+    "fatG": 42.2,
+    "fiberG": 7,
+    "sugarG": 11.5,
+    "saturatedFatG": 5.8,
+    "sodiumMg": 18,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.69,
+    "missingIngredientNames": [
+      "食盐",
+      "红甜椒",
+      "罗勒",
+      "百里香"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["炒","素菜"],
+  "tags": [
+    "炒",
+    "素菜"
+  ],
   "durationMinutes": 60,
   "difficulty": "中等"
 }

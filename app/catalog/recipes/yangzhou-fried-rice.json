@@ -2,35 +2,187 @@
   "id": "yangzhou-fried-rice",
   "title": "扬州炒饭",
   "ingredients": [
-    { "name": "花生油", "amount": 37, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
-    { "name": "叉烧", "amount": 110, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "char-siu" },
-    { "name": "虾仁", "amount": 225, "unit": "克", "category": "水产", "pantry": false, "mergeKey": "shrimp" },
-    { "name": "冷冻蔬菜丁", "amount": 120, "unit": "毫升", "category": "蔬菜", "pantry": false, "mergeKey": "mixed-vegetables" },
-    { "name": "白米饭", "amount": 960, "unit": "毫升", "category": "米面主食", "pantry": false, "mergeKey": "cooked-rice" },
-    { "name": "生抽", "amount": 15, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
-    { "name": "鸡蛋", "amount": 2, "unit": "个", "category": "蛋类", "pantry": false, "mergeKey": "egg" },
-    { "name": "盐", "quantityText": "半茶匙", "category": "调味料", "pantry": true, "mergeKey": "salt" },
-    { "name": "白胡椒粉", "quantityText": "四分之一茶匙", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
-    { "name": "葱", "amount": 4, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "scallion" }
+    {
+      "name": "花生油",
+      "amount": 37,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "cooking-oil"
+    },
+    {
+      "name": "叉烧",
+      "amount": 110,
+      "unit": "克",
+      "category": "肉类",
+      "pantry": false,
+      "mergeKey": "char-siu"
+    },
+    {
+      "name": "虾仁",
+      "amount": 225,
+      "unit": "克",
+      "category": "水产",
+      "pantry": false,
+      "mergeKey": "shrimp"
+    },
+    {
+      "name": "冷冻蔬菜丁",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "mixed-vegetables"
+    },
+    {
+      "name": "白米饭",
+      "amount": 960,
+      "unit": "毫升",
+      "category": "米面主食",
+      "pantry": false,
+      "mergeKey": "cooked-rice"
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "soy-sauce"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类",
+      "pantry": false,
+      "mergeKey": "egg"
+    },
+    {
+      "name": "盐",
+      "quantityText": "半茶匙",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "salt"
+    },
+    {
+      "name": "白胡椒粉",
+      "quantityText": "四分之一茶匙",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "white-pepper"
+    },
+    {
+      "name": "葱",
+      "amount": 4,
+      "unit": "根",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "scallion"
+    }
   ],
   "steps": [
-    { "text": "锅或平底锅烧热至中大火，放 7.5 毫升油，转动锅子让锅底均匀裹上油，下叉烧和虾仁，静置煎 30 秒不翻动。", "ingredientNames": ["花生油", "叉烧", "虾仁"], "timerSeconds": 30 },
-    { "text": "翻炒至虾仁变白，立即把叉烧和虾仁盛到盘中备用。", "ingredientNames": ["叉烧", "虾仁"] },
-    { "text": "锅中加入 15 毫升油和米饭，翻炒 1 分钟，让米粒均匀裹上油。", "ingredientNames": ["花生油", "白米饭"], "timerSeconds": 60 },
-    { "text": "淋入生抽，继续翻炒至酱油分布均匀、米粒分开。", "ingredientNames": ["生抽"] },
-    { "text": "把米饭拨到锅的一侧，在空出的一侧加油和打散的蛋液，静置 30 秒至底部刚刚凝固。", "ingredientNames": ["花生油", "鸡蛋"], "timerSeconds": 30 },
-    { "text": "轻轻翻炒鸡蛋，再与米饭混合，继续翻炒至鸡蛋散成小块，约 1 至 2 分钟。", "ingredientNames": ["鸡蛋", "白米饭"] },
-    { "text": "加入蔬菜丁和葱花，撒上盐和白胡椒粉，再翻炒 1 分钟。", "ingredientNames": ["冷冻蔬菜丁", "葱", "盐", "白胡椒粉"], "timerSeconds": 60 },
-    { "text": "把煎好的虾仁和叉烧倒回锅中，最后翻拌均匀。", "ingredientNames": ["虾仁", "叉烧"] },
-    { "text": "转小火，小心尝一下米饭，按需调整调味；盛入碗中，趁热作为配菜或轻食主菜上桌。", "ingredientNames": ["盐", "白胡椒粉"] }
+    {
+      "text": "锅或平底锅烧热至中大火，放 7.5 毫升油，转动锅子让锅底均匀裹上油，下叉烧和虾仁，静置煎 30 秒不翻动。",
+      "ingredientNames": [
+        "花生油",
+        "叉烧",
+        "虾仁"
+      ],
+      "timerSeconds": 30
+    },
+    {
+      "text": "翻炒至虾仁变白，立即把叉烧和虾仁盛到盘中备用。",
+      "ingredientNames": [
+        "叉烧",
+        "虾仁"
+      ]
+    },
+    {
+      "text": "锅中加入 15 毫升油和米饭，翻炒 1 分钟，让米粒均匀裹上油。",
+      "ingredientNames": [
+        "花生油",
+        "白米饭"
+      ],
+      "timerSeconds": 60
+    },
+    {
+      "text": "淋入生抽，继续翻炒至酱油分布均匀、米粒分开。",
+      "ingredientNames": [
+        "生抽"
+      ]
+    },
+    {
+      "text": "把米饭拨到锅的一侧，在空出的一侧加油和打散的蛋液，静置 30 秒至底部刚刚凝固。",
+      "ingredientNames": [
+        "花生油",
+        "鸡蛋"
+      ],
+      "timerSeconds": 30
+    },
+    {
+      "text": "轻轻翻炒鸡蛋，再与米饭混合，继续翻炒至鸡蛋散成小块，约 1 至 2 分钟。",
+      "ingredientNames": [
+        "鸡蛋",
+        "白米饭"
+      ]
+    },
+    {
+      "text": "加入蔬菜丁和葱花，撒上盐和白胡椒粉，再翻炒 1 分钟。",
+      "ingredientNames": [
+        "冷冻蔬菜丁",
+        "葱",
+        "盐",
+        "白胡椒粉"
+      ],
+      "timerSeconds": 60
+    },
+    {
+      "text": "把煎好的虾仁和叉烧倒回锅中，最后翻拌均匀。",
+      "ingredientNames": [
+        "虾仁",
+        "叉烧"
+      ]
+    },
+    {
+      "text": "转小火，小心尝一下米饭，按需调整调味；盛入碗中，趁热作为配菜或轻食主菜上桌。",
+      "ingredientNames": [
+        "盐",
+        "白胡椒粉"
+      ]
+    }
   ],
   "baseServings": 4,
   "durationMinutes": 20,
   "difficulty": "简单",
-  "tags": ["炒","主食","家常菜"],
+  "tags": [
+    "炒",
+    "主食",
+    "家常菜"
+  ],
   "sourceUrl": "https://redhousespice.com/yangzhou-fried-rice/",
   "author": "Wei Guo / Red House Spice",
   "fidelity": "verbatim-public",
   "sourceNote": "转录自原站公开页面的完整配方（原页受访问限制，经公开镜像页面核对，其署名作者与原文一致）：备料 10 分钟、烹制 10 分钟，合计 20 分钟；原页标注 4 至 6 人份、每份约 304 千卡，本文件按 4 人份记录。单位换算：1 盎司约 28 克（4 盎司叉烧约 110 克，6 盎司虾仁约 225 克），2.5 汤匙油约 37 毫升，1 汤匙生抽约 15 毫升，1 杯约 240 毫升；原文的“4 根葱”按 4 根记录。配方备注：如用大虾，可每只切成 3 至 4 小块；若用生米现煮，约 360 毫升生米可煮出约 960 毫升熟饭。",
-  "nutrition": { "kcal": 304, "proteinG": 15.1, "carbsG": 40.5, "fatG": 8.4 }
+  "nutrition": {
+    "kcal": 494,
+    "proteinG": 22.8,
+    "carbsG": 72.7,
+    "fatG": 12.5,
+    "fiberG": 2.4,
+    "sugarG": 2.1,
+    "saturatedFatG": 2.2,
+    "sodiumMg": 360,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.7,
+    "missingIngredientNames": [
+      "叉烧",
+      "盐",
+      "白胡椒粉"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

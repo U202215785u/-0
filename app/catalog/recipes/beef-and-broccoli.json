@@ -2,42 +2,268 @@
   "id": "beef-and-broccoli",
   "title": "牛肉炒西兰花",
   "ingredients": [
-    { "name": "牛肉", "amount": 336, "unit": "克", "category": "肉类", "mergeKey": "beef" },
-    { "name": "西兰花", "amount": 454, "unit": "克", "category": "蔬菜", "mergeKey": "broccoli" },
-    { "name": "胡萝卜", "quantityText": "半个", "category": "蔬菜", "mergeKey": "carrot" },
-    { "name": "姜", "quantityText": "1 小块", "category": "蔬菜", "mergeKey": "ginger" },
-    { "name": "小葱", "quantityText": "1 根", "category": "蔬菜", "mergeKey": "scallion" },
-    { "name": "大蒜", "amount": 2, "unit": "瓣", "category": "蔬菜", "mergeKey": "garlic" },
-    { "name": "食用油", "amount": 45, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
-    { "name": "盐", "quantityText": "1 撮", "category": "调味料", "pantry": true, "mergeKey": "salt" },
-    { "name": "香油", "amount": 5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
-    { "name": "小苏打", "amount": 5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "baking-soda" },
-    { "name": "蚝油", "amount": 30, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "oyster-sauce" },
-    { "name": "生抽", "amount": 20, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
-    { "name": "老抽", "amount": 5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "dark-soy-sauce" },
-    { "name": "清水", "amount": 45, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "water" },
-    { "name": "玉米淀粉", "amount": 20, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
-    { "name": "白胡椒粉", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
-    { "name": "糖", "amount": 10, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
-    { "name": "料酒", "amount": 30, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-wine" }
+    {
+      "name": "牛肉",
+      "amount": 336,
+      "unit": "克",
+      "category": "肉类",
+      "mergeKey": "beef"
+    },
+    {
+      "name": "西兰花",
+      "amount": 454,
+      "unit": "克",
+      "category": "蔬菜",
+      "mergeKey": "broccoli"
+    },
+    {
+      "name": "胡萝卜",
+      "quantityText": "半个",
+      "category": "蔬菜",
+      "mergeKey": "carrot"
+    },
+    {
+      "name": "姜",
+      "quantityText": "1 小块",
+      "category": "蔬菜",
+      "mergeKey": "ginger"
+    },
+    {
+      "name": "小葱",
+      "quantityText": "1 根",
+      "category": "蔬菜",
+      "mergeKey": "scallion"
+    },
+    {
+      "name": "大蒜",
+      "amount": 2,
+      "unit": "瓣",
+      "category": "蔬菜",
+      "mergeKey": "garlic"
+    },
+    {
+      "name": "食用油",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "cooking-oil"
+    },
+    {
+      "name": "盐",
+      "quantityText": "1 撮",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "salt"
+    },
+    {
+      "name": "香油",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "sesame-oil"
+    },
+    {
+      "name": "小苏打",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "baking-soda"
+    },
+    {
+      "name": "蚝油",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "oyster-sauce"
+    },
+    {
+      "name": "生抽",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "soy-sauce"
+    },
+    {
+      "name": "老抽",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "dark-soy-sauce"
+    },
+    {
+      "name": "清水",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "water"
+    },
+    {
+      "name": "玉米淀粉",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "cornstarch"
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "white-pepper"
+    },
+    {
+      "name": "糖",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "sugar"
+    },
+    {
+      "name": "料酒",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "cooking-wine"
+    }
   ],
   "steps": [
-    { "text": "切牛肉：找到牛肉纹理并逆纹切，不要切得太薄，否则烹煮时容易散碎。切好后放入清水碗中抓洗，洗去血水（抓洗可加快），用漏勺沥去多余的水和血水。", "ingredientNames": ["牛肉"] },
-    { "text": "调腌料：小苏打是中式嫩肉常用手法。碗中加小苏打、蚝油、生抽、清水、玉米淀粉、白胡椒粉、糖和料酒，搅匀。", "ingredientNames": ["小苏打", "蚝油", "生抽", "清水", "玉米淀粉", "白胡椒粉", "糖", "料酒"] },
-    { "text": "腌牛肉：牛肉放入腌料中，揉抓至两面都裹满腌料，静置 30 分钟。", "ingredientNames": ["牛肉"], "timerSeconds": 1800 },
-    { "text": "备蔬菜：西兰花切成一口大小的朵，主茎单独分开便于煮熟；胡萝卜切薄片；姜切小粒，几片就够；小葱斜切成小段；大蒜剁末。", "ingredientNames": ["西兰花", "胡萝卜", "姜", "小葱", "大蒜"] },
-    { "text": "调酱汁：小碗中混合蚝油、生抽、老抽、清水、料酒、糖、玉米淀粉和白胡椒粉，搅匀。", "ingredientNames": ["蚝油", "生抽", "老抽", "清水", "料酒", "糖", "玉米淀粉", "白胡椒粉"] },
-    { "text": "焯西兰花：中锅把水烧开，加入少许油和一大撮盐，保持西兰花翠绿；下西兰花煮至你喜欢的软硬度（本菜谱约煮 2 分钟），捞出沥干；若不会马上炒，用流水冲凉。", "ingredientNames": ["西兰花", "盐", "食用油"], "timerSeconds": 120 },
-    { "text": "炒牛肉：腌好的牛肉拌入 1 汤匙食用油，锁住肉汁。炒锅烧到最高火，下 2 汤匙食用油晃开润满锅底和锅壁，倒掉多余油；转中火下牛肉，煎约 30 至 60 秒或等边缘变褐就翻面，再煎 60 至 90 秒至大部分变褐（微红没关系，之后还要和菜同炒），关火盛出。", "ingredientNames": ["牛肉", "食用油"], "timerSeconds": 60 },
-    { "text": "炒香料与蔬菜：锅内下蒜末和姜粒，炒 20 至 30 秒；下小葱段和胡萝卜片，再炒 20 至 30 秒；下西兰花，炒 30 至 40 秒；回入牛肉，全部一起炒 30 至 45 秒。西兰花很吸水，如需要可加约 1 汤匙清水。", "ingredientNames": ["大蒜", "姜", "小葱", "胡萝卜", "西兰花", "牛肉", "清水"], "timerSeconds": 30 },
-    { "text": "下酱汁收尾：倒入酱汁，持续翻炒约 1 分钟；淋入香油翻匀；最后可再补少许油裹在西兰花上，显得油亮好看，尝味调整后装盘。", "ingredientNames": ["蚝油", "生抽", "老抽", "清水", "料酒", "糖", "玉米淀粉", "白胡椒粉", "香油"], "timerSeconds": 60 }
+    {
+      "text": "切牛肉：找到牛肉纹理并逆纹切，不要切得太薄，否则烹煮时容易散碎。切好后放入清水碗中抓洗，洗去血水（抓洗可加快），用漏勺沥去多余的水和血水。",
+      "ingredientNames": [
+        "牛肉"
+      ]
+    },
+    {
+      "text": "调腌料：小苏打是中式嫩肉常用手法。碗中加小苏打、蚝油、生抽、清水、玉米淀粉、白胡椒粉、糖和料酒，搅匀。",
+      "ingredientNames": [
+        "小苏打",
+        "蚝油",
+        "生抽",
+        "清水",
+        "玉米淀粉",
+        "白胡椒粉",
+        "糖",
+        "料酒"
+      ]
+    },
+    {
+      "text": "腌牛肉：牛肉放入腌料中，揉抓至两面都裹满腌料，静置 30 分钟。",
+      "ingredientNames": [
+        "牛肉"
+      ],
+      "timerSeconds": 1800
+    },
+    {
+      "text": "备蔬菜：西兰花切成一口大小的朵，主茎单独分开便于煮熟；胡萝卜切薄片；姜切小粒，几片就够；小葱斜切成小段；大蒜剁末。",
+      "ingredientNames": [
+        "西兰花",
+        "胡萝卜",
+        "姜",
+        "小葱",
+        "大蒜"
+      ]
+    },
+    {
+      "text": "调酱汁：小碗中混合蚝油、生抽、老抽、清水、料酒、糖、玉米淀粉和白胡椒粉，搅匀。",
+      "ingredientNames": [
+        "蚝油",
+        "生抽",
+        "老抽",
+        "清水",
+        "料酒",
+        "糖",
+        "玉米淀粉",
+        "白胡椒粉"
+      ]
+    },
+    {
+      "text": "焯西兰花：中锅把水烧开，加入少许油和一大撮盐，保持西兰花翠绿；下西兰花煮至你喜欢的软硬度（本菜谱约煮 2 分钟），捞出沥干；若不会马上炒，用流水冲凉。",
+      "ingredientNames": [
+        "西兰花",
+        "盐",
+        "食用油"
+      ],
+      "timerSeconds": 120
+    },
+    {
+      "text": "炒牛肉：腌好的牛肉拌入 1 汤匙食用油，锁住肉汁。炒锅烧到最高火，下 2 汤匙食用油晃开润满锅底和锅壁，倒掉多余油；转中火下牛肉，煎约 30 至 60 秒或等边缘变褐就翻面，再煎 60 至 90 秒至大部分变褐（微红没关系，之后还要和菜同炒），关火盛出。",
+      "ingredientNames": [
+        "牛肉",
+        "食用油"
+      ],
+      "timerSeconds": 60
+    },
+    {
+      "text": "炒香料与蔬菜：锅内下蒜末和姜粒，炒 20 至 30 秒；下小葱段和胡萝卜片，再炒 20 至 30 秒；下西兰花，炒 30 至 40 秒；回入牛肉，全部一起炒 30 至 45 秒。西兰花很吸水，如需要可加约 1 汤匙清水。",
+      "ingredientNames": [
+        "大蒜",
+        "姜",
+        "小葱",
+        "胡萝卜",
+        "西兰花",
+        "牛肉",
+        "清水"
+      ],
+      "timerSeconds": 30
+    },
+    {
+      "text": "下酱汁收尾：倒入酱汁，持续翻炒约 1 分钟；淋入香油翻匀；最后可再补少许油裹在西兰花上，显得油亮好看，尝味调整后装盘。",
+      "ingredientNames": [
+        "蚝油",
+        "生抽",
+        "老抽",
+        "清水",
+        "料酒",
+        "糖",
+        "玉米淀粉",
+        "白胡椒粉",
+        "香油"
+      ],
+      "timerSeconds": 60
+    }
   ],
   "baseServings": 4,
   "durationMinutes": 45,
   "difficulty": "中等",
-  "tags": ["炒","家常菜"],
+  "tags": [
+    "炒",
+    "家常菜"
+  ],
   "sourceUrl": "https://www.madewithlau.com/recipes/beef-broccoli",
   "author": "刘老爹 / 刘家厨房",
   "fidelity": "structured-transcription",
-  "sourceNote": "食材、数量、步骤顺序与时间转录自公开来源页面及其结构化数据（页面标注备料 30 分钟、烹制 15 分钟、共 45 分钟、4 人份）。单位已换算：12 盎司约 336 克，1 磅约 454 克，1 汤匙约 15 毫升，1 茶匙约 5 毫升；“半个”胡萝卜、“1 小块”姜、“1 根”葱、“1 撮”盐按原文保留。蚝油、生抽、清水、玉米淀粉、白胡椒粉、糖、料酒等在腌料与酱汁中出现两次，本表已按同种食材合计。"
+  "sourceNote": "食材、数量、步骤顺序与时间转录自公开来源页面及其结构化数据（页面标注备料 30 分钟、烹制 15 分钟、共 45 分钟、4 人份）。单位已换算：12 盎司约 336 克，1 磅约 454 克，1 汤匙约 15 毫升，1 茶匙约 5 毫升；“半个”胡萝卜、“1 小块”姜、“1 根”葱、“1 撮”盐按原文保留。蚝油、生抽、清水、玉米淀粉、白胡椒粉、糖、料酒等在腌料与酱汁中出现两次，本表已按同种食材合计。",
+  "nutrition": {
+    "kcal": 393,
+    "proteinG": 26,
+    "carbsG": 16.9,
+    "fatG": 24.6,
+    "fiberG": 3.1,
+    "sugarG": 5.8,
+    "saturatedFatG": 6.8,
+    "sodiumMg": 1389,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.78,
+    "missingIngredientNames": [
+      "胡萝卜",
+      "姜",
+      "小葱",
+      "盐"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

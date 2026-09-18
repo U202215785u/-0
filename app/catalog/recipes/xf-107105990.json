@@ -1,0 +1,163 @@
+{
+  "id": "xf-107105990",
+  "title": "肉末茄子",
+  "ingredients": [
+    {
+      "name": "茄子",
+      "mergeKey": "eggplant",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 4,
+      "unit": "根"
+    },
+    {
+      "name": "肉末",
+      "mergeKey": "minced-pork",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 200,
+      "unit": "克"
+    },
+    {
+      "name": "小米辣",
+      "mergeKey": "chili",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 4,
+      "unit": "瓣"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "勺"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "勺"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "碗里放两勺生抽，1勺蚝油，半勺老抽，少许盐和糖，1勺淀粉，半碗水搅拌均匀，备用"
+    },
+    {
+      "text": "茄子洗净切成细条"
+    },
+    {
+      "text": "加1勺盐，腌制10分钟左右"
+    },
+    {
+      "text": "挤出水分"
+    },
+    {
+      "text": "加1勺淀粉，搅拌均匀"
+    },
+    {
+      "text": "油热放入茄子，煎至两面微黄"
+    },
+    {
+      "text": "捞出备用"
+    },
+    {
+      "text": "再放入肉末翻炒，炒至变色"
+    },
+    {
+      "text": "放入葱蒜末炒香"
+    },
+    {
+      "text": "加入1勺豆瓣酱"
+    },
+    {
+      "text": "炒出红油"
+    },
+    {
+      "text": "加入茄子翻炒"
+    },
+    {
+      "text": "倒入调好的料汁，"
+    },
+    {
+      "text": "翻炒均匀，烧至汤汁浓稠"
+    },
+    {
+      "text": "放入小米椒，葱花即可出锅"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107105990/",
+  "author": "允儿家的小食记",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 349,
+    "proteinG": 22.7,
+    "carbsG": 26,
+    "fatG": 17.1
+  }
+}

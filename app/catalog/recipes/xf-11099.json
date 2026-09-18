@@ -85,7 +85,32 @@
   "author": "格妈",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["烤","主食"],
+  "tags": [
+    "烤",
+    "主食"
+  ],
   "durationMinutes": 25,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 381,
+    "proteinG": 11.1,
+    "carbsG": 76.2,
+    "fatG": 3.5,
+    "fiberG": 2.8,
+    "sugarG": 0.5,
+    "saturatedFatG": 0.3,
+    "sodiumMg": 391,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.56,
+    "missingIngredientNames": [
+      "马苏里拉芝士",
+      "金枪鱼",
+      "番茄酱",
+      "黑橄榄"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

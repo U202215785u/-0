@@ -1,0 +1,54 @@
+{
+  "id": "xf-1001042",
+  "title": "香菇肉片",
+  "ingredients": [
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇",
+      "pantry": false
+    },
+    {
+      "name": "肉片",
+      "category": "肉类",
+      "pantry": false
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "肉片用生粉拌一下 可以加点料酒"
+    },
+    {
+      "text": "香菇切片"
+    },
+    {
+      "text": "放油"
+    },
+    {
+      "text": "炒肉片至变色"
+    },
+    {
+      "text": "放香菇，炒。不要加水。可以加几滴酱油。香菇里的水分会慢慢炒出来。"
+    },
+    {
+      "text": "加盐啊味精什么的 就可以了。超级香的 很下饭"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/1001042/",
+  "author": "脱水花花",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单"
+}

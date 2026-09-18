@@ -1,0 +1,70 @@
+{
+  "id": "xf-107701028",
+  "title": "雪菜炒肉丝",
+  "ingredients": [
+    {
+      "name": "雪菜",
+      "mergeKey": "xuecai",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "1～2颗"
+    },
+    {
+      "name": "白蘑菇",
+      "mergeKey": "mushroom",
+      "category": "菌菇",
+      "pantry": false,
+      "quantityText": "一盒230克"
+    },
+    {
+      "name": "肉丝",
+      "mergeKey": "meat",
+      "category": "肉类",
+      "pantry": false,
+      "quantityText": "300克左右"
+    },
+    {
+      "name": "糖，淀粉，料酒，油",
+      "category": "米面主食",
+      "pantry": false,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "雪菜浸泡半小时以上。"
+    },
+    {
+      "text": "雪菜切碎，蘑菇切片，肉丝用料酒，生抽，淀粉腌制15分钟。"
+    },
+    {
+      "text": "热锅加油，中火先把肉丝炒到变色。"
+    },
+    {
+      "text": "然后下蘑菇片，翻炒到蘑菇变软出水。"
+    },
+    {
+      "text": "最后加入雪菜"
+    },
+    {
+      "text": "加1-1.5小勺糖，炒匀"
+    },
+    {
+      "text": "加半碗开水。"
+    },
+    {
+      "text": "中小火焖10分钟，然后大火收汁即可。 如果要更鲜一点，可以加少许味精。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107701028/",
+  "author": "金色山茶花",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单"
+}

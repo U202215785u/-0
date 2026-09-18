@@ -182,6 +182,27 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、准备20分钟、烹调20分钟、总时长40分钟、20项配料和6段方法；保留鸡翅清洗说明、149摄氏度油温和调味步骤。",
-  "tags": ["炸"],
-  "difficulty": "中等"
+  "tags": [
+    "炸"
+  ],
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 887,
+    "proteinG": 34.8,
+    "carbsG": 25.8,
+    "fatG": 71.6,
+    "fiberG": 1.4,
+    "sugarG": 3.1,
+    "saturatedFatG": 13.5,
+    "sodiumMg": 1634,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.95,
+    "missingIngredientNames": [
+      "红辣椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；炸制用油按保留量折算（未把整锅油计入）；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

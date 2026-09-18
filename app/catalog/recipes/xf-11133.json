@@ -105,12 +105,31 @@
       "text": "倒入生抽和老抽，翻炒2分钟，最后加入一勺柱候酱搅匀即可出锅"
     }
   ],
-  "tags": ["炒","家常菜"],
+  "tags": [
+    "炒",
+    "家常菜"
+  ],
   "nutrition": {
-    "kcal": 661.9,
-    "proteinG": 92.4,
-    "carbsG": 48,
-    "fatG": 11.8
+    "kcal": 181,
+    "proteinG": 7.5,
+    "carbsG": 12.1,
+    "fatG": 11.4,
+    "fiberG": 4.1,
+    "sugarG": 2.2,
+    "saturatedFatG": 3.6,
+    "sodiumMg": 1897,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.64,
+    "missingIngredientNames": [
+      "鸡胗",
+      "/4个洋葱",
+      "杭椒",
+      "红辣椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 25,
   "difficulty": "中等"

@@ -155,12 +155,25 @@
       "text": "取出后倒扣，即可顺利脱模，冷却后放入冰箱冷藏"
     }
   ],
-  "tags": ["烤","点心"],
+  "tags": [
+    "烤",
+    "点心"
+  ],
   "nutrition": {
-    "kcal": 265.5,
-    "proteinG": 5.4,
-    "carbsG": 54.3,
-    "fatG": 3.2
+    "kcal": 556,
+    "proteinG": 12.4,
+    "carbsG": 63.5,
+    "fatG": 28.1,
+    "fiberG": 0.6,
+    "sugarG": 30.1,
+    "saturatedFatG": 4.1,
+    "sodiumMg": 238,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "medium",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 120,
   "difficulty": "中等"

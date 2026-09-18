@@ -2,36 +2,199 @@
   "id": "glass-noodle-salad",
   "title": "凉拌粉丝",
   "ingredients": [
-    { "name": "粉丝（绿豆淀粉）", "amount": 98.0, "unit": "克", "category": "米面主食", "pantry": false, "mergeKey": "glass-noodles" },
-    { "name": "胡萝卜（擦丝）", "amount": 1.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "carrot" },
-    { "name": "黄瓜（擦丝）", "quantityText": "半个", "category": "蔬菜", "pantry": false, "mergeKey": "cucumber" },
-    { "name": "红辣椒（剁碎）", "quantityText": "适量", "category": "蔬菜", "pantry": false, "mergeKey": "red-chili" },
-    { "name": "香菜（可选）", "quantityText": "可选", "category": "蔬菜", "pantry": false, "mergeKey": "cilantro" },
-    { "name": "大蒜（切末）", "amount": 3.0, "unit": "瓣", "category": "蔬菜", "pantry": false, "mergeKey": "garlic" },
-    { "name": "辣椒碎", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "chili-flakes" },
-    { "name": "熟白芝麻", "amount": 5.0, "unit": "毫升", "category": "干货", "pantry": false, "mergeKey": "sesame-seeds" },
-    { "name": "食用油（味道中性）", "amount": 22.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
-    { "name": "生抽", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
-    { "name": "黑米醋", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "chinkiang-vinegar" },
-    { "name": "香油", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
-    { "name": "糖", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
-    { "name": "盐", "amount": 1.0, "unit": "撮", "category": "调味料", "pantry": true, "mergeKey": "salt" }
+    {
+      "name": "粉丝（绿豆淀粉）",
+      "amount": 98,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": false,
+      "mergeKey": "glass-noodles"
+    },
+    {
+      "name": "胡萝卜（擦丝）",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "carrot"
+    },
+    {
+      "name": "黄瓜（擦丝）",
+      "quantityText": "半个",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "cucumber"
+    },
+    {
+      "name": "红辣椒（剁碎）",
+      "quantityText": "适量",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "red-chili"
+    },
+    {
+      "name": "香菜（可选）",
+      "quantityText": "可选",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "cilantro"
+    },
+    {
+      "name": "大蒜（切末）",
+      "amount": 3,
+      "unit": "瓣",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "garlic"
+    },
+    {
+      "name": "辣椒碎",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": false,
+      "mergeKey": "chili-flakes"
+    },
+    {
+      "name": "熟白芝麻",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "干货",
+      "pantry": false,
+      "mergeKey": "sesame-seeds"
+    },
+    {
+      "name": "食用油（味道中性）",
+      "amount": 22.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "cooking-oil"
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "soy-sauce"
+    },
+    {
+      "name": "黑米醋",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "chinkiang-vinegar"
+    },
+    {
+      "name": "香油",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "sesame-oil"
+    },
+    {
+      "name": "糖",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "sugar"
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "撮",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "salt"
+    }
   ],
   "steps": [
-    { "text": "粉丝用冷水浸泡 10 分钟（或热水 5 分钟）至变软，用剪刀剪短。", "timerSeconds": 600, "ingredientNames": ["粉丝（绿豆淀粉）"] },
-    { "text": "锅中烧足量水，放入沥干的粉丝煮约 2 分半钟，至能用指甲掐断但仍带脆感。", "timerSeconds": 150, "ingredientNames": ["粉丝（绿豆淀粉）"] },
-    { "text": "捞出放入冷水过凉（有冰水更佳），充分沥干后备用。", "ingredientNames": ["粉丝（绿豆淀粉）"] },
-    { "text": "蒜末、辣椒碎和熟白芝麻放入小碗，油烧热后淋在上面，可见剧烈冒泡，立即搅拌使其受热均匀。", "ingredientNames": ["大蒜（切末）", "辣椒碎", "熟白芝麻", "食用油（味道中性）"] },
-    { "text": "拌匀后加入生抽、黑米醋、香油、盐和糖，混合均匀。", "ingredientNames": ["生抽", "黑米醋", "香油", "盐", "糖"] },
-    { "text": "粉丝、胡萝卜、黄瓜、鲜辣椒和香菜（若用）放入大碗，淋入调好的酱汁，充分拌匀后装盘享用。", "ingredientNames": ["粉丝（绿豆淀粉）", "胡萝卜（擦丝）", "黄瓜（擦丝）", "红辣椒（剁碎）", "香菜（可选）"] }
+    {
+      "text": "粉丝用冷水浸泡 10 分钟（或热水 5 分钟）至变软，用剪刀剪短。",
+      "timerSeconds": 600,
+      "ingredientNames": [
+        "粉丝（绿豆淀粉）"
+      ]
+    },
+    {
+      "text": "锅中烧足量水，放入沥干的粉丝煮约 2 分半钟，至能用指甲掐断但仍带脆感。",
+      "timerSeconds": 150,
+      "ingredientNames": [
+        "粉丝（绿豆淀粉）"
+      ]
+    },
+    {
+      "text": "捞出放入冷水过凉（有冰水更佳），充分沥干后备用。",
+      "ingredientNames": [
+        "粉丝（绿豆淀粉）"
+      ]
+    },
+    {
+      "text": "蒜末、辣椒碎和熟白芝麻放入小碗，油烧热后淋在上面，可见剧烈冒泡，立即搅拌使其受热均匀。",
+      "ingredientNames": [
+        "大蒜（切末）",
+        "辣椒碎",
+        "熟白芝麻",
+        "食用油（味道中性）"
+      ]
+    },
+    {
+      "text": "拌匀后加入生抽、黑米醋、香油、盐和糖，混合均匀。",
+      "ingredientNames": [
+        "生抽",
+        "黑米醋",
+        "香油",
+        "盐",
+        "糖"
+      ]
+    },
+    {
+      "text": "粉丝、胡萝卜、黄瓜、鲜辣椒和香菜（若用）放入大碗，淋入调好的酱汁，充分拌匀后装盘享用。",
+      "ingredientNames": [
+        "粉丝（绿豆淀粉）",
+        "胡萝卜（擦丝）",
+        "黄瓜（擦丝）",
+        "红辣椒（剁碎）",
+        "香菜（可选）"
+      ]
+    }
   ],
   "baseServings": 2,
   "durationMinutes": 13,
   "difficulty": "简单",
-  "tags": ["凉拌","家常菜","快手菜","素菜"],
+  "tags": [
+    "凉拌",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
   "sourceUrl": "https://redhousespice.com/glass-noodle-salad/",
   "author": "Wei Guo",
   "fidelity": "verbatim-public",
   "sourceNote": "转录自红屋香料（魏国）公开菜谱页「凉拌粉丝」菜谱卡原文（备料 10 分钟、烹饪 3 分钟、合计 13 分钟，供 2 人食用，每份约 323 千卡，含碳水 51 克、蛋白 3 克、脂肪 12 克），并翻译为简体中文。单位换算：3.5 盎司≈98 克；1 汤匙≈15 毫升；1 茶匙≈5 毫升；黄瓜按原文「半个」、辣椒按「适量」、香菜按「可选」保留原文表述。原文注：粉丝为绿豆淀粉制品，可用红薯粉条替代；无麸质做法以无麸质酱油替代生抽、以青柠汁替代黑米醋；步骤计时（浸泡 10 分钟、煮约 2 分半钟）取自原文。",
-  "nutrition": { "kcal": 323, "proteinG": 3, "carbsG": 51, "fatG": 12 }
+  "nutrition": {
+    "kcal": 318,
+    "proteinG": 6.9,
+    "carbsG": 39.7,
+    "fatG": 14.6,
+    "fiberG": 3.3,
+    "sugarG": 5.2,
+    "saturatedFatG": 1.9,
+    "sodiumMg": 809,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.79,
+    "missingIngredientNames": [
+      "黄瓜（擦丝）",
+      "红辣椒（剁碎）",
+      "香菜（可选）"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

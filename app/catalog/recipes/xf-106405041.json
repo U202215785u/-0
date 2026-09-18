@@ -1,0 +1,128 @@
+{
+  "id": "xf-106405041",
+  "title": "玉米排骨汤",
+  "ingredients": [
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 500,
+      "unit": "克"
+    },
+    {
+      "name": "甜玉米",
+      "mergeKey": "corn",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "勺"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 6,
+      "unit": "片"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "克"
+    },
+    {
+      "name": "小葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 0.5,
+      "unit": "根"
+    }
+  ],
+  "steps": [
+    {
+      "text": "排骨让店家剁成寸段，在清水中浸泡半个小时，将血水泡出，期间换两三次水"
+    },
+    {
+      "text": "将泡过水的排骨，冲洗干净"
+    },
+    {
+      "text": "将排骨放入凉水中，加入姜片、葱段、料酒，开火焯水"
+    },
+    {
+      "text": "水开后，上面一层浮末，将排骨捞出"
+    },
+    {
+      "text": "经过浸泡和焯水，排骨已经很干净了，这样煲出来的汤汁，就不会有腥味和杂质啦"
+    },
+    {
+      "text": "锅里放入清水，将排骨和姜片放入，盖上锅盖，大火烧开，转小火炖四十分钟左右"
+    },
+    {
+      "text": "炖排骨的时候，将玉米切小段，红萝卜切小块备用"
+    },
+    {
+      "text": "四十分钟后，汤汁已经变白，香味也飘散出来啦"
+    },
+    {
+      "text": "将玉米和红萝卜放入，盖上锅盖，继续炖30分钟左右"
+    },
+    {
+      "text": "半个小时后，玉米和红萝卜都已经成熟，放入盐、白胡椒粉调味"
+    },
+    {
+      "text": "撒点小葱，就可以大碗喝汤、大口吃肉啦～"
+    },
+    {
+      "text": "鲜香味美、汤香肉烂，幸福感爆棚啦～"
+    },
+    {
+      "text": "排骨的肉香和玉米的清香，在唇齿间弥漫开来～"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/106405041/",
+  "author": "籽酱妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "汤羹"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 811,
+    "proteinG": 45.1,
+    "carbsG": 25,
+    "fatG": 59
+  }
+}

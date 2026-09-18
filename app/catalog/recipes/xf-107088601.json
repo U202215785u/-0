@@ -1,0 +1,159 @@
+{
+  "id": "xf-107088601",
+  "title": "干锅虾",
+  "ingredients": [
+    {
+      "name": "虾",
+      "mergeKey": "shrimp",
+      "category": "水产",
+      "pantry": false,
+      "amount": 500,
+      "unit": "克"
+    },
+    {
+      "name": "藕",
+      "mergeKey": "lotus-root",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "把"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 0.5,
+      "unit": "个"
+    },
+    {
+      "name": "玉米（可不用，喜欢就加）",
+      "category": "米面主食",
+      "pantry": false,
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "黄瓜（可不用，喜欢就加）",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "scallion-ginger-garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "干锅酱/火锅底料",
+      "category": "其他",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "白芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "小米椒（怕辣不用）",
+      "category": "米面主食",
+      "pantry": false,
+      "quantityText": "2-3根"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "（1）虾准备好，剪去虾刀、手脚等，开背去虾线，这里分享一个洗虾的小技巧：用面粉、盐泡洗虾会干净很多； （2）莲藕、土豆切块，晾干水，裹上玉米淀粉备用； （3）姜葱蒜、小米椒准备好；"
+    },
+    {
+      "text": "（4）起油锅，先煎莲藕和土豆块；（当然也可以水煮熟，放玉米的话可以用水煮熟） （5）然后再煎虾；"
+    },
+    {
+      "text": "（6）起油锅，加葱姜蒜、花椒、干锅酱、小米椒（怕辣可不用）炒香，再把虾和莲藕土豆、玉米倒入翻炒；这个时候也可以加入黄瓜条； （7）翻炒一会儿后，加入增香的芹菜、洋葱继续翻炒； （8）可加少许盐、鸡精、生抽调味，口味视干锅酱的咸度而定，也可不加，这步可以省去； （9）出锅前撒上白芝麻、香菜，就好了～"
+    },
+    {
+      "text": "很香～"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107088601/",
+  "author": "七月姐姐家的小厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 23,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 319,
+    "proteinG": 54.4,
+    "carbsG": 18.2,
+    "fatG": 3.1
+  }
+}

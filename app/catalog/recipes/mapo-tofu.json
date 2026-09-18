@@ -4,7 +4,7 @@
   "ingredients": [
     {
       "name": "北豆腐（嫩或中硬度）",
-      "amount": 600.0,
+      "amount": 600,
       "unit": "克",
       "category": "豆制品",
       "pantry": false,
@@ -12,7 +12,7 @@
     },
     {
       "name": "盐",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "茶匙",
       "category": "调味料",
       "pantry": true,
@@ -20,7 +20,7 @@
     },
     {
       "name": "食用油",
-      "amount": 2.0,
+      "amount": 2,
       "unit": "汤匙",
       "category": "调味料",
       "pantry": true,
@@ -28,7 +28,7 @@
     },
     {
       "name": "牛肉末（或猪肉末）",
-      "amount": 100.0,
+      "amount": 100,
       "unit": "克",
       "category": "肉类",
       "pantry": false,
@@ -36,7 +36,7 @@
     },
     {
       "name": "姜",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "茶匙",
       "category": "蔬菜",
       "pantry": false,
@@ -44,7 +44,7 @@
     },
     {
       "name": "四川辣豆瓣酱（郫县豆瓣）",
-      "amount": 2.0,
+      "amount": 2,
       "unit": "汤匙",
       "category": "调味料",
       "pantry": false,
@@ -52,7 +52,7 @@
     },
     {
       "name": "豆豉",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "汤匙",
       "category": "豆制品",
       "pantry": false,
@@ -60,7 +60,7 @@
     },
     {
       "name": "辣椒粉",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "汤匙",
       "category": "调味料",
       "pantry": false,
@@ -68,7 +68,7 @@
     },
     {
       "name": "大蒜",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "汤匙",
       "category": "蔬菜",
       "pantry": false,
@@ -76,7 +76,7 @@
     },
     {
       "name": "绍兴料酒",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "汤匙",
       "category": "调味料",
       "pantry": true,
@@ -84,7 +84,7 @@
     },
     {
       "name": "清水",
-      "amount": 400.0,
+      "amount": 400,
       "unit": "毫升",
       "category": "其他",
       "pantry": false,
@@ -92,7 +92,7 @@
     },
     {
       "name": "玉米淀粉",
-      "amount": 2.0,
+      "amount": 2,
       "unit": "汤匙",
       "category": "调味料",
       "pantry": true,
@@ -108,7 +108,7 @@
     },
     {
       "name": "小葱",
-      "amount": 1.0,
+      "amount": 1,
       "unit": "根",
       "category": "蔬菜",
       "pantry": false,
@@ -119,43 +119,78 @@
     {
       "text": "将北豆腐切成约2.5厘米见方的小块，轻轻滑入盛水的锅中，加盐，水烧开后小火煮1分钟，捞出沥干备用。",
       "timerSeconds": 60,
-      "ingredientNames": ["北豆腐（嫩或中硬度）", "盐"]
+      "ingredientNames": [
+        "北豆腐（嫩或中硬度）",
+        "盐"
+      ]
     },
     {
       "text": "空锅烧热后倒入油，放入牛肉末（或猪肉末）和姜，大火翻炒至肉色变浅。",
-      "ingredientNames": ["食用油", "牛肉末（或猪肉末）", "姜"]
+      "ingredientNames": [
+        "食用油",
+        "牛肉末（或猪肉末）",
+        "姜"
+      ]
     },
     {
       "text": "加入四川辣豆瓣酱（郫县豆瓣）、豆豉、辣椒粉和大蒜，炒出香味。",
-      "ingredientNames": ["四川辣豆瓣酱（郫县豆瓣）", "豆豉", "辣椒粉", "大蒜"]
+      "ingredientNames": [
+        "四川辣豆瓣酱（郫县豆瓣）",
+        "豆豉",
+        "辣椒粉",
+        "大蒜"
+      ]
     },
     {
       "text": "倒入绍兴料酒和400毫升清水（或无盐高汤），煮开后轻轻滑入豆腐，不盖锅盖煮约5分钟。",
       "timerSeconds": 300,
-      "ingredientNames": ["绍兴料酒", "清水", "北豆腐（嫩或中硬度）"]
+      "ingredientNames": [
+        "绍兴料酒",
+        "清水",
+        "北豆腐（嫩或中硬度）"
+      ]
     },
     {
       "text": "转中火，先倒入一半调匀的水淀粉（玉米淀粉加3汤匙水调成），煮约10秒，再倒入剩下的一半。",
       "timerSeconds": 10,
-      "ingredientNames": ["玉米淀粉"]
+      "ingredientNames": [
+        "玉米淀粉"
+      ]
     },
     {
       "text": "待酱汁浓稠到能挂住锅铲时，加入花椒粉和葱花，轻轻拌匀后立即关火。趁热配白米饭食用。",
-      "ingredientNames": ["花椒粉", "小葱"]
+      "ingredientNames": [
+        "花椒粉",
+        "小葱"
+      ]
     }
   ],
   "baseServings": 2,
   "durationMinutes": 20,
   "difficulty": "中等",
-  "tags": ["烧焖","家常菜","快手菜"],
+  "tags": [
+    "烧焖",
+    "家常菜",
+    "快手菜"
+  ],
   "sourceUrl": "https://redhousespice.com/mapo-tofu-authentic-way/",
   "author": "Wei Guo / Red House Spice",
   "fidelity": "verbatim-public",
   "sourceNote": "转录自红房子中菜网公开菜谱页（二〇二三年十二月抓取存档）。原文备料八分钟、烹饪十二分钟，合计二十分钟；一茶匙约五毫升、一汤匙约十五毫升；步骤计时均按原文标注，未经编造。",
   "nutrition": {
-    "kcal": 584,
-    "proteinG": 40,
-    "carbsG": 16,
-    "fatG": 40
+    "kcal": 677,
+    "proteinG": 40.3,
+    "carbsG": 31.1,
+    "fatG": 43.5,
+    "fiberG": 2.2,
+    "sugarG": 3.9,
+    "saturatedFatG": 8.1,
+    "sodiumMg": 2639,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   }
 }

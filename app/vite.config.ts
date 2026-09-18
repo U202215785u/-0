@@ -8,6 +8,11 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
+      workbox: {
+        // 静态菜谱库（1108 道）打包后约 2.45 MB，超过 workbox 默认 2 MiB 预缓存上限；
+        // 这是离线模式必须预缓存的静态数据，提高上限以正常离线使用。
+        maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
+      },
       manifest: {
         name: '家宴',
         short_name: '家宴',

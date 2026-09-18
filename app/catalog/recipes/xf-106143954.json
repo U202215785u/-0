@@ -89,7 +89,34 @@
   "author": "小鹏自己保存菜谱",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
-  "tags": ["烧焖","家常菜","快手菜"],
+  "tags": [
+    "烧焖",
+    "家常菜",
+    "快手菜"
+  ],
   "durationMinutes": 25,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 47,
+    "proteinG": 1.4,
+    "carbsG": 10.1,
+    "fatG": 0.1,
+    "fiberG": 0,
+    "sugarG": 0.1,
+    "saturatedFatG": 0,
+    "sodiumMg": 4727,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.44,
+    "missingIngredientNames": [
+      "尖椒",
+      "干豆腐",
+      "一点葱姜沫",
+      "一点蒜沫",
+      "一点糖"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算5 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

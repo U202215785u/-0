@@ -1,0 +1,144 @@
+{
+  "id": "xf-100383358",
+  "title": "茭白炒肉",
+  "ingredients": [
+    {
+      "name": "茭白",
+      "mergeKey": "water-bamboo",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 500,
+      "unit": "克"
+    },
+    {
+      "name": "里脊肉",
+      "mergeKey": "pork",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 400,
+      "unit": "克"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true,
+      "amount": 3,
+      "unit": "克"
+    },
+    {
+      "name": "葱白",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 3,
+      "unit": "克"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "amount": 20,
+      "unit": "克"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 3,
+      "unit": "克"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 5,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "text": "茭白洗净切片，葱白切小段，干辣椒折断。"
+    },
+    {
+      "text": "用料酒，盐，老抽，糖，白胡椒粉，水淀粉，把肉抓匀，腌制十五分钟。"
+    },
+    {
+      "text": "热锅热油，先炒里脊肉。"
+    },
+    {
+      "text": "待肉烧至六七成熟，加入茭白，干辣椒，葱，姜。"
+    },
+    {
+      "text": "茭白放进去后，不要加水，让茭白自然出水。加盐，鸡精。出锅前点一些香油，用水淀粉勾芡。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100383358/",
+  "author": "青丘有狐",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 387,
+    "proteinG": 42.7,
+    "carbsG": 14.1,
+    "fatG": 17.8
+  }
+}

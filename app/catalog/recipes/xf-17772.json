@@ -1,0 +1,110 @@
+{
+  "id": "xf-17772",
+  "title": "木耳炒肉",
+  "ingredients": [
+    {
+      "name": "猪里脊肉",
+      "mergeKey": "pork",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 100,
+      "unit": "克"
+    },
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇",
+      "pantry": true,
+      "quantityText": "10余朵"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "段"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 3,
+      "unit": "ml"
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 5,
+      "unit": "ml"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1.2,
+      "unit": "克"
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪里脊肉切薄片，加生抽、料酒、水淀粉腌制十几分钟"
+    },
+    {
+      "text": "木耳用温水泡软，摘去根部，洗净，撕成小朵备用"
+    },
+    {
+      "text": "葱切斜段，姜切末"
+    },
+    {
+      "text": "锅中放油，油热后放入姜末，放入肉片炒至变色盛出备用"
+    },
+    {
+      "text": "锅中放油，油热后放入葱段、木耳、生抽翻炒两分钟，放入肉片翻炒均匀，烹点醋，加盐、鸡精调味即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/17772/",
+  "author": "summer的家",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 89,
+    "proteinG": 11.2,
+    "carbsG": 2,
+    "fatG": 4
+  }
+}

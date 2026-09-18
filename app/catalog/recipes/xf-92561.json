@@ -1,0 +1,79 @@
+{
+  "id": "xf-92561",
+  "title": "腐竹炒木耳",
+  "ingredients": [
+    {
+      "name": "水发黑木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇",
+      "pantry": false,
+      "amount": 3,
+      "unit": "朵"
+    },
+    {
+      "name": "腐竹",
+      "mergeKey": "tofu-skin",
+      "category": "豆制品",
+      "pantry": true,
+      "quantityText": "3-4根"
+    },
+    {
+      "name": "青蒜",
+      "mergeKey": "garlic-sprout",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "根"
+    },
+    {
+      "name": "红萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "少许"
+    }
+  ],
+  "steps": [
+    {
+      "text": "腐竹用温水泡发然后切成细丝；黑木耳和红萝卜也切细丝"
+    },
+    {
+      "text": "青蒜和芹菜切寸断待用"
+    },
+    {
+      "text": "烧开水，放入黑木耳和腐竹焯烫（看水再次开了就可以了），然后过凉"
+    },
+    {
+      "text": "锅内入油，放入青蒜白爆香，加入腐竹、黑木耳和红萝卜翻炒2分钟左右"
+    },
+    {
+      "text": "淋入少许鱼露，撒入芹菜青蒜段翻炒均匀，淋点香油即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/92561/",
+  "author": "舞之灵",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 16,
+    "proteinG": 0.7,
+    "carbsG": 2.9,
+    "fatG": 0.2
+  }
+}

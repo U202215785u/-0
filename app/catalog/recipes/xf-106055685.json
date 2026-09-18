@@ -1,0 +1,87 @@
+{
+  "id": "xf-106055685",
+  "title": "荷兰豆炒腊肠",
+  "ingredients": [
+    {
+      "name": "荷兰豆",
+      "mergeKey": "snow-pea",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 150,
+      "unit": "克"
+    },
+    {
+      "name": "广式腊肠",
+      "mergeKey": "chinese-sausage",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "茶匙"
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "茶匙"
+    },
+    {
+      "name": "猪油",
+      "mergeKey": "lard",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 4,
+      "unit": "瓣"
+    }
+  ],
+  "steps": [
+    {
+      "text": "1.1 蒜瓣切片 1.2 腊肠斜切薄片，不要厚于荷兰豆 1.3 荷兰豆去茎洗净"
+    },
+    {
+      "text": "锅内加水、半茶匙盐还有少许油，烧开后加入荷兰豆焯水一分钟，捞出备用。"
+    },
+    {
+      "text": "锅内下猪油，蒜片小火煸香。"
+    },
+    {
+      "text": "接着加入腊肠煸至脂肪透明"
+    },
+    {
+      "text": "倒入荷兰豆，半茶匙盐，半茶匙鸡粉，转大火，翻炒大约一分钟即可出锅。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/106055685/",
+  "author": "广潮客私厨记",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 166,
+    "proteinG": 7.9,
+    "carbsG": 10.7,
+    "fatG": 10.2
+  }
+}

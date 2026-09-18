@@ -68,12 +68,24 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验 Bon Appetit 公开的4至6人份、署名作者、3项主配料和4段方法；页面未公开总时长，未填 durationMinutes，烤箱华氏温度按页面公开数值换算为摄氏度。",
   "nutrition": {
-    "kcal": 1525.4,
-    "proteinG": 282.3,
-    "carbsG": 4.3,
-    "fatG": 33.4
+    "kcal": 1674,
+    "proteinG": 172.6,
+    "carbsG": 0,
+    "fatG": 109.3,
+    "fiberG": 0,
+    "sugarG": 0,
+    "saturatedFatG": 39,
+    "sodiumMg": 3863,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "medium",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤"],
+  "tags": [
+    "烤"
+  ],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

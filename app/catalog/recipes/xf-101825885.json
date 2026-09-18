@@ -1,0 +1,40 @@
+{
+  "id": "xf-101825885",
+  "title": "醋溜土豆丝",
+  "ingredients": [
+    {
+      "name": "土豆二个约八两",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "米醋二小勺"
+    },
+    {
+      "name": "红、绿辣椒各一小段",
+      "category": "蔬菜",
+      "pantry": false
+    }
+  ],
+  "steps": [
+    {
+      "text": "土豆去皮切丝"
+    },
+    {
+      "text": "红、绿辣椒切丝备用"
+    },
+    {
+      "text": "烧锅放入生油热至七成后倒入土豆丝翻炒，加入适量的盐慢慢炒，待土豆丝炒至五成熟慢慢加入米醋，边炒边慢慢加米醋。炒至九成熟时加入红、绿辣椒拌匀即可出锅。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/101825885/",
+  "author": "红叶子儿",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 21,
+  "difficulty": "简单"
+}

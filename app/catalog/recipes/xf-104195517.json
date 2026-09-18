@@ -1,0 +1,96 @@
+{
+  "id": "xf-104195517",
+  "title": "黄焖鸡",
+  "ingredients": [
+    {
+      "name": "鸡腿肉（也可以放鸡翅，我觉得是“🐔鸡块儿”都行😂）",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 4,
+      "unit": "只"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇",
+      "pantry": false,
+      "quantityText": "6~8朵"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "青椒 彩椒",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "葱姜蒜花椒（麻椒 干辣椒🌶️也可以放）",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "若干"
+    },
+    {
+      "name": "酱汁（1勺老抽 2勺生抽2勺料酒 1勺蚝油 1勺糖 一勺黄豆酱或甜面酱）",
+      "category": "水产",
+      "pantry": false,
+      "quantityText": "一勺大约20克"
+    },
+    {
+      "name": "用于腌制鸡块的酱汁（2勺生抽 2勺料酒 半勺白酒 半勺盐 2勺淀粉）",
+      "category": "肉类",
+      "pantry": false,
+      "quantityText": "一勺大约20克"
+    }
+  ],
+  "steps": [
+    {
+      "text": "蔬菜切块，葱姜蒜等备用，酱汁调好（可参考用料栏^_^）"
+    },
+    {
+      "text": "鸡块用腌制酱汁（可参考用料栏^_^）至少半个小时以上哦～时间久一点，会更入味儿！"
+    },
+    {
+      "text": "锅中放少许油，放入少量（5 6块）冰糖，炒至全部融化，冒泡，呈焦糖色时，倒入腌制好的鸡块！"
+    },
+    {
+      "text": "快速翻炒后，倒入葱姜蒜 花椒等炒香后，再放入香菇翻炒片刻。"
+    },
+    {
+      "text": "倒入酱汁，加入没过鸡块的水或高汤，全部盛入砂锅中煮（一般锅也可以），大火烧开，转至小火慢炖。"
+    },
+    {
+      "text": "小火焖至15分钟左右倒入土豆，继续慢炖。"
+    },
+    {
+      "text": "再过15分钟左右，加入彩椒，然后大火收汁即可！"
+    },
+    {
+      "text": "配上米饭，香～～～😋"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/104195517/",
+  "author": "安大眼儿",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 289,
+    "proteinG": 20.1,
+    "carbsG": 25.5,
+    "fatG": 11.9
+  }
+}

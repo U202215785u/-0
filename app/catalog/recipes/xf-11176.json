@@ -84,12 +84,32 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 296,
-    "proteinG": 49.7,
-    "carbsG": 8.9,
-    "fatG": 7.2
+    "kcal": 482,
+    "proteinG": 60.4,
+    "carbsG": 4.8,
+    "fatG": 24.6,
+    "fiberG": 0,
+    "sugarG": 1.5,
+    "saturatedFatG": 11,
+    "sodiumMg": 878,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.44,
+    "missingIngredientNames": [
+      "芝士粉",
+      "洋葱",
+      "面包糠",
+      "黄油",
+      "红甜椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算5 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤","快手菜"],
+  "tags": [
+    "烤",
+    "快手菜"
+  ],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

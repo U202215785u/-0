@@ -29,7 +29,28 @@
   "author": "臻妈美食厨房",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["烤"],
+  "tags": [
+    "烤"
+  ],
   "durationMinutes": 10,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 197,
+    "proteinG": 6.5,
+    "carbsG": 1,
+    "fatG": 18.5,
+    "fiberG": 0,
+    "sugarG": 0,
+    "saturatedFatG": 7,
+    "sodiumMg": 750,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.5,
+    "missingIngredientNames": [
+      "杏脯肉"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

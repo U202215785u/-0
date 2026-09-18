@@ -92,6 +92,21 @@ describe('RecipeDetail', () => {
     expect(screen.queryByText('暂无估算')).not.toBeInTheDocument()
   })
 
+  it('shows per-serving basis, expanded nutrients, coverage and missing ingredients', () => {
+    render(<RecipeDetail recipe={{ ...recipe, nutrition: {
+      kcal: 320, proteinG: 18, carbsG: 36, fatG: 12, fiberG: 3, sugarG: 4, saturatedFatG: 2, sodiumMg: 600,
+      basis: 'per-serving', source: 'estimated', confidence: 'low', quantityCoverage: 0.75,
+      missingIngredientNames: ['葱', '姜'], calculationVersion: 'fooddb-2026-09-18', note: '结果为下限。',
+    } }} />)
+    expect(screen.getByText(/每份/)).toBeInTheDocument()
+    expect(screen.getByText(/离线食材数据库估算/)).toBeInTheDocument()
+    expect(screen.getByText(/份量覆盖 75%/)).toBeInTheDocument()
+    expect(screen.getByText(/未计入：葱、姜/)).toBeInTheDocument()
+    expect(screen.getByText('3 克')).toBeInTheDocument() // 膳食纤维
+    expect(screen.getByText('600 毫克')).toBeInTheDocument()
+    expect(screen.getByText('结果为下限。')).toBeInTheDocument()
+  })
+
   it('links the cook action with the current servings', () => {
     render(<RecipeDetail recipe={recipe} />)
     expect(screen.getByRole('link', { name: '开始烹饪' })).toHaveAttribute('href', '#/recipes/r1/cook?servings=2')

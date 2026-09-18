@@ -98,12 +98,29 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 243.9,
-    "proteinG": 9.7,
-    "carbsG": 37.9,
-    "fatG": 6.4
+    "kcal": 626,
+    "proteinG": 12.6,
+    "carbsG": 85.3,
+    "fatG": 26,
+    "fiberG": 6.3,
+    "sugarG": 39.5,
+    "saturatedFatG": 14.3,
+    "sodiumMg": 614,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.78,
+    "missingIngredientNames": [
+      "盐",
+      "白兰地"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤","点心"],
+  "tags": [
+    "烤",
+    "点心"
+  ],
   "durationMinutes": 35,
   "difficulty": "中等"
 }

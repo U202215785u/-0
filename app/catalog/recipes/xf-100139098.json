@@ -1,0 +1,116 @@
+{
+  "id": "xf-100139098",
+  "title": "回锅肉",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 200,
+      "unit": "克"
+    },
+    {
+      "name": "青蒜",
+      "mergeKey": "garlic-sprout",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "棵"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "20粒左右"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "7、8片"
+    },
+    {
+      "name": "郫县豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "大勺"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "大勺"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "大勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "小勺"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "大勺"
+    }
+  ],
+  "steps": [
+    {
+      "text": "先将肉入冷水锅，放入姜片，到一大勺料酒，大火将水烧开，然后转中火，煮半小时左右。"
+    },
+    {
+      "text": "等到用筷子戳进去能扎得透，且没有血水流出，即可关火。"
+    },
+    {
+      "text": "将煮好的肉晾凉，切成薄片，这里是考验刀工的地方啦，太薄了，一炒就碎，太厚了，炒不出灯盏窝儿。（可以放到冷冻室里急冻个五分钟，这样比较好切）"
+    },
+    {
+      "text": "将青蒜斜刀切成寸长段。"
+    },
+    {
+      "text": "炒锅倒油，大火将锅烧热，将切好的肉片下锅，翻炒至肉片卷曲，肥肉透明最好，这样猪肉的油都被炒出来了，吃起来不腻。"
+    },
+    {
+      "text": "然后把肉推动锅的一边，倒入花椒粒，豆瓣酱翻炒，等看到油的颜色变红，就可以把肉扒拉过来炒匀了。"
+    },
+    {
+      "text": "倒入青蒜，料酒、盐、糖、生抽，翻炒均匀即可。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100139098/",
+  "author": "下厨房用户_geqhb",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 584,
+    "proteinG": 12.2,
+    "carbsG": 11.8,
+    "fatG": 54.2
+  }
+}

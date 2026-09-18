@@ -72,12 +72,28 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 133.4,
-    "proteinG": 5.5,
-    "carbsG": 19.8,
-    "fatG": 3.2
+    "kcal": 89,
+    "proteinG": 1,
+    "carbsG": 13.1,
+    "fatG": 3.6,
+    "fiberG": 0.3,
+    "sugarG": 11.8,
+    "saturatedFatG": 0.5,
+    "sodiumMg": 669,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.86,
+    "missingIngredientNames": [
+      "海蜇丝"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["凉拌","快手菜"],
+  "tags": [
+    "凉拌",
+    "快手菜"
+  ],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

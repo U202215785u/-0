@@ -88,12 +88,29 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 237.6,
-    "proteinG": 4.2,
-    "carbsG": 49.5,
-    "fatG": 2.6
+    "kcal": 545,
+    "proteinG": 10,
+    "carbsG": 69.9,
+    "fatG": 25,
+    "fiberG": 6.2,
+    "sugarG": 47,
+    "saturatedFatG": 2.4,
+    "sodiumMg": 55,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.78,
+    "missingIngredientNames": [
+      "薏仁",
+      "黑豆"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","主食"],
+  "tags": [
+    "煮",
+    "主食"
+  ],
   "durationMinutes": 10,
   "difficulty": "中等"
 }

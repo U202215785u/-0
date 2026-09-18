@@ -86,12 +86,33 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
   "nutrition": {
-    "kcal": 330,
-    "proteinG": 61,
-    "carbsG": 6,
-    "fatG": 7.7
+    "kcal": 25,
+    "proteinG": 1.9,
+    "carbsG": 2.6,
+    "fatG": 0.8,
+    "fiberG": 0,
+    "sugarG": 0.4,
+    "saturatedFatG": 0,
+    "sodiumMg": 1036,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.25,
+    "missingIngredientNames": [
+      "大蒜",
+      "生姜",
+      "—小把小葱",
+      "适当糖",
+      "适当菜籽油",
+      "红辣椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算6 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烧焖","家常菜"],
+  "tags": [
+    "烧焖",
+    "家常菜"
+  ],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

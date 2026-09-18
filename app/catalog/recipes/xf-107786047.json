@@ -1,0 +1,88 @@
+{
+  "id": "xf-107786047",
+  "title": "青椒炒杏鲍菇",
+  "ingredients": [
+    {
+      "name": "杏鲍菇",
+      "mergeKey": "king-oyster-mushroom",
+      "category": "菌菇",
+      "pantry": false
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜",
+      "pantry": false
+    }
+  ],
+  "steps": [
+    {
+      "text": "杏鲍菇先切成片，后切成粗粗的细丝。"
+    },
+    {
+      "text": "水开后倒入杏鲍菇焯水。"
+    },
+    {
+      "text": "再放入胡萝卜丝，一起焯烫两分钟。捞出备用。"
+    },
+    {
+      "text": "起锅烧油。油热放蒜末、小米辣，一勺干锅酱，煸炒出香味。"
+    },
+    {
+      "text": "倒入焯好水的杏鲍菇，胡萝卜丝，青椒丝。"
+    },
+    {
+      "text": "调味：生抽，老抽，蚝油，盐，鸡精。大火翻炒均匀。"
+    },
+    {
+      "text": "美味的杏鲍菇出锅了，香辣开胃太好吃了。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107786047/",
+  "author": "辰诺妈妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "简单"
+}

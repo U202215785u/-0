@@ -1,0 +1,79 @@
+{
+  "id": "xf-106018242",
+  "title": "青椒炒蛋",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "青椒切开去芯斜刀切丝。"
+    },
+    {
+      "text": "热油下入搅拌好鸡蛋用筷子快速炒散。"
+    },
+    {
+      "text": "炒半熟出锅备用。"
+    },
+    {
+      "text": "不用洗锅。加入油。下蒜。倒入青椒。加盐炒变色。"
+    },
+    {
+      "text": "加入鸡蛋。炒匀加点水。蚝油。生抽。出锅"
+    },
+    {
+      "text": "下饭。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/106018242/",
+  "author": "里恩的遇见",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单"
+}

@@ -152,12 +152,30 @@
       "text": "表面用打发的奶油和车厘子装饰"
     }
   ],
-  "tags": ["点心"],
+  "tags": [
+    "点心"
+  ],
   "nutrition": {
-    "kcal": 155.4,
-    "proteinG": 7.3,
-    "carbsG": 22,
-    "fatG": 3.9
+    "kcal": 600,
+    "proteinG": 12.3,
+    "carbsG": 26.4,
+    "fatG": 49.5,
+    "fiberG": 0.3,
+    "sugarG": 18.6,
+    "saturatedFatG": 29.7,
+    "sodiumMg": 150,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.67,
+    "missingIngredientNames": [
+      "车厘子",
+      "根据巧克力甜度糖",
+      "可可戚风蛋糕片",
+      "打发的雀巢淡奶油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 100,
   "difficulty": "中等"

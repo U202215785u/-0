@@ -1,0 +1,164 @@
+{
+  "id": "xf-102333700",
+  "title": "红烧豆腐",
+  "ingredients": [
+    {
+      "name": "嫩豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品",
+      "pantry": false,
+      "amount": 3,
+      "unit": "块"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "小半个"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "几瓣"
+    },
+    {
+      "name": "小米椒",
+      "mergeKey": "chili",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "几个"
+    },
+    {
+      "name": "小葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "根"
+    },
+    {
+      "name": "豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "两汤勺"
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "一汤勺"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "看情况加"
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "啤酒",
+      "mergeKey": "beer",
+      "category": "其他",
+      "pantry": false,
+      "quantityText": "两汤勺"
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "少许"
+    }
+  ],
+  "steps": [
+    {
+      "text": "嫩豆腐切块.. 大小伱随意..！ 也可以用老豆腐. 只要伱喜欢. 所以. 伱喜不喜欢吃豆腐...！"
+    },
+    {
+      "text": "锅里烧水. 水开后把豆腐放下去煮一会儿捞出. 放入冷水中冷却. 懒的话. 這一步可以不用. 直接烧也行..！"
+    },
+    {
+      "text": "洋葱.大蒜.小米椒.小葱.切碎备用. 豆瓣酱准备好. 這不是郫县豆瓣酱哈. 就一般的蚕豆酱.. 生粉加水混合均匀."
+    },
+    {
+      "text": "锅里放油. 放入大蒜.小米椒爆香.."
+    },
+    {
+      "text": "放入洋葱炒出香味."
+    },
+    {
+      "text": "放入豆瓣酱.."
+    },
+    {
+      "text": "放白胡椒粉.少许白糖.生抽.."
+    },
+    {
+      "text": "把豆腐控干水分. 倒入锅中.."
+    },
+    {
+      "text": "用锅铲背部轻推.. 混合均匀.. 也可以直接晃动锅子. 如果直接跟炒豆子一样炒动的. 碎了我是不会赔伱的.."
+    },
+    {
+      "text": "放入两汤勺啤酒. 盖上锅盖焖一会儿. 木有啤酒的. 就直接忽略這一步吧...！"
+    },
+    {
+      "text": "把生粉水倒入锅中.. 锅铲背轻推. 让豆腐完全的混合均匀. 芡汁收干一些."
+    },
+    {
+      "text": "尝尝咸淡加盐.鸡精.. 撒葱花. 淋芝麻油...！"
+    },
+    {
+      "text": "我爸真的一个人能吃完.."
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102333700/",
+  "author": "冇伱灬冇我",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 286,
+    "proteinG": 26.1,
+    "carbsG": 12.7,
+    "fatG": 14.5
+  }
+}

@@ -68,4 +68,18 @@ describe('catalog quality gate', () => {
     expect(catalog.every((recipe) => recipe.id && recipe.title && recipe.sourceUrl && recipe.author)).toBe(true)
     expect(catalog.every((recipe) => getCatalogQualityIssues([recipe], 1).length === 0)).toBe(true)
   })
+
+  it('flags nutrition estimates whose macros contradict the declared calories', () => {
+    const mismatched = {
+      ...validRecipe(1),
+      nutrition: { kcal: 300, proteinG: 10, carbsG: 60, fatG: 30, basis: 'per-serving' as const, quantityCoverage: 1 },
+    }
+    const zeroWithCoverage = {
+      ...validRecipe(2),
+      nutrition: { kcal: 0, proteinG: 0, carbsG: 0, fatG: 0, basis: 'per-serving' as const, quantityCoverage: 0.9 },
+    }
+
+    expect(getCatalogQualityIssues([mismatched, zeroWithCoverage], 1).map((issue) => issue.code))
+      .toEqual(expect.arrayContaining(['nutrition-macro-mismatch', 'nutrition-zero-kcal']))
+  })
 })

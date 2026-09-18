@@ -184,11 +184,28 @@
   "fidelity": "verbatim-public",
   "sourceNote": "根据来源页面公开的4人份配料、260分钟总时长和5步方法整理；英制重量按页面数值换算为克，未补写页面未公开的营养和标签。",
   "nutrition": {
-    "kcal": 121.5,
-    "proteinG": 9.7,
-    "carbsG": 13.1,
-    "fatG": 3.3
+    "kcal": 202,
+    "proteinG": 18.3,
+    "carbsG": 13,
+    "fatG": 8.6,
+    "fiberG": 0.3,
+    "sugarG": 4,
+    "saturatedFatG": 2,
+    "sodiumMg": 1417,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.88,
+    "missingIngredientNames": [
+      "干香菇",
+      "烧卖皮"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["蒸","点心"],
+  "tags": [
+    "蒸",
+    "点心"
+  ],
   "difficulty": "中等"
 }

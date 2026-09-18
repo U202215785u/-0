@@ -87,12 +87,26 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、15分钟总时长和4步方法；保留擦干、四面薄裹粉及皮面2分钟、肉面3分钟和四边30秒煎制。",
   "nutrition": {
-    "kcal": 175.6,
-    "proteinG": 20.6,
-    "carbsG": 2.6,
-    "fatG": 9.5
+    "kcal": 188,
+    "proteinG": 17.1,
+    "carbsG": 6.7,
+    "fatG": 10.3,
+    "fiberG": 0.1,
+    "sugarG": 0,
+    "saturatedFatG": 1.8,
+    "sodiumMg": 227,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "medium",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煎","家常菜","快手菜"],
+  "tags": [
+    "煎",
+    "家常菜",
+    "快手菜"
+  ],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

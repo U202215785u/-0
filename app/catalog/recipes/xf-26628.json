@@ -1,0 +1,79 @@
+{
+  "id": "xf-26628",
+  "title": "丝瓜炒蛋",
+  "ingredients": [
+    {
+      "name": "丝瓜",
+      "mergeKey": "luffa",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "根"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类",
+      "pantry": false,
+      "amount": 3,
+      "unit": "个"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "汤匙"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false
+    }
+  ],
+  "steps": [
+    {
+      "text": "丝瓜去皮切滚刀片，如果家里没有刨子去皮的话，一般卖丝瓜的地方可以帮你去丝瓜皮的"
+    },
+    {
+      "text": "锅中烧水，水开倒入丝瓜焯水"
+    },
+    {
+      "text": "倒入丝瓜后，水再次开就可以捞出来了。如果想使颜色保持翠绿的话，要用冷水冲凉一下"
+    },
+    {
+      "text": "将鸡蛋打入碗中，加盐，用筷子充分搅打均匀待用。锅里放油3汤匙烧热，将鸡蛋放入锅中炒熟盛出待用"
+    },
+    {
+      "text": "锅中底油，油微热放姜末爆香，倒入焯过水的丝瓜，加盐翻炒"
+    },
+    {
+      "text": "大火翻炒30秒后，就可以加待用的蛋花。一起混炒也不要太长时间，20－30秒也就可以出锅了"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/26628/",
+  "author": "80后男人的厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 229,
+    "proteinG": 9.5,
+    "carbsG": 0.8,
+    "fatG": 20.9
+  }
+}

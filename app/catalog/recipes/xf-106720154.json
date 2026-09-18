@@ -1,0 +1,93 @@
+{
+  "id": "xf-106720154",
+  "title": "番茄虾仁",
+  "ingredients": [
+    {
+      "name": "番茄",
+      "mergeKey": "tomato",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "虾仁",
+      "mergeKey": "shrimp",
+      "category": "水产",
+      "pantry": false,
+      "quantityText": "300克约"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 3,
+      "unit": "瓣"
+    },
+    {
+      "name": "番茄酱",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 2,
+      "unit": "勺"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    }
+  ],
+  "steps": [
+    {
+      "text": "番茄两个去皮，尽量切碎， 加小半勺盐，拌匀、腌一会儿。"
+    },
+    {
+      "text": "虾仁解冻，焯水备用。我忘记拍焯好的虾仁了嗷"
+    },
+    {
+      "text": "锅中油温热放蒜末炒香，接着放番茄末， 炒一会儿，差不多水分炒干、会咕嘟咕嘟冒小泡那样"
+    },
+    {
+      "text": "冒小泡说明水分炒掉大半了，放两勺番茄酱"
+    },
+    {
+      "text": "炒到这种锅铲一下不会马上流动回去的酱的形态。 倒入焯烫好的虾仁，让虾仁在番茄酱里打个滚儿"
+    },
+    {
+      "text": "加入一勺盐、一勺糖。 （黑胡椒酱可选，要拌面可以放一些增加风味） 盐、糖放好后，翻炒1分钟左右即可出锅。"
+    },
+    {
+      "text": "装盘撒些葱绿点缀。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/106720154/",
+  "author": "吃饱再减肥啊77",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 75,
+    "proteinG": 2,
+    "carbsG": 16.1,
+    "fatG": 0.3
+  }
+}

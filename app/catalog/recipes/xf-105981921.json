@@ -1,0 +1,127 @@
+{
+  "id": "xf-105981921",
+  "title": "肉末粉丝",
+  "ingredients": [
+    {
+      "name": "肉末",
+      "mergeKey": "minced-pork",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 50,
+      "unit": "克"
+    },
+    {
+      "name": "豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "绿豆粉丝",
+      "mergeKey": "vermicelli",
+      "category": "米面主食",
+      "pantry": false,
+      "quantityText": "3小把"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "片"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "瓣"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "根"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "清水或高汤",
+      "category": "其他",
+      "pantry": false,
+      "amount": 60,
+      "unit": "克"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    }
+  ],
+  "steps": [
+    {
+      "text": "龙口粉丝一包。一包有4把，一份小砂锅用3把刚好合适。"
+    },
+    {
+      "text": "把3把粉丝的线剪掉，放在水中泡15一20分钟。泡到芯软了就好。不可泡太长时间口感不好，没有嚼劲太烂了。"
+    },
+    {
+      "text": "配料。葱姜蒜切末，肉肉切成肉碎末。调一碗酱汁，1勺生抽+1勺老抽++1勺蚝油+1勺味精+50克清水或高汤。吃辣的可加点辣椒末末。"
+    },
+    {
+      "text": "热锅下油，放多一点油，放入姜蒜末爆香。"
+    },
+    {
+      "text": "下肉沬炒变色，加1勺豆瓣酱。炒出红油。因为豆瓣酱很咸，所以基本上加了生抽，是不太必要再放盐的。当然具体以试味为准。淡了加点盐就好了。 倒入调好的酱汁。酱汁不要多了，煮出来会黏糊糊的。大概正常小号饭碗半碗的量吧，煮至滚开。这样加酱是为了方便操作，肉煮久了口感没那么好，先准备好就省时了。效果是一样的。"
+    },
+    {
+      "text": "然后放入粉丝，一直大火一直用筷子搅动翻匀，直到干水。不能煮太久太烂了。整个过程大概两分钟左右。不沾不坨。"
+    },
+    {
+      "text": "出锅喽。撒点香葱。嗯 也是饭店的味道。"
+    },
+    {
+      "text": "夹一口试一下。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/105981921/",
+  "author": "小豆包和小豆苗",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 101,
+    "proteinG": 6.8,
+    "carbsG": 8.2,
+    "fatG": 4.6
+  }
+}

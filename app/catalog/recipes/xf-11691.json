@@ -87,12 +87,29 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 244.6,
-    "proteinG": 7.5,
-    "carbsG": 42.4,
-    "fatG": 4.4
+    "kcal": 650,
+    "proteinG": 12,
+    "carbsG": 119.2,
+    "fatG": 13.9,
+    "fiberG": 5.1,
+    "sugarG": 58.3,
+    "saturatedFatG": 2.9,
+    "sodiumMg": 68,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.78,
+    "missingIngredientNames": [
+      "椰蓉",
+      "抹茶粉"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["蒸","点心"],
+  "tags": [
+    "蒸",
+    "点心"
+  ],
   "durationMinutes": 15,
   "difficulty": "中等"
 }

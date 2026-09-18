@@ -1,0 +1,56 @@
+{
+  "id": "xf-100388505",
+  "title": "蒜薹炒鸡蛋",
+  "ingredients": [
+    {
+      "name": "葱姜蒜末",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类",
+      "pantry": false
+    },
+    {
+      "name": "蒜薹",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干红辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡蛋打散，油热，滑开炒熟，盛出备用！"
+    },
+    {
+      "text": "再入油，至七成熟，葱姜蒜末爆香，放入干辣椒。煸出香味，下蒜薹，大火爆炒，边炒边入一点点开水，这样马上形成高温蒸汽加快炒熟速度，又不会有煮菜的感觉。"
+    },
+    {
+      "text": "加入蚝油，翻炒均匀。待熟后放入炒好的鸡蛋。加盐翻炒均匀！OK！"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100388505/",
+  "author": "801128",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 21,
+  "difficulty": "简单"
+}

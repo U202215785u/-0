@@ -86,12 +86,28 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 278.5,
-    "proteinG": 6,
-    "carbsG": 60.1,
-    "fatG": 2.1
+    "kcal": 612,
+    "proteinG": 16.8,
+    "carbsG": 115.9,
+    "fatG": 9,
+    "fiberG": 3.8,
+    "sugarG": 25,
+    "saturatedFatG": 3,
+    "sodiumMg": 902,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.86,
+    "missingIngredientNames": [
+      "/4小勺即发干酵母"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤","主食"],
+  "tags": [
+    "烤",
+    "主食"
+  ],
   "durationMinutes": 40,
   "difficulty": "中等"
 }

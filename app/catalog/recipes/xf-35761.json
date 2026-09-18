@@ -1,0 +1,77 @@
+{
+  "id": "xf-35761",
+  "title": "西红柿炒菜花",
+  "ingredients": [
+    {
+      "name": "菜花",
+      "mergeKey": "cauliflower",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "番茄",
+      "mergeKey": "tomato",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "番茄沙司",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "菜花用手撕成小朵，用淡盐水浸泡十几分钟，冲洗干净备用"
+    },
+    {
+      "text": "番茄切成小块备用"
+    },
+    {
+      "text": "锅中倒入清水，水沸后放入菜花焯烫两分钟，捞出备用"
+    },
+    {
+      "text": "锅中倒适量油，油热后放入番茄块炒至变软，放少许盐、糖、醋、番茄沙司炒成番茄酱糊状"
+    },
+    {
+      "text": "放入焯烫过的菜花，翻炒两分钟即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/35761/",
+  "author": "玉池桃红",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单"
+}

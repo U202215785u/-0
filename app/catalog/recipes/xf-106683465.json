@@ -1,0 +1,162 @@
+{
+  "id": "xf-106683465",
+  "title": "紫菜蛋花汤",
+  "ingredients": [
+    {
+      "name": "紫菜",
+      "mergeKey": "seaweed",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "一小块"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类",
+      "pantry": false,
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "虾皮",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "一小把"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 0.5,
+      "unit": "根"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 0.5,
+      "unit": "勺"
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "category": "其他",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true,
+      "amount": 1,
+      "unit": "勺"
+    },
+    {
+      "name": "热水",
+      "mergeKey": "water",
+      "category": "其他",
+      "pantry": false,
+      "quantityText": "大半碗"
+    }
+  ],
+  "steps": [
+    {
+      "text": "紫菜撕成小块。"
+    },
+    {
+      "text": "加入适量热水，浸泡五分钟以上。"
+    },
+    {
+      "text": "淀粉放入碗中，加入半碗清水，搅拌均匀成淀粉水，备用。"
+    },
+    {
+      "text": "鸡蛋打入碗中。"
+    },
+    {
+      "text": "搅散备用。"
+    },
+    {
+      "text": "葱花，香菜段。"
+    },
+    {
+      "text": "泡好的紫菜捞入碗中，加入葱花，香菜，虾皮和白胡椒粉。"
+    },
+    {
+      "text": "锅中加水，大火烧开后加入盐和鸡精，搅拌融化。"
+    },
+    {
+      "text": "加入淀粉水。"
+    },
+    {
+      "text": "可以看到汤汁浓稠了一些。"
+    },
+    {
+      "text": "水开后，用汤勺分三次淋入蛋液，这样蛋花会更漂亮还不容易起沫。"
+    },
+    {
+      "text": "蛋花凝固关火。"
+    },
+    {
+      "text": "直接将蛋花汤到入碗中，淋入香油。"
+    },
+    {
+      "text": "搅拌均匀即可。"
+    },
+    {
+      "text": "好喝，好看👀"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/106683465/",
+  "author": "一颗糖572196",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "汤羹"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 139,
+    "proteinG": 7.1,
+    "carbsG": 6.2,
+    "fatG": 9.5
+  }
+}

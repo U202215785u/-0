@@ -89,12 +89,34 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 174.5,
-    "proteinG": 6.4,
-    "carbsG": 27.8,
-    "fatG": 3.9
+    "kcal": 533,
+    "proteinG": 7.2,
+    "carbsG": 25.1,
+    "fatG": 44.9,
+    "fiberG": 0.7,
+    "sugarG": 6.1,
+    "saturatedFatG": 27.9,
+    "sodiumMg": 356,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.33,
+    "missingIngredientNames": [
+      "西兰花",
+      "白花菜",
+      "蘑菇",
+      "高汤",
+      "盐",
+      "黑胡椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算6 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","汤羹","素菜"],
+  "tags": [
+    "煮",
+    "汤羹",
+    "素菜"
+  ],
   "durationMinutes": 40,
   "difficulty": "中等"
 }

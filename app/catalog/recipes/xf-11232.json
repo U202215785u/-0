@@ -98,7 +98,34 @@
   "author": "Sunday1997",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["炒","素菜"],
+  "tags": [
+    "炒",
+    "素菜"
+  ],
   "durationMinutes": 45,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 129,
+    "proteinG": 10.1,
+    "carbsG": 7.5,
+    "fatG": 6.5,
+    "fiberG": 1.1,
+    "sugarG": 1.2,
+    "saturatedFatG": 0,
+    "sodiumMg": 30,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.33,
+    "missingIngredientNames": [
+      "红尖椒",
+      "一小把青豆",
+      "食用油",
+      "盐",
+      "花椒粉",
+      "鸡精"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算6 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

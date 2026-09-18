@@ -2,38 +2,215 @@
   "id": "sichuan-boiled-fish",
   "title": "水煮鱼",
   "ingredients": [
-    { "name": "鱼柳（去皮去骨）", "amount": 250.0, "unit": "克", "category": "水产", "pantry": false, "mergeKey": "fish-fillet" },
-    { "name": "盐", "quantityText": "1 撮", "category": "调味料", "pantry": true, "mergeKey": "salt" },
-    { "name": "白胡椒粉", "quantityText": "1 撮", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
-    { "name": "绍兴料酒", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "shaoxing-wine" },
-    { "name": "玉米淀粉", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
-    { "name": "食用油", "amount": 67.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
-    { "name": "干辣椒", "amount": 15.0, "unit": "个", "category": "调味料", "pantry": false, "mergeKey": "dried-chili" },
-    { "name": "花椒", "amount": 10.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "sichuan-peppercorn" },
-    { "name": "芹菜（或豆芽）", "amount": 250.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "celery-or-bean-sprouts" },
-    { "name": "蒜", "amount": 2.0, "unit": "瓣", "category": "蔬菜", "pantry": false, "mergeKey": "garlic" },
-    { "name": "姜末", "amount": 5.0, "unit": "毫升", "category": "蔬菜", "pantry": false, "mergeKey": "ginger" },
-    { "name": "葱", "amount": 1.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "scallion" },
-    { "name": "郫县豆瓣酱", "amount": 22.5, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "doubanjiang" },
-    { "name": "辣椒粉", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "chili-powder" },
-    { "name": "清水（或鸡汤）", "amount": 400.0, "unit": "毫升", "category": "其他", "pantry": true, "mergeKey": "water-or-stock" },
-    { "name": "香菜", "quantityText": "适量", "category": "蔬菜", "pantry": false, "mergeKey": "cilantro" }
+    {
+      "name": "鱼柳（去皮去骨）",
+      "amount": 250,
+      "unit": "克",
+      "category": "水产",
+      "pantry": false,
+      "mergeKey": "fish-fillet"
+    },
+    {
+      "name": "盐",
+      "quantityText": "1 撮",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "salt"
+    },
+    {
+      "name": "白胡椒粉",
+      "quantityText": "1 撮",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "white-pepper"
+    },
+    {
+      "name": "绍兴料酒",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "shaoxing-wine"
+    },
+    {
+      "name": "玉米淀粉",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "cornstarch"
+    },
+    {
+      "name": "食用油",
+      "amount": 67.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "cooking-oil"
+    },
+    {
+      "name": "干辣椒",
+      "amount": 15,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": false,
+      "mergeKey": "dried-chili"
+    },
+    {
+      "name": "花椒",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": false,
+      "mergeKey": "sichuan-peppercorn"
+    },
+    {
+      "name": "芹菜（或豆芽）",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "celery-or-bean-sprouts"
+    },
+    {
+      "name": "蒜",
+      "amount": 2,
+      "unit": "瓣",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "garlic"
+    },
+    {
+      "name": "姜末",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "ginger"
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "scallion"
+    },
+    {
+      "name": "郫县豆瓣酱",
+      "amount": 22.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": false,
+      "mergeKey": "doubanjiang"
+    },
+    {
+      "name": "辣椒粉",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": false,
+      "mergeKey": "chili-powder"
+    },
+    {
+      "name": "清水（或鸡汤）",
+      "amount": 400,
+      "unit": "毫升",
+      "category": "其他",
+      "pantry": true,
+      "mergeKey": "water-or-stock"
+    },
+    {
+      "name": "香菜",
+      "quantityText": "适量",
+      "category": "蔬菜",
+      "pantry": false,
+      "mergeKey": "cilantro"
+    }
   ],
   "steps": [
-    { "text": "把鱼柳斜刀切片，用盐、白胡椒粉、绍兴料酒和玉米淀粉抓匀腌制。", "ingredientNames": ["鱼柳（去皮去骨）", "盐", "白胡椒粉", "绍兴料酒", "玉米淀粉"] },
-    { "text": "炒锅（或深煎锅）中放油，小火把干辣椒和花椒炸出香味（不要炸糊）。放凉后粗略切碎，盛出备用。", "ingredientNames": ["食用油", "干辣椒", "花椒"] },
-    { "text": "同一口锅中火烧热油，放入芹菜（或豆芽）翻炒约一分半钟（若用豆芽则约三十秒），盛入碗中备用。", "timerSeconds": 90, "ingredientNames": ["食用油", "芹菜（或豆芽）"] },
-    { "text": "锅中倒油烧热，放入蒜、姜末和葱花炒香，加入郫县豆瓣酱和辣椒粉，倒入清水（或鸡汤），大火煮开。", "ingredientNames": ["食用油", "蒜", "姜末", "葱", "郫县豆瓣酱", "辣椒粉", "清水（或鸡汤）"] },
-    { "text": "轻轻把鱼片滑入锅中，煮熟后连同汤汁倒入盛有蔬菜的碗中。", "ingredientNames": ["鱼柳（去皮去骨）"] },
-    { "text": "把炸香的干辣椒花椒和香菜铺在鱼上。另起锅把油烧热，淋在香料上激出香味，立即趁热配白米饭食用。", "ingredientNames": ["香菜", "食用油"] }
+    {
+      "text": "把鱼柳斜刀切片，用盐、白胡椒粉、绍兴料酒和玉米淀粉抓匀腌制。",
+      "ingredientNames": [
+        "鱼柳（去皮去骨）",
+        "盐",
+        "白胡椒粉",
+        "绍兴料酒",
+        "玉米淀粉"
+      ]
+    },
+    {
+      "text": "炒锅（或深煎锅）中放油，小火把干辣椒和花椒炸出香味（不要炸糊）。放凉后粗略切碎，盛出备用。",
+      "ingredientNames": [
+        "食用油",
+        "干辣椒",
+        "花椒"
+      ]
+    },
+    {
+      "text": "同一口锅中火烧热油，放入芹菜（或豆芽）翻炒约一分半钟（若用豆芽则约三十秒），盛入碗中备用。",
+      "timerSeconds": 90,
+      "ingredientNames": [
+        "食用油",
+        "芹菜（或豆芽）"
+      ]
+    },
+    {
+      "text": "锅中倒油烧热，放入蒜、姜末和葱花炒香，加入郫县豆瓣酱和辣椒粉，倒入清水（或鸡汤），大火煮开。",
+      "ingredientNames": [
+        "食用油",
+        "蒜",
+        "姜末",
+        "葱",
+        "郫县豆瓣酱",
+        "辣椒粉",
+        "清水（或鸡汤）"
+      ]
+    },
+    {
+      "text": "轻轻把鱼片滑入锅中，煮熟后连同汤汁倒入盛有蔬菜的碗中。",
+      "ingredientNames": [
+        "鱼柳（去皮去骨）"
+      ]
+    },
+    {
+      "text": "把炸香的干辣椒花椒和香菜铺在鱼上。另起锅把油烧热，淋在香料上激出香味，立即趁热配白米饭食用。",
+      "ingredientNames": [
+        "香菜",
+        "食用油"
+      ]
+    }
   ],
   "baseServings": 2,
   "durationMinutes": 25,
   "difficulty": "中等",
-  "tags": ["煮","家常菜"],
+  "tags": [
+    "煮",
+    "家常菜"
+  ],
   "sourceUrl": "https://redhousespice.com/sichuan-boiled-fish/",
   "author": "Wei Guo / Red House Spice",
   "fidelity": "verbatim-public",
   "sourceNote": "转录自红房子厨房官网水煮鱼公开页面，原站受访问保护，经公共网页存档库二〇二四年四月抓取版本核对；已换算：汤匙约十五毫升、茶匙约五毫升；原文食用油分四处共约六十七点五毫升，已合并为一条；可用鲶鱼、鳕鱼、鲈鱼或巴沙鱼等代替鱼柳；营养数据取自原文注记（每份约五百一十二千卡）。",
-  "nutrition": { "kcal": 512 }
+  "nutrition": {
+    "kcal": 1145,
+    "proteinG": 69.8,
+    "carbsG": 34,
+    "fatG": 81.1,
+    "fiberG": 11.9,
+    "sugarG": 6.9,
+    "saturatedFatG": 19,
+    "sodiumMg": 1135,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.81,
+    "missingIngredientNames": [
+      "盐",
+      "白胡椒粉",
+      "香菜"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

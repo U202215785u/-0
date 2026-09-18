@@ -115,12 +115,30 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 232.8,
-    "proteinG": 4.7,
-    "carbsG": 46.7,
-    "fatG": 3.1
+    "kcal": 862,
+    "proteinG": 15.6,
+    "carbsG": 35.2,
+    "fatG": 73.2,
+    "fiberG": 0,
+    "sugarG": 33.5,
+    "saturatedFatG": 43.4,
+    "sodiumMg": 643,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.67,
+    "missingIngredientNames": [
+      "用与涂抹内壁防粘黄油",
+      "用与涂抹内壁防粘面粉",
+      "4寸模"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤","点心"],
+  "tags": [
+    "烤",
+    "点心"
+  ],
   "durationMinutes": 70,
   "difficulty": "中等"
 }

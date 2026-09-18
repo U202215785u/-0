@@ -66,12 +66,29 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 343.5,
-    "proteinG": 5.5,
-    "carbsG": 19.3,
-    "fatG": 28.9
+    "kcal": 525,
+    "proteinG": 19.9,
+    "carbsG": 18.5,
+    "fatG": 41.2,
+    "fiberG": 3.9,
+    "sugarG": 6.9,
+    "saturatedFatG": 5.9,
+    "sodiumMg": 600,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.83,
+    "missingIngredientNames": [
+      "尖椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煎","家常菜","素菜"],
+  "tags": [
+    "煎",
+    "家常菜",
+    "素菜"
+  ],
   "durationMinutes": 20,
   "difficulty": "中等"
 }

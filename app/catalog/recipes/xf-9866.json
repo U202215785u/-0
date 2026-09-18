@@ -70,12 +70,25 @@
   "author": "飞雪无霜",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["煮","主食"],
+  "tags": [
+    "煮",
+    "主食"
+  ],
   "nutrition": {
-    "kcal": 101.5,
-    "proteinG": 4,
-    "carbsG": 15.2,
-    "fatG": 2.1
+    "kcal": 334,
+    "proteinG": 16.9,
+    "carbsG": 44.2,
+    "fatG": 10,
+    "fiberG": 1.9,
+    "sugarG": 0.5,
+    "saturatedFatG": 3,
+    "sodiumMg": 375,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 40,
   "difficulty": "中等"

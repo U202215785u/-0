@@ -1,0 +1,147 @@
+{
+  "id": "xf-103960295",
+  "title": "韭菜盒子",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true,
+      "amount": 300,
+      "unit": "克"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "category": "其他",
+      "pantry": false,
+      "amount": 200,
+      "unit": "克"
+    },
+    {
+      "name": "韭菜",
+      "mergeKey": "chives",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 250,
+      "unit": "克"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类",
+      "pantry": false,
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "豆腐干",
+      "mergeKey": "dried-tofu",
+      "category": "豆制品",
+      "pantry": false,
+      "amount": 8,
+      "unit": "块"
+    },
+    {
+      "name": "红薯粉",
+      "category": "米面主食",
+      "pantry": false,
+      "quantityText": "干粉约50g"
+    },
+    {
+      "name": "虾皮",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true,
+      "quantityText": "1小把"
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    },
+    {
+      "name": "盐和鸡精",
+      "category": "肉类",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 3,
+      "unit": "勺"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 20,
+      "unit": "粒"
+    },
+    {
+      "name": "花生油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true,
+      "quantityText": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "text": "此配方含水量大，不能揉，只用筷子搅拌均匀即可。"
+    },
+    {
+      "text": "拌好后上面封一层油，饧一个小时。"
+    },
+    {
+      "text": "韭菜切碎后倒入香油封住表面，豆腐干切碎，红薯粉煮软后切碎，鸡蛋炒熟后用铲子捣碎，虾皮提鲜，但有的人不喜欢，可选。原料混合后加入盐、鸡精。"
+    },
+    {
+      "text": "热油炝花椒，挑去花椒，浇入馅料中，加蚝油拌匀。油不能太少，馅料太干不好吃的。"
+    },
+    {
+      "text": "饧好面团后，我喜欢就着油，用勺子背把面团搋几下，会更均匀劲道一点。"
+    },
+    {
+      "text": "面案多放一些面粉，不用揉，直接切小剂子，轻轻擀开。"
+    },
+    {
+      "text": "包入馅料，像包包子一样收口。"
+    },
+    {
+      "text": "收口朝下，用手掌拢拢圆。我一般是先包好几个，一起烙。记得面粉富裕些，不会粘，否则容易破，那就很不好再捏拢了。"
+    },
+    {
+      "text": "平底煎锅放油，小包子入锅，用手指按成饼状，这步很简单，速度快不会被烫到的。一面烙好翻过来烙另一面，表面鼓起金黄略焦就好啦。"
+    },
+    {
+      "text": "这个方子的量一共烙了八张饼，真的很好吃！"
+    },
+    {
+      "text": "配一碗绿豆小米粥，舒服的很。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/103960295/",
+  "author": "saymyname",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 951,
+    "proteinG": 55.8,
+    "carbsG": 134.3,
+    "fatG": 21.2
+  }
+}

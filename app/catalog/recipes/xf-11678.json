@@ -89,7 +89,37 @@
   "author": "臻妈美食厨房",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["炸","家常菜"],
+  "tags": [
+    "炸",
+    "家常菜"
+  ],
   "durationMinutes": 20,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 138,
+    "proteinG": 18.4,
+    "carbsG": 0.3,
+    "fatG": 7,
+    "fiberG": 0,
+    "sugarG": 0.3,
+    "saturatedFatG": 2.4,
+    "sodiumMg": 79,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.18,
+    "missingIngredientNames": [
+      "/4块菠萝",
+      "盐",
+      "糖",
+      "醋",
+      "料酒",
+      "胡椒粉",
+      "蕃茄酱",
+      "生粉",
+      "面粉"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算9 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

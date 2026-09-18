@@ -154,11 +154,29 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、45分钟、15项配料和4段方法；蔬菜处理、提前两分钟捞面和面汤乳化顺序均按来源整理。",
   "nutrition": {
-    "kcal": 280.1,
-    "proteinG": 6.2,
-    "carbsG": 24.4,
-    "fatG": 17.6
+    "kcal": 740,
+    "proteinG": 22.2,
+    "carbsG": 80.8,
+    "fatG": 36.4,
+    "fiberG": 8.2,
+    "sugarG": 7.8,
+    "saturatedFatG": 14.7,
+    "sodiumMg": 314,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.8,
+    "missingIngredientNames": [
+      "食盐",
+      "黑胡椒",
+      "罗勒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","主食"],
+  "tags": [
+    "煮",
+    "主食"
+  ],
   "difficulty": "中等"
 }

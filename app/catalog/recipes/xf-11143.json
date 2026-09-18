@@ -148,12 +148,30 @@
       "text": "最后关火，放入腰果，用锅中的余温拌炒即可"
     }
   ],
-  "tags": ["炒"],
+  "tags": [
+    "炒"
+  ],
   "nutrition": {
-    "kcal": 731.9,
-    "proteinG": 69.6,
-    "carbsG": 17.7,
-    "fatG": 39.7
+    "kcal": 755,
+    "proteinG": 70.6,
+    "carbsG": 19.4,
+    "fatG": 43.9,
+    "fiberG": 5.9,
+    "sugarG": 4.8,
+    "saturatedFatG": 16.1,
+    "sodiumMg": 175,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.76,
+    "missingIngredientNames": [
+      "青豆",
+      "姜黄粉",
+      "盐",
+      "糖"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算4 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 25,
   "difficulty": "中等"

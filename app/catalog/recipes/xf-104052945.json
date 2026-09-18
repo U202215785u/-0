@@ -45,12 +45,26 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
   "nutrition": {
-    "kcal": 312.5,
-    "proteinG": 60,
-    "carbsG": 2.5,
-    "fatG": 7.5
+    "kcal": 259,
+    "proteinG": 52.9,
+    "carbsG": 5,
+    "fatG": 3.1,
+    "fiberG": 0.4,
+    "sugarG": 0.7,
+    "saturatedFatG": 0.8,
+    "sodiumMg": 403,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "medium",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","快手菜","减脂高蛋白"],
+  "tags": [
+    "煮",
+    "快手菜",
+    "减脂高蛋白"
+  ],
   "durationMinutes": 10,
   "difficulty": "中等"
 }

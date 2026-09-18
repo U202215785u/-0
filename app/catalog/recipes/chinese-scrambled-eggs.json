@@ -87,7 +87,28 @@
   "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、6分钟总时长和5段方法；保留快速打蛋、锅体预热与湿润刚熟出锅。",
-  "tags": ["炒","家常菜","快手菜","素菜"],
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜",
+    "素菜"
+  ],
   "durationMinutes": 6,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 155,
+    "proteinG": 8,
+    "carbsG": 1.8,
+    "fatG": 12.9,
+    "fiberG": 0.1,
+    "sugarG": 1.3,
+    "saturatedFatG": 3,
+    "sodiumMg": 442,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "medium",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

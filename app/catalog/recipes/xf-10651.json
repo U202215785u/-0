@@ -33,5 +33,24 @@
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "tags": [],
   "durationMinutes": 10,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 9,
+    "proteinG": 0.1,
+    "carbsG": 2.1,
+    "fatG": 0,
+    "fiberG": 0.2,
+    "sugarG": 1.7,
+    "saturatedFatG": 0,
+    "sodiumMg": 0,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.5,
+    "missingIngredientNames": [
+      "、6粒玫瑰花干"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

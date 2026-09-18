@@ -1,0 +1,121 @@
+{
+  "id": "xf-100285641",
+  "title": "土豆炖牛肉",
+  "ingredients": [
+    {
+      "name": "牛肉（牛腩）",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 1000,
+      "unit": "克"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "西红柿",
+      "mergeKey": "tomato",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 4,
+      "unit": "个"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "葱姜",
+      "mergeKey": "scallion-ginger",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "各1大勺老抽，料酒",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋，糖",
+      "category": "调味料",
+      "pantry": true,
+      "amount": 1,
+      "unit": "小勺"
+    },
+    {
+      "name": "番茄沙司，黑胡椒",
+      "category": "蔬菜",
+      "pantry": false,
+      "quantityText": "适量"
+    },
+    {
+      "name": "油  盐",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛肉切块冷水下锅焯2分钟，全程用温水清洗干净。"
+    },
+    {
+      "text": "配料洗净切块，（土豆块泡清水里）待用。"
+    },
+    {
+      "text": "锅放油烧热，先下牛肉煸炒一下，烹人老抽，料酒和一小勺白醋，"
+    },
+    {
+      "text": "接着下洋葱西红柿，撒一勺白糖继续翻炒，"
+    },
+    {
+      "text": "挤人番茄沙司（多挤一些），再磨一些胡椒粒炒匀。"
+    },
+    {
+      "text": "放葱姜，倒入足够的热水，中大火烧20分钟改小火炖1小时左右。"
+    },
+    {
+      "text": "出锅前放土豆胡萝卜块加盐烧熟。"
+    },
+    {
+      "text": "等到肉烂，汤汁粘稠就可以调味出锅了。"
+    },
+    {
+      "text": "营养丰富，颜色诱人，很下饭的一道菜。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100285641/",
+  "author": "蛋蛋妈的厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 1475,
+    "proteinG": 137.9,
+    "carbsG": 59.9,
+    "fatG": 76
+  }
+}

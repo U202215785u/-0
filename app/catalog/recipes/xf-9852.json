@@ -71,12 +71,28 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 903.8,
-    "proteinG": 15.8,
-    "carbsG": 188,
-    "fatG": 10.5
+    "kcal": 2160,
+    "proteinG": 42.9,
+    "carbsG": 168,
+    "fatG": 146.3,
+    "fiberG": 23.8,
+    "sugarG": 130.6,
+    "saturatedFatG": 17,
+    "sodiumMg": 604,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.67,
+    "missingIngredientNames": [
+      "阿胶",
+      "色拉油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["蒸"],
+  "tags": [
+    "蒸"
+  ],
   "durationMinutes": 25,
   "difficulty": "中等"
 }

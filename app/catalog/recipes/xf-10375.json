@@ -129,12 +129,30 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 234.5,
-    "proteinG": 15.1,
-    "carbsG": 21.6,
-    "fatG": 10
+    "kcal": 376,
+    "proteinG": 20.3,
+    "carbsG": 39.1,
+    "fatG": 15.4,
+    "fiberG": 2.5,
+    "sugarG": 3.7,
+    "saturatedFatG": 4.5,
+    "sodiumMg": 193,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.79,
+    "missingIngredientNames": [
+      "盐",
+      "糖",
+      "干贝素"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["蒸","主食"],
+  "tags": [
+    "蒸",
+    "主食"
+  ],
   "durationMinutes": 30,
   "difficulty": "中等"
 }

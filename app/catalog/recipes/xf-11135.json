@@ -156,12 +156,29 @@
       "text": "用纸包着放冰箱冷藏30分钟左右，取出"
     }
   ],
-  "tags": ["点心"],
+  "tags": [
+    "点心"
+  ],
   "nutrition": {
-    "kcal": 258.7,
-    "proteinG": 17.1,
-    "carbsG": 20.5,
-    "fatG": 12.2
+    "kcal": 689,
+    "proteinG": 17,
+    "carbsG": 57.9,
+    "fatG": 43.2,
+    "fiberG": 0.7,
+    "sugarG": 31,
+    "saturatedFatG": 16.7,
+    "sodiumMg": 169,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.67,
+    "missingIngredientNames": [
+      "余个车厘子",
+      "/4小勺加一小勺水融化鱼胶粉",
+      "水果块"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 120,
   "difficulty": "中等"

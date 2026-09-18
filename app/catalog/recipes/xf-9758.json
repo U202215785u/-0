@@ -125,12 +125,32 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 317.2,
-    "proteinG": 6.8,
-    "carbsG": 45.9,
-    "fatG": 12.3
+    "kcal": 672,
+    "proteinG": 20,
+    "carbsG": 117.3,
+    "fatG": 13.6,
+    "fiberG": 3.7,
+    "sugarG": 5.3,
+    "saturatedFatG": 2.1,
+    "sodiumMg": 1004,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.62,
+    "missingIngredientNames": [
+      "青椒丝",
+      "洋葱丝",
+      "培根",
+      "马苏里拉奶酪",
+      "番茄酱"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算5 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤","主食"],
+  "tags": [
+    "烤",
+    "主食"
+  ],
   "durationMinutes": 50,
   "difficulty": "中等"
 }

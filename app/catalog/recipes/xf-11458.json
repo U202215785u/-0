@@ -69,7 +69,37 @@
   "author": "臻妈美食厨房",
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
-  "tags": ["煮","汤羹","快手菜"],
+  "tags": [
+    "煮",
+    "汤羹",
+    "快手菜"
+  ],
   "durationMinutes": 15,
-  "difficulty": "中等"
+  "difficulty": "中等",
+  "nutrition": {
+    "kcal": 91,
+    "proteinG": 2.5,
+    "carbsG": 18.8,
+    "fatG": 0.6,
+    "fiberG": 4.4,
+    "sugarG": 9.4,
+    "saturatedFatG": 0,
+    "sodiumMg": 6,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.11,
+    "missingIngredientNames": [
+      "蛤蜊",
+      "火腿",
+      "葱花",
+      "姜丝",
+      "盐",
+      "鸡精",
+      "胡椒粉",
+      "麻油"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算8 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
+  }
 }

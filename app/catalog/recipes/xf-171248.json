@@ -1,0 +1,107 @@
+{
+  "id": "xf-171248",
+  "title": "莴笋炒肉",
+  "ingredients": [
+    {
+      "name": "莴笋",
+      "mergeKey": "celtuce",
+      "category": "蔬菜",
+      "pantry": false,
+      "amount": 0.5,
+      "unit": "根"
+    },
+    {
+      "name": "猪瘦肉",
+      "mergeKey": "pork",
+      "category": "肉类",
+      "pantry": false,
+      "amount": 200,
+      "unit": "克"
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜",
+      "pantry": false
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪瘦肉切丝，用料酒、少许淀粉拌匀，备用"
+    },
+    {
+      "text": "莴笋摘去叶子，去皮，洗净，沥干水分，切丝备用"
+    },
+    {
+      "text": "锅里放油，油五成热时，放拌匀的肉丝，翻炒至肉变白，盛出"
+    },
+    {
+      "text": "留底油，放入葱姜蒜末，爆香，放莴笋丝，炒好的肉丝，酱油、盐，大火翻炒几下，撒点鸡精，即可出锅"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/171248/",
+  "author": "塞北主妇",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "家常菜",
+    "快手菜"
+  ],
+  "durationMinutes": 23,
+  "difficulty": "简单",
+  "nutrition": {
+    "kcal": 158,
+    "proteinG": 21.6,
+    "carbsG": 3.6,
+    "fatG": 6.3
+  }
+}

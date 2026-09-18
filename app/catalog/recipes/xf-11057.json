@@ -129,10 +129,24 @@
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "tags": [],
   "nutrition": {
-    "kcal": 807,
-    "proteinG": 124.4,
-    "carbsG": 47.6,
-    "fatG": 16.2
+    "kcal": 325,
+    "proteinG": 33.4,
+    "carbsG": 32.9,
+    "fatG": 6.6,
+    "fiberG": 5.3,
+    "sugarG": 13,
+    "saturatedFatG": 1.1,
+    "sodiumMg": 1445,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.86,
+    "missingIngredientNames": [
+      "越南春卷皮",
+      "株九层塔"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 25,
   "difficulty": "中等"

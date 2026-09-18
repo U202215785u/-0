@@ -191,11 +191,28 @@
   "fidelity": "structured-transcription",
   "sourceNote": "逐页核验来源页面公开的4人份、60分钟准备、60分钟页面总计字段及概览、包制和煮制方法；由于页面正文另注明最终煮制约3小时，执行步骤保留页面明确的3小时煮制。",
   "nutrition": {
-    "kcal": 1100.5,
-    "proteinG": 26.8,
-    "carbsG": 89.1,
-    "fatG": 68.8
+    "kcal": 2243,
+    "proteinG": 66.3,
+    "carbsG": 205.2,
+    "fatG": 128.5,
+    "fiberG": 13.1,
+    "sugarG": 7,
+    "saturatedFatG": 35.7,
+    "sodiumMg": 3067,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.88,
+    "missingIngredientNames": [
+      "粽叶",
+      "去皮绿豆"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煮","主食"],
+  "tags": [
+    "煮",
+    "主食"
+  ],
   "difficulty": "中等"
 }

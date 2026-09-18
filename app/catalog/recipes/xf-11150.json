@@ -72,12 +72,25 @@
       "text": "烤盘内注入1-2厘米高的热水，然后将焗碗放入烤盘内，并在吐司表面撒上葡萄干。放入预热好的烤箱中，以170度焗烤约30分钟左右，表明呈金黄色即可"
     }
   ],
-  "tags": ["烤","点心"],
+  "tags": [
+    "烤",
+    "点心"
+  ],
   "nutrition": {
-    "kcal": 300,
-    "proteinG": 13.4,
-    "carbsG": 40.2,
-    "fatG": 9.9
+    "kcal": 754,
+    "proteinG": 16,
+    "carbsG": 62.6,
+    "fatG": 48.8,
+    "fiberG": 2.4,
+    "sugarG": 41.5,
+    "saturatedFatG": 26.9,
+    "sodiumMg": 356,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "medium",
+    "quantityCoverage": 1,
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算全部食材已按来源份量计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
   "durationMinutes": 20,
   "difficulty": "中等"

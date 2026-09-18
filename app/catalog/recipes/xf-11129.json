@@ -106,12 +106,27 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 143.9,
-    "proteinG": 4.8,
-    "carbsG": 23.3,
-    "fatG": 3.2
+    "kcal": 880,
+    "proteinG": 4.3,
+    "carbsG": 7.3,
+    "fatG": 92.7,
+    "fiberG": 0.1,
+    "sugarG": 5.7,
+    "saturatedFatG": 57.4,
+    "sodiumMg": 978,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.86,
+    "missingIngredientNames": [
+      "寸平盘海绵蛋糕"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算1 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["点心"],
+  "tags": [
+    "点心"
+  ],
   "durationMinutes": 75,
   "difficulty": "中等"
 }

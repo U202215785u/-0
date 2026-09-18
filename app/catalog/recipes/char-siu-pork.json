@@ -158,12 +158,28 @@
   "fidelity": "structured-transcription",
   "sourceNote": "根据来源页面公开的6人份配料、80分钟总时长和6步方法整理；腌制过夜时间按页面方法保留在步骤中，烘烤温度和分段刷汁顺序按页面公开内容换算为摄氏度。",
   "nutrition": {
-    "kcal": 197,
-    "proteinG": 6,
-    "carbsG": 35.4,
-    "fatG": 3.3
+    "kcal": 427,
+    "proteinG": 28.4,
+    "carbsG": 20,
+    "fatG": 25.9,
+    "fiberG": 0.3,
+    "sugarG": 15.5,
+    "saturatedFatG": 9.1,
+    "sodiumMg": 1469,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.85,
+    "missingIngredientNames": [
+      "红腐乳",
+      "红色色素"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤"],
+  "tags": [
+    "烤"
+  ],
   "durationMinutes": 80,
   "difficulty": "中等"
 }

@@ -170,12 +170,31 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
   "nutrition": {
-    "kcal": 372.3,
-    "proteinG": 12.4,
-    "carbsG": 45.9,
-    "fatG": 18.6
+    "kcal": 133,
+    "proteinG": 1.1,
+    "carbsG": 9.5,
+    "fatG": 10,
+    "fiberG": 0.2,
+    "sugarG": 5.5,
+    "saturatedFatG": 1.5,
+    "sodiumMg": 636,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.77,
+    "missingIngredientNames": [
+      "青辣椒",
+      "盐",
+      "青辣椒"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算3 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；炸制用油按保留量折算（未把整锅油计入）；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["煎","家常菜","素菜"],
+  "tags": [
+    "煎",
+    "家常菜",
+    "素菜"
+  ],
   "durationMinutes": 90,
   "difficulty": "中等"
 }

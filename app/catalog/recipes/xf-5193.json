@@ -92,12 +92,29 @@
   "fidelity": "verbatim-public",
   "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
   "nutrition": {
-    "kcal": 309.9,
-    "proteinG": 10,
-    "carbsG": 57.5,
-    "fatG": 4.9
+    "kcal": 709,
+    "proteinG": 21,
+    "carbsG": 118.9,
+    "fatG": 16.6,
+    "fiberG": 3.6,
+    "sugarG": 17.8,
+    "saturatedFatG": 8.4,
+    "sodiumMg": 513,
+    "basis": "per-serving",
+    "source": "estimated",
+    "confidence": "low",
+    "quantityCoverage": 0.78,
+    "missingIngredientNames": [
+      "肉松",
+      "沙拉酱"
+    ],
+    "calculationVersion": "fooddb-2026-09-18",
+    "note": "已按离线食材数据库和来源份量核算2 项食材缺少可换算来源份量，未计入热量，结果为下限；部分食材按分类近似值计入；热量按蛋白/碳水/脂肪 4-4-9 千卡每克系数折算，仅用于日常比较，不替代营养标签或医疗建议。"
   },
-  "tags": ["烤","主食"],
+  "tags": [
+    "烤",
+    "主食"
+  ],
   "durationMinutes": 25,
   "difficulty": "中等"
 }
