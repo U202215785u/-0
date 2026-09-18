@@ -2,42 +2,212 @@
   "id": "salt-pepper-pork-chops",
   "title": "椒盐猪扒",
   "ingredients": [
-    { "name": "猪里脊肉排", "amount": 454.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "pork-loin-chop" },
-    { "name": "红甜椒", "amount": 0.2, "unit": "个", "category": "蔬菜", "pantry": false, "mergeKey": "red-bell-pepper" },
-    { "name": "青甜椒", "amount": 0.2, "unit": "个", "category": "蔬菜", "pantry": false, "mergeKey": "green-bell-pepper" },
-    { "name": "葱", "amount": 1.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "green-onion" },
-    { "name": "红辣椒", "amount": 0.5, "unit": "个", "category": "蔬菜", "pantry": false, "mergeKey": "red-chili" },
-    { "name": "蒜", "amount": 2.0, "unit": "瓣", "category": "蔬菜", "pantry": false, "mergeKey": "garlic" },
-    { "name": "玉米淀粉", "amount": 75.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
-    { "name": "小苏打", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "baking-soda" },
-    { "name": "料酒", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-wine" },
-    { "name": "蚝油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "oyster-sauce" },
-    { "name": "生抽", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
-    { "name": "清水", "amount": 15.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
-    { "name": "白糖", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
-    { "name": "盐", "amount": 3.75, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
-    { "name": "玉米油", "amount": 480.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "corn-oil" },
-    { "name": "鸡蛋", "amount": 0.5, "unit": "个", "category": "蛋类", "pantry": false, "mergeKey": "egg" },
-    { "name": "食用油", "amount": 7.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
-    { "name": "蒜盐", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "garlic-salt" },
-    { "name": "白胡椒粉", "amount": 1.25, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" }
+    {
+      "name": "猪里脊扒",
+      "mergeKey": "pork",
+      "amount": 454,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "红甜椒",
+      "mergeKey": "bell-pepper",
+      "quantityText": "约五分之一个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青甜椒",
+      "mergeKey": "bell-pepper",
+      "quantityText": "约五分之一个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "chili",
+      "amount": 0.5,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 75,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小苏打",
+      "mergeKey": "baking-soda",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜盐",
+      "mergeKey": "garlic-salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "quantityText": "半个",
+      "category": "蛋类"
+    }
   ],
   "steps": [
-    { "text": "红甜椒与青甜椒先切条再转九十度切成小丁；葱粗略切成中等大小的段；蒜去皮拍碎后切成末；红辣椒横切成薄圆片。猪排切成手掌大小并横剖成薄片，逆着肉纹切，再用刀背两面拍松嫩化。", "ingredientNames": ["红甜椒", "青甜椒", "葱", "蒜", "红辣椒", "猪里脊肉排"] },
-    { "text": "腌料碗中混合玉米淀粉、小苏打、料酒、蚝油、生抽和清水，快速拌匀后加入白糖和盐。", "ingredientNames": ["玉米淀粉", "小苏打", "料酒", "蚝油", "生抽", "清水", "白糖", "盐"] },
-    { "text": "用手把猪肉与腌料抓拌约一分钟，然后静置腌制三十分钟至一小时。", "timerSeconds": 1800, "ingredientNames": ["猪里脊肉排"] },
-    { "text": "锅中加入玉米油，中火加热至约一百九十三摄氏度（三百八十华氏度）；等待油热时，在小碗中打散鸡蛋倒入腌好的猪肉拌匀（蛋液吸收淀粉后炸出来更酥脆）；把玉米淀粉铺在大盘上，油温到位后将猪排逐块裹上淀粉。", "ingredientNames": ["玉米油", "鸡蛋", "玉米淀粉"] },
-    { "text": "将猪排逐块下油锅分批炸制，炸至外壳浅金黄色（约一分半）后捞出沥油；把油温升到约二百三十二摄氏度（四百五十华氏度）复炸约三十秒，口感更酥脆；炸油留出备用。", "timerSeconds": 90, "ingredientNames": ["猪里脊肉排", "玉米油"] },
-    { "text": "小碗中混合蒜盐、盐和白胡椒粉，调成椒盐调味粉。", "ingredientNames": ["蒜盐", "盐", "白胡椒粉"] },
-    { "text": "中火烧热炒锅，加入约一茶匙刚才的炸油，放入蒜末和红辣椒煸出香味；转大火加入甜椒炒约三十秒；加入葱段和全部猪排翻炒约三十秒；分次撒入调味粉使其均匀裹上猪排；再炒十五至二十秒后关火，继续翻拌二十至三十秒至均匀，即可装盘。", "timerSeconds": 110, "ingredientNames": ["蒜", "红辣椒", "红甜椒", "青甜椒", "葱", "猪里脊肉排", "蒜盐", "盐", "白胡椒粉"] },
-    { "text": "尝味调整咸淡，装盘上桌。", "ingredientNames": [] }
+    {
+      "text": "红甜椒、青甜椒切丁，葱切段，红辣椒切圈，蒜切末。",
+      "ingredientNames": [
+        "红甜椒",
+        "青甜椒",
+        "葱",
+        "红辣椒",
+        "蒜"
+      ]
+    },
+    {
+      "text": "玉米淀粉、小苏打、料酒、蚝油、生抽、清水、白糖和食盐调成腌料，猪扒抓匀腌制。",
+      "ingredientNames": [
+        "玉米淀粉",
+        "小苏打",
+        "料酒",
+        "蚝油",
+        "生抽",
+        "清水",
+        "白糖",
+        "食盐",
+        "猪里脊扒"
+      ]
+    },
+    {
+      "text": "猪扒裹半个鸡蛋和玉米淀粉。中火加食用油至约193℃，猪扒分批下锅炸至熟透并定型。",
+      "ingredientNames": [
+        "猪里脊扒",
+        "鸡蛋",
+        "玉米淀粉",
+        "食用油"
+      ]
+    },
+    {
+      "text": "小碗混合蒜盐、食盐和白胡椒粉。炒锅中火烧热，加少量食用油，放蒜、葱、红绿椒和红辣椒炒香。",
+      "ingredientNames": [
+        "蒜盐",
+        "食盐",
+        "白胡椒粉",
+        "食用油",
+        "蒜",
+        "葱",
+        "红甜椒",
+        "青甜椒",
+        "红辣椒"
+      ]
+    },
+    {
+      "text": "放回炸好的猪扒，撒入椒盐粉快速翻匀，尝味后装盘。",
+      "ingredientNames": [
+        "猪里脊扒",
+        "蒜盐",
+        "食盐",
+        "白胡椒粉"
+      ]
+    }
   ],
   "baseServings": 4,
   "durationMinutes": 50,
-  "difficulty": "中等",
-  "tags": ["炸", "炒", "家常菜"],
   "sourceUrl": "https://www.madewithlau.com/recipes/salt-pepper-pork-chops",
-  "author": "Daddy Lau",
-  "fidelity": "verbatim-public",
-  "sourceNote": "转录自老刘家粤菜网站的公开菜谱页面，原文标准备料三十分钟、烹制二十分钟、共五十分钟、四人份；磅按每磅四百五十四克、杯按每杯二百四十毫升、茶匙按五毫升、汤匙按十五毫升换算，干粉类按同一体积表折算为毫升；玉米淀粉（腌料与裹粉两处）与盐（腌料与调味粉两处）的用量已按原文合计；原文采用两次油炸的技法；来源未提供营养数据。"
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "按来源页面公开的4人份、50分钟、18项配料和8段方法翻译整理；保留约193℃油温和分批炸制信息。",
+  "nutrition": {
+    "kcal": 208.2,
+    "proteinG": 24.1,
+    "carbsG": 6.3,
+    "fatG": 9.2
+  },
+  "tags": [
+    "炸"
+  ],
+  "difficulty": "中等"
 }

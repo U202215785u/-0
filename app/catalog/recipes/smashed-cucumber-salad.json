@@ -2,36 +2,179 @@
   "id": "smashed-cucumber-salad",
   "title": "拍黄瓜",
   "ingredients": [
-    { "name": "黄瓜", "amount": 560.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "cucumber" },
-    { "name": "红甜椒", "amount": 56.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "bell-pepper" },
-    { "name": "小葱", "amount": 2.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "green-onion" },
-    { "name": "香菜", "amount": 7.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "cilantro" },
-    { "name": "大蒜", "amount": 4.0, "unit": "瓣", "category": "蔬菜", "pantry": false, "mergeKey": "garlic" },
-    { "name": "盐", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
-    { "name": "糖", "amount": 35.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
-    { "name": "辣椒酱", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "chili-sauce" },
-    { "name": "生抽", "amount": 19.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
-    { "name": "蚝油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "oyster-sauce" },
-    { "name": "醋", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "vinegar" },
-    { "name": "白芝麻", "amount": 15.0, "unit": "毫升", "category": "干货", "pantry": false, "mergeKey": "sesame-seeds" },
-    { "name": "香油", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
-    { "name": "食用油", "amount": 7.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" }
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "amount": 567,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红甜椒",
+      "mergeKey": "bell-pepper",
+      "amount": 57,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 60,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "amount": 7,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 45,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒酱",
+      "mergeKey": "chili-sauce",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 19.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白芝麻",
+      "mergeKey": "sesame",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
   ],
   "steps": [
-    { "text": "黄瓜切去两端；间隔削皮（保留青皮条纹可减轻苦味与韧感）；对半剖开，挖掉带籽的水分中心，保持爽脆、避免酱汁被稀释。", "ingredientNames": ["黄瓜"] },
-    { "text": "用菜刀刀面或其他重物把黄瓜拍裂（力度要使其裂开但别拍成泥），全部拍完后斜切成厚块放入碗中。", "ingredientNames": ["黄瓜"] },
-    { "text": "红甜椒切条；小葱切小段；香菜粗略切碎；大蒜拍碎去皮切末。", "ingredientNames": ["红甜椒", "小葱", "香菜", "大蒜"] },
-    { "text": "黄瓜中加入盐和糖充分拌匀，再加入红甜椒条拌匀，静置五到六分钟让盐逼出水分；趁这段时间调酱汁。", "timerSeconds": 330, "ingredientNames": ["黄瓜", "盐", "糖", "红甜椒"] },
-    { "text": "把辣椒酱、生抽、蚝油、醋和糖混合成酱汁，加入蒜末拌匀。", "ingredientNames": ["辣椒酱", "生抽", "蚝油", "醋", "糖", "大蒜"] },
-    { "text": "倒掉黄瓜和红甜椒腌出的水。", "ingredientNames": ["黄瓜", "红甜椒"] },
-    { "text": "加入葱花和酱汁拌匀；再加入香菜、白芝麻、香油和食用油拌匀（用量可按喜好调整），装盘即可，也可冷藏后冰凉享用。", "ingredientNames": ["小葱", "香菜", "白芝麻", "香油", "食用油"] }
+    {
+      "text": "黄瓜去头尾后拍裂，切成小段；红甜椒切条，蒜切末，葱和香菜切碎。",
+      "ingredientNames": [
+        "黄瓜",
+        "红甜椒",
+        "蒜",
+        "葱",
+        "香菜"
+      ]
+    },
+    {
+      "text": "黄瓜和红甜椒加入食盐、白糖，拌匀后静置出水，再沥干。",
+      "ingredientNames": [
+        "黄瓜",
+        "红甜椒",
+        "食盐",
+        "白糖"
+      ]
+    },
+    {
+      "text": "辣椒酱、生抽、蚝油、醋和白糖调匀，加入蒜末。",
+      "ingredientNames": [
+        "辣椒酱",
+        "生抽",
+        "蚝油",
+        "醋",
+        "白糖",
+        "蒜"
+      ]
+    },
+    {
+      "text": "把酱汁、葱和香菜加入黄瓜与红甜椒，拌匀后撒白芝麻。",
+      "ingredientNames": [
+        "黄瓜",
+        "红甜椒",
+        "葱",
+        "香菜",
+        "白芝麻"
+      ]
+    },
+    {
+      "text": "食用油烧热后浇在白芝麻和蒜末上，淋芝麻油即可。",
+      "ingredientNames": [
+        "食用油",
+        "白芝麻",
+        "蒜",
+        "芝麻油"
+      ]
+    }
   ],
   "baseServings": 4,
   "durationMinutes": 10,
-  "difficulty": "简单",
-  "tags": ["凉拌", "快手菜", "家常菜", "素菜"],
   "sourceUrl": "https://www.madewithlau.com/recipes/smashed-cucumber-salad",
-  "author": "刘爸爸",
+  "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
-  "sourceNote": "转录自「与刘家一起做菜」网站公开菜谱页的页面正文与内嵌结构化数据（原作者：刘爸爸），并翻译为简体中文。单位换算：一盎司约合二十八克，一茶匙约合五毫升，一汤匙约合十五毫升。原文标注备料七分钟、烹饪三分钟、合计约十分钟，供四人食用。页面食材中糖出现两处（腌黄瓜一茶匙、酱汁两汤匙），已合并为一笔合计约三十五毫升。步骤计时（腌渍静置五至六分钟）取自原文。"
+  "sourceNote": "逐页核验来源页面公开的4人份、7分钟准备、3分钟烹调、10分钟总时长和6步方法；保留盐糖杀水、调汁、热油激香顺序。",
+  "nutrition": {
+    "kcal": 135.9,
+    "proteinG": 4.2,
+    "carbsG": 25.3,
+    "fatG": 2.8
+  },
+  "tags": [
+    "凉拌"
+  ],
+  "difficulty": "中等"
 }

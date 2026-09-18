@@ -1,38 +1,173 @@
 {
   "id": "char-siu-pork",
-  "title": "叉烧",
+  "title": "蜜汁叉烧",
   "ingredients": [
-    { "name": "猪肩肉", "amount": 908, "unit": "克", "category": "肉类", "mergeKey": "pork-shoulder" },
-    { "name": "蒜盐", "amount": 15, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "garlic-salt" },
-    { "name": "红糖", "amount": 60, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "brown-sugar" },
-    { "name": "蚝油", "amount": 30, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "oyster-sauce" },
-    { "name": "生抽", "amount": 30, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
-    { "name": "海鲜酱", "amount": 15, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "hoisin-sauce" },
-    { "name": "红葡萄酒", "amount": 30, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "red-wine" },
-    { "name": "绍酒", "amount": 15, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "shaoxing-wine" },
-    { "name": "红腐乳", "amount": 1, "unit": "块", "category": "调味料", "pantry": false, "mergeKey": "red-fermented-bean-curd" },
-    { "name": "五香粉", "amount": 5, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "five-spice-powder" },
-    { "name": "蜂蜜", "amount": 30, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "honey" },
-    { "name": "清水", "amount": 10, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "water" },
-    { "name": "红色食用色素", "amount": 1.25, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "red-food-coloring" }
+    {
+      "name": "猪肩肉",
+      "mergeKey": "pork-shoulder",
+      "amount": 907,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "蒜盐",
+      "mergeKey": "garlic-salt",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红糖",
+      "mergeKey": "brown-sugar",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "海鲜酱",
+      "mergeKey": "hoisin-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红葡萄酒",
+      "mergeKey": "red-wine",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "绍兴酒",
+      "mergeKey": "shaoxing-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红腐乳",
+      "mergeKey": "red-fermented-beancurd",
+      "quantityText": "1块",
+      "category": "豆制品"
+    },
+    {
+      "name": "五香粉",
+      "mergeKey": "five-spice-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "红色色素",
+      "mergeKey": "red-food-coloring",
+      "amount": 1.25,
+      "unit": "毫升",
+      "category": "其他"
+    }
   ],
   "steps": [
-    { "text": "备猪肉：猪肩肉切成约 2.5 厘米厚的细长条，尽量厚薄均匀，便于同时熟透。随后用叉子在每片的两面反复扎孔，帮助腌料渗入。", "ingredientNames": ["猪肩肉"] },
-    { "text": "调腌料：碗中加入蒜盐、红糖、蚝油、生抽、海鲜酱、红葡萄酒、绍酒、红腐乳和五香粉，搅匀至顺滑均匀。用量可按猪肉分量调整。若想要更深的红色，可加几滴红色食用色素。", "ingredientNames": ["蒜盐", "红糖", "蚝油", "生抽", "海鲜酱", "红葡萄酒", "绍酒", "红腐乳", "五香粉", "红色食用色素"] },
-    { "text": "腌肉：把猪肉装入密封袋，倒入腌料，按摩猪肉约 2 分钟让酱汁渗入肉中。随后排出袋内空气封口，放入冰箱冷藏腌制过夜，或至少腌 6 至 8 小时；不要超过 24 小时，否则影响肉质嫩度。烹饪前取出回温约 1 小时。", "ingredientNames": ["猪肩肉"], "timerSeconds": 120 },
-    { "text": "备烤箱：烤箱预热至 218 摄氏度。烤盘底部垫锡纸便于清洗，锡纸上放烤架；用夹子把肉条铺在烤架上；往盘底加 1 至 2 汤匙清水，帮助烤制时产生蒸汽，并防止滴落的酱汁烧焦冒烟。放入烤箱。", "ingredientNames": ["猪肩肉", "清水"] },
-    { "text": "烤制与刷酱之第一轮：烤 15 分钟后取出，两面刷上剩余的腌肉酱汁。", "ingredientNames": ["猪肩肉"], "timerSeconds": 900 },
-    { "text": "烤制与刷酱之第二轮：再烤 15 分钟，取出两面再刷一遍腌肉酱汁。", "ingredientNames": ["猪肩肉"], "timerSeconds": 900 },
-    { "text": "烤制与刷酱之第三轮：再烤 10 分钟，取出两面刷稀释的蜂蜜（蜂蜜加清水调开）。", "ingredientNames": ["蜂蜜", "清水"], "timerSeconds": 600 },
-    { "text": "烤制与刷酱之最后一轮：把烤箱温度调高至 232 摄氏度，再烤 5 分钟，取出两面刷蜂蜜，静置冷却几分钟。烤箱内累计约 50 分钟。", "ingredientNames": ["猪肩肉", "蜂蜜"], "timerSeconds": 300 },
-    { "text": "收尾：出炉后再刷一层稀释的蜂蜜，静置放凉约 5 分钟再切，享用。", "ingredientNames": ["蜂蜜", "清水"], "timerSeconds": 300 }
+    {
+      "text": "猪肩肉切成长条，每条约2.5厘米厚，尽量保持厚度均匀，使其同时成熟；用叉子反复扎透两面，帮助入味。",
+      "ingredientNames": [
+        "猪肩肉"
+      ]
+    },
+    {
+      "text": "把蒜盐、红糖、蚝油、生抽、海鲜酱、红葡萄酒、绍兴酒、红腐乳和五香粉混合至顺滑；想要颜色更红时，可加入红色色素。",
+      "ingredientNames": [
+        "蒜盐",
+        "红糖",
+        "蚝油",
+        "生抽",
+        "海鲜酱",
+        "红葡萄酒",
+        "绍兴酒",
+        "红腐乳",
+        "五香粉",
+        "红色色素"
+      ]
+    },
+    {
+      "text": "猪肉放入密封袋，倒入腌汁，按摩约2分钟后挤出空气封袋。放入冰箱腌过夜，至少6至8小时，不要超过24小时；烹调前取出回温约1小时。",
+      "ingredientNames": [
+        "猪肩肉"
+      ]
+    },
+    {
+      "text": "烤箱预热至218摄氏度。烤盘铺锡纸，放上烤架，把猪肉平铺在烤架上，烤盘底部加1至2汤匙清水防止滴油烧焦。",
+      "ingredientNames": [
+        "猪肩肉",
+        "清水"
+      ]
+    },
+    {
+      "text": "将蜂蜜与清水调匀作为刷汁。猪肉先烤15分钟，取出两面刷剩余腌汁；再烤15分钟并重复刷腌汁；再烤10分钟后改刷蜂蜜水；最后升至232摄氏度烤5分钟，两面刷蜂蜜水。总烤制时间约50分钟。",
+      "ingredientNames": [
+        "蜂蜜",
+        "清水",
+        "猪肩肉"
+      ]
+    },
+    {
+      "text": "出炉后再刷一次蜂蜜水，静置约5分钟再切片食用。",
+      "ingredientNames": [
+        "蜂蜜",
+        "清水"
+      ]
+    }
   ],
   "baseServings": 6,
-  "durationMinutes": 80,
-  "difficulty": "中等",
-  "tags": ["烤", "家常菜"],
   "sourceUrl": "https://www.madewithlau.com/recipes/char-siu-chinese-bbq-pork",
-  "author": "刘老爹 / 刘家厨房",
+  "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
-  "sourceNote": "食材、数量、步骤顺序与时间转录自公开来源页面及其结构化数据（页面标注备料 18 分钟、烹制 62 分钟、共 80 分钟、6 人份；烤箱合计约 50 分钟）。单位已换算：2 磅约 908 克，1 汤匙约 15 毫升，1 茶匙约 5 毫升；烤箱温度按公式换算为摄氏度（425 华氏度约 218 摄氏度，450 华氏度约 232 摄氏度）。步骤中“烤 15 分钟”“烤 10 分钟”等计时均取自原文的分段刷酱方案。"
+  "sourceNote": "根据来源页面公开的6人份配料、80分钟总时长和6步方法整理；腌制过夜时间按页面方法保留在步骤中，烘烤温度和分段刷汁顺序按页面公开内容换算为摄氏度。",
+  "nutrition": {
+    "kcal": 197,
+    "proteinG": 6,
+    "carbsG": 35.4,
+    "fatG": 3.3
+  },
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 80,
+  "difficulty": "中等"
 }

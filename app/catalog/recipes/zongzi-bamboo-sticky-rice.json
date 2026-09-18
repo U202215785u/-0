@@ -2,59 +2,202 @@
   "id": "zongzi-bamboo-sticky-rice",
   "title": "咸肉粽",
   "ingredients": [
-    { "name": "糯米", "amount": 908.0, "unit": "克", "category": "米面主食", "pantry": false, "mergeKey": "glutinous-rice" },
-    { "name": "五花肉", "amount": 454.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "pork-belly" },
-    { "name": "粽叶", "amount": 80.0, "unit": "片", "category": "干货", "pantry": false, "mergeKey": "bamboo-leaf" },
-    { "name": "去皮绿豆", "amount": 454.0, "unit": "克", "category": "豆制品", "pantry": false, "mergeKey": "mung-bean" },
-    { "name": "花生", "amount": 336.0, "unit": "克", "category": "干货", "pantry": false, "mergeKey": "peanut" },
-    { "name": "大干虾仁", "amount": 56.0, "unit": "克", "category": "水产", "pantry": false, "mergeKey": "dried-shrimp" },
-    { "name": "广式腊肠", "amount": 2.0, "unit": "根", "category": "肉类", "pantry": false, "mergeKey": "chinese-sausage" },
-    { "name": "咸蛋黄", "amount": 10.0, "unit": "个", "category": "蛋类", "pantry": false, "mergeKey": "salted-egg-yolk" },
-    { "name": "干香菇", "amount": 15.0, "unit": "朵", "category": "干货", "pantry": false, "mergeKey": "dried-shiitake" },
-    { "name": "棉线", "quantityText": "适量", "category": "其他", "pantry": false, "mergeKey": "cotton-twine" },
-    { "name": "盐", "amount": 17.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
-    { "name": "五香粉", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "five-spice" },
-    { "name": "生抽", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
-    { "name": "鸡粉", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "chicken-bouillon" },
-    { "name": "料酒", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-wine" },
-    { "name": "糖", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
-    { "name": "橄榄油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "olive-oil" }
+    {
+      "name": "糯米",
+      "mergeKey": "glutinous-rice",
+      "amount": 907,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 454,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "粽叶",
+      "mergeKey": "bamboo-leaf",
+      "amount": 80,
+      "unit": "片",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "去皮绿豆",
+      "mergeKey": "mung-bean",
+      "amount": 454,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花生",
+      "mergeKey": "peanut",
+      "amount": 340,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "虾米",
+      "mergeKey": "dried-shrimp",
+      "amount": 57,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "腊肠",
+      "mergeKey": "chinese-sausage",
+      "amount": 2,
+      "unit": "根",
+      "category": "肉类"
+    },
+    {
+      "name": "咸蛋黄",
+      "mergeKey": "salted-egg-yolk",
+      "amount": 10,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "干香菇",
+      "mergeKey": "dried-shiitake",
+      "amount": 15,
+      "unit": "朵",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 12.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "五香粉",
+      "mergeKey": "five-spice-powder",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍兴酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
   ],
   "steps": [
     {
-      "text": "这道粽子的准备通常要跨一至两天，先做整体安排：周六上午腌五花肉（至少腌一夜）并浸泡、煮洗粽叶（也泡一夜）；周日早晨淘洗、浸泡、切配其余食材并调味；周日下午包粽，之后煮 3 小时。若时间紧或人手多，也可以把浸泡与腌制合并，一天完成。",
-      "ingredientNames": []
+      "text": "五花肉切成约2.5厘米小块；粽叶清洗后煮软，再浸泡保持柔韧。",
+      "ingredientNames": [
+        "五花肉",
+        "粽叶"
+      ]
     },
     {
-      "text": "五花肉切成约 2.5 厘米见方的块。碗中调腌料：盐（1 茶匙）、五香粉（半茶匙）、生抽（1 汤匙）、鸡粉（1 茶匙）、料酒（1 茶匙），搅匀后放入肉块，拌约 60 至 90 秒；入冰箱至少腌 3 小时，最好腌过夜。",
-      "timerSeconds": 10800,
-      "ingredientNames": ["五花肉", "盐", "五香粉", "生抽", "鸡粉", "料酒"]
+      "text": "糯米、绿豆、花生、虾米、腊肠、咸蛋黄和干香菇分别清洗、浸泡、切配；五花肉用食盐、五香粉、生抽、鸡粉和绍兴酒腌制。",
+      "ingredientNames": [
+        "糯米",
+        "去皮绿豆",
+        "花生",
+        "虾米",
+        "腊肠",
+        "咸蛋黄",
+        "干香菇",
+        "五花肉",
+        "食盐",
+        "五香粉",
+        "生抽",
+        "鸡粉",
+        "绍兴酒"
+      ]
     },
     {
-      "text": "处理干粽叶：先在冷水中浸泡 30 至 60 分钟使其回软（可用小碗装满水压住叶片防浮起）；再用大锅加冷水没过粽叶，盖盖大火煮开转中火煮 15 至 20 分钟（须冷水下锅，骤冷骤热易开裂）；逐片用干净海绵两面擦洗干净。若要隔夜再包，就把粽叶泡在大盆清水中保持湿润。",
-      "ingredientNames": ["粽叶"]
+      "text": "糯米、绿豆和花生分别按来源页面分组加食盐、白糖和橄榄油调味，馅料分份备好。",
+      "ingredientNames": [
+        "糯米",
+        "去皮绿豆",
+        "花生",
+        "食盐",
+        "白糖",
+        "橄榄油"
+      ]
     },
     {
-      "text": "备馅：糯米、去皮绿豆、花生、大干虾仁、干香菇分别淘洗（加水揉搓、倒水换新水，每样重复 3 遍），再各自泡水 30 分钟，沥干备用；泡太久米与豆会过软。切配：广式腊肠斜切成约 1.2 厘米厚片，干虾仁对半，干香菇切三份，咸蛋黄对半；未完全泡发的香菇切后继续浸泡。调味：糯米加盐（1 茶匙半）、糖（1 茶匙）、橄榄油（1 汤匙）拌匀约 60 至 90 秒；去皮绿豆只加盐（1 茶匙）拌匀。",
-      "timerSeconds": 1800,
-      "ingredientNames": ["糯米", "去皮绿豆", "花生", "大干虾仁", "干香菇", "广式腊肠", "咸蛋黄", "盐", "糖", "橄榄油"]
+      "text": "粽叶折成漏斗形，依次填入糯米、绿豆、花生、肉和其他馅料，再覆盖糯米，折叶封口并用棉绳扎紧。",
+      "ingredientNames": [
+        "粽叶",
+        "糯米",
+        "去皮绿豆",
+        "花生",
+        "五花肉",
+        "腊肠",
+        "咸蛋黄",
+        "干香菇"
+      ]
     },
     {
-      "text": "包粽（此步在文字中最难描述，建议看原视频）：取一大一小两片粽叶反向叠放（叶尖圆头各朝一端），亮面朝上、错开约 2.5 厘米，对折成漏斗袋，再沿底边折一道约 2.5 厘米的边形成袋角；袋中按顺序放：2 勺糯米、1 勺去皮绿豆、1 块五花肉、1 片广式腊肠、1 块咸蛋黄、2 只干虾仁、2 片干香菇，再盖 1 勺去皮绿豆、2 勺糯米，每层铺匀；取第三片粽叶绕袋裹紧，两侧向内折、余叶向底部收拢，用棉线缠绕数圈并打十字、双结固定，剪掉多余线头与叶尖。不用包得完美，只要不漏馅即可；叶片有裂可另补一片。",
-      "ingredientNames": ["粽叶", "糯米", "去皮绿豆", "五花肉", "广式腊肠", "咸蛋黄", "大干虾仁", "干香菇", "棉线"]
-    },
-    {
-      "text": "大锅放入全部粽子，加冷水完全没过，盖盖大火煮开转中火煮 3 小时；中途水分会蒸发，每 30 分钟检查一次确保粽子没入水中，必要时补加沸水。煮够 3 小时即可开吃。",
-      "timerSeconds": 10800,
-      "ingredientNames": []
+      "text": "粽子放入大锅，加冷水完全没过，大火煮沸后保持沸腾约3小时，捞出沥水。",
+      "ingredientNames": [
+        "粽叶"
+      ]
     }
   ],
   "baseServings": 4,
   "durationMinutes": 120,
-  "difficulty": "较难",
-  "tags": ["煮", "主食", "点心", "家常菜"],
   "sourceUrl": "https://www.madewithlau.com/recipes/bamboo-sticky-rice",
-  "author": "Daddy Lau",
-  "fidelity": "verbatim-public",
-  "sourceNote": "转录自公开菜谱页面（页面署名作者为刘家父子）。食材与步骤按原文照录，同类食材已合并取合计（盐三处共 3 茶匙半）；单位换算：1 磅≈454 克、1 盎司≈28 克、1 茶匙≈5 毫升、1 汤匙≈15 毫升。总用时 120 分钟（备料 60 分钟＋烹饪 60 分钟）取自页面标注，供 4 人食用；隔夜腌肉与泡叶时间另计。腌肉至少 3 小时、浸泡 30 分钟、煮 3 小时为原文明确计时。"
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、60分钟准备、60分钟页面总计字段及概览、包制和煮制方法；由于页面正文另注明最终煮制约3小时，执行步骤保留页面明确的3小时煮制。",
+  "nutrition": {
+    "kcal": 1100.5,
+    "proteinG": 26.8,
+    "carbsG": 89.1,
+    "fatG": 68.8
+  },
+  "tags": [
+    "烤"
+  ],
+  "difficulty": "中等"
 }

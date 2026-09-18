@@ -1,4 +1,4 @@
-# 菜品索引（已核验 57 道）
+# 菜品索引（已核验 1108 道）
 
 以下每一条都直接链接至署名创作者或机构的公开原始页面。`verbatim-public` 表示原页公开了食材与方法；`structured-transcription` 表示本库另有一份仅按公开内容整理的 Cooklang 文件；`source-summary` 表示原页可用，但本库不把它转为本地可执行文件。
 

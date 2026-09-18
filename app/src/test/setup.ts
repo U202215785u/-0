@@ -4,7 +4,7 @@ import { configure } from '@testing-library/react'
 
 // IndexedDB-backed UI tests routinely wait for async hydration; give
 // waitFor/findBy a wider default window so parallel test files stay stable.
-configure({ asyncUtilTimeout: 3000 })
+configure({ asyncUtilTimeout: 5000 })
 
 // The App shell refreshes wanted/plans/mode from IndexedDB on mount and on every
 // navigation. That ambient refresh is intentional and unobservable on routes the

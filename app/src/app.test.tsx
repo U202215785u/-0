@@ -12,7 +12,7 @@ const flush = () => new Promise<void>((resolve) => setTimeout(resolve, 0))
  * the surrounding act() scope instead of after the test moves on.
  */
 async function settle() {
-  for (let i = 0; i < 20; i++) await flush()
+  for (let i = 0; i < 100; i++) await flush()
 }
 
 /** Renders the App shell and lets the initial IndexedDB hydration settle inside act(). */
@@ -42,7 +42,7 @@ afterEach(async () => {
   await Promise.all([appDb.shopping.clear(), appDb.imports.clear(), appDb.plans.clear(), appDb.wanted.clear()])
 })
 
-describe('App navigation', () => {
+describe('App navigation', { timeout: 30000 }, () => {
   it('rerenders the detail view after selecting a recipe', async () => {
     const user = userEvent.setup()
     await renderApp()

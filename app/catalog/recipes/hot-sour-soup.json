@@ -2,45 +2,202 @@
   "id": "hot-sour-soup",
   "title": "酸辣汤",
   "ingredients": [
-    { "name": "番茄", "amount": 2.0, "unit": "个", "category": "蔬菜", "pantry": false, "mergeKey": "tomato" },
-    { "name": "胡萝卜", "amount": 56.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "carrot" },
-    { "name": "海鲜菇", "amount": 56.0, "unit": "克", "category": "菌菇", "pantry": false, "mergeKey": "seafood-mushroom" },
-    { "name": "杏鲍菇", "amount": 56.0, "unit": "克", "category": "菌菇", "pantry": false, "mergeKey": "king-oyster-mushroom" },
-    { "name": "香菇", "amount": 3.0, "unit": "朵", "category": "菌菇", "pantry": false, "mergeKey": "shiitake-mushroom" },
-    { "name": "干木耳", "amount": 7.0, "unit": "克", "category": "干货", "pantry": false, "mergeKey": "wood-ear-mushroom" },
-    { "name": "鸡蛋", "amount": 2.0, "unit": "个", "category": "蛋类", "pantry": false, "mergeKey": "egg" },
-    { "name": "红甜椒", "amount": 28.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "bell-pepper" },
-    { "name": "小葱", "amount": 2.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "green-onion" },
-    { "name": "干辣椒", "amount": 2.0, "unit": "个", "category": "干货", "pantry": true, "mergeKey": "dried-chili" },
-    { "name": "豆腐", "amount": 392.0, "unit": "克", "category": "豆制品", "pantry": false, "mergeKey": "tofu" },
-    { "name": "水", "amount": 2430.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" },
-    { "name": "醋", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "vinegar" },
-    { "name": "白胡椒粉", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
-    { "name": "盐", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
-    { "name": "糖", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
-    { "name": "生抽", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
-    { "name": "老抽", "amount": 7.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "dark-soy-sauce" },
-    { "name": "玉米淀粉", "amount": 45.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
-    { "name": "香油", "quantityText": "适量", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
-    { "name": "玉米油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "corn-oil" }
+    {
+      "name": "番茄",
+      "mergeKey": "tomato",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 56,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "海鲜菇",
+      "mergeKey": "seafood-mushroom",
+      "amount": 56,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "杏鲍菇",
+      "mergeKey": "king-oyster-mushroom",
+      "amount": 56,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "amount": 3,
+      "unit": "朵",
+      "category": "菌菇"
+    },
+    {
+      "name": "干木耳",
+      "mergeKey": "wood-ear",
+      "amount": 7,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "红甜椒",
+      "mergeKey": "red-bell-pepper",
+      "amount": 28,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 2,
+      "unit": "段",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 2,
+      "unit": "根",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "amount": 392,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 1200,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "米醋",
+      "mergeKey": "vinegar",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 45,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
   ],
   "steps": [
-    { "text": "洗净所有蔬菜并切好：番茄、胡萝卜、海鲜菇、杏鲍菇、香菇、木耳、红甜椒、豆腐、小葱；干木耳提前用温水泡发约十分钟。", "timerSeconds": 600, "ingredientNames": ["番茄", "胡萝卜", "海鲜菇", "杏鲍菇", "香菇", "干木耳", "红甜椒", "豆腐", "小葱"] },
-    { "text": "碗中把玉米淀粉和水拌成均匀芡汁；另一个碗磕入鸡蛋打散；两碗都留待下锅前再搅匀。", "ingredientNames": ["玉米淀粉", "水", "鸡蛋"] },
-    { "text": "提前把水烧开备用。", "ingredientNames": ["水"] },
-    { "text": "炉灶开最大火热锅，加入玉米油和干辣椒，把辣椒在油里翻炒约一分钟让油带辣香，之后捞出辣椒不用。", "timerSeconds": 60, "ingredientNames": ["玉米油", "干辣椒"] },
-    { "text": "下入番茄丁炒三十到六十秒，然后加入烧开的水。", "timerSeconds": 45, "ingredientNames": ["番茄", "水"] },
-    { "text": "加入白胡椒粉搅拌十五到三十秒；再加入盐、糖、生抽和老抽，继续搅拌十五到三十秒；最后加入豆腐、菌菇和蔬菜（小葱除外），轻轻搅拌五到十秒。", "timerSeconds": 30, "ingredientNames": ["白胡椒粉", "盐", "糖", "生抽", "老抽", "豆腐", "海鲜菇", "杏鲍菇", "香菇", "干木耳", "红甜椒", "胡萝卜"] },
-    { "text": "盖上锅盖（用稍小的锅盖能更快烧开），约三到四分钟烧开。", "timerSeconds": 210, "ingredientNames": [] },
-    { "text": "开盖后先把芡汁再搅匀，边搅拌边于五十到六十秒内缓缓倒入；再把蛋液重新打散，沿锅边于二十到三十秒内缓缓倒入（倒蛋时不必搅拌）；最后加入醋和香油，醋放最后才能保留风味；尝味调整。", "timerSeconds": 60, "ingredientNames": ["玉米淀粉", "水", "鸡蛋", "醋", "香油"] },
-    { "text": "关火，把汤盛入碗中，撒上葱花点缀即可。", "ingredientNames": ["小葱"] }
+    {
+      "text": "所有蔬菜洗净后切好。"
+    },
+    {
+      "text": "小碗中混合玉米淀粉和清水，用勺子搅拌成均匀淀粉浆。"
+    },
+    {
+      "text": "炒锅调至最高火并烧热。"
+    },
+    {
+      "text": "番茄丁炒30至60秒，加入沸水。"
+    },
+    {
+      "text": "盖上锅盖；来源页面说明较小的锅盖有助于更快烧开。"
+    },
+    {
+      "text": "汤沸腾后揭盖，加入页面列出的调味料。"
+    },
+    {
+      "text": "关火，将汤盛入碗中，用葱末装饰。"
+    }
   ],
   "baseServings": 4,
   "durationMinutes": 30,
-  "difficulty": "中等",
-  "tags": ["煮", "汤羹", "家常菜", "素菜"],
   "sourceUrl": "https://www.madewithlau.com/recipes/hot-sour-soup",
-  "author": "刘爸爸",
+  "author": "Daddy Lau / Made With Lau",
   "fidelity": "structured-transcription",
-  "sourceNote": "转录自「与刘家一起做菜」网站公开菜谱页的页面正文与内嵌结构化数据（原作者：刘爸爸），并翻译为简体中文。单位换算：一盎司约合二十八克，一茶匙约合五毫升，一汤匙约合十五毫升，一杯约合二百四十毫升。原文标注备料十分钟、烹饪二十分钟、合计约三十分钟，供四人食用。页面食材中水出现三处（调芡汁、提前烧开、下锅），已合并为一笔合计约二千四百三十毫升；香油原文未给数量，记为适量。步骤计时（泡发木耳约十分钟、炒辣椒约一分钟、炒番茄三十至六十秒、调味搅拌各十五至三十秒、烧开约三至四分钟、勾芡五十至六十秒、下蛋二十至三十秒）取自原文给出的区间，本文件取约值。"
+  "sourceNote": "逐页核验来源页面公开的4人份、准备10分钟、烹调20分钟、总时长30分钟、22项配料和7段方法；保留番茄炒制30至60秒、淀粉浆和盖锅烧开信息。",
+  "tags": [
+    "煮"
+  ],
+  "difficulty": "中等"
 }

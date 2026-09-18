@@ -2,63 +2,253 @@
   "id": "clay-pot-rice",
   "title": "煲仔饭",
   "ingredients": [
-    { "name": "长粒米", "amount": 280.0, "unit": "克", "category": "米面主食", "pantry": false, "mergeKey": "long-grain-rice" },
-    { "name": "广式腊肠", "amount": 2.0, "unit": "根", "category": "肉类", "pantry": false, "mergeKey": "chinese-sausage" },
-    { "name": "干香菇", "amount": 28.0, "unit": "克", "category": "干货", "pantry": false, "mergeKey": "dried-shiitake" },
-    { "name": "鸡胸肉", "amount": 1.0, "unit": "块", "category": "肉类", "pantry": false, "mergeKey": "chicken-breast" },
-    { "name": "带骨鸡腿", "amount": 1.0, "unit": "块", "category": "肉类", "pantry": false, "mergeKey": "chicken-thigh" },
-    { "name": "红葱头", "amount": 1.0, "unit": "个", "category": "蔬菜", "pantry": false, "mergeKey": "shallot" },
-    { "name": "姜", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "ginger" },
-    { "name": "香葱", "amount": 2.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "scallion" },
-    { "name": "生抽", "amount": 20.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "soy-sauce" },
-    { "name": "蚝油", "amount": 52.5, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "oyster-sauce" },
-    { "name": "盐", "amount": 2.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "salt" },
-    { "name": "糖", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
-    { "name": "玉米淀粉", "amount": 17.5, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
-    { "name": "料酒", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-wine" },
-    { "name": "白胡椒粉", "amount": 1.25, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "white-pepper" },
-    { "name": "食用油", "amount": 50.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cooking-oil" },
-    { "name": "香油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
-    { "name": "日式酱油", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": false, "mergeKey": "soy-sauce" },
-    { "name": "水", "amount": 353.0, "unit": "毫升", "category": "其他", "pantry": false, "mergeKey": "water" }
+    {
+      "name": "长粒米",
+      "mergeKey": "rice",
+      "amount": 280,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "广式腊肠",
+      "mergeKey": "chinese-sausage",
+      "amount": 2,
+      "unit": "根",
+      "category": "肉类"
+    },
+    {
+      "name": "干香菇",
+      "mergeKey": "dried-shiitake",
+      "amount": 28,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡胸肉",
+      "mergeKey": "chicken-breast",
+      "amount": 1,
+      "unit": "块",
+      "category": "肉类"
+    },
+    {
+      "name": "带骨鸡腿",
+      "mergeKey": "chicken-thigh",
+      "amount": 1,
+      "unit": "块",
+      "category": "肉类"
+    },
+    {
+      "name": "红葱头",
+      "mergeKey": "shallot",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 60,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "沸水",
+      "mergeKey": "water",
+      "quantityText": "11盎司",
+      "category": "其他"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
   ],
   "steps": [
     {
-      "text": "长粒米淘洗三次：边洗边用手揉搓，每次倒掉水换清水重洗。之后用沸水浸泡大米约 10 分钟，让米提前吸水、缩短后续烹饪时间。同时把广式腊肠与干香菇也分别用沸水浸泡：腊肠去表面浮尘，干香菇泡约 10 分钟至变软。",
-      "timerSeconds": 600,
-      "ingredientNames": ["长粒米", "广式腊肠", "干香菇"]
+      "text": "米洗三遍，每次揉洗后倒掉水并换新水。"
     },
     {
-      "text": "带骨鸡腿先对半切开，再切成约 2.5 至 5 厘米见方的小块；鸡胸肉对半剖开再切约 1.2 厘米厚的厚片。切完后用水冲洗鸡块，轻轻搅动后逐块捞出，检查并去除浮起的碎骨，放入沥水篮。",
-      "ingredientNames": ["带骨鸡腿", "鸡胸肉"]
+      "text": "鸡腿从中间剖开，再切成每块约1至2英寸的小块；若鸡腿带小腿部分，也切成同样大小。"
     },
     {
-      "text": "泡好的干香菇去蒂，切成三份（大朵可再多切几刀或对半）。红葱头与姜分别切薄片后剁成细末；香葱切成小粒，单独留作装饰，勿与切鸡肉的砧板混用。",
-      "ingredientNames": ["干香菇", "红葱头", "姜", "香葱"]
+      "text": "泡发好的香菇剪掉并丢弃根部，切成三份；大小不同的香菇按实际大小切分。"
     },
     {
-      "text": "用厨房纸把鸡肉拍干，便于入味。另取一碗调腌料：生抽（1 汤匙）、蚝油（2 汤匙）、盐（半茶匙）、糖（1 茶匙）、玉米淀粉（1 汤匙）、水（3 汤匙）、料酒（1 茶匙）、白胡椒粉（四分之一茶匙），拌匀后倒入鸡块，让每块都裹上料汁，再加入剁好的红葱头末与姜末。",
-      "ingredientNames": ["生抽", "蚝油", "盐", "糖", "玉米淀粉", "水", "料酒", "白胡椒粉", "带骨鸡腿", "鸡胸肉", "红葱头", "姜"]
+      "text": "鸡肉用厨房纸吸干，帮助吸收味道；带骨鸡肉与鸡胸肉混合。"
     },
     {
-      "text": "腌香菇：干香菇加蚝油（半汤匙）、糖（1 茶匙）、玉米淀粉（半茶匙）拌匀至均匀裹料。另调蘸汁备用：蚝油（1 汤匙）、生抽（1 茶匙）、日式酱油（1 茶匙）、糖（1 茶匙）混合成汁，出锅后浇在饭上。",
-      "ingredientNames": ["干香菇", "蚝油", "糖", "玉米淀粉", "生抽", "日式酱油"]
+      "text": "香菇加入蚝油、白糖和玉米淀粉，拌至均匀裹上。"
     },
     {
-      "text": "砂锅下米（倒掉泡米水不用）：拌入食用油（1 茶匙）让米粒松散、利于形成锅巴，加入约 11 盎司（约 310 克）沸水，盖盖中火煮；燃气灶最适宜，电炉需垫高隔热防裂。饭开始煮时，把食用油（1 汤匙）与香油（1 汤匙）拌入腌好的鸡肉里。约煮开时揭盖拨匀米饭，待水收干后铺料：两侧各放一根广式腊肠，鸡肉平铺一层，再放香菇摊开。全部下锅后转小火再煮 5 至 10 分钟，听到噼啪声即转中火烘锅巴：用干毛巾或隔热垫扶住锅，倾斜砂锅让四壁轮流贴近火源，每侧约 2 分钟；随后转小火，盖着盖子沿锅盖边淋入食用油（2 汤匙），低火再煮 2 分钟，听到噼啪声后再次倾斜烘锅巴，每侧约 2 分钟，留意别烧焦。",
-      "ingredientNames": ["长粒米", "食用油", "水", "广式腊肠", "带骨鸡腿", "鸡胸肉", "干香菇", "香油"]
+      "text": "来源页面建议使用燃气灶；砂锅直接接触热源可能开裂，电炉上应在炉面与砂锅之间留出间隔。"
     },
     {
-      "text": "关火开盖，把切好的香葱粒撒在饭上。砂锅非常烫，上桌时提醒客人；腊肠整根可端上桌再切。随饭浇上调好的生抽蚝油酱汁，剩余酱汁留碗中，按各人喜好自行添加。",
-      "ingredientNames": ["香葱", "生抽", "蚝油", "日式酱油", "糖"]
+      "text": "揭盖后加入切好的葱花装饰，享用。"
     }
   ],
   "baseServings": 4,
-  "durationMinutes": 55,
-  "difficulty": "中等",
-  "tags": ["主食", "煮", "家常菜"],
   "sourceUrl": "https://www.madewithlau.com/recipes/clay-pot-rice",
-  "author": "Daddy Lau",
-  "fidelity": "verbatim-public",
-  "sourceNote": "转录自公开菜谱页面（页面署名作者为刘家父子）。食材与步骤按原文照录，同类食材已合并取合计；单位换算：1 盎司≈28 克、1 茶匙≈5 毫升、1 汤匙≈15 毫升。总用时 55 分钟（备料 20 分钟＋烹饪 35 分钟）取自页面标注，供 4 人食用；泡米约 10 分钟与烘锅巴每侧约 2 分钟为原文明确计时。"
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、准备20分钟、烹调35分钟、总时长55分钟、28项配料和7段方法；保留米洗三遍、鸡肉切块尺寸和砂锅安全提示。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 55,
+  "difficulty": "中等"
 }

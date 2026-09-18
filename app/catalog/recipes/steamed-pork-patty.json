@@ -2,33 +2,145 @@
   "id": "steamed-pork-patty",
   "title": "榨菜蒸猪肉饼",
   "ingredients": [
-    { "name": "猪肩肉", "amount": 336.0, "unit": "克", "category": "肉类", "pantry": false, "mergeKey": "pork-shoulder" },
-    { "name": "榨菜", "amount": 42.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "pickled-mustard" },
-    { "name": "马蹄", "amount": 112.0, "unit": "克", "category": "蔬菜", "pantry": false, "mergeKey": "water-chestnut" },
-    { "name": "葱", "amount": 2.0, "unit": "根", "category": "蔬菜", "pantry": false, "mergeKey": "green-onion" },
-    { "name": "蚝油", "amount": 15.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "oyster-sauce" },
-    { "name": "白糖", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sugar" },
-    { "name": "玉米淀粉", "amount": 30.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "cornstarch" },
-    { "name": "香油", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "sesame-oil" },
-    { "name": "鸡粉", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "chicken-bouillon" },
-    { "name": "白胡椒粉", "amount": 1.25, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "white-pepper" },
-    { "name": "玉米油", "amount": 5.0, "unit": "毫升", "category": "调味料", "pantry": true, "mergeKey": "corn-oil" }
+    {
+      "name": "猪肩肉",
+      "mergeKey": "pork",
+      "amount": 340,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "榨菜",
+      "mergeKey": "pickled-mustard",
+      "amount": 43,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "马蹄",
+      "mergeKey": "water-chestnut",
+      "amount": 113,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "quantityText": "2段",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
   ],
   "steps": [
-    { "text": "将猪肩肉剔去较肥的油脂，先切条、切片，再切成小丁，放入清水盆中轻轻揉洗去血水，捞入漏勺沥水（也可用较肥的五花肉，但避免猪排、里脊等过瘦部位）。", "ingredientNames": ["猪肩肉"] },
-    { "text": "榨菜切成细条；马蹄用刀背或锅铲压成小块（切丁口感偏硬）；葱切小段，葱白与葱绿分开，葱白拌入肉馅，葱绿留作点缀。", "ingredientNames": ["榨菜", "马蹄", "葱"] },
-    { "text": "再次用力挤干猪肉中的水分，加入蚝油、白糖、玉米淀粉、香油、鸡粉和白胡椒粉。", "ingredientNames": ["猪肩肉", "蚝油", "白糖", "玉米淀粉", "香油", "鸡粉", "白胡椒粉"] },
-    { "text": "用筷子将猪肉与调料充分搅拌约一分钟至肉馅发黏起胶，再加入葱白、马蹄和榨菜拌匀约两分钟。", "timerSeconds": 180, "ingredientNames": ["猪肩肉", "葱", "马蹄", "榨菜"] },
-    { "text": "盘面抹一半玉米油防粘，另一半玉米油拌入肉馅；将肉馅倒入盘中，用勺子压平成饼状，表面再抹少许油增亮。", "ingredientNames": ["玉米油"] },
-    { "text": "炒锅大火烧开足量清水，放入蒸架，水面刚好没过蒸架或触及盘底；水开后放入肉饼盘，盖盖蒸十五分钟（若用金属盘可减两三分钟）。", "timerSeconds": 900, "ingredientNames": ["猪肩肉"] },
-    { "text": "小心取出盘子，撒上预留的葱绿点缀，趁热上桌。", "ingredientNames": ["葱"] }
+    {
+      "text": "猪肩肉修去多余肥油，切条、切片，再剁成小粒；榨菜和马蹄切碎，葱切末备用。",
+      "ingredientNames": [
+        "猪肩肉",
+        "榨菜",
+        "马蹄",
+        "葱"
+      ]
+    },
+    {
+      "text": "猪肉挤去多余水分，加入蚝油、白糖、玉米淀粉、芝麻油、鸡粉和白胡椒粉，用筷子搅拌约1分钟，至肉馅黏稠。",
+      "ingredientNames": [
+        "猪肩肉",
+        "蚝油",
+        "白糖",
+        "玉米淀粉",
+        "芝麻油",
+        "鸡粉",
+        "白胡椒粉"
+      ]
+    },
+    {
+      "text": "盘面薄薄抹食用油，将肉馅压成均匀肉饼。",
+      "ingredientNames": [
+        "食用油",
+        "猪肩肉"
+      ]
+    },
+    {
+      "text": "炒锅加水和蒸架，大火烧沸，水面刚接触盘底即可。",
+      "ingredientNames": []
+    },
+    {
+      "text": "放入肉饼，盖盖蒸15分钟；取出后撒葱末。",
+      "ingredientNames": [
+        "葱"
+      ]
+    }
   ],
   "baseServings": 4,
-  "durationMinutes": 45,
-  "difficulty": "简单",
-  "tags": ["蒸", "家常菜"],
   "sourceUrl": "https://www.madewithlau.com/recipes/steamed-pork-patty",
-  "author": "Daddy Lau",
-  "fidelity": "verbatim-public",
-  "sourceNote": "转录自老刘家粤菜网站的公开菜谱页面，原文标准备料二十五分钟、蒸制二十分钟、共四十五分钟、四人份；盎司按每盎司二十八克、茶匙按五毫升、汤匙按十五毫升换算，干粉类按同一体积表折算为毫升；广式做法中猪肉先水洗去血水；来源未提供营养数据。"
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "按来源页面公开的4人份、45分钟、11项配料和7段方法翻译整理；保留剁肉、挤水、抹油和15分钟蒸制要点。",
+  "nutrition": {
+    "kcal": 121.7,
+    "proteinG": 4.3,
+    "carbsG": 17.8,
+    "fatG": 3.6
+  },
+  "tags": [
+    "蒸",
+    "烤"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
 }

@@ -1,0 +1,161 @@
+{
+  "id": "steamed-spare-ribs-black-bean",
+  "title": "豉汁蒸排骨",
+  "ingredients": [
+    {
+      "name": "豆豉",
+      "mergeKey": "douchi",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "陈皮",
+      "mergeKey": "chenpi",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "amount": 448,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "chili",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "quantityText": "2段",
+      "category": "蔬菜"
+    },
+    {
+      "name": "植物油",
+      "mergeKey": "cooking-oil",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍兴酒",
+      "mergeKey": "cooking-wine",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "豆豉放入碗中，在流动水下冲洗15至20秒，期间轻轻按摩豆豉。"
+    },
+    {
+      "text": "沿骨缝把排骨切成约1至1.5英寸的小块，放入碗中。"
+    },
+    {
+      "text": "来源页面将腌制分为三部分。"
+    },
+    {
+      "text": "为节省后续时间，可先烧开3至4杯水，蒸排骨时加入炒锅。"
+    },
+    {
+      "text": "炒锅大火加热，把蒸架放在锅中央，加入足量沸水，水面刚好没过蒸架。"
+    },
+    {
+      "text": "将排骨盘小心放到蒸架上，确认盘底有少量水接触。"
+    },
+    {
+      "text": "来源页面提示完成后即可享用。"
+    }
+  ],
+  "baseServings": 4,
+  "sourceUrl": "https://www.madewithlau.com/recipes/steamed-spare-ribs",
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、准备25分钟、烹调20分钟、总时长45分钟、16项配料和7段公开方法；保留排骨切块尺寸与蒸架水位说明。",
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}
