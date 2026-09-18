@@ -1,0 +1,61 @@
+{
+  "id": "xf-11728",
+  "title": "欢喜燕窝",
+  "ingredients": [
+    {
+      "name": "燕窝",
+      "mergeKey": "yanwo",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "纯净水",
+      "mergeKey": "water",
+      "quantityText": "适量",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "一般自吃保养每周2-3次，一盒30克正好是一个月的使用量，每次用3克干货就可以了,"
+    },
+    {
+      "text": "把燕盏放入碗中，加入纯净水或冷开水，水要完全没过燕窝,"
+    },
+    {
+      "text": "浸泡4~5个小时，体积膨胀数倍，可以看到泡发的很好了,"
+    },
+    {
+      "text": "放入过滤网内冲洗除去杂质，如果发现有细小的绒毛可以用镊子剔除,"
+    },
+    {
+      "text": "沿着燕窝的文理顺岔儿撕成条状,"
+    },
+    {
+      "text": "把燕窝放入炖盅，加入纯净水或冷开水，水量要高过燕窝一指节,"
+    },
+    {
+      "text": "加盖放入锅内，水位至炖盅一半高,"
+    },
+    {
+      "text": "隔水小火慢炖1个半小时即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11728/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 1.2,
+    "proteinG": 0,
+    "carbsG": 0.2,
+    "fatG": 0
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

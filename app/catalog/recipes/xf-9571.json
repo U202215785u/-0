@@ -1,0 +1,81 @@
+{
+  "id": "xf-9571",
+  "title": "黄金玉米烙",
+  "ingredients": [
+    {
+      "name": "生玉米",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "生玉米用刮菜板搓碎，保留汁水,"
+    },
+    {
+      "text": "打入鸡蛋两个，加入面粉、适量淀粉,"
+    },
+    {
+      "text": "加入葱花、盐蚝油、生抽、鸡粉等调味并搅拌均匀，制成黏稠适中的玉米面糊,"
+    },
+    {
+      "text": "平锅内放少许油，倒入玉米面糊，摊成薄饼，煎熟一面，翻转煎另一面，表面金黄时即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9571/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "蒸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

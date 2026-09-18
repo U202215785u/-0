@@ -1,0 +1,117 @@
+{
+  "id": "xf-10246",
+  "title": "香菇滑鸡煲仔饭",
+  "ingredients": [
+    {
+      "name": "干冬菇",
+      "mergeKey": "dried-shiitake",
+      "amount": 8,
+      "unit": "朵",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "米",
+      "mergeKey": "rice",
+      "amount": 480,
+      "unit": "毫升",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "鸡肉",
+      "mergeKey": "chicken",
+      "amount": 350,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "青菜",
+      "mergeKey": "greens",
+      "amount": 3,
+      "unit": "棵",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡斩小件，清洗后沥干水分，用姜丝、盐2毫升、生抽5毫升、生粉2毫升拌匀，腌20分钟,"
+    },
+    {
+      "text": "米清洗后滴几滴油拌匀,"
+    },
+    {
+      "text": "把米倒进砂锅，加入泡冬菇的水（我放的水跟平时煮饭一样多）,"
+    },
+    {
+      "text": "中大火煮至水开后，加入冬菇，转小火,"
+    },
+    {
+      "text": "转小火后煮至“虾眼水”时，也就是开始出现蜂窝状时，加入鸡肉,"
+    },
+    {
+      "text": "这个时候一定要守在锅旁，听着锅底发出“呖呖”声时，把鸡肉翻面，淋进酱汁,"
+    },
+    {
+      "text": "并戴上手套，移动砂锅，让砂锅底部均匀受热,"
+    },
+    {
+      "text": "饭熟了以后，加入灼烫熟的青菜，撒点葱花就可以了,"
+    },
+    {
+      "text": "吃时把饭菜拌匀再吃，脆脆的锅巴最好吃"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10246/",
+  "author": "依依美食",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 347.8,
+    "proteinG": 58,
+    "carbsG": 11.2,
+    "fatG": 7
+  },
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

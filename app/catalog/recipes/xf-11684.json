@@ -1,0 +1,109 @@
+{
+  "id": "xf-11684",
+  "title": "焦糖果仁饼干",
+  "ingredients": [
+    {
+      "name": "我用了杏仁片25克，核桃25克果仁",
+      "mergeKey": "nuts",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "flour",
+      "amount": 160,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 100,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "焦糖奶油酱",
+      "mergeKey": "caramel-sauce",
+      "amount": 100,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 200,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 150,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋液",
+      "mergeKey": "egg",
+      "amount": 15,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 40,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "杏仁和核桃烤香待用,"
+    },
+    {
+      "text": "黄油软化，加入糖和盐，用手动打蛋器打发蓬松，加入蛋液搅匀，分两次加入焦糖酱搅匀，再分两次筛入低粉，用刮刀拌均,"
+    },
+    {
+      "text": "将面团分成两份，分别加入杏仁片和核桃，揉成团放冰箱冷藏一小时,"
+    },
+    {
+      "text": "取出面团分别整形成方形和圆形，用保鲜膜包好，冰箱冷冻半小时左右,"
+    },
+    {
+      "text": "取出面团切成薄片入烤盘， 烤箱预热165度，烘烤20分钟左右,"
+    },
+    {
+      "text": "淡奶油隔水蒸热保温待用，另取一锅放入砂糖，加进水，中小火加热，糖会慢慢溶解冒泡，继续加热等泡泡变成浅棕色关火，马上加入热的淡奶油搅拌均匀待凉即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11684/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 693.8,
+    "proteinG": 7.9,
+    "carbsG": 156.5,
+    "fatG": 5.3
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

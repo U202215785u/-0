@@ -1,0 +1,90 @@
+{
+  "id": "xf-11681",
+  "title": "辣白菜拌土豆丝",
+  "ingredients": [
+    {
+      "name": "带汤汁发酵的辣白菜",
+      "mergeKey": "kimchi",
+      "amount": 0.5,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青椒半个中等大小土豆",
+      "mergeKey": "potato",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "30毫升西班牙橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙约1克盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "随意熟白芝麻",
+      "mergeKey": "sesame",
+      "quantityText": "随意",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把辣白菜挤干汤汁，切成细丝（约火柴棍粗细即可），青椒去蒂去籽后洗净，切成细丝，香葱斜切成葱丝备用,"
+    },
+    {
+      "text": "土豆去皮洗净后，切成细丝（在自己能力范围内尽量切细），泡在清水中浸泡5分钟，以便去土豆中的淀粉,"
+    },
+    {
+      "text": "锅中水烧开后，放入土豆丝，焯烫20秒钟后捞出，马上放入清水中过凉，凉透后捞出沥干水分备用,"
+    },
+    {
+      "text": "锅中倒入橄榄油（25毫升），中火加热，待油温7成热时，放入辣白菜用油煸炒约4分钟左右，倒入辣白菜汤汁，放入盐，糖，一直炒到辣白菜变软，有辣白菜浓郁的香气散发出来，汤微微收干后，盛入大碗中,"
+    },
+    {
+      "text": "等辣白菜丝完全冷却后，将焯好的土豆丝放入辣白菜丝中，加入切好的青椒丝，倒入橄榄油（5毫升），撒入葱丝，拌匀，最后撒上白芝麻即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11681/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 207.9,
+    "proteinG": 2,
+    "carbsG": 19.3,
+    "fatG": 14.1
+  },
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

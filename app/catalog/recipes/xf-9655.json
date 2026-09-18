@@ -1,0 +1,77 @@
+{
+  "id": "xf-9655",
+  "title": "葱香南瓜丁",
+  "ingredients": [
+    {
+      "name": "/4个嫩南瓜",
+      "mergeKey": "pumpkin",
+      "amount": 1,
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "amount": 3,
+      "unit": "片",
+      "category": "肉类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "嫩南瓜削去皮上比较老的部位，切成小丁。培根切成小块，葱切成葱花（稍微多点）,"
+    },
+    {
+      "text": "锅烧热倒入油，中火，把培根放进去煸炒一分钟左右,"
+    },
+    {
+      "text": "放入葱花煸炒出香味,"
+    },
+    {
+      "text": "把南瓜丁放下去煸炒，多炒会儿,"
+    },
+    {
+      "text": "等南瓜变色，有点软了，加点水,"
+    },
+    {
+      "text": "盖上盖子煮一分钟左右,"
+    },
+    {
+      "text": "打开盖子，放点盐和鸡精调好味，把锅里的汁收干即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9655/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 420,
+    "proteinG": 37.5,
+    "carbsG": 0,
+    "fatG": 30
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

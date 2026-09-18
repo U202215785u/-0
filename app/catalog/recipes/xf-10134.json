@@ -1,0 +1,152 @@
+{
+  "id": "xf-10134",
+  "title": "家常版黄焖鸡",
+  "ingredients": [
+    {
+      "name": "三黄鸡",
+      "mergeKey": "chicken",
+      "category": "肉类"
+    },
+    {
+      "name": "干香菇",
+      "mergeKey": "dried-shiitake",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "冬笋",
+      "mergeKey": "winter-bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "scallion-ginger-garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "陈皮",
+      "mergeKey": "dried-tangerine-peel",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "草果",
+      "mergeKey": "tsaoko",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将三黄鸡斩成小块，用盐、绍酒、胡椒粉腌渍,"
+    },
+    {
+      "text": "干木耳泡清水，泡开,"
+    },
+    {
+      "text": "葱切段、姜切片、青蒜斜切段、冬笋洗净切滚刀块,"
+    },
+    {
+      "text": "锅中放油，煸香调味料,"
+    },
+    {
+      "text": "放入腌好的鸡块煸炸出香味,"
+    },
+    {
+      "text": "将鸡肉煎炸出油、紧实,"
+    },
+    {
+      "text": "烹入酱油，将鸡肉炒上色出香味,"
+    },
+    {
+      "text": "倒入煮开的香菇水和香菇，开锅盖盖改小火焖30分钟、加盐、黄冰糖调味,"
+    },
+    {
+      "text": "开盖放入冬笋,"
+    },
+    {
+      "text": "待冬笋入味，加入泡好的黑木耳，略烧,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "最后加入青蒜段,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "水淀粉勾薄芡，待汤汁全部裹在原料上出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10134/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

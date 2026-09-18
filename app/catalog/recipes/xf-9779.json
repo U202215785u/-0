@@ -1,0 +1,46 @@
+{
+  "id": "xf-9779",
+  "title": "豆腐冰激淋",
+  "ingredients": [
+    {
+      "name": "鲜奶油",
+      "mergeKey": "cream",
+      "amount": 250,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "嫩豆腐",
+      "mergeKey": "tofu",
+      "amount": 250,
+      "unit": "克",
+      "category": "豆制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鲜奶油从冷冻（鲜奶油要冷冻保存的哦，淡奶油是冷藏保存）取出解冻,"
+    },
+    {
+      "text": "待鲜奶油化成液态（这个时间要看牢哦，不能化的时间太长了，基本化开就可以了），将豆腐切成小块加入，用打蛋器打至6-7分的样子，打蛋头拎起成大弯勾状即可,"
+    },
+    {
+      "text": "将打好的奶糊倒入合适的容器中，放冷冻保存，每隔半小时取出搅拌一下，搅拌3-4次，待完全凝固即可享用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9779/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 275,
+    "proteinG": 22.5,
+    "carbsG": 22.5,
+    "fatG": 11.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

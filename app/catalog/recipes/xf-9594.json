@@ -1,0 +1,90 @@
+{
+  "id": "xf-9594",
+  "title": "玉米鸡蛋牛肉羹",
+  "ingredients": [
+    {
+      "name": "甜玉米",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "牛肉",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛肉洗净，切成小丁，或者切片；胡萝卜洗净去皮，切小丁；鸡蛋打散备用,"
+    },
+    {
+      "text": "炒锅放油烧热，将牛肉滑入稍加煸炒，加酱油，料酒调色调味，至熟盛出待用,"
+    },
+    {
+      "text": "胡萝卜也放入油锅中煸炒一下，然后取出备用,"
+    },
+    {
+      "text": "烧开一锅水，将胡萝卜粒和玉米粒下入锅中同煮，然后将蛋液均匀的倒入，边倒边搅动使其散开成蛋花,"
+    },
+    {
+      "text": "待汤再次滚开后加水淀粉使汤汁浓稠，加盐，鸡粉调味，这时将炒好的牛肉放入汤中即成。最后也可加入少许葱花做点缀"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9594/",
+  "author": "美食情书",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "蒸",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

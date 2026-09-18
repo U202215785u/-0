@@ -1,0 +1,76 @@
+{
+  "id": "xf-110269",
+  "title": "西湖醋鱼",
+  "ingredients": [
+    {
+      "name": "1.5斤草鱼",
+      "mergeKey": "grass-carp",
+      "amount": 1,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将草鱼洗净后，由尾部开始入刀，将鱼劈成二片备用。带骨的一片叫雄片，不带骨的叫雌片。去除鱼鳃等"
+    },
+    {
+      "text": "将鱼清理干净，放入盘中备用。锅中做水，放入葱姜片，料酒，煮至大开后，放入鱼片"
+    },
+    {
+      "text": "要先放入雄片，后放入雌片。这时要转小火，还要加入几次凉水，不要让水再开锅。鱼片在水中，浸泡10分钟捞出备用"
+    },
+    {
+      "text": "将锅中的鱼汤，盛出250克备用。鱼片捞出，控净水放在盘中，姜切末备用"
+    },
+    {
+      "text": "锅做火上倒入250克鱼汤，加入白糖50克；米醋60克；酱油70克，料酒少许。小火熬开，淀粉勾芡后关火"
+    },
+    {
+      "text": "将芡汁浇在码好的鱼片上，最后撒上姜末即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/110269/",
+  "author": "生活如此",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

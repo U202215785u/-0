@@ -1,0 +1,198 @@
+{
+  "id": "beef-oyster-sauce",
+  "title": "蚝油牛肉",
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "mergeKey": "beef",
+      "amount": 308,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "荷兰豆",
+      "mergeKey": "snow-pea",
+      "amount": 56,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "amount": 56,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "海鲜菇",
+      "mergeKey": "seafood-mushroom",
+      "amount": 84,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "褐蘑菇",
+      "mergeKey": "brown-mushroom",
+      "amount": 84,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 84,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 28,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 14,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 22.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小苏打",
+      "mergeKey": "baking-soda",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "土豆淀粉",
+      "mergeKey": "potato-starch",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛肉沿长度方向对半切开，刀身斜放，逆纹切成薄片。"
+    },
+    {
+      "text": "荷兰豆按需要去筋。"
+    },
+    {
+      "text": "小碗中加入蚝油、老抽和白糖，充分混合。"
+    },
+    {
+      "text": "另取小碗把土豆淀粉和清水混合。"
+    },
+    {
+      "text": "牛肉加入食用油，充分拌匀。"
+    },
+    {
+      "text": "炒锅保留多余油，中火继续加热。"
+    },
+    {
+      "text": "料酒沿锅边淋入，短暂翻匀后转大火。"
+    }
+  ],
+  "baseServings": 4,
+  "sourceUrl": "https://www.madewithlau.com/recipes/beef-oyster-sauce",
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、准备18分钟、烹调12分钟、总时长30分钟、21项配料和7段方法；保留逆纹切片、油拌牛肉和沿锅边淋料酒顺序。",
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

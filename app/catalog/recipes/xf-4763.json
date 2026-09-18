@@ -1,0 +1,111 @@
+{
+  "id": "xf-4763",
+  "title": "老虎菜",
+  "ingredients": [
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小葱白",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒油",
+      "mergeKey": "chili-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "陈醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "青辣椒",
+      "mergeKey": "green-pepper",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "red-pepper",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "amount": 1,
+      "unit": "条",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "amount": 2,
+      "unit": "根",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "主料：青红辣椒各一个、黄瓜一条、香菜两根，大葱或小葱白适量,"
+    },
+    {
+      "text": "黄瓜、青椒和葱白切成丝，香菜切成段,"
+    },
+    {
+      "text": "把黄瓜丝和辣椒丝用适量盐略腌一会儿出水，把水倒掉,"
+    },
+    {
+      "text": "加入香菜、葱白丝、香油、麻油、辣椒油、盐、鸡精、陈醋拌匀。好了！翠花儿，上老虎菜"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/4763/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 87.5,
+    "proteinG": 5,
+    "carbsG": 17.5,
+    "fatG": 1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

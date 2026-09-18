@@ -1,0 +1,71 @@
+{
+  "id": "xf-560",
+  "title": "爆炒腰花",
+  "ingredients": [
+    {
+      "name": "猪腰子",
+      "mergeKey": "pork-kidney",
+      "category": "肉类"
+    },
+    {
+      "name": "茭白",
+      "mergeKey": "water-bamboo",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "腰花买一破二，把中间白色的地方去掉，外面的一层膜去掉。用花刀切好，用盐、淀粉、料酒腌制一下。茭白切丝备用"
+    },
+    {
+      "text": "起油锅放姜先爆炒腰花，放茭白，加酱油、糖、盐等调味"
+    },
+    {
+      "text": "盛起加葱就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/560/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

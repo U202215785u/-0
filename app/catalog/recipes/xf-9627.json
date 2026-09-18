@@ -1,0 +1,122 @@
+{
+  "id": "xf-9627",
+  "title": "葱姜烧仔鸡",
+  "ingredients": [
+    {
+      "name": "仔鸡",
+      "mergeKey": "chicken",
+      "amount": 300,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 4,
+      "unit": "只",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "5毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5毫升老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备材料,"
+    },
+    {
+      "text": "鸡切成块，葱切成段，姜切成片备用,"
+    },
+    {
+      "text": "水烧开，将鸡放入,"
+    },
+    {
+      "text": "水烧开后至7成熟,"
+    },
+    {
+      "text": "取出洗净,"
+    },
+    {
+      "text": "锅中放油，倒入葱姜,"
+    },
+    {
+      "text": "倒入干辣椒爆香葱姜,"
+    },
+    {
+      "text": "下入鸡块,"
+    },
+    {
+      "text": "大火炒后,"
+    },
+    {
+      "text": "放入料酒，老抽，胡椒粉,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "最后倒入盐即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9627/",
+  "author": "飞雪无霜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 336.8,
+    "proteinG": 51.3,
+    "carbsG": 16.7,
+    "fatG": 6.6
+  },
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

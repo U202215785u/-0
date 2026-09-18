@@ -1,0 +1,177 @@
+{
+  "id": "xf-9643",
+  "title": "奇香瓦块鱼",
+  "ingredients": [
+    {
+      "name": "草鱼肉",
+      "mergeKey": "grass-carp",
+      "amount": 500,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "泡椒",
+      "mergeKey": "pickled-chili",
+      "amount": 10,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "京葱段",
+      "mergeKey": "scallion",
+      "amount": 40,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 200,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "姜蓉",
+      "mergeKey": "ginger",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "京葱丝",
+      "mergeKey": "scallion",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙细盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2大匙温水",
+      "mergeKey": "water",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "小匙陈醋",
+      "mergeKey": "vinegar",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙香麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 1.25,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙辣椒红油",
+      "mergeKey": "chili-oil",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉1又1/2小匙+清水30毫升水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "草鱼背肉及腩肉切成小段,"
+    },
+    {
+      "text": "用腌制材料将鱼块拌匀，密封放入冰箱冷藏过夜,"
+    },
+    {
+      "text": "平底锅烧热，放油烧热，将腌好的鱼块（沥干水份），放入中小火慢煎,"
+    },
+    {
+      "text": "煎至表面金黄色，再翻面煎至表面金黄，鱼8成熟即可,"
+    },
+    {
+      "text": "生姜切丝，京葱切段，泡椒切小段,"
+    },
+    {
+      "text": "锅内冷油，放入泡椒，生姜丝炒出香味，再加入京葱炒出香味,"
+    },
+    {
+      "text": "锅内加入鱼块及清水，中火煮开后继续煮至水快干,"
+    },
+    {
+      "text": "将调味料和水淀粉分别在碗内调匀,"
+    },
+    {
+      "text": "将调味料（白糖必须溶化了）倒入锅内,"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "煮至鱼块吸收酱汁后，加入水淀粉至起芡的效果即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9643/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 344.5,
+    "proteinG": 61.2,
+    "carbsG": 7.3,
+    "fatG": 8.3
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

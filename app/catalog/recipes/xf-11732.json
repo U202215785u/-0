@@ -1,0 +1,92 @@
+{
+  "id": "xf-11732",
+  "title": "自制菊花酥",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 420,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "酥油",
+      "mergeKey": "shortening",
+      "amount": 50,
+      "unit": "克",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "高筋面粉",
+      "mergeKey": "bread-flour",
+      "amount": 120,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "先做油心：低筋面粉250克，酥油130克，混合揉成透彻、表面光滑的油心面团备用,"
+    },
+    {
+      "text": "再做水皮：低筋面粉170克，高筋面粉120克，白糖20克，酥油50克，清水120克，揉成光滑的水皮面团，放冰箱冷藏室2小时后备用,"
+    },
+    {
+      "text": "水皮和油心，按3：2的比例，将水皮包起油心,"
+    },
+    {
+      "text": "压扁擀薄，卷起成卷状,"
+    },
+    {
+      "text": "再旋转90度，继续擀压成长条,"
+    },
+    {
+      "text": "卷起长条，最后擀成圆片,"
+    },
+    {
+      "text": "包住豆沙，收好口,"
+    },
+    {
+      "text": "压扁，用刀在周围切几刀，注意，不要切到圆心,"
+    },
+    {
+      "text": "在切口处，把每个面瓣旋转90度，一朵菊花就做好了,"
+    },
+    {
+      "text": "表面扫蛋黄液，还可以撒些芝麻；烤箱预热180度，上下火烤25分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11732/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 431.3,
+    "proteinG": 12.9,
+    "carbsG": 85.9,
+    "fatG": 4.6
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

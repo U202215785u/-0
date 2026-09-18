@@ -1,0 +1,136 @@
+{
+  "id": "xf-9761",
+  "title": "香蒜面包",
+  "ingredients": [
+    {
+      "name": "蒜蓉酱",
+      "mergeKey": "garlic-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "高粉",
+      "mergeKey": "bread-flour",
+      "amount": 282,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "cake-flour",
+      "amount": 180,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 90,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 72,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "奶粉",
+      "mergeKey": "milk-powder",
+      "amount": 18,
+      "unit": "克",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 180,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 100,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "小匙细砂糖",
+      "mergeKey": "sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱末",
+      "mergeKey": "scallion",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "面包,"
+    },
+    {
+      "text": "将所有材料混合搅拌至面团光滑,"
+    },
+    {
+      "text": "将面团一分为二，擀成大张的薄片状,"
+    },
+    {
+      "text": "将薄面片卷成棍状，捏紧收口，排入烤盘中,"
+    },
+    {
+      "text": "面团发酵至2倍大，放入预热好的烤箱中150度35分钟左右至表面金黄即可,"
+    },
+    {
+      "text": "蒜茸奶油酱,"
+    },
+    {
+      "text": "将室温软化的黄油与其他材料混合搅拌均匀即可。用不完的蒜蓉酱可以放冷藏或冷冻保存,"
+    },
+    {
+      "text": "将面包切片，两面均匀的抹上蒜蓉酱，放入180度预热的烤箱，烤至边缘酥脆即可，喜欢那种脆脆口感的，可以稍微多烤一会，烤至表面金黄~"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9761/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 458.8,
+    "proteinG": 13.4,
+    "carbsG": 80.3,
+    "fatG": 9.4
+  },
+  "tags": [
+    "主食",
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

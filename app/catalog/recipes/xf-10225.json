@@ -1,0 +1,81 @@
+{
+  "id": "xf-10225",
+  "title": "番茄花菜",
+  "ingredients": [
+    {
+      "name": "花菜",
+      "mergeKey": "cauliflower",
+      "amount": 300,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "番茄",
+      "mergeKey": "tomato",
+      "amount": 300,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "番茄沙司",
+      "mergeKey": "ketchup",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "花菜掰开小瓣用淡盐水泡20分钟捞出，番茄去皮切块,"
+    },
+    {
+      "text": "锅内烧热水，下花菜焯熟捞出,"
+    },
+    {
+      "text": "炒锅放油烧热，倒入番茄炒出水；用小火慢慢熬至番茄熟透呈酱，倒入番茄沙司炒匀,"
+    },
+    {
+      "text": "下花菜翻炒至汤汁浓稠加入糖，盐，胡椒粉炒匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10225/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 90.5,
+    "proteinG": 4.4,
+    "carbsG": 19.1,
+    "fatG": 0.6
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

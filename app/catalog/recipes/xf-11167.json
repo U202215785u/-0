@@ -1,0 +1,144 @@
+{
+  "id": "xf-11167",
+  "title": "油泼扯面",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "/41克盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 180,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "30毫升食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小油菜",
+      "mergeKey": "bok-choy",
+      "amount": 3,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小把黄豆芽",
+      "mergeKey": "soybean-sprout",
+      "quantityText": "1小把",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/4根胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 37.5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/4个土豆",
+      "mergeKey": "potato",
+      "amount": 0.25,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豇豆",
+      "mergeKey": "cowpea",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小截大葱",
+      "mergeKey": "scallion",
+      "quantityText": "1小截",
+      "category": "蔬菜"
+    },
+    {
+      "name": "30毫升醋",
+      "mergeKey": "vinegar",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "30毫升辣椒面",
+      "mergeKey": "chili-powder",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把面粉倒入容器中加入盐，一点点的加入清水，边倒边搅拌，揉成面团后盖上一层保鲜膜，放在室温内静置30分钟,"
+    },
+    {
+      "text": "趁着饧面的时间，把油菜，黄豆芽洗净，胡萝卜和土豆去皮写成小丁，豇豆洗净后切成小粒，大葱也切成和豇豆粒大小备用,"
+    },
+    {
+      "text": "锅中倒入清水大火煮开后，放入一点油和盐，水开后放入土豆，胡萝卜，豇豆和黄豆芽，煮约3分钟后，放入小油菜再煮约20秒钟后捞出，过冷水后沥干备用,"
+    },
+    {
+      "text": "将静置30分钟后的面团，再反复揉几次，直到面团变得光滑有韧性,"
+    },
+    {
+      "text": "将面团分成小剂子，在案板上撒一层薄薄的面粉，将面团在案板上擀平，用刀切成宽约3厘米的条。在面条上薄薄的抹一层植物油，以防面条受干皴裂,"
+    },
+    {
+      "text": "锅中的水烧开后，将面条拿起，往两头用力将面条扯开，一根根的放入锅中。煮3分钟捞出过凉水后沥干,"
+    },
+    {
+      "text": "将焯烫过的油菜，土豆，胡萝卜，黄豆芽和豇豆铺在碗底。然后把扯面放在菜上面，撒上盐，倒入醋和生抽，撒上葱粒和辣椒面,"
+    },
+    {
+      "text": "小锅中倒入油，加热到8成热（有明显的烟冒出），马上泼在辣椒面和大葱上,"
+    },
+    {
+      "text": "搅匀后，直接吃就可以啦"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11167/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 334.3,
+    "proteinG": 8.9,
+    "carbsG": 40.8,
+    "fatG": 16.3
+  },
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

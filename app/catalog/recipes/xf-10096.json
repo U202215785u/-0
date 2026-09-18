@@ -1,0 +1,102 @@
+{
+  "id": "xf-10096",
+  "title": "滇式炸酱面",
+  "ingredients": [
+    {
+      "name": "面条",
+      "mergeKey": "noodle",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "昭通酱",
+      "mergeKey": "zhaotong-jiang",
+      "amount": 2,
+      "unit": "勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "肉末",
+      "mergeKey": "minced-pork",
+      "amount": 100,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "amount": 1,
+      "unit": "勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 8,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "先将肉末用少许的水淀粉、盐拌匀，沿着同一个方向搅打，上筋后腌制15分钟。然后在油锅中放入姜末炒出香味，放入肉末用铲子快速滑散,"
+    },
+    {
+      "text": "直到肉末变色后盛出备用，然后利用余下的油，用中小火加热，将昭通酱炒出香味，直到锅中出现红油,"
+    },
+    {
+      "text": "放入之前炒好的肉末，放入酱油上色，炒出香味，然后倒入清水没过材料为准，加入白糖用中火慢慢煮至汤汁沸腾，然后换成大火将汤汁收干到自己喜欢的浓稠度，最后加入适量味精调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10096/",
+  "author": "豆牛",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 198.7,
+    "proteinG": 6.2,
+    "carbsG": 37.8,
+    "fatG": 2.6
+  },
+  "tags": [
+    "主食",
+    "炸",
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

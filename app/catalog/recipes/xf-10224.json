@@ -1,0 +1,115 @@
+{
+  "id": "xf-10224",
+  "title": "蛋黄酥",
+  "ingredients": [
+    {
+      "name": "中筋面粉",
+      "mergeKey": "flour",
+      "amount": 150,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "红豆沙",
+      "mergeKey": "red-bean-paste",
+      "amount": 400,
+      "unit": "克",
+      "category": "豆制品",
+      "pantry": true
+    },
+    {
+      "name": "咸蛋黄",
+      "mergeKey": "salted-egg-yolk",
+      "amount": 8,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "猪油",
+      "mergeKey": "lard",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 65,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "cake-flour",
+      "amount": 120,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "蛋黄液",
+      "mergeKey": "egg-yolk",
+      "category": "蛋类"
+    },
+    {
+      "name": "黑芝麻",
+      "mergeKey": "black-sesame",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪油加入过筛的中粉和细砂糖搓成屑状，加入水揉至表面光滑后，装入保鲜袋内，静置30分钟,"
+    },
+    {
+      "text": "猪油加入过筛的低粉中揉匀,"
+    },
+    {
+      "text": "静置油皮的过程，可以用来准备馅料。将豆沙馅分割成25克/个，将蛋黄对半切开，包入豆沙馅内,"
+    },
+    {
+      "text": "将静置后的油皮分割成18克/个，油酥分割成12克/个,"
+    },
+    {
+      "text": "取一份油皮压扁，包入一份油酥，包成球状，然后擀成牛舌状，卷成筒状，收口朝上，静置15分钟,"
+    },
+    {
+      "text": "静置后的油酥皮再次擀成长条状，收口朝下，再次静置20分钟,"
+    },
+    {
+      "text": "取一份静置好的油酥皮，封口朝上，大拇指从中间按下，然后向中间收拢成一个圆球状,"
+    },
+    {
+      "text": "收口朝下，擀成圆形，包入豆沙蛋黄馅，收口朝下，排入烤盘中,"
+    },
+    {
+      "text": "最后在表面刷上蛋黄液，洒上少许芝麻，放入180度预热的烤箱，中层烤制30分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10224/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 345.2,
+    "proteinG": 12.1,
+    "carbsG": 57.6,
+    "fatG": 6.9
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

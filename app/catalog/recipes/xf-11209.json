@@ -1,0 +1,86 @@
+{
+  "id": "xf-11209",
+  "title": "椒丝腐乳空心菜",
+  "ingredients": [
+    {
+      "name": "空心菜",
+      "mergeKey": "water-spinach",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "red-chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "腐乳",
+      "mergeKey": "fermented-tofu",
+      "category": "豆制品",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "空心菜洗净，去掉菜梗留作它用。上面细嫩的部分摘成小段,"
+    },
+    {
+      "text": "蒜切蓉，红辣椒切丝,"
+    },
+    {
+      "text": "腐乳加一点糖，盐、鸡精和水调开,"
+    },
+    {
+      "text": "锅烧热加油，烧至七成热，下蒜蓉和椒丝炒香,"
+    },
+    {
+      "text": "加处理好的空心菜,"
+    },
+    {
+      "text": "中到大火迅速翻炒,"
+    },
+    {
+      "text": "炒到菜颜色变深变软，迅速加备好的腐乳汁，再次炒匀,"
+    },
+    {
+      "text": "加胡椒粉出锅即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11209/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

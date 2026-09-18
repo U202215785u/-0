@@ -1,0 +1,67 @@
+{
+  "id": "xf-9672",
+  "title": "金沙南瓜",
+  "ingredients": [
+    {
+      "name": "南瓜",
+      "mergeKey": "pumpkin",
+      "category": "蔬菜"
+    },
+    {
+      "name": "咸蛋黄",
+      "mergeKey": "salted-egg-yolk",
+      "amount": 5,
+      "unit": "颗",
+      "category": "蛋类"
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 50,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将南瓜切成长条状,"
+    },
+    {
+      "text": "咸蛋黄入上汽的锅内蒸熟后，用匙压成粉状,"
+    },
+    {
+      "text": "锅内烧开水，放入南瓜条氽水，水再次沸腾时捞起沥干水,"
+    },
+    {
+      "text": "放凉后粘上面粉,"
+    },
+    {
+      "text": "平底锅内热油，放入南瓜煎至硬身,"
+    },
+    {
+      "text": "锅内放一匙油，放入咸蛋黄炒至起泡,"
+    },
+    {
+      "text": "煎好的南瓜条沥净油，放入炒好的咸蛋黄内,"
+    },
+    {
+      "text": "抛动锅子，让南瓜条均匀的沾上蛋黄即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9672/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 34.5,
+    "proteinG": 1.1,
+    "carbsG": 6.8,
+    "fatG": 0.4
+  },
+  "tags": [
+    "凉拌"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

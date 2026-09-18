@@ -1,0 +1,77 @@
+{
+  "id": "xf-11458",
+  "title": "冬瓜火腿蛤蜊汤",
+  "ingredients": [
+    {
+      "name": "小冬瓜",
+      "mergeKey": "winter-melon",
+      "amount": 0.5,
+      "unit": "只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蛤蜊",
+      "mergeKey": "clam",
+      "category": "水产"
+    },
+    {
+      "name": "火腿",
+      "mergeKey": "ham",
+      "category": "肉类"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "蛤蜊清洗干净，冬瓜切成厚片，火腿切薄片，葱切葱花,"
+    },
+    {
+      "text": "将蛤蜊入沸水中氽至壳微微张开捞出,"
+    },
+    {
+      "text": "锅中放水，入火腿片姜丝大火烧开转小火煮10分钟左右，放入冬瓜煮至9成熟，放入蛤蜊继续略煮，调入盐，鸡精，盛入碗中洒上葱花，白胡椒粉及麻油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11458/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

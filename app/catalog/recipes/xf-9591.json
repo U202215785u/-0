@@ -1,0 +1,59 @@
+{
+  "id": "xf-9591",
+  "title": "花生排骨煲木瓜",
+  "ingredients": [
+    {
+      "name": "木瓜",
+      "mergeKey": "papaya",
+      "category": "其他"
+    },
+    {
+      "name": "排骨",
+      "mergeKey": "pork-rib",
+      "category": "肉类"
+    },
+    {
+      "name": "花生",
+      "mergeKey": "peanut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蜜枣",
+      "mergeKey": "candied-date",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "木瓜去皮去籽，切小块备用,"
+    },
+    {
+      "text": "排骨洗净飞水、花生若干、蜜枣2颗洗净、姜切2片,"
+    },
+    {
+      "text": "以上材料放入砂锅，一次性加足清水大火烧烤，改小火煲2-3小时，出锅前加盐调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9591/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

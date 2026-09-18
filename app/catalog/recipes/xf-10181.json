@@ -1,0 +1,92 @@
+{
+  "id": "xf-10181",
+  "title": "什锦紫薯球",
+  "ingredients": [
+    {
+      "name": "紫薯",
+      "mergeKey": "purple-sweet-potato",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蜜枣",
+      "mergeKey": "honey-jujube",
+      "amount": 10,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 8,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鲜奶油",
+      "mergeKey": "cream",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "熟芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花生仁",
+      "mergeKey": "peanut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "杏仁",
+      "mergeKey": "almond",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "黑巧克力碎",
+      "mergeKey": "chocolate",
+      "category": "其他",
+      "pantry": true
+    },
+    {
+      "name": "糖豆",
+      "mergeKey": "candy",
+      "category": "其他",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "紫薯洗净后切成大块，隔水蒸40分钟，直到用筷子能很容易的扎透，趁热撕去外皮，切成小片后用刀背或者叉子压成茸,"
+    },
+    {
+      "text": "在紫薯茸中加入白糖、鲜奶油拌匀，粘稠度以能捏成形状为好。同时将蜜枣切成三段备用,"
+    },
+    {
+      "text": "用手捏出少许薯茸，做成圆饼包成一小段蜜枣，然后收口捏圆。将做好的小球分别裹上各种装饰材料即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10181/",
+  "author": "豆牛",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 27.5,
+    "proteinG": 0.5,
+    "carbsG": 5.8,
+    "fatG": 0.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

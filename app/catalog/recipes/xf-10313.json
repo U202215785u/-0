@@ -1,0 +1,131 @@
+{
+  "id": "xf-10313",
+  "title": "红烧鳕鱼",
+  "ingredients": [
+    {
+      "name": "鳕鱼",
+      "mergeKey": "cod",
+      "amount": 2,
+      "unit": "块",
+      "category": "水产"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-pepper",
+      "amount": 30,
+      "unit": "粒",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 2,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 1,
+      "unit": "小块",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(75克)干淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 75,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "(15毫升)料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(45毫升)红烧酱油",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(15毫升)生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "开水",
+      "mergeKey": "water",
+      "amount": 400,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "/4茶匙(1克)盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鳕鱼从冷冻室中提前2小时拿出，放在室温环境中自然解冻，不要放在水里解冻，尤其是开水里解冻,"
+    },
+    {
+      "text": "把解冻后的鳕鱼，用水冲洗，并去除鱼鳞，沥干后用厨房纸巾吸干表面的水分,"
+    },
+    {
+      "text": "干淀粉放入碗中，加入清水搅匀，成为非常浓稠的水淀粉。将鱼排放入碗中，正反两面都裹上一层水淀粉,"
+    },
+    {
+      "text": "锅中倒入油，大火加热，待油8成热时，放入鱼排，双面煎到鱼肉变色，放入花椒，八角在油中炒香，烹入料,"
+    },
+    {
+      "text": "酒,"
+    },
+    {
+      "text": "倒入红烧酱油，再倒入开水没过鱼的表面，搅匀后大火煮开，调成中火盖上盖子，继续煮7分钟,"
+    },
+    {
+      "text": "打开盖子，调入盐搅匀，改成大火，将汤汁收浓即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10313/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 178.5,
+    "proteinG": 27.9,
+    "carbsG": 7.8,
+    "fatG": 3.8
+  },
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

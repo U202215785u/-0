@@ -1,0 +1,111 @@
+{
+  "id": "xf-11620",
+  "title": "蕃茄桂鱼浓汤",
+  "ingredients": [
+    {
+      "name": "（1斤左右的最好）桂鱼",
+      "mergeKey": "mandarin-fish",
+      "amount": 1,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "-3个蕃茄",
+      "mergeKey": "tomato",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蘑菇",
+      "mergeKey": "mushroom",
+      "quantityText": "适量",
+      "category": "菌菇"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蕃茄酱",
+      "mergeKey": "tomato-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "桂鱼清洗干净后，将鱼肉片成鱼片腌制备用，鱼骨切成块，蕃茄洗净开水锅中烫一下冷水再冲一下去皮切成块,"
+    },
+    {
+      "text": "鱼身擦干水分，砧板上垫块干净的毛巾，将鱼放在上面，用锋利的刀从尾部贴着鱼骨将整块背部片下,"
+    },
+    {
+      "text": "鱼肚上面有横刺，小心片下,"
+    },
+    {
+      "text": "将半块鱼身平铺，将刀斜45度左右小心的片下鱼片后，再将鱼片与鱼皮分离,"
+    },
+    {
+      "text": "鱼片加生粉，胡椒粉，料酒少许，盐，鸡粉加少许水抓至略粘，腌制备用,"
+    },
+    {
+      "text": "锅中放油烧热后，放入鱼肉略炒至鱼肉变白，倒入适量开水大火煮滚5分钟后转入砂锅加入姜片及蘑菇继续煮5分钟,"
+    },
+    {
+      "text": "锅中油烧热后，放入蕃茄块及蕃茄酱炒至蕃茄变软出沙，将砂锅中的鱼汤倒入蕃茄锅中，大火烧沸，入盐，鸡精调味，最后将腌好的鱼片放入锅中，迅速用筷子拨散，至鱼身颜色变白关火放葱花撒胡椒粉即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11620/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 62.5,
+    "proteinG": 12,
+    "carbsG": 0.5,
+    "fatG": 1.5
+  },
+  "tags": [
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

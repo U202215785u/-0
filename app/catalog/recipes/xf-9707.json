@@ -1,0 +1,87 @@
+{
+  "id": "xf-9707",
+  "title": "枸杞芝麻虾",
+  "ingredients": [
+    {
+      "name": "明虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "枸杞子",
+      "mergeKey": "goji",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "熟白芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "明虾洗净，去头去肠泥。枸杞子提前半小时用温水泡开,"
+    },
+    {
+      "text": "锅中油烧热，放姜片葱段爆香,"
+    },
+    {
+      "text": "放明虾煸炒至色变，加入料酒翻炒,"
+    },
+    {
+      "text": "加老抽一汤匙，冰糖一小块，泡枸杞的水少许，加盖焖煮三分钟左右,"
+    },
+    {
+      "text": "开盖，如果口味重，可以在这时候加点盐，我家吃的比较淡，老抽的咸味够了，所以没加盐。淀粉用水调开成薄芡粉水，加入锅中快速翻炒,"
+    },
+    {
+      "text": "出锅前撒上熟的白芝麻，装盘，把泡好的枸杞子放在虾上面即成"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9707/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

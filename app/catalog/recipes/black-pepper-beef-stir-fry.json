@@ -1,0 +1,163 @@
+{
+  "id": "black-pepper-beef-stir-fry",
+  "title": "黑椒牛肉",
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "mergeKey": "beef",
+      "amount": 336,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "甜椒",
+      "mergeKey": "bell-pepper",
+      "quantityText": "1个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红洋葱",
+      "mergeKey": "red-onion",
+      "quantityText": "0.5个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米油",
+      "mergeKey": "cooking-oil",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍兴酒",
+      "mergeKey": "shaoxing-wine",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "红葡萄酒",
+      "mergeKey": "red-wine",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先修去牛柳边缘肥油。"
+    },
+    {
+      "text": "碗中混合黑胡椒粉、玉米淀粉、清水、蚝油、生抽、绍兴酒和红葡萄酒。"
+    },
+    {
+      "text": "牛肉拌入腌料前尽量挤出多余水分；这道菜要避免成品出现多余液体或酱汁积聚。"
+    },
+    {
+      "text": "蒜切末，甜椒和红洋葱切片配色；每个甜椒只用约四分之一至三分之一，也可只用一种颜色并用完整甜椒。"
+    },
+    {
+      "text": "另碗混合玉米淀粉、清水、白糖、生抽、老抽、红葡萄酒、食盐、蚝油和绍兴酒调成酱汁。"
+    },
+    {
+      "text": "炒锅大火预热约2至3分钟，锅热后加入玉米油。"
+    },
+    {
+      "text": "来源页面说明餐馆炉火和炒锅更强更大，可同时下料；家庭炉具需按页面分段操作。"
+    },
+    {
+      "text": "作者会试味，根据需要调整。"
+    }
+  ],
+  "baseServings": 4,
+  "sourceUrl": "https://www.madewithlau.com/recipes/black-pepper-beef-stir-fry",
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、准备20分钟、烹调10分钟、总时长30分钟、16项配料和8段方法；保留挤出多余水分、家庭炉具分段和试味调整提示。",
+  "tags": [
+    "炸",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

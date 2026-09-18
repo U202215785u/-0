@@ -1,0 +1,59 @@
+{
+  "id": "xf-10766",
+  "title": "培根蔬菜卷",
+  "ingredients": [
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "category": "肉类"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芦笋",
+      "mergeKey": "asparagus",
+      "category": "蔬菜"
+    },
+    {
+      "name": "彩椒",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "胡萝卜去皮，彩椒去蒂去籽，切成条。芦笋洗净取头部备用,"
+    },
+    {
+      "text": "锅中水烧开， 放一小勺盐，入胡萝卜条和芦笋条煮两分钟，捞出沥干水分,"
+    },
+    {
+      "text": "在胡萝条和芦笋段上撒少许椒盐，拌匀待用,"
+    },
+    {
+      "text": "取培根，每条切成两段,"
+    },
+    {
+      "text": "把培根平铺，放上胡萝卜条，芦笋条和彩椒条,"
+    },
+    {
+      "text": "卷来，用开水烫软的葱捆起来,"
+    },
+    {
+      "text": "平底锅里不要放油，直接把培根蔬菜卷放进去，小火煎两面，至培根熟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10766/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

@@ -1,0 +1,154 @@
+{
+  "id": "xf-102052161",
+  "title": "剁椒鱼头",
+  "sourceUrl": "https://m.xiachufang.com/recipe/102052161/",
+  "author": "冇伱灬冇我",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炸"
+  ],
+  "ingredients": [
+    {
+      "name": "鱼头",
+      "mergeKey": "fish-head",
+      "amount": 1,
+      "unit": "个",
+      "category": "水产"
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "amount": 1,
+      "unit": "块",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "剁椒",
+      "mergeKey": "duojiao",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "泡椒（可不放）",
+      "mergeKey": "paojiao",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒸鱼豉油",
+      "mergeKey": "fish-soy-sauce",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "啤酒",
+      "mergeKey": "beer",
+      "quantityText": "适量",
+      "category": "其他"
+    },
+    {
+      "name": "盐（看情况加不加）",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鱼头.让卖鱼的给处理好.\n回来洗净.里面的黑膜一定要去除..."
+    },
+    {
+      "text": "锅里烧水.\n下面放一个三脚架.\n上面放一个我这样类似蒸东西的."
+    },
+    {
+      "text": "把鱼头放上去..\n对..不需要用盘.直接放...\n\n因为蒸出来的水.是最腥的.\n所以.....！"
+    },
+    {
+      "text": "一半生姜切片..葱白切段.\n\n一半的生姜和大蒜切碎.."
+    },
+    {
+      "text": "鱼盘..里面铺上生姜和葱段.."
+    },
+    {
+      "text": "鱼蒸了6分钟后..取出..\n直接滑入盘中.."
+    },
+    {
+      "text": "淋上蒸鱼豉油和啤酒..."
+    },
+    {
+      "text": "锅里放油..\n把大蒜和生姜放入爆香.."
+    },
+    {
+      "text": "再放入剁椒..."
+    },
+    {
+      "text": "香味出来后.放白糖.白胡椒粉..\n\n如果伱的剁椒不够咸.\n可以再放盐..."
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "把炒香的剁椒均匀铺在鱼头上.."
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "锅里烧水.水开后.放入鱼头.再蒸6分钟！"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "出锅时.撒上葱花..淋上芝麻油..."
+    }
+  ],
+  "durationMinutes": 80,
+  "difficulty": "中等"
+}

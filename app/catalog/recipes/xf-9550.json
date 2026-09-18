@@ -1,0 +1,97 @@
+{
+  "id": "xf-9550",
+  "title": "多春鱼豆腐盅",
+  "ingredients": [
+    {
+      "name": "蟹子",
+      "mergeKey": "crab-roe",
+      "category": "水产"
+    },
+    {
+      "name": "黄彩椒",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "多春鱼",
+      "mergeKey": "smelt",
+      "category": "水产"
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆豉",
+      "mergeKey": "douchi",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡汁",
+      "mergeKey": "chicken-stock",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "柠檬",
+      "mergeKey": "lemon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "多春鱼洗净用盐、胡椒粉、鲜柠檬切开挤汁腌渍祛除腥味"
+    },
+    {
+      "text": "豆腐切小粒，香葱切末、豆豉用刀拍松，黄彩椒开盖去籽洗净"
+    },
+    {
+      "text": "盘子里放上生粉将多春鱼裹匀"
+    },
+    {
+      "text": "锅中放宽油，待油温6成时将于放入炸熟，炸香捞出"
+    },
+    {
+      "text": "锅中放油，煸香葱花、豆豉放入小豆腐粒，加少许鸡汁，盐调味"
+    },
+    {
+      "text": "盛入黄彩椒做成的碗里，放入蒸锅中火蒸3分钟即可，取出后将多春鱼围在豆腐盅旁边即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9550/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

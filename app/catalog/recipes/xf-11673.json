@@ -1,0 +1,124 @@
+{
+  "id": "xf-11673",
+  "title": "圣诞许愿屋",
+  "ingredients": [
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 120,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "cake-flour",
+      "amount": 160,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "高粉",
+      "mergeKey": "bread-flour",
+      "amount": 40,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "糖粉或细砂糖",
+      "mergeKey": "sugar",
+      "amount": 70,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "约60克大蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "蛋白",
+      "mergeKey": "egg-white",
+      "amount": 20,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 160,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "草莓粉",
+      "mergeKey": "strawberry-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "抹茶粉",
+      "mergeKey": "matcha-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "可可粉",
+      "mergeKey": "cocoa-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香芋粉",
+      "mergeKey": "taro-powder",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "软化黄油（切成小块，微波20秒左右，软心即可，不要溶化），加入糖粉搅打均匀,"
+    },
+    {
+      "text": "分两次加入蛋液搅匀，筛入粉和盐，用刮刀拌匀，揉成团， 盖上保鲜膜放冰箱冷藏一小时左右,"
+    },
+    {
+      "text": "取出上下垫上保鲜膜擀平至4毫米厚度， 用剪好的纸样切割出形状，放入烤盘,"
+    },
+    {
+      "text": "烤箱175度预热， 烤10分钟左右,"
+    },
+    {
+      "text": "用打蛋器先将蛋白打散， 加入糖粉继续搅打成厚糊装状，分成所需颜色的份数，加入色粉搅匀，装入挤花袋，就可以随意在小屋和饼干上装饰了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11673/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 581.1,
+    "proteinG": 5.1,
+    "carbsG": 135.4,
+    "fatG": 3.4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

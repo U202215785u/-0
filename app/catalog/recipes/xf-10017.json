@@ -1,0 +1,68 @@
+{
+  "id": "xf-10017",
+  "title": "凉拌海蜇头",
+  "ingredients": [
+    {
+      "name": "海蜇头",
+      "mergeKey": "jellyfish",
+      "category": "水产"
+    },
+    {
+      "name": "紫甘蓝",
+      "mergeKey": "red-cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "海蜇皮用凉水泡一两天，当中换两三次水，然后洗净，切成丝用大约80度热水烫下，马上捞出挤干水分备用,"
+    },
+    {
+      "text": "紫甘蓝，黄瓜洗净后分别切丝,"
+    },
+    {
+      "text": "用两小颗大蒜切成蒜末，加一汤匙香醋，一汤匙生抽，稍多的香油兑成调味汁,"
+    },
+    {
+      "text": "海蜇皮丝，紫甘兰丝和黄瓜丝放大碗里，把调味汁倒入拌匀即可。夏天最好放冰箱冷藏后食用，味道更佳"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10017/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "凉拌"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "xf-10238",
+  "title": "韭菜炒小虾",
+  "ingredients": [
+    {
+      "name": "小鲜虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "韭菜",
+      "mergeKey": "chive",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红彩椒",
+      "mergeKey": "red-bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "小鲜虾洗净用盐、绍酒、胡椒粉腌上,"
+    },
+    {
+      "text": "韭菜切段，姜切丝、蒜切末、香葱切末、红彩椒切丝,"
+    },
+    {
+      "text": "锅内做油放入葱、姜、蒜末煸炒,"
+    },
+    {
+      "text": "煸炒出香味放入小虾,"
+    },
+    {
+      "text": "大火煸炒，眼见虾由透明煸炒成红色烹入绍酒,"
+    },
+    {
+      "text": "放上红彩椒丝、另一半蒜末翻炒加盐、白糖、酱油调味,"
+    },
+    {
+      "text": "放上韭菜，迅速翻炒,"
+    },
+    {
+      "text": "继续煸炒均匀出锅即可（韭菜不用煸炒时间过长）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10238/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

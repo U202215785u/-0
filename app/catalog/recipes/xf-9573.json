@@ -1,0 +1,90 @@
+{
+  "id": "xf-9573",
+  "title": "香酥烤羊排",
+  "ingredients": [
+    {
+      "name": "黄彩椒",
+      "mergeKey": "yellow-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "羊排",
+      "mergeKey": "lamb-rib",
+      "category": "肉类"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "category": "乳制品"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒面",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红葡萄酒",
+      "mergeKey": "red-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜茸",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "羊排洗净，洋葱切丝、胡萝卜切片、黄彩椒切条,"
+    },
+    {
+      "text": "羊排骨用红葡萄酒、盐、胡椒粉、百里香、蒜茸抓匀腌渍10分钟,"
+    },
+    {
+      "text": "烤箱提前预热200度，将黄油放在烤盘上融化，铺上洋葱丝、胡萝卜、彩椒条片最后放上羊排，进烤箱上下火220度烤15分钟,"
+    },
+    {
+      "text": "辣酱和烧烤酱加少许葡萄酒蜂蜜调成烧烤酱,"
+    },
+    {
+      "text": "开烤箱门羊排两面刷上烧烤酱再烤10分钟,"
+    },
+    {
+      "text": "烤箱开门再刷一层蜂蜜和少许油烤10分钟即可全部盛盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9573/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

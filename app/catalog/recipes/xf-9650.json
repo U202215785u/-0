@@ -1,0 +1,79 @@
+{
+  "id": "xf-9650",
+  "title": "红枣花生煲鸡爪",
+  "ingredients": [
+    {
+      "name": "红衣花生",
+      "mergeKey": "peanut",
+      "amount": 1,
+      "unit": "把",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡爪",
+      "mergeKey": "chicken-feet",
+      "amount": 10,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "红枣",
+      "mergeKey": "red-date",
+      "amount": 10,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡爪剪去爪尖，洗净,"
+    },
+    {
+      "text": "锅里放水放两片姜，煮开后放鸡爪绰水,"
+    },
+    {
+      "text": "捞出用流动的水洗干净。红枣去核。花生洗干净,"
+    },
+    {
+      "text": "把鸡爪，花生和红枣一起放入锅中，放足量冷水，倒入少许料酒，大火煮开后，如果有浮末，撇去。转小火慢煲一个半小时。食用前加少许盐即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9650/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 412.5,
+    "proteinG": 77.5,
+    "carbsG": 0,
+    "fatG": 9
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

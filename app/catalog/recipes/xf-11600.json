@@ -1,0 +1,94 @@
+{
+  "id": "xf-11600",
+  "title": "甘蔗红萝卜猪骨汤",
+  "ingredients": [
+    {
+      "name": "猪龙骨",
+      "mergeKey": "pork-bones",
+      "amount": 250,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "一小段甘蔗",
+      "mergeKey": "sugarcane",
+      "quantityText": "一小段",
+      "category": "其他"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "几片陈皮",
+      "mergeKey": "chen-pi",
+      "quantityText": "几片",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "陈皮提前用温水泡软后，用小刀刮去内里的白色瓤壁。所有材料洗净。锅中放冷水和剁成小块的猪龙骨，大火煮开后，再煮一分钟（这时候可以看到锅里水挺脏的，表面有很多浮沫）,"
+    },
+    {
+      "text": "焯水的龙骨捞出放在流动的水里冲洗干净。甘蔗去皮切小段，胡萝卜去皮切滚刀块。葱姜洗净，葱打结，姜切片,"
+    },
+    {
+      "text": "砂锅中放足量冷水，同时把龙骨放入，煮开后转小火（如有浮沫要撇干净）,"
+    },
+    {
+      "text": "放料酒、姜片、葱结、陈皮和甘蔗同煮，小火煲半个小时,"
+    },
+    {
+      "text": "半小时后放胡萝卜下去再煲半个小时，加精盐和少许白胡椒粉（可不放），即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11600/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 17.5,
+    "proteinG": 1,
+    "carbsG": 3.5,
+    "fatG": 0.2
+  },
+  "tags": [
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

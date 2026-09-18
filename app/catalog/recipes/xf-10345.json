@@ -1,0 +1,78 @@
+{
+  "id": "xf-10345",
+  "title": "雪菜豆芽目鱼小炒",
+  "ingredients": [
+    {
+      "name": "目鱼",
+      "mergeKey": "squid",
+      "category": "水产"
+    },
+    {
+      "name": "豆芽",
+      "mergeKey": "bean-sprouts",
+      "category": "蔬菜"
+    },
+    {
+      "name": "雪菜",
+      "mergeKey": "pickled-mustard",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先将豆芽和目鱼分别焯水，焯水时可以放少许盐,"
+    },
+    {
+      "text": "起油锅，放入姜丝煸炒一会，放入雪菜，炒出香味,"
+    },
+    {
+      "text": "放入焯过水的豆芽，翻炒均匀,"
+    },
+    {
+      "text": "最后放入目鱼丝，加少许料酒、盐、糖调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10345/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

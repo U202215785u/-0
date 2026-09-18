@@ -1,0 +1,142 @@
+{
+  "id": "xf-9600",
+  "title": "菠萝咕噜鱼",
+  "ingredients": [
+    {
+      "name": "挪威三文鱼背肉",
+      "mergeKey": "salmon",
+      "amount": 200,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "菠萝",
+      "mergeKey": "pineapple",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "各1个青红椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小匙柠檬汁",
+      "mergeKey": "lemon-juice",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙白兰地",
+      "mergeKey": "brandy",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "植物油",
+      "mergeKey": "cooking-oil",
+      "amount": 250,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蛋类"
+    },
+    {
+      "name": "小匙玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大匙蕃茄酱",
+      "mergeKey": "ketchup",
+      "amount": 45,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙清水",
+      "mergeKey": "water",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鱼肉切成2厘米大小方块，用鱼腌料拌匀腌制15分钟,"
+    },
+    {
+      "text": "将菠萝切成小方块，青红椒切成小块,"
+    },
+    {
+      "text": "将鱼肉先沾上蛋黄液,"
+    },
+    {
+      "text": "锅内烧热油，再逐块沾上干玉米淀粉,"
+    },
+    {
+      "text": "将鱼块放入170度油锅内，中火炸至表面微黄色,"
+    },
+    {
+      "text": "捞起沥干油,"
+    },
+    {
+      "text": "将酱料材料先在碗内混合。锅内热1小匙油，放入酱料烧至浓稠,"
+    },
+    {
+      "text": "下入菠萝块及青红椒块翻炒至断生,"
+    },
+    {
+      "text": "加入炸好的鱼块,"
+    },
+    {
+      "text": "切勿在锅内停留过久，鱼块均匀裹上酱汁即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9600/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 265,
+    "proteinG": 29.3,
+    "carbsG": 22,
+    "fatG": 6.5
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

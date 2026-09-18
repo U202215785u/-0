@@ -1,0 +1,49 @@
+{
+  "id": "xf-10287",
+  "title": "香椿拌豆腐",
+  "ingredients": [
+    {
+      "name": "香椿",
+      "mergeKey": "toon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "烧一锅水，水开后放少许盐，放入香椿氽烫一会儿,"
+    },
+    {
+      "text": "将烫好的香椿用清水过凉，切成香椿末儿,"
+    },
+    {
+      "text": "豆腐切块，撒上香椿末儿，加盐、香油调味儿即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10287/",
+  "author": "summer的家",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

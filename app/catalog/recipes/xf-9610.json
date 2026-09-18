@@ -1,0 +1,134 @@
+{
+  "id": "xf-9610",
+  "title": "生炒糯米饭",
+  "ingredients": [
+    {
+      "name": "长糯米",
+      "mergeKey": "glutinous-rice",
+      "amount": 240,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "广东腊肠",
+      "mergeKey": "chinese-sausage",
+      "amount": 1,
+      "unit": "根",
+      "category": "肉类"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "水发香菇",
+      "mergeKey": "shiitake",
+      "amount": 6,
+      "unit": "朵",
+      "category": "菌菇"
+    },
+    {
+      "name": "水发虾米",
+      "mergeKey": "dried-shrimp",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙植物油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙芝麻香油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "糯米先用冷水浸泡4小时，放入蒸锅内，加盖蒸30分钟,"
+    },
+    {
+      "text": "香菇及虾米先用冷水浸泡十分钟，洗净并重新用少量温水浸泡约30分钟（温水留下备用）将洋葱，腊肠及发好的香菇，虾米切小块，香葱，香菜切碎,"
+    },
+    {
+      "text": "锅内热植物油及芝麻香油，放入洋葱碎小火炒至微焦,"
+    },
+    {
+      "text": "加入香菇，腊肠及虾米炒出香味,"
+    },
+    {
+      "text": "加入蒸好的糯米饭，并倒入少量浸泡香菇的水。（分次加，不要让米饭太软）,"
+    },
+    {
+      "text": "将米饭炒散后，加入所有调味料及香葱，香菜碎翻炒至米饭水份收干即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9610/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 243,
+    "proteinG": 14.8,
+    "carbsG": 22,
+    "fatG": 10.3
+  },
+  "tags": [
+    "主食",
+    "蒸",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

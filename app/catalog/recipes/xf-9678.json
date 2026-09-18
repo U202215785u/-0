@@ -1,0 +1,79 @@
+{
+  "id": "xf-9678",
+  "title": "木耳冬笋炒虾球",
+  "ingredients": [
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "鲜虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "冬笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "油菜",
+      "mergeKey": "bok-choy",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "scallion-ginger-garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先将鲜虾去皮留尾，开边，取虾线，用盐、酒、胡椒粉、淀粉腌渍,"
+    },
+    {
+      "text": "水发木耳洗净，撕小块。油菜切段、冬笋切梳子片,"
+    },
+    {
+      "text": "木耳、油菜、冬笋先后飞水捞出待用,"
+    },
+    {
+      "text": "锅内做油，煸香葱花、姜末、蒜末，下入鲜虾，炒熟，放盐鸡精调味，放入木耳、冬笋翻炒，最后放入油菜即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9678/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

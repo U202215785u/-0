@@ -1,0 +1,105 @@
+{
+  "id": "xf-9738",
+  "title": "番茄鱼",
+  "ingredients": [
+    {
+      "name": "大番茄",
+      "mergeKey": "tomato",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "(让摊主片去骨片成鱼片)黑鱼",
+      "mergeKey": "blackfish",
+      "amount": 1,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小半瓶番茄酱",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黑鱼让摊主帮忙去骨并片成鱼片，鱼片洗净用料酒和一点点盐腌制备用,"
+    },
+    {
+      "text": "番茄去皮切成块,"
+    },
+    {
+      "text": "鱼骨洗净沥干水分,"
+    },
+    {
+      "text": "起油锅，放姜片爆香后，入鱼骨爆炒至完全变色，盛出待用,"
+    },
+    {
+      "text": "剩下的油爆炒番茄至出沙,"
+    },
+    {
+      "text": "加一大碗水，放刚才爆炒过的鱼骨进去，加少许料酒、葱和白糖，大火煮开，转小火盖上盖子煮20分装左右,"
+    },
+    {
+      "text": "开盖加小半瓶番茄酱，继续小火煮,"
+    },
+    {
+      "text": "这边另取一个锅，放平时烧菜稍多点的油，烧热，把鱼片用筷子滑散至变白立刻关火,"
+    },
+    {
+      "text": "煮番茄鱼骨这边也关火，加少许盐和鸡精调味，把鱼骨挑出扔掉，番茄和汤装入盛器，把刚才滑熟的鱼片放在面上，撒香菜上桌，可以开动了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9738/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "easy-ratatouille",
+  "title": "简易法式蔬菜炖",
+  "ingredients": [
+    {
+      "name": "茄子",
+      "mergeKey": "eggplant",
+      "amount": 454,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "quantityText": "按口味",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "特级初榨橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 180,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "西葫芦",
+      "mergeKey": "zucchini",
+      "amount": 340,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红洋葱",
+      "mergeKey": "onion",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红甜椒",
+      "mergeKey": "red-bell-pepper",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "罗勒",
+      "mergeKey": "basil",
+      "quantityText": "4枝，另备叶片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "圣女果",
+      "mergeKey": "cherry-tomato",
+      "amount": 340,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "百里香",
+      "mergeKey": "thyme",
+      "quantityText": "1汤匙",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干白葡萄酒",
+      "mergeKey": "white-wine",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料"
+    },
+    {
+      "name": "红酒醋",
+      "mergeKey": "red-wine-vinegar",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "茄子切成约1.3厘米块，放入滤篮，撒约四分之三茶匙食盐拌匀，静置至少20分钟、最多1小时；用厨房巾擦干并挤出多余水分。",
+      "ingredientNames": [
+        "茄子",
+        "食盐"
+      ]
+    },
+    {
+      "text": "锅中中高火加3汤匙橄榄油，放一半茄子，常翻炒5至7分钟至变软金黄，盛出；再加3汤匙橄榄油炒另一半茄子。",
+      "ingredientNames": [
+        "特级初榨橄榄油",
+        "茄子"
+      ]
+    },
+    {
+      "text": "转大火，加入切块西葫芦、红洋葱、红甜椒、罗勒枝、蒜、圣女果、百里香、食盐、黑胡椒和剩余橄榄油，常翻炒10至12分钟至蔬菜变软。",
+      "ingredientNames": [
+        "西葫芦",
+        "红洋葱",
+        "红甜椒",
+        "罗勒",
+        "蒜",
+        "圣女果",
+        "百里香",
+        "食盐",
+        "黑胡椒",
+        "特级初榨橄榄油"
+      ]
+    },
+    {
+      "text": "转中高火，茄子回锅，加入干白葡萄酒和半杯清水，翻炒约5分钟至酒液吸收、汤汁变成炖菜状。离火，捞出罗勒枝，拌入红酒醋，按口味补盐和黑胡椒。",
+      "ingredientNames": [
+        "茄子",
+        "干白葡萄酒",
+        "红酒醋",
+        "食盐",
+        "黑胡椒"
+      ]
+    },
+    {
+      "text": "温热或室温食用，顶部放罗勒叶。",
+      "ingredientNames": [
+        "罗勒"
+      ]
+    }
+  ],
+  "baseServings": 4,
+  "sourceUrl": "https://www.bonappetit.com/recipe/one-pot-ratatouille",
+  "author": "Rebecca Firkser / Bon Appetit",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、1小时、13项配料和5段方法；保留茄子先盐渍、分两批煎制和最后加醋的顺序。",
+  "nutrition": {
+    "kcal": 560.7,
+    "proteinG": 8.1,
+    "carbsG": 31.2,
+    "fatG": 45.7
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

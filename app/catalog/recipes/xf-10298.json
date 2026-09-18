@@ -1,0 +1,91 @@
+{
+  "id": "xf-10298",
+  "title": "浓汤蟹肉土豆",
+  "ingredients": [
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蟹肉",
+      "mergeKey": "crab",
+      "category": "水产"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "枸杞子",
+      "mergeKey": "goji",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "淡奶",
+      "mergeKey": "evaporated-milk",
+      "category": "乳制品"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "土豆去皮切成圆形，用水浸泡片刻,"
+    },
+    {
+      "text": "胡萝卜切成块，洋葱切成块。枸杞子浸泡,"
+    },
+    {
+      "text": "炒锅上火加热，放入黄油化开，然后加入洋葱和蟹肉炒香炒透。把土豆和胡萝卜块放入炒一下，然后加入淡奶，烧开后转小火来慢慢的烧,"
+    },
+    {
+      "text": "等到土豆软烂，汤汁香浓的时候，加入盐、鸡精和胡椒粉，用中火烧开下。然后加入枸杞子，撒上葱花，即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10298/",
+  "author": "游走",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "xf-10001",
+  "title": "东北酱骨头",
+  "ingredients": [
+    {
+      "name": "大骨头",
+      "mergeKey": "pork-bone",
+      "amount": 1000,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "黄豆酱",
+      "mergeKey": "soybean-paste",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 2,
+      "unit": "片",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "山楂干",
+      "mergeKey": "hawthorn",
+      "amount": 5,
+      "unit": "粒",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱姜",
+      "mergeKey": "scallion-ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大料",
+      "mergeKey": "star-anise",
+      "amount": 3,
+      "unit": "粒",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "quantityText": "1小块",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 5,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "几粒花椒粒",
+      "mergeKey": "sichuan-pepper",
+      "amount": 10,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小勺料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "骨头斩大块，用清水泡2小时，中间换几次水,"
+    },
+    {
+      "text": "香叶，桂皮，大料，葱姜，山楂，花椒，辣椒装入调料包,"
+    },
+    {
+      "text": "锅内少许油倒入砂糖炒至融化上色，倒入温水，并加入黄豆酱，老抽，料酒搅匀,"
+    },
+    {
+      "text": "把骨头捞出放入兑好调料的温水中，把调料包也放入，继续加温水没过骨头,"
+    },
+    {
+      "text": "大火烧开，转中小火炖2小时，加入盐继续炖半小时关火,"
+    },
+    {
+      "text": "骨头继续放在汤里泡2小时，吃的时候加热捞出即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10001/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 529.7,
+    "proteinG": 21.1,
+    "carbsG": 86.7,
+    "fatG": 11
+  },
+  "tags": [
+    "主食",
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

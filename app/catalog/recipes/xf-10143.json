@@ -1,0 +1,147 @@
+{
+  "id": "xf-10143",
+  "title": "牡蛎煎",
+  "ingredients": [
+    {
+      "name": "鲜牡蛎肉",
+      "mergeKey": "oyster",
+      "amount": 100,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "木薯粉",
+      "mergeKey": "tapioca-starch",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "粘米粉",
+      "mergeKey": "rice-flour",
+      "amount": 15,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "辦大蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "匙鱼露",
+      "mergeKey": "fish-sauce",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 100,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将香菜、大蒜切末；牡蛎洗净,"
+    },
+    {
+      "text": "木薯粉、粘米粉、水2：1：6兑水调成芡粉；鸡蛋打散成蛋液,"
+    },
+    {
+      "text": "先用油爆香蒜末，取出待用,"
+    },
+    {
+      "text": "继续在锅中倒入一半的芡粉，煎成薄薄的圆饼，再倒入一半的蛋液,"
+    },
+    {
+      "text": "蛋液将要凝固时加入炒香的蒜末，再放入少许牡蛎和调味料调味,"
+    },
+    {
+      "text": "将剩余的蛋液和芡粉用步骤4的方法同样再操作一边，将剩余的牡蛎全部倒入锅中，之至蚝煎两面完全凝固；食用时蘸一点甜辣椒酱吃即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10143/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 182.9,
+    "proteinG": 10.1,
+    "carbsG": 20.7,
+    "fatG": 6.5
+  },
+  "tags": [
+    "煎",
+    "炸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

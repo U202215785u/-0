@@ -1,0 +1,111 @@
+{
+  "id": "xf-10163",
+  "title": "私房糍粑鱼",
+  "ingredients": [
+    {
+      "name": "草鱼",
+      "mergeKey": "grass-carp",
+      "category": "水产"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "选取去头去尾的鱼肉，将鱼肉处理干净后，切成块状,"
+    },
+    {
+      "text": "将块状鱼肉放入碗中，放入盐、料酒、姜丝、干辣椒段搅拌均匀后盖上保鲜膜放入冰箱冷冻腌制2-7天,"
+    },
+    {
+      "text": "食用时，拿出解冻，等鱼块解冻到可以很容易分开时，将鱼块放在菜蒌上摊开，并放在通风阴凉处晾干,"
+    },
+    {
+      "text": "准备好姜末、葱花、花椒、干辣椒用剪刀剪成段,"
+    },
+    {
+      "text": "锅中放油烧热，将鱼块上的姜丝和干辣椒段剥下后，鱼皮朝下放在锅上慢煎,"
+    },
+    {
+      "text": "将鱼块煎至金黄色后，盛出,"
+    },
+    {
+      "text": "锅中留底油，小火放入干辣椒和花椒煸出香味,"
+    },
+    {
+      "text": "将鱼块、姜末和腌制的姜丝，辣椒段一起放入锅中,"
+    },
+    {
+      "text": "开小火，烹入生抽、糖和少许清水翻炒均匀后稍焖下,"
+    },
+    {
+      "text": "开大火，收汤汁，淋入醋，撒上芝麻和葱花，翻拌均匀起锅即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10163/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "xf-11455",
+  "title": "蜂蜜杏仁紫薯",
+  "ingredients": [
+    {
+      "name": "紫薯",
+      "mergeKey": "purple-sweet-potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "杏仁",
+      "mergeKey": "almond",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "紫薯清洗干净，连皮一起入高压锅中压熟,"
+    },
+    {
+      "text": "蒸熟的紫薯放入大碗中，挑去紫薯中的筋，淋入蜂蜜及小勺牛奶，用勺背压成泥，杏仁切碎,"
+    },
+    {
+      "text": "将薯泥放入模具中压制成型，点缀杏仁碎即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11455/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 2,
+    "proteinG": 0.1,
+    "carbsG": 0.3,
+    "fatG": 0.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "xf-10318",
+  "title": "香辣鸭脖子",
+  "ingredients": [
+    {
+      "name": "鸭脖子",
+      "mergeKey": "duck-neck",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大料",
+      "mergeKey": "star-anise",
+      "amount": 1,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "草果",
+      "mergeKey": "tsaoko",
+      "amount": 1,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "丁香",
+      "mergeKey": "clove",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 1,
+      "unit": "段",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 3,
+      "unit": "片",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "(45毫升)生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(30毫升)老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(5克)盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(5克)糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸭脖子洗净后，用刀剁成8厘米长的段,"
+    },
+    {
+      "text": "锅中倒入清水，大火煮开后，放入鸭脖子，煮开后撇去浮沫，继续煮1分钟后捞出沥干,"
+    },
+    {
+      "text": "炒锅中倒入油，大火加热，待油5成热时，放入切好的葱姜段，炒出香味后放入所有大料，干辣椒，花椒，草果，小茴香，丁香，桂皮和香叶，大约炒1分钟后，倒入清水1000毫升,"
+    },
+    {
+      "text": "然后倒入一个有高度的小汤锅里，放入生抽，老抽，盐和糖，煮开锅后，放入焯好的鸭脖子，再次开锅后，盖上盖子，转中火煮30分钟,"
+    },
+    {
+      "text": "煮好后，将鸭脖子捞出，自然风干半小时（一会再浸泡，比直接浸泡，鸭脖子的口感更好）。此时，锅中的汤汁也冷却了，把鸭脖子放入浸泡12小时。捞出风干后半小时后食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10318/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 71.3,
+    "proteinG": 5.1,
+    "carbsG": 10.9,
+    "fatG": 0.9
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

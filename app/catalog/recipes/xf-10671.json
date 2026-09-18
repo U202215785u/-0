@@ -1,0 +1,108 @@
+{
+  "id": "xf-10671",
+  "title": "炒鸡丁",
+  "ingredients": [
+    {
+      "name": "鸡脯肉",
+      "mergeKey": "chicken-breast",
+      "category": "肉类"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋清",
+      "mergeKey": "egg-white",
+      "category": "蛋类"
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有材料洗净，鸡脯肉拍松，切丁，胡萝卜去皮切丁，黄瓜切丁,"
+    },
+    {
+      "text": "切好的鸡丁，用少许胡椒粉、料酒、蛋清、生粉抓匀后，加一汤勺食用油拌匀腌制一会儿,"
+    },
+    {
+      "text": "锅子烧热后放油，入姜片,"
+    },
+    {
+      "text": "油温五成时放腌制好的鸡丁煸炒至表面变色出锅备用,"
+    },
+    {
+      "text": "用余油煸炒胡萝卜丁，炒至胡萝卜身软，边缘透明,"
+    },
+    {
+      "text": "入黄瓜快速翻炒几下,"
+    },
+    {
+      "text": "放入炒好的鸡丁，加适量盐和鸡精翻炒均匀,"
+    },
+    {
+      "text": "加少许薄薄的水淀粉翻炒均匀出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10671/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

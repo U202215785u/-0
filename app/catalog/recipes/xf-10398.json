@@ -1,0 +1,114 @@
+{
+  "id": "xf-10398",
+  "title": "豆瓣酱烧梭鱼",
+  "ingredients": [
+    {
+      "name": "梭鱼",
+      "mergeKey": "fish",
+      "amount": 1400,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干红辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "scallion-ginger-garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花生油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "新鲜的梭鱼去鳞剖腹，去其内脏和鱼鳃，洗净，控干水分,"
+    },
+    {
+      "text": "葱姜蒜切片备用,"
+    },
+    {
+      "text": "洗好的梭鱼横切大段备用,"
+    },
+    {
+      "text": "热锅下冷油，油温热时，下入葱姜蒜、八角和红椒，炒香,"
+    },
+    {
+      "text": "下入两匙豆瓣酱炒香，烹入料酒和少量糖,"
+    },
+    {
+      "text": "下入鱼段，添加没过的水，大火烧开，转中火炖煮,"
+    },
+    {
+      "text": "至汤汁收至三分之一，调入少量盐，大火敞锅收汁,"
+    },
+    {
+      "text": "调入味精，撒入葱花和香菜末即可出锅装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10398/",
+  "author": "灯芯绒",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 875,
+    "proteinG": 168,
+    "carbsG": 7,
+    "fatG": 21
+  },
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

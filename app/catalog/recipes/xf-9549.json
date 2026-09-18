@@ -1,0 +1,117 @@
+{
+  "id": "xf-9549",
+  "title": "桂圆红枣烧排骨",
+  "ingredients": [
+    {
+      "name": "肋排",
+      "mergeKey": "pork-ribs",
+      "category": "肉类"
+    },
+    {
+      "name": "红枣",
+      "mergeKey": "red-dates",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "桂圆肉",
+      "mergeKey": "longan",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小红辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "番茄沙司",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪肋排切小段、用葱段、姜片、小茴香、花椒、八角、绍酒、盐腌渍30分钟"
+    },
+    {
+      "text": "锅中放油，煸香葱姜蒜、放入肋排炒至两面金黄香味四溢"
+    },
+    {
+      "text": "锅中放入少许番茄沙司、加少许汤大火烧开改中火烧30分钟"
+    },
+    {
+      "text": "开盖、放入红枣、桂圆肉、加少许盐调味最后加白糖，改大火收浓汤汁放入洗净的小红辣椒点缀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9549/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

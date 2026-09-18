@@ -1,0 +1,208 @@
+{
+  "id": "xf-11060",
+  "title": "椰香芝士“扎库米“",
+  "ingredients": [
+    {
+      "name": "吉列丁片",
+      "mergeKey": "gelatin",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "奶油芝士",
+      "mergeKey": "cream-cheese",
+      "amount": 250,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "装饰淡奶油",
+      "mergeKey": "whipping-cream",
+      "category": "乳制品"
+    },
+    {
+      "name": "消化饼干",
+      "mergeKey": "digestive-biscuit",
+      "amount": 100,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 50,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 100,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "椰浆",
+      "mergeKey": "coconut-milk",
+      "amount": 240,
+      "unit": "毫升",
+      "category": "其他",
+      "pantry": true
+    },
+    {
+      "name": "青柠朗姆预调酒",
+      "mergeKey": "lime-rum",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白朗姆酒",
+      "mergeKey": "white-rum",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "几滴天然蓝色素",
+      "mergeKey": "food-color",
+      "quantityText": "几滴",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "装饰黑巧克力",
+      "mergeKey": "dark-chocolate",
+      "category": "其他",
+      "pantry": true
+    },
+    {
+      "name": "装饰白巧克力",
+      "mergeKey": "white-chocolate",
+      "category": "其他",
+      "pantry": true
+    },
+    {
+      "name": "装饰消化饼碎",
+      "mergeKey": "digestive-biscuit",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "装饰椰蓉",
+      "mergeKey": "coconut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "滴天然色素",
+      "mergeKey": "food-color",
+      "quantityText": "若干",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "消化饼擀成细粉状,"
+    },
+    {
+      "text": "加入融化的黄油,"
+    },
+    {
+      "text": "搅拌均匀即为饼底,"
+    },
+    {
+      "text": "将饼底压入模具底部，用力压紧,"
+    },
+    {
+      "text": "量取适量椰浆,"
+    },
+    {
+      "text": "将椰浆放入锅内，小火加热,"
+    },
+    {
+      "text": "此时冰水泡软吉列丁片，挤干水分备用,"
+    },
+    {
+      "text": "将吉列丁片放入椰浆中，小火继续加热搅拌至融化,"
+    },
+    {
+      "text": "加入青柠朗姆酒，拌匀后，离火,"
+    },
+    {
+      "text": "芝士室温放软，加入白砂糖搅打至均匀的糊状,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将椰浆混合液倒入芝士中,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "隔热水搅拌成均匀无颗粒的糊状,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入朗姆酒，拌匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入2滴天然蓝色素拌匀即为芝士糊，晾至室温备用,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "淡奶油打发，加入14的芝士糊中，混合均匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "倒入模具内，冷藏3小时以上至凝固,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "食用前脱模，用融化的黑巧勾出轮廓,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "填充彩色奶油或镜面水即可（或用明胶水做法：明胶粉加水搅拌均匀，小火加热至明胶融化，晾凉调色即可），周围撒上消化饼碎及椰蓉"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11060/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "蒸",
+    "烧焖"
+  ],
+  "nutrition": {
+    "kcal": 463.5,
+    "proteinG": 10.1,
+    "carbsG": 90.5,
+    "fatG": 6.8
+  },
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

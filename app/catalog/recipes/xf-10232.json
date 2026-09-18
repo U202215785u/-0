@@ -1,0 +1,138 @@
+{
+  "id": "xf-10232",
+  "title": "晶莹剔透鸡腿卷",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken",
+      "amount": 4,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "几片生姜",
+      "mergeKey": "ginger",
+      "quantityText": "几片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 3,
+      "unit": "片",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 1,
+      "unit": "把",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 2,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白酒",
+      "mergeKey": "baijiu",
+      "amount": 80,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小块冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji-berry",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡腿用剪刀剪开，斩去骨头,"
+    },
+    {
+      "text": "把鸡腿肉放在案板上，皮朝下，用刀背拍松,"
+    },
+    {
+      "text": "用盐把拍松的鸡腿底面都涂遍，腌2个小时,"
+    },
+    {
+      "text": "取一个有盖的保鲜盒，装2/3盒水，倒进锅里,"
+    },
+    {
+      "text": "锅里放进香料、姜片、冰糖、盐，加入酒，大火煮开后，小火煮20分钟，放凉后,"
+    },
+    {
+      "text": "装进保鲜盒，放进冰箱制成冰水,"
+    },
+    {
+      "text": "腌好的鸡腿皮朝下放在锡纸上,"
+    },
+    {
+      "text": "依次把4块鸡腿肉都卷成卷卷，两头拧成糖果样,"
+    },
+    {
+      "text": "锅里水开后，用大火蒸15~20分钟,"
+    },
+    {
+      "text": "蒸熟的鸡腿卷放凉后，拆开锡纸，泡进冰过的汁水里，放进冰箱6个小时以上,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "浸泡入味的鸡腿卷，捞出来，切片，就可以吃了,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "请慢慢品尝，酒量不多，不会把你吃醉的"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10232/",
+  "author": "依依美食",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 563,
+    "proteinG": 73.2,
+    "carbsG": 4.8,
+    "fatG": 24.8
+  },
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

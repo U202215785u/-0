@@ -1,0 +1,130 @@
+{
+  "id": "xf-11359",
+  "title": "白果腐竹煲猪肚",
+  "ingredients": [
+    {
+      "name": "约900克猪肚",
+      "mergeKey": "pork-stomach",
+      "amount": 1,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "腐竹",
+      "mergeKey": "yuba",
+      "amount": 100,
+      "unit": "克",
+      "category": "豆制品",
+      "pantry": true
+    },
+    {
+      "name": "白果仁",
+      "mergeKey": "ginkgo-nut",
+      "amount": 20,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "芡实",
+      "mergeKey": "fox-nut",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "薏米",
+      "mergeKey": "coix-seed",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "整粒白胡椒",
+      "mergeKey": "white-pepper",
+      "amount": 10,
+      "unit": "粒",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红枣",
+      "mergeKey": "red-date",
+      "amount": 4,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "45毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 2500,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪肚有异味，要特别仔细处理干净才可以开始煲汤。一般情况下，我们先用盐将猪肚的内外两侧，都反复搓洗三遍，然后再用清水冲洗干净,"
+    },
+    {
+      "text": "将猪肚的内面翻出，用剪刀剪去油脂和异物，冲洗两遍。然后，用白醋将猪肚的内外两侧，再搓洗两遍，用水冲洗干净,"
+    },
+    {
+      "text": "白果用温水浸泡5分钟，去除黄色的皮，白胡椒粒用刀拍破。薏米、芡实、大枣和腐竹均用清水洗净即可,"
+    },
+    {
+      "text": "锅中倒入清水，大火加热煮沸后，加入料酒和姜片，然后放入猪肚，大火煮"
+    },
+    {
+      "text": "4分钟后捞出。煮猪肚的水，倒掉不用,"
+    },
+    {
+      "text": "锅中放入新的清水煮沸，放入焯过的猪肚、芡实、薏米、白胡椒粒和大枣，再次煮沸后转小火煲1小时,"
+    },
+    {
+      "text": "1小时后打开盖子，放入白果和腐竹，继续煲40分钟，食用前加盐调味"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11359/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 97.8,
+    "proteinG": 3.1,
+    "carbsG": 14.1,
+    "fatG": 2.1
+  },
+  "tags": [
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

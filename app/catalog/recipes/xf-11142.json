@@ -1,0 +1,169 @@
+{
+  "id": "xf-11142",
+  "title": "柠檬天使蛋糕",
+  "sourceUrl": "https://www.xiachufang.com/recipe/11142/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 60,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "柠檬汁",
+      "mergeKey": "lemon-juice",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "绵白糖",
+      "mergeKey": "sugar",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "植物油",
+      "mergeKey": "cooking-oil",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "粟粉",
+      "mergeKey": "cornstarch",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蛋白",
+      "mergeKey": "egg-white",
+      "amount": 180,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 0.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "可制作2个7寸的三能标准天使模,"
+    },
+    {
+      "text": "准备工作,"
+    },
+    {
+      "text": "柠檬去皮去籽榨汁,"
+    },
+    {
+      "text": "面粉粟粉混合过筛,"
+    },
+    {
+      "text": "烤箱预热150度，最底层加一个烤盘避免底火过大,"
+    },
+    {
+      "text": "操作步骤,"
+    },
+    {
+      "text": "制作面糊——制作蛋白糊——混合入模、烘焙——冷藏,"
+    },
+    {
+      "text": "首先制作面糊：水中加入柠檬汁、油，搅拌至水油混合均匀，呈现米汤状,"
+    },
+    {
+      "text": "加入糖，搅拌至糖融化,"
+    },
+    {
+      "text": "加入混合过筛的低粉、粟粉,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "用刮刀切拌至无干粉粒，即为面糊,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "现在制作蛋白霜：蛋白加入盐、柠檬汁，用电动打蛋器搅打出粗泡,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "分三次共加入60克糖，搅打至蛋白干性发泡，即慢慢取出蛋抽，蛋抽带出蛋白呈现短直的小尖,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将蛋白霜分三次加入到面糊中，每次都要切拌均匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "混合均匀后即为天使蛋糕面糊,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将天使面糊倒入模具内，抹平表面,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "用厨房纸巾擦干净模具周边，这样会比较容易脱模,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "放入预热150度的烤箱的倒数第二层，烤制30~35分钟,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "取出后倒扣，即可顺利脱模，冷却后放入冰箱冷藏"
+    }
+  ],
+  "tags": [
+    "炒"
+  ],
+  "nutrition": {
+    "kcal": 265.5,
+    "proteinG": 5.4,
+    "carbsG": 54.3,
+    "fatG": 3.2
+  },
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

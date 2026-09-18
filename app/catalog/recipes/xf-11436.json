@@ -1,0 +1,73 @@
+{
+  "id": "xf-11436",
+  "title": "红烧鳊鱼",
+  "ingredients": [
+    {
+      "name": "鳊鱼",
+      "mergeKey": "bream",
+      "category": "水产"
+    },
+    {
+      "name": "葱段",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鳊鱼清洗干净，擦干水分，在鱼身上划十字花刀,"
+    },
+    {
+      "text": "姜切丝，葱切葱段,"
+    },
+    {
+      "text": "锅洗干净，放油烧热，投入鳊鱼大火煎至表皮微黄,"
+    },
+    {
+      "text": "改小火，投入姜丝，调入老抽少许（上色），少许盐，3大勺糖，加少许水大火盖锅盖焖烧一会,"
+    },
+    {
+      "text": "汤汁略收干时，洒入胡椒粉，葱段即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11436/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

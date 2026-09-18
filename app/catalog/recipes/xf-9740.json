@@ -1,0 +1,98 @@
+{
+  "id": "xf-9740",
+  "title": "清汤肉圆",
+  "ingredients": [
+    {
+      "name": "肉末",
+      "mergeKey": "minced-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "青菜",
+      "mergeKey": "greens",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "肉末里加盐，鸡精，胡椒粉，葱姜末，料酒，干淀粉，少许豆腐,"
+    },
+    {
+      "text": "用筷子使劲朝一个方向把肉末搅拌上劲,"
+    },
+    {
+      "text": "锅里烧开水，转小火。戴上一次性手套，把搅拌好的肉末放在掌心，然后握拳，把肉末从食指和大拇指中挤出来成肉圆状,"
+    },
+    {
+      "text": "把肉圆用勺子从手上刮起，轻轻放入小火煮的水中，直至全部肉圆做好放进锅中。等肉圆成型后，转中火煮至熟（时间视肉圆大小而定，我大概煮三五分钟左右），边煮边撇去浮末，加盐，鸡精调好味道,"
+    },
+    {
+      "text": "小青菜心子洗净,"
+    },
+    {
+      "text": "把小青菜放入煮好的肉圆汤，即可起锅，撒胡椒粉滴入麻油上桌"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9740/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

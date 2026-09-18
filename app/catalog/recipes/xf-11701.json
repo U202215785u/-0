@@ -1,0 +1,126 @@
+{
+  "id": "xf-11701",
+  "title": "雪里蕻肉末炒黄豆",
+  "ingredients": [
+    {
+      "name": "约200克雪里蕻",
+      "mergeKey": "xuelihong",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "水发黄豆",
+      "mergeKey": "soybean",
+      "amount": 100,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "肉馅",
+      "mergeKey": "ground-pork",
+      "amount": 100,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "干红辣椒",
+      "mergeKey": "chili",
+      "amount": 10,
+      "unit": "根",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "一节约大拇指长葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "约葱的一半姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "45毫升西班牙橄榄油",
+      "mergeKey": "cooking-oil",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "20毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3毫升老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 3,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙1毫升香油",
+      "mergeKey": "sesame-oil",
+      "amount": 1,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将雪里蕻冲净，泡在清水中浸泡20分钟，然后用手反复挤压菜叶，帮助盐份析出。然后倒掉浸泡的水，再用清水冲净后，用手攥干菜叶，切成5毫米长的小丁,"
+    },
+    {
+      "text": "锅中倒入清水，大火煮开后放入水发黄豆，改成中火煮5分钟后捞出沥干水分备用,"
+    },
+    {
+      "text": "葱和去皮的姜，都切成碎末。肉馅放入碗中，调入料酒，生抽1茶匙（5毫升），老抽搅匀后，倒入橄榄油再继续搅匀，腌制5分钟,"
+    },
+    {
+      "text": "锅中倒入橄榄油，大火加热待油6成热时，放入肉馅快速炒散炒熟变色后捞出,"
+    },
+    {
+      "text": "锅中继续倒入油，大火加热待油4成热时，放入辣椒和葱姜末炒出香味后，倒入雪里蕻煸炒约3分钟，用油将雪里蕻充分煸透,"
+    },
+    {
+      "text": "放入煮好的黄豆，倒入生抽3茶匙（15毫升），倒入200毫升清水，煮开后放入刚刚炒好的肉馅，改成中火继续炖煮5分钟,"
+    },
+    {
+      "text": "改成大火再烧2分钟，直到汤慢慢收干，最后淋入一点点香油搅匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11701/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 505.8,
+    "proteinG": 23.4,
+    "carbsG": 35.8,
+    "fatG": 32.7
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

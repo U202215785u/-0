@@ -1,0 +1,56 @@
+{
+  "id": "xf-11596",
+  "title": "荞麦鸡蛋手擀面",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食"
+    },
+    {
+      "name": "荞麦粉",
+      "mergeKey": "buckwheat-flour",
+      "category": "米面主食"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "枚",
+      "category": "蛋类"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "quantityText": "少许",
+      "category": "其他"
+    },
+    {
+      "name": "一点点盐",
+      "mergeKey": "salt",
+      "quantityText": "一点点",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "面粉和荞麦粉以2：1的比例放入深盘中，加入一个鸡蛋，及一点点的水（水一定要少，慢慢的加，以免倒的太多面团太稀），和成一个光滑的面团，盖上干净的布醒30分钟,"
+    },
+    {
+      "text": "砧板上洒少许面粉，将适量面团揉捏成圆形，再按扁，擀成圆圆的薄片,"
+    },
+    {
+      "text": "在面片上洒适量面粉，再叠放起来，用刀切成段即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11596/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

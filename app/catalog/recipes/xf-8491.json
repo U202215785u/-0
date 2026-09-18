@@ -1,0 +1,90 @@
+{
+  "id": "xf-8491",
+  "title": "鸡汤煮干丝",
+  "ingredients": [
+    {
+      "name": "美国大杏仁",
+      "mergeKey": "almond",
+      "amount": 10,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "豆腐片",
+      "mergeKey": "tofu",
+      "amount": 2,
+      "unit": "张",
+      "category": "豆制品"
+    },
+    {
+      "name": "火腿",
+      "mergeKey": "ham",
+      "amount": 1,
+      "unit": "小块",
+      "category": "肉类"
+    },
+    {
+      "name": "小青菜",
+      "mergeKey": "bok-choy",
+      "amount": 5,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "30毫升油",
+      "mergeKey": "cooking-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "青菜择洗干净，火腿切成细丝，姜去皮切成细丝。酱豆片也切细丝，越细越好,"
+    },
+    {
+      "text": "锅中倒入清水，加入少许盐，淋入1汤匙油，水开后放入青菜焯烫10秒钟后捞出，过冷水后沥干水分备用,"
+    },
+    {
+      "text": "将豆腐片切成尽量细的细丝，放入开水中，焯烫2分钟后捞出沥干,"
+    },
+    {
+      "text": "炒锅中倒入剩余的1汤匙油，大火加热，待油4成热时，放入姜丝煸出香味，然后倒入鸡汤煮开,"
+    },
+    {
+      "text": "放入焯烫过的豆腐丝，再放入火腿丝，大杏仁，用大火煮约3分钟，最后放入青菜和盐即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/8491/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 148.5,
+    "proteinG": 10.7,
+    "carbsG": 21.4,
+    "fatG": 3.7
+  },
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

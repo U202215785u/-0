@@ -1,0 +1,114 @@
+{
+  "id": "xf-101713998",
+  "title": "糖醋鲤鱼",
+  "ingredients": [
+    {
+      "name": "鲤鱼一条",
+      "mergeKey": "carp",
+      "amount": 800,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "小袋番茄酱",
+      "mergeKey": "ketchup",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白醋",
+      "mergeKey": "vinegar",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "quantityText": "适量",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱姜碎末",
+      "mergeKey": "scallion-ginger",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "洗净沥干在鱼身两面没间隔2厘米各斜切一刀,（切的时候注意不要切段，可以先直刀深切0/5-1厘米厚改成平片1厘米，这样炸出的效果也不叫好看）"
+    },
+    {
+      "text": "鲤鱼片好后，用胡椒粉、生抽盐腌一会，腌鱼的时候，锅中可以先热油"
+    },
+    {
+      "text": "做酱汁：比例大概是（生抽2勺、糖3勺、醋4勺、料酒1勺、番茄酱1袋、清水5勺调汁）"
+    },
+    {
+      "text": "鱼腌好后，用淀粉和面粉调成糊，均匀抹在鱼上。将鱼尾提起，鱼头先放入油锅，并不断用炒勺往鱼身上浇油定型，待鱼完全定型后，放入油锅内炸至金黄色后控油捞出，装盘。"
+    },
+    {
+      "text": "锅内留少许油，加葱花、姜末、蒜末爆香后倒入调好的酱汁，不断搅拌，最后加少许淀粉收汁淋在鱼身上即可。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/101713998/",
+  "author": "高哥私房菜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 500,
+    "proteinG": 96,
+    "carbsG": 4,
+    "fatG": 12
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

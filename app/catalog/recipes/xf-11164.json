@@ -1,0 +1,53 @@
+{
+  "id": "xf-11164",
+  "title": "五香鹌鹑蛋",
+  "ingredients": [
+    {
+      "name": "鹌鹑蛋",
+      "mergeKey": "quail-egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鹌鹑蛋洗净，放在锅内煮熟备用,"
+    },
+    {
+      "text": "煮鹌鹑蛋的同时准备腌制调料，锅内放入老抽、盐、八角，加入适量水煮开,"
+    },
+    {
+      "text": "煮熟的鹌鹑蛋用勺子轻轻敲碎（主要是为了进味,"
+    },
+    {
+      "text": "把鹌鹑蛋放入调料中，再次煮开后关火，为了使鹌鹑蛋有滋味，关火后最好再腌渍一会儿即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11164/",
+  "author": "crystal苏提",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

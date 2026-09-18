@@ -1,0 +1,100 @@
+{
+  "id": "xf-10119",
+  "title": "牛肉玉米面",
+  "ingredients": [
+    {
+      "name": "熟核桃",
+      "mergeKey": "walnut",
+      "amount": 10,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "卤水牛肉",
+      "mergeKey": "beef",
+      "amount": 30,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "玉米干面",
+      "mergeKey": "corn-noodles",
+      "amount": 50,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "牛骨高汤",
+      "mergeKey": "beef-stock",
+      "amount": 300,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "番茄",
+      "mergeKey": "tomato",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "西兰花",
+      "mergeKey": "broccoli",
+      "amount": 80,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "～4朵鲜香菇",
+      "mergeKey": "shiitake",
+      "amount": 3,
+      "category": "菌菇"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "熟咸花生",
+      "mergeKey": "peanut",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将牛肉切片、番茄、西兰花切块；香菇划十字刀待用,"
+    },
+    {
+      "text": "先将鸡蛋煮熟，切片；将面条焯水,"
+    },
+    {
+      "text": "另取锅放适量水，加入牛骨高汤，加入面条、蔬菜和盐，待汤汁煮沸后出锅盛入碗中即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10119/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "蒸",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "xf-1010913",
+  "title": "腊味合蒸",
+  "ingredients": [
+    {
+      "name": "节自制香肠",
+      "mergeKey": "sausage",
+      "amount": 2,
+      "category": "肉类"
+    },
+    {
+      "name": "酱肉",
+      "mergeKey": "jiang-rou",
+      "amount": 1,
+      "unit": "小块",
+      "category": "肉类"
+    },
+    {
+      "name": "娃娃菜",
+      "mergeKey": "baby-cabbage",
+      "amount": 1,
+      "unit": "棵",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "，葱",
+      "mergeKey": "scallion",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "娃娃菜剥去老叶，留菜心，洗净后切成长的斜刀片；香肠和酱肉切薄片。"
+    },
+    {
+      "text": "娃娃菜放在盘底，将香肠和酱肉码在娃娃菜的上方，尽量盖满娃娃菜。"
+    },
+    {
+      "text": "在香肠酱肉上撒点白糖和味精，淋少许料酒。"
+    },
+    {
+      "text": "隔水，大火蒸15-20分钟左右。"
+    },
+    {
+      "text": "出锅时撒点葱花。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/1010913/",
+  "author": "小阿妞妞",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

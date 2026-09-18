@@ -1,0 +1,133 @@
+{
+  "id": "xf-9823",
+  "title": "白玉鲜虾卷",
+  "ingredients": [
+    {
+      "name": "大白菜叶",
+      "mergeKey": "napa-cabbage",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鲜虾",
+      "mergeKey": "shrimp",
+      "amount": 200,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小撮白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1,
+      "unit": "小撮",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白葡萄酒",
+      "mergeKey": "white-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋清",
+      "mergeKey": "egg-white",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "amount": 10,
+      "unit": "粒",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香菜杆儿",
+      "mergeKey": "cilantro",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鲜虾洗净后去头剥皮挑砂线留下虾肉备用,"
+    },
+    {
+      "text": "用刀将虾肉剁成虾蓉,"
+    },
+    {
+      "text": "虾蓉放入碗中，加入盐，白葡萄酒，白胡椒粉顺一个方向搅打上劲儿,"
+    },
+    {
+      "text": "上劲儿后加入小半个蛋清，水淀粉少许,"
+    },
+    {
+      "text": "继续顺一个方向搅拌至浓滑粘稠后备用,"
+    },
+    {
+      "text": "锅内做水，水开后下入洗净的大白菜叶略焯一下水使其变软捞出过凉水后控干,"
+    },
+    {
+      "text": "白菜叶去掉菜帮部分，切成长方形片，中间码上鲜虾馅,"
+    },
+    {
+      "text": "用手包裹卷起,"
+    },
+    {
+      "text": "用香菜杆儿在菜卷中央扎住,"
+    },
+    {
+      "text": "码盘后上锅蒸制（水开后10分钟）,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "锅内放少许橄榄油，油热后下入姜末少许炝锅，倒入清汤，枸杞，下盐糖调味，锅开后下水淀粉勾芡，淋在蒸好的菜卷上完成制作"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9823/",
+  "author": "卤煮鲍鱼",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 197.4,
+    "proteinG": 28.7,
+    "carbsG": 11.9,
+    "fatG": 4.9
+  },
+  "tags": [
+    "炒",
+    "煮",
+    "炸"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

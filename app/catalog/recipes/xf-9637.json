@@ -1,0 +1,52 @@
+{
+  "id": "xf-9637",
+  "title": "核桃炒韭菜",
+  "ingredients": [
+    {
+      "name": "核桃",
+      "mergeKey": "walnut",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "韭菜",
+      "mergeKey": "chives",
+      "amount": 350,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "10克盐",
+      "mergeKey": "salt",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备材料,"
+    },
+    {
+      "text": "锅中放油，倒入核桃仁稍煸炒,"
+    },
+    {
+      "text": "倒入韭菜,"
+    },
+    {
+      "text": "翻炒后，放入盐，炒至韭菜熟了即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9637/",
+  "author": "飞雪无霜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

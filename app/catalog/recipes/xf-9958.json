@@ -1,0 +1,89 @@
+{
+  "id": "xf-9958",
+  "title": "茶干回锅肉",
+  "ingredients": [
+    {
+      "name": "后臀尖",
+      "mergeKey": "pork",
+      "amount": 200,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "茶干",
+      "mergeKey": "dried-tofu",
+      "amount": 3,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "青蒜",
+      "mergeKey": "green-garlic",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "郫县豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 8,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将煮熟的后臀尖切成薄片，茶干切成约2厘米见方的小块，青蒜切成菱形块备用,"
+    },
+    {
+      "text": "锅中加入少许油烧到3成热，放入茶干用中火炒出香味，然后将茶干推到锅边，放入豆瓣酱改用小火慢慢炒出红油,"
+    },
+    {
+      "text": "放入肉片翻炒至颜色变红，然后淋入生抽、老抽，加入白糖炒匀，直到肉片上色，肥肉部分开始出油,"
+    },
+    {
+      "text": "最后放入青蒜拌匀，立即关火即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9958/",
+  "author": "豆牛",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 289.2,
+    "proteinG": 32.8,
+    "carbsG": 16.3,
+    "fatG": 10.5
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

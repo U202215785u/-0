@@ -1,0 +1,117 @@
+{
+  "id": "xf-11330",
+  "title": "巧克力奇普饼干",
+  "ingredients": [
+    {
+      "name": "耐烤巧克力豆",
+      "mergeKey": "chocolate-chips",
+      "amount": 50,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 100,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 60,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "核桃仁",
+      "mergeKey": "walnut",
+      "amount": 40,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "红糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 25,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "/8小勺小苏打",
+      "mergeKey": "baking-soda",
+      "amount": 0.625,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺香草粉",
+      "mergeKey": "vanilla",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油室温软化后（夏天温度高，不要软化得太厉害），加入红糖和细砂糖、盐，用打蛋器打发。分两次加入打散的鸡蛋液，搅打均匀,"
+    },
+    {
+      "text": "分次加入过筛粉类拌匀,"
+    },
+    {
+      "text": "加入碎核桃仁和巧克力豆，用橡皮刮刀拌匀,"
+    },
+    {
+      "text": "饼干面糊完成,"
+    },
+    {
+      "text": "用手抓起一小块饼干面糊，略整成圆饼状,"
+    },
+    {
+      "text": "排入垫了高温油布的烤盘里。190度上下火，中层，15分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11330/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 243.6,
+    "proteinG": 6.1,
+    "carbsG": 47.6,
+    "fatG": 3.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

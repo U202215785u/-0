@@ -1,0 +1,57 @@
+{
+  "id": "xf-11689",
+  "title": "日式味噌汤",
+  "ingredients": [
+    {
+      "name": "一小把海带",
+      "mergeKey": "kelp",
+      "quantityText": "一小把",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "内酯豆腐",
+      "mergeKey": "tofu",
+      "amount": 0.5,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "两勺味噌",
+      "mergeKey": "miso",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅中放泡发好的海带，煮开后，转小火煮5分钟至海带软,"
+    },
+    {
+      "text": "小碗放小半碗温水，取两勺味噌，放入温水中化开,"
+    },
+    {
+      "text": "锅中海带煮好后，放入切成小丁的内酯豆腐，再煮一分钟,"
+    },
+    {
+      "text": "倒入融化的味噌水搅匀，煮开立即关火"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11689/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 12.3,
+    "proteinG": 1.3,
+    "carbsG": 0.5,
+    "fatG": 0.6
+  },
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "xf-11210",
+  "title": "泡菜虾",
+  "ingredients": [
+    {
+      "name": "活虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "泡菜",
+      "mergeKey": "kimchi",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "虾去头剥壳剪开背，去掉肠泥，用黑胡椒粉和一勺蚝油拌匀腌制,"
+    },
+    {
+      "text": "葱和蒜都切碎，泡菜切小段,"
+    },
+    {
+      "text": "锅中放油烧热，倒入虾仁，放一点点料酒，翻炒至变色，盛出备用,"
+    },
+    {
+      "text": "用锅中余油爆香蒜末,"
+    },
+    {
+      "text": "倒入切好的泡菜和少许泡菜汁，炒半分钟,"
+    },
+    {
+      "text": "倒入步骤3的虾仁，翻炒片刻，放一点鸡精炒匀，撒上葱花出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11210/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

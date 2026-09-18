@@ -1,0 +1,81 @@
+{
+  "id": "xf-9819",
+  "title": "果酱小饼干",
+  "ingredients": [
+    {
+      "name": "无盐黄油",
+      "mergeKey": "unsalted-butter",
+      "amount": 150,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 300,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "icing-sugar",
+      "amount": 100,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "全蛋",
+      "mergeKey": "egg",
+      "amount": 45,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油温室软化，加糖粉打发，分次加入蛋液打发，分次加入牛奶打发,"
+    },
+    {
+      "text": "加入过筛盐和低粉拌成面团，入冰箱冷藏30分,"
+    },
+    {
+      "text": "取出擀平，用摸压出形状，在另外一片饼干上压出空心，平的一面刷上蛋液，把另外空心放上，挤入果酱，烤箱预热180度,"
+    },
+    {
+      "text": "入烤箱上下火180度烤约15-20分，（温度尽供参考）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9819/",
+  "author": "子闻妈咪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 498.5,
+    "proteinG": 10.4,
+    "carbsG": 105.2,
+    "fatG": 4.7
+  },
+  "tags": [
+    "主食",
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

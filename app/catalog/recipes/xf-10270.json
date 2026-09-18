@@ -1,0 +1,57 @@
+{
+  "id": "xf-10270",
+  "title": "补血金糕",
+  "ingredients": [
+    {
+      "name": "山里红",
+      "mergeKey": "hawthorn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "山里红洗净，一定要中间横着一道切开，把籽挤出来,"
+    },
+    {
+      "text": "锅中放水烧开放入山里红,"
+    },
+    {
+      "text": "大火煮开山里红变软。不要盖盖不然会颜色不美啊,"
+    },
+    {
+      "text": "继续煮，不断搅拌直到粘稠一些,"
+    },
+    {
+      "text": "放入白砂糖也可以放冰糖,"
+    },
+    {
+      "text": "继续搅拌直到蘸勺子变得很粘稠了,"
+    },
+    {
+      "text": "盛出来放在碗中变温。（我没有用搅拌机打得很碎，这样口感真实一些）,"
+    },
+    {
+      "text": "等到稍微凉一些迅速扣入模具中，脱模即可成型，撒上几个甜杏仁就可以食之"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10270/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

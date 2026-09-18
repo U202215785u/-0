@@ -1,0 +1,147 @@
+{
+  "id": "lasagna-soup-spinach",
+  "title": "菠菜香肠千层面汤",
+  "ingredients": [
+    {
+      "name": "特级初榨橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "意大利香肠",
+      "mergeKey": "italian-sausage",
+      "amount": 454,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "quantityText": "按口味",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 25,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "浓缩番茄膏",
+      "mergeKey": "tomato-paste",
+      "amount": 128,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "低钠鸡汤",
+      "mergeKey": "chicken-stock",
+      "amount": 946,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "干千层面",
+      "mergeKey": "lasagna",
+      "amount": 283,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "全脂乳清干酪",
+      "mergeKey": "ricotta",
+      "amount": 227,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "quantityText": "现磨，按口味",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "嫩菠菜",
+      "mergeKey": "spinach",
+      "amount": 142,
+      "unit": "克",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "厚底锅中高火加橄榄油，去掉肠衣的意大利香肠分成约2.5厘米块，单层放入，静置煎3分钟，再翻动煎3至4分钟至全身上色且刚熟，捞出。",
+      "ingredientNames": [
+        "特级初榨橄榄油",
+        "意大利香肠"
+      ]
+    },
+    {
+      "text": "原锅加入洋葱和食盐，翻炒约3分钟至略软并开始上色；加入切片蒜和番茄膏，常搅拌炒约3分钟至番茄膏变深并开始粘锅。加入2杯清水，刮起锅底焦香。",
+      "ingredientNames": [
+        "洋葱",
+        "食盐",
+        "蒜",
+        "浓缩番茄膏"
+      ]
+    },
+    {
+      "text": "倒入鸡汤和食盐，大火煮沸；加入掰成约5至8厘米段的千层面，常搅拌煮约9分钟至很有嚼劲。",
+      "ingredientNames": [
+        "低钠鸡汤",
+        "干千层面",
+        "食盐"
+      ]
+    },
+    {
+      "text": "乳清干酪加食盐和黑胡椒拌匀。",
+      "ingredientNames": [
+        "全脂乳清干酪",
+        "食盐",
+        "黑胡椒"
+      ]
+    },
+    {
+      "text": "汤中再加2杯清水，放回香肠，转小火煮约5分钟至肉热透。离火拌入菠菜，按口味调盐和胡椒。盛入碗中，放一勺乳清干酪。",
+      "ingredientNames": [
+        "意大利香肠",
+        "嫩菠菜",
+        "食盐",
+        "黑胡椒",
+        "全脂乳清干酪"
+      ]
+    }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 40,
+  "sourceUrl": "https://www.bonappetit.com/recipe/broken-lasagna-noodle-soup-with-spinach",
+  "author": "Rebecca Firkser / Bon Appetit",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、40分钟、11项配料和6段方法；保留香肠先煎、番茄膏炒深、面片煮制和离火拌菠菜的顺序。",
+  "nutrition": {
+    "kcal": 662.2,
+    "proteinG": 81.5,
+    "carbsG": 32.7,
+    "fatG": 20.4
+  },
+  "tags": [
+    "煮",
+    "烧焖",
+    "炒"
+  ],
+  "difficulty": "中等"
+}

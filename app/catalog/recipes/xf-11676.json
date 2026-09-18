@@ -1,0 +1,65 @@
+{
+  "id": "xf-11676",
+  "title": "热巧克力",
+  "ingredients": [
+    {
+      "name": "巧克力碎屑",
+      "mergeKey": "chocolate",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "全脂牛奶",
+      "mergeKey": "milk",
+      "amount": 200,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鲜奶油",
+      "mergeKey": "cream",
+      "quantityText": "少许",
+      "category": "乳制品"
+    },
+    {
+      "name": "可可粉",
+      "mergeKey": "cocoa-powder",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将牛奶倒入煮锅中小火加热至90度（锅边有汽泡，刚开始沸腾），放入巧克力碎屑不断的搅拌,"
+    },
+    {
+      "text": "奶锅转小火不断的加热，用汤勺不断的搅动使巧克力完全的溶化并溶于牛奶中，最后关火倒入白砂糖拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11676/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 95.8,
+    "proteinG": 3.4,
+    "carbsG": 15,
+    "fatG": 2.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

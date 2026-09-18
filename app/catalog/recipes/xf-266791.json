@@ -1,0 +1,93 @@
+{
+  "id": "xf-266791",
+  "title": "油焖大虾",
+  "ingredients": [
+    {
+      "name": "对虾",
+      "mergeKey": "shrimp",
+      "amount": 8,
+      "unit": "只",
+      "category": "水产"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "对虾剪去须、爪、嘴，整齐美观，入口方便"
+    },
+    {
+      "text": "从背部剪开至尾端，挑去黑线。"
+    },
+    {
+      "text": "清洗干净，控净水分备用。姜蒜切细（约1:3），香葱切段"
+    },
+    {
+      "text": "锅中多倒油（传统做法用猪油），烧至约"
+    },
+    {
+      "text": "7成热，投入大虾，迅速翻面，变红起酥即捞出备用"
+    },
+    {
+      "text": "锅中留少许油，下姜蒜炒香                       （此处过去因个人喜好用过西红柿或番茄酱，现为表述基本做法已做删改）"
+    },
+    {
+      "text": "投入大虾，以炒勺轻压几下虾脑，挤出红汁炒匀，沿锅边烹入少许料酒、生抽（不能是深色酱油），洒入约3小匙白糖，倒入一点水，大火烧开，小火盖闷"
+    },
+    {
+      "text": "约半分钟-1分钟后开盖，投入葱段，加少许盐调味，大火收汁，见汤汁收紧、油亮、颜色变深时，即可出锅。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/266791/",
+  "author": "悟饭",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 500,
+    "proteinG": 96,
+    "carbsG": 4,
+    "fatG": 12
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

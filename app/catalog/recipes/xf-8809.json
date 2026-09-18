@@ -1,0 +1,65 @@
+{
+  "id": "xf-8809",
+  "title": "酱萝卜",
+  "ingredients": [
+    {
+      "name": "白萝卜",
+      "mergeKey": "daikon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "米醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "萝卜切片， 用一小勺盐拌匀腌一小时， 倒掉汁水， 再用一大勺砂糖拌匀腌一小时， 再倒掉汁水沥干"
+    },
+    {
+      "text": "取一个带盖密封碗，将适量的酱油、鸡精、砂糖、米醋、再半碗凉开水调匀，加入已沥干水分的萝卜和干辣椒，酱汁要基本盖过萝卜，放冰箱冷藏两三天就可以吃了，吃时淋上麻油"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/8809/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

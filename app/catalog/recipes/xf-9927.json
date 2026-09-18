@@ -1,0 +1,47 @@
+{
+  "id": "xf-9927",
+  "title": "红薯百合糖水",
+  "ingredients": [
+    {
+      "name": "红薯",
+      "mergeKey": "sweet-potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "百合",
+      "mergeKey": "lily-bulb",
+      "category": "蔬菜"
+    },
+    {
+      "name": "橙皮",
+      "mergeKey": "orange-peel",
+      "category": "蔬菜"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "红薯去皮切小块，百合掰成瓣状，橙皮切细丝（我用的新鲜橙子的皮）,"
+    },
+    {
+      "text": "锅中放适量水，先放入红薯和橙皮丝，煮沸后转小火煮30分钟,"
+    },
+    {
+      "text": "然后放入百合和冰糖，煮至冰糖融化，百合酥烂关火"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9927/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "xf-9929",
+  "title": "泡椒木耳鲜笋炖鸡腿",
+  "ingredients": [
+    {
+      "name": "黑木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇"
+    },
+    {
+      "name": "笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken",
+      "category": "肉类"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "泡椒",
+      "mergeKey": "pickled-chili",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黑木耳洗净切小块，笋洗净切片，鸡腿切小块（可以切的小一些，方便入味）,"
+    },
+    {
+      "text": "起油锅，爆香姜片大葱，放入鸡块翻炒一会，加少许料酒，泡椒和浸泡泡椒的泡椒汁，几滴醋，加适量水，煮沸后捞去浮沫,"
+    },
+    {
+      "text": "放入黑木耳和笋片，转中火炖25-30分钟，出锅前加盐、鸡精调味"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9929/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

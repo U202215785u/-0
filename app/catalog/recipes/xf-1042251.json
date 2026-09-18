@@ -1,0 +1,96 @@
+{
+  "id": "xf-1042251",
+  "title": "龙井虾仁",
+  "ingredients": [
+    {
+      "name": "虾",
+      "mergeKey": "shrimp",
+      "amount": 400,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "龙井茶叶",
+      "mergeKey": "longjing-tea",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋清",
+      "mergeKey": "egg-white",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "食用碱",
+      "mergeKey": "baking-soda",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "，淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "油、盐、鸡精、黄酒",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "chicken-powder"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将虾去头去壳，将虾背部剪开，去除沙线（虾的肠胃）"
+    },
+    {
+      "text": "将虾洗净，放入加入少许食用碱的碱水里泡10分钟左右，这样可以使做出来的虾仁鲜嫩饱满不缩水"
+    },
+    {
+      "text": "倒掉碱水，反复冲洗虾仁，然后用清水泡2个小时左右，期间换水4-5次"
+    },
+    {
+      "text": "将泡干净的虾仁，用厨房纸吸净水分，可以多重复几次这个步骤，确保虾仁表面干燥，这样有利于下一步上浆"
+    },
+    {
+      "text": "将适量盐，鸡精，淀粉，少量色拉油和半个鸡蛋清放入吸净水分的虾仁中，然后朝一个方向搅拌，待感觉粘稠即可，放入冰箱浆20分钟左右"
+    },
+    {
+      "text": "这期间，将龙井茶叶泡开，滤去茶叶备用"
+    },
+    {
+      "text": "烧开一锅水，将浆好的虾仁放入滚水中汆一下，立即捞起，这样可以使翻炒虾仁的过程不粘锅"
+    },
+    {
+      "text": "烧热锅中油（油需要多一点），放入浆好的虾仁，快速拨散，翻炒几下，盛出"
+    },
+    {
+      "text": "锅内留少许油，放入过油的虾仁，倒入少量黄酒，倒入两汤勺龙井茶叶水，翻炒使茶水入味，随后放入少许水淀粉，翻炒使虾仁更有光泽"
+    },
+    {
+      "text": "最后倒入少许麻油拌匀，撒入少许茶叶即可出锅"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/1042251/",
+  "author": "晴天小超人",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 271.9,
+    "proteinG": 49.8,
+    "carbsG": 2.7,
+    "fatG": 7.4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

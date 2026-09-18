@@ -1,0 +1,100 @@
+{
+  "id": "xf-11691",
+  "title": "抹茶椰蓉糯米滋",
+  "ingredients": [
+    {
+      "name": "糯米粉",
+      "mergeKey": "glutinous-rice-flour",
+      "amount": 50,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "粘米粉",
+      "mergeKey": "rice-flour",
+      "amount": 35,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "分成20克/个红豆沙",
+      "mergeKey": "red-bean-paste",
+      "amount": 220,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "澄粉",
+      "mergeKey": "wheat-starch",
+      "amount": 25,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油无气味型",
+      "mergeKey": "cooking-oil",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 160,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "椰蓉",
+      "mergeKey": "coconut-flakes",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "抹茶粉",
+      "mergeKey": "matcha-powder",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "放一个大碗在称上，依次加入称量正确的所有材料用筷子拌匀，放置5分钟再拌匀至无颗粒后入开水锅中蒸15分钟左右（蒸熟为止）,"
+    },
+    {
+      "text": "蒸熟的糯米糊中加入适量抹茶粉（一点点加直到加到自己满意的颜色）用勺子推开，等不烫手的时候用手抓匀后，分成25克/个，然后包入1个豆沙馅,"
+    },
+    {
+      "text": "将糯米滋收口包圆后每2个放在盘子里，入微波炉10秒叮一下（使表面有粘性能粘住椰蓉），放入椰蓉中均匀的沾满即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11691/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 244.6,
+    "proteinG": 7.5,
+    "carbsG": 42.4,
+    "fatG": 4.4
+  },
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "xf-1274",
+  "title": "香芋扣肉",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "槟樃芋头",
+      "mergeKey": "taro",
+      "amount": 400,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 90,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 3,
+      "unit": "片",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 1,
+      "unit": "根",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 2,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙细盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 1000,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙细砂糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅内注入清水，放入肉块，香葱打结及所有卤肉材料，大火煮开后转小火煮30分钟,"
+    },
+    {
+      "text": "槟樃芋头切成约5毫米厚片，加入盐1/4小匙涂抹均匀，腌制15分钟,"
+    },
+    {
+      "text": "煮好的肉块取出放凉，表面涂上深色酱油，在表面用牙签剌上小洞，沥干水份,"
+    },
+    {
+      "text": "锅内热油，放入肉块炸至两面金黄色（炸肉皮时要加锅盖以免被油伤到）,"
+    },
+    {
+      "text": "将芋头放入热油中，炸至表面结成硬壳,"
+    },
+    {
+      "text": "将炸好的肉块切成5毫米厚片,"
+    },
+    {
+      "text": "将肉块和芋头块，逐块间接排放在深碗内，最表面铺上剩余的芋头,"
+    },
+    {
+      "text": "将蚝油，砂糖，生抽在碗内调均后，均匀的涂在肉及芋头上。锅内烧开水，加盖蒸60分钟,"
+    },
+    {
+      "text": "蒸好的肉，在碗上扣个大盘，将碗反扣过来即可,"
+    },
+    {
+      "text": "在盘内装饰烫熟的江青菜，将碗内蒸出的汤汁倒入锅内加热至浓稠，淋在扣肉表面即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/1274/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 1504,
+    "proteinG": 27.3,
+    "carbsG": 47.5,
+    "fatG": 133.1
+  },
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

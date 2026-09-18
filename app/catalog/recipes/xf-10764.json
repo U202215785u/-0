@@ -1,0 +1,93 @@
+{
+  "id": "xf-10764",
+  "title": "鲜虾粉丝煲",
+  "ingredients": [
+    {
+      "name": "虾",
+      "mergeKey": "shrimp",
+      "amount": 0.5,
+      "unit": "斤",
+      "category": "水产"
+    },
+    {
+      "name": "粉丝",
+      "mergeKey": "vermicelli",
+      "amount": 1,
+      "unit": "把",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "粉丝用温水泡软 ，沥干水分，剪成小段，虾洗净沥干，剪去须,"
+    },
+    {
+      "text": "烧热油锅，放葱姜煸炒出香味,"
+    },
+    {
+      "text": "放虾进去煸炒至完全变色,"
+    },
+    {
+      "text": "加一汤匙料酒，两汤匙蚝油，一汤匙白糖，一汤匙生抽,"
+    },
+    {
+      "text": "加一小碗水，煮开,"
+    },
+    {
+      "text": "移入沙锅，放粉丝进去，盖上盖子，煮开，转小火煲,"
+    },
+    {
+      "text": "小火煲个十多分钟，至锅内汤汁收干即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10764/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 100.3,
+    "proteinG": 8.3,
+    "carbsG": 13.8,
+    "fatG": 1.5
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

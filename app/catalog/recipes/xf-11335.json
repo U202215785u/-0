@@ -1,0 +1,104 @@
+{
+  "id": "xf-11335",
+  "title": "培根芝士焗薯蓉",
+  "ingredients": [
+    {
+      "name": "马苏里拉芝士",
+      "mergeKey": "mozzarella",
+      "amount": 50,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "amount": 2,
+      "unit": "条",
+      "category": "肉类"
+    },
+    {
+      "name": "红辣椒圈",
+      "mergeKey": "red-chili",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "几朵熟的西兰花",
+      "mergeKey": "broccoli",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 15,
+      "unit": "克",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "芝士，培根，土豆，红辣椒圈和熟的西兰花,"
+    },
+    {
+      "text": "土豆切成厚片，培根切成小块，马苏芝士切成成丝状,"
+    },
+    {
+      "text": "土豆片放入微波专用玻璃碗内，盖上盖或保鲜膜，高火10分钟。 熟的土豆片略放凉，放入食品袋内擀成泥状,"
+    },
+    {
+      "text": "在土豆泥内放入黑胡椒粉，盐，鸡精，融化的黄油，拌均匀。 再放入一半的培根片，拌均匀，用匙略压平整，不用压太紧,"
+    },
+    {
+      "text": "在顶层摆上另一半的培根片和红椒圈,"
+    },
+    {
+      "text": "再铺上切成丝的马苏里拉芝士即可,"
+    },
+    {
+      "text": "放倒数第二层，210度20分钟,"
+    },
+    {
+      "text": "烤好后放上煮熟的西兰花"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11335/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 441,
+    "proteinG": 29,
+    "carbsG": 33.9,
+    "fatG": 21.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

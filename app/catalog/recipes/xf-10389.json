@@ -1,0 +1,96 @@
+{
+  "id": "xf-10389",
+  "title": "菜花北极虾",
+  "ingredients": [
+    {
+      "name": "菜花",
+      "mergeKey": "cauliflower",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "北极虾",
+      "mergeKey": "shrimp",
+      "amount": 100,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "橄榄油或色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "-6瓣蒜末大蒜",
+      "mergeKey": "garlic",
+      "amount": 25,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "少数姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "北极虾用开水略焯一下，去头及外皮留虾仁儿备用,"
+    },
+    {
+      "text": "锅内做开水，水中加入一小勺盐，水开后下入洗净的菜花焯烫15-20秒,"
+    },
+    {
+      "text": "用漏勺将菜花从锅中捞出沥干水分备用,"
+    },
+    {
+      "text": "锅内放入少许橄榄油，油热后下入姜末煸香,"
+    },
+    {
+      "text": "下入控干水分的宝塔菜花翻炒几下,"
+    },
+    {
+      "text": "加入盐糖调味,"
+    },
+    {
+      "text": "下入北极虾仁翻炒几下,"
+    },
+    {
+      "text": "最后撒入蒜末翻炒均匀关火制作完成"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10389/",
+  "author": "卤煮鲍鱼",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 176.9,
+    "proteinG": 14.5,
+    "carbsG": 11.8,
+    "fatG": 8.9
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

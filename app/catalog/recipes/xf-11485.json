@@ -1,0 +1,91 @@
+{
+  "id": "xf-11485",
+  "title": "椒盐香脆鸡米花",
+  "ingredients": [
+    {
+      "name": "鸡中翅",
+      "mergeKey": "chicken-wings",
+      "category": "肉类"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱末",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大蒜粉",
+      "mergeKey": "garlic-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "椒盐",
+      "mergeKey": "pepper-salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡中翅剁成小块，用料酒，盐，鸡精，大蒜粉，蚝油腌制30分钟以上入味；玉米淀粉和吉士粉以1：1的比例混合，将腌制好的鸡翅丁均匀的裹上一层炸粉，抖掉多余的炸粉,"
+    },
+    {
+      "text": "洋葱红椒切丁，姜蒜葱切末；锅里放油烧热，放入鸡米花中火炸至金黄，表皮变硬，捞出后，大火烧热油，复炸至焦脆；锅里留底油，依次爆香蒜末姜末，洋葱红椒丁，接着放入炸好的鸡米花，调入盐，鸡精，椒盐，少许美极鲜酱油，撒上葱花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11485/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

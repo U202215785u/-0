@@ -1,0 +1,120 @@
+{
+  "id": "xf-11129",
+  "title": "抹茶奶油蛋糕",
+  "ingredients": [
+    {
+      "name": "寸平盘海绵蛋糕",
+      "mergeKey": "sponge-cake",
+      "amount": 8,
+      "category": "米面主食"
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg",
+      "amount": 35,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 8,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 180,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "抹茶粉",
+      "mergeKey": "matcha",
+      "amount": 6,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "蛋黄放至室温，加入40克糖,"
+    },
+    {
+      "text": "搅打至蛋黄发白，体积稍有膨发,"
+    },
+    {
+      "text": "淡奶油加热至80度，倒入抹茶粉，搅拌至完全融化,"
+    },
+    {
+      "text": "将蛋黄液倒入抹茶奶油中，拌匀，即为抹茶蛋黄溶液,"
+    },
+    {
+      "text": "无盐黄油切小块，放至软化,"
+    },
+    {
+      "text": "将无盐黄油搅打至顺滑,"
+    },
+    {
+      "text": "倒入抹茶蛋黄溶液中,"
+    },
+    {
+      "text": "用打蛋器继续搅打，至完全融合，并逐渐形成较稠厚的奶油霜状，即为抹茶奶油馅,"
+    },
+    {
+      "text": "海绵蛋糕切成"
+    },
+    {
+      "text": "5厘米厚度、18厘米*9厘米的蛋糕片3片,"
+    },
+    {
+      "text": "在3片蛋糕片的夹层上涂抹奶油馅，最上面也涂抹奶油馅，并抹平，放入冰箱冷藏,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "淡奶油加入8克糖，搅打至八分发，涂抹在顶层的奶油馅上，并用汤匙压出一个个相邻的圆形花纹,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "切去不规则的边角，放入冰箱冷藏，食用前切小块放上水果，入冰箱冷冻20分钟，即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11129/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 143.9,
+    "proteinG": 4.8,
+    "carbsG": 23.3,
+    "fatG": 3.2
+  },
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 75,
+  "difficulty": "中等"
+}

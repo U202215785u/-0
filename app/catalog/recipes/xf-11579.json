@@ -1,0 +1,139 @@
+{
+  "id": "xf-11579",
+  "title": "巧克力布朗尼",
+  "ingredients": [
+    {
+      "name": "苦甜巧克力",
+      "mergeKey": "chocolate",
+      "amount": 60,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 120,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "flour",
+      "amount": 120,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "核桃仁",
+      "mergeKey": "walnut",
+      "amount": 150,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 120,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 3,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "可可粉",
+      "mergeKey": "cocoa-powder",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香草精",
+      "mergeKey": "vanilla",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋白",
+      "mergeKey": "egg-white",
+      "amount": 3,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先将软化的黄油打匀,"
+    },
+    {
+      "text": "加入糖，搅打至黄油颜色变浅，体积略变大,"
+    },
+    {
+      "text": "分次加入蛋黄，每次加入时都要搅打均匀,"
+    },
+    {
+      "text": "加入隔热水融化的巧克力搅拌均匀,"
+    },
+    {
+      "text": "加入可可粉搅拌均匀,"
+    },
+    {
+      "text": "滴入少许香草精搅拌均匀,"
+    },
+    {
+      "text": "将糖分次加入蛋白中，打至硬性发泡（打蛋器提起蛋白呈短小尖头状）,"
+    },
+    {
+      "text": "取1/2的蛋白霜加入巧克力糊中拌匀,"
+    },
+    {
+      "text": "筛入低粉和泡打粉，稍微拌一下,"
+    },
+    {
+      "text": "再加入剩余的蛋白霜，翻拌均匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "最后加入核桃仁拌均,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将面糊倒入模中，放入160度预热的烤箱烘烤35分钟左右"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11579/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 425.4,
+    "proteinG": 7.2,
+    "carbsG": 89,
+    "fatG": 4.8
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

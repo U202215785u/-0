@@ -1,0 +1,75 @@
+{
+  "id": "xf-9668",
+  "title": "肉末烧丝瓜",
+  "ingredients": [
+    {
+      "name": "丝瓜",
+      "mergeKey": "luffa",
+      "amount": 1,
+      "unit": "条",
+      "category": "蔬菜"
+    },
+    {
+      "name": "猪绞肉",
+      "mergeKey": "ground-pork",
+      "amount": 80,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅内热1大匙油，放入猪绞肉编炒至出油,"
+    },
+    {
+      "text": "放入丝瓜及盐1/4小匙,"
+    },
+    {
+      "text": "加入清水100毫升,"
+    },
+    {
+      "text": "煮至丝瓜软烂即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9668/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

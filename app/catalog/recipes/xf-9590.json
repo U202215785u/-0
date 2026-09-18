@@ -1,0 +1,78 @@
+{
+  "id": "xf-9590",
+  "title": "金针排骨酱焖扁豆",
+  "ingredients": [
+    {
+      "name": "扁豆",
+      "mergeKey": "flat-bean",
+      "category": "蔬菜"
+    },
+    {
+      "name": "金针菇",
+      "mergeKey": "enoki",
+      "category": "菌菇"
+    },
+    {
+      "name": "猪肉馅",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "李锦记排骨酱",
+      "mergeKey": "rib-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小红辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "扁豆洗净切长段，焯水捞出,"
+    },
+    {
+      "text": "金针菇切段，洋葱切末，小红辣椒切细丝,"
+    },
+    {
+      "text": "锅内放油煸香葱姜下洋葱末煸香下猪肉末，煸酥香后烹入料酒，来一勺李锦记排骨酱加盐、鸡精、胡椒粉调味做成肉酱,"
+    },
+    {
+      "text": "将焯过的扁豆码放一层铺上肉酱及金针菇再铺上一层扁豆再铺一层肉酱金针菇，不要码的太密，铺三层即可,"
+    },
+    {
+      "text": "上屉蒸10分钟，取出撒蒜末红椒丝，淋少许香油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9590/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

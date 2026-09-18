@@ -1,0 +1,81 @@
+{
+  "id": "xf-11804",
+  "title": "清蒸鲑鱼",
+  "ingredients": [
+    {
+      "name": "新鲜鲑鱼",
+      "mergeKey": "salmon",
+      "amount": 800,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "amount": 1,
+      "unit": "把",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱丝",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "勺黄酒",
+      "mergeKey": "cooking-wine",
+      "quantityText": "2勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "原料：新鲜鲑鱼800克、枸杞一把、姜丝、葱丝、蒜，黄酒2勺，盐5克,"
+    },
+    {
+      "text": "用刀在鱼的背部划3道，用姜、葱、黄酒、蒜片、盐、枸杞，涂抹均匀,"
+    },
+    {
+      "text": "蒸锅水烧开后，连盘放入。大火蒸20分钟,"
+    },
+    {
+      "text": "关火后闷5分钟再开盖就可以了。鱼肉汁鲜嫩，口味清淡，很鲜美"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11804/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 500,
+    "proteinG": 96,
+    "carbsG": 4,
+    "fatG": 12
+  },
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

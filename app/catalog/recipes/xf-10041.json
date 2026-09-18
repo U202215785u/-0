@@ -1,0 +1,83 @@
+{
+  "id": "xf-10041",
+  "title": "狂野火箭奶酪沙拉",
+  "ingredients": [
+    {
+      "name": "法国产山羊奶酪",
+      "mergeKey": "goat-cheese",
+      "amount": 20,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "芝麻菜",
+      "mergeKey": "arugula",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蘑菇",
+      "mergeKey": "mushroom",
+      "amount": 30,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "柠檬汁",
+      "mergeKey": "lemon-juice",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "蘑菇切片，放入在沸水中焯熟；加入黑胡椒、橄榄油、盐、柠檬汁拌匀,"
+    },
+    {
+      "text": "山羊奶酪撕小块,"
+    },
+    {
+      "text": "把芝麻菜与步骤1和2拌在一起即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10041/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 83,
+    "proteinG": 1.1,
+    "carbsG": 4,
+    "fatG": 7.3
+  },
+  "tags": [
+    "凉拌"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

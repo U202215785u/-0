@@ -1,0 +1,121 @@
+{
+  "id": "xf-11133",
+  "title": "香辣鸡胗炒腊肉",
+  "sourceUrl": "https://www.xiachufang.com/recipe/11133/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "ingredients": [
+    {
+      "name": "鸡胗",
+      "mergeKey": "chicken-gizzard",
+      "amount": 10,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "腊肉",
+      "mergeKey": "cured-pork",
+      "amount": 1,
+      "unit": "小块",
+      "category": "肉类"
+    },
+    {
+      "name": "/4个洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "杭椒",
+      "mergeKey": "chili",
+      "amount": 10,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "chili",
+      "amount": 3,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干红辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 10,
+      "unit": "根",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 40,
+      "unit": "粒",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "30毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5毫升老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升柱候酱",
+      "mergeKey": "zhuhou-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先把腊肉洗净，去除表面的浮土后，放入锅中蒸30分钟，蒸熟后切成薄片备用,"
+    },
+    {
+      "text": "杭椒，红辣椒洗净后，斜切成段。洋葱切成细丝备用,"
+    },
+    {
+      "text": "锅中倒入水，大火煮开后，倒入料酒，放入鸡胗焯烫1分钟后捞出，晾凉后切成薄片,"
+    },
+    {
+      "text": "锅中倒入油，放入花椒和干红辣椒，炒出麻辣味后，放入鸡胗片炒20秒钟，然后洋葱丝，腊肉片和青红椒段,"
+    },
+    {
+      "text": "倒入生抽和老抽，翻炒2分钟，最后加入一勺柱候酱搅匀即可出锅"
+    }
+  ],
+  "tags": [
+    "烧焖",
+    "炒",
+    "烤"
+  ],
+  "nutrition": {
+    "kcal": 661.9,
+    "proteinG": 92.4,
+    "carbsG": 48,
+    "fatG": 11.8
+  },
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

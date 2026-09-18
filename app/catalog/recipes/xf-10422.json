@@ -1,0 +1,76 @@
+{
+  "id": "xf-10422",
+  "title": "香椿豆腐卷",
+  "ingredients": [
+    {
+      "name": "香椿",
+      "mergeKey": "xiangchun",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆腐皮",
+      "mergeKey": "tofu-skin",
+      "category": "豆制品"
+    },
+    {
+      "name": "老豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "香椿放开水里汆烫，颜色变绿马上捞出过凉水,"
+    },
+    {
+      "text": "处理好的香椿切碎，老豆腐用手捏碎,"
+    },
+    {
+      "text": "豆腐和香椿碎混合,"
+    },
+    {
+      "text": "锅烧热，放少许油，把步骤3倒入煸炒，加适量盐和鸡精调味，出锅,"
+    },
+    {
+      "text": "炒好的材料放凉。把一张豆腐皮摊平在案板上，把香椿豆腐馅放在豆腐皮的一端,"
+    },
+    {
+      "text": "用手边卷边捏紧，卷成长条,"
+    },
+    {
+      "text": "平底锅烧热，放少量色拉油，把香椿豆腐卷排入，小火煎至两面金黄,"
+    },
+    {
+      "text": "煎好的香椿豆腐卷，用刀斜切成小块，摆盘上桌。食用时也可以蘸番茄酱或者辣酱"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10422/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

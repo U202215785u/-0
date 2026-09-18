@@ -1,0 +1,51 @@
+{
+  "id": "xf-11601",
+  "title": "南瓜软饼",
+  "ingredients": [
+    {
+      "name": "老南瓜",
+      "mergeKey": "pumpkin",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "老南瓜去皮切成块，上锅蒸熟后，压成南瓜泥,"
+    },
+    {
+      "text": "一个鸡蛋打散，一小杯面粉中加入南瓜泥和打散的鸡蛋，用筷子搅拌均匀，再加入清水，慢慢加，边加边搅拌，至面糊呈稀糊状态，兜一勺可以比较流畅的呈线型下落，最后放一小勺白糖，搅拌均匀,"
+    },
+    {
+      "text": "取一个平底锅（最好是不粘锅），冷锅，倒入冷油，把油在锅中转一下，让油均匀的覆盖到整个锅底。然后把油倒出，把面糊倒入锅中（注意不要一次倒太多），用手把锅转一下，把锅中的面糊转开，均匀的平铺在锅底薄薄一层，不露出锅底即可,"
+    },
+    {
+      "text": "开小火，加热一分钟左右，面饼贴着锅子的一面成型后，翻面再加热一分钟左右，两面都成型即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11601/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

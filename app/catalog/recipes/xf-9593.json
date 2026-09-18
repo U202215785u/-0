@@ -1,0 +1,146 @@
+{
+  "id": "xf-9593",
+  "title": "什锦素茄丁",
+  "ingredients": [
+    {
+      "name": "茄子",
+      "amount": 300,
+      "unit": "克",
+      "mergeKey": "eggplant",
+      "category": "蔬菜"
+    },
+    {
+      "name": "柿子椒",
+      "amount": 25,
+      "unit": "克",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青椒",
+      "amount": 25,
+      "unit": "克",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "竹笋",
+      "amount": 25,
+      "unit": "克",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 25,
+      "unit": "克",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄瓜",
+      "amount": 25,
+      "unit": "克",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "植物油",
+      "amount": 25,
+      "unit": "毫升",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "amount": 5,
+      "unit": "毫升",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "amount": 5,
+      "unit": "毫升",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "amount": 2,
+      "unit": "克",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉(玉米)",
+      "amount": 5,
+      "unit": "克",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大葱",
+      "amount": 5,
+      "unit": "克",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "amount": 2,
+      "unit": "克",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "amount": 4,
+      "unit": "克",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "茄子洗净，切成小丁；红甜椒，黄甜椒，胡萝卜，黄瓜分别洗净切小丁,"
+    },
+    {
+      "text": "锅置火上，放入适量油烧热，先放入茄丁煎至金黄色，然后捞出沥油,"
+    },
+    {
+      "text": "锅内留底油，烧热，用葱姜蒜末炝锅，放入胡萝卜丁先煸炒一会，再放入红、黄甜椒，黄瓜丁翻炒,"
+    },
+    {
+      "text": "最后放入茄丁，加酱油，白糖，鸡粉，盐拌匀，待所有材料成熟后，勾个薄芡就可以出锅了。稍稍变通一下，改素为荤，加些肉丁进去味道一样不错～"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9593/",
+  "author": "美食情书",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 111.8,
+    "proteinG": 5.4,
+    "carbsG": 19.9,
+    "fatG": 1.8
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

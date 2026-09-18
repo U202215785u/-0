@@ -1,0 +1,124 @@
+{
+  "id": "xf-9665",
+  "title": "黄瓜炒猪肝",
+  "ingredients": [
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "猪肝",
+      "mergeKey": "pork-liver",
+      "amount": 150,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "10毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "10克淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备材料,"
+    },
+    {
+      "text": "猪肝切片后，在水中清洗后，泡水30分钟,"
+    },
+    {
+      "text": "将猪肝用5克淀粉，料酒，腌10分钟，葱切末，姜切末，蒜切末，黄瓜切片，胡萝卜切片,"
+    },
+    {
+      "text": "锅中放油，倒入猪肝炒至8成熟取出,"
+    },
+    {
+      "text": "锅中重新放油，倒入葱姜蒜末,"
+    },
+    {
+      "text": "倒入黄瓜片,"
+    },
+    {
+      "text": "倒入胡萝卜片,"
+    },
+    {
+      "text": "小炒一下后，倒入猪肝,"
+    },
+    {
+      "text": "加入盐，最后用5克淀粉和15毫升水和成的水淀粉液倒入锅中，收汁即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9665/",
+  "author": "飞雪无霜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 126.8,
+    "proteinG": 5.7,
+    "carbsG": 21,
+    "fatG": 2.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

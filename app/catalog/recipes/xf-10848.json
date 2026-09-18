@@ -1,0 +1,81 @@
+{
+  "id": "xf-10848",
+  "title": "火腿莼菜汤",
+  "ingredients": [
+    {
+      "name": "莼菜",
+      "mergeKey": "water-shield",
+      "category": "蔬菜"
+    },
+    {
+      "name": "火腿",
+      "mergeKey": "ham",
+      "category": "肉类"
+    },
+    {
+      "name": "茭白",
+      "mergeKey": "water-bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "茭白剥壳，胡萝卜去皮。火腿、茭白、胡萝卜、姜、葱统统切成丝。莼菜用清水冲洗下沥干水份,"
+    },
+    {
+      "text": "锅中放水烧开，放火腿丝小火煮5分钟,"
+    },
+    {
+      "text": "煮火腿丝的时候，另取一锅，放一点点油，爆香姜丝、葱后，放胡萝卜丝和茭白丝稍微煸炒下,"
+    },
+    {
+      "text": "火腿小火煮5分钟后，把步骤3煸炒好的葱姜丝、茭白胡萝卜丝倒入汤中同煮两分钟,"
+    },
+    {
+      "text": "汤中加盐和鸡精调好味， 倒入莼菜，煮开立刻关火起锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10848/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

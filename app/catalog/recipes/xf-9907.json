@@ -1,0 +1,86 @@
+{
+  "id": "xf-9907",
+  "title": "辣烤鱿鱼",
+  "ingredients": [
+    {
+      "name": "鱿鱼",
+      "mergeKey": "squid",
+      "category": "水产"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "category": "乳制品"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒面",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白酒",
+      "mergeKey": "baijiu",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "孜然",
+      "mergeKey": "cumin",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒酱",
+      "mergeKey": "chili-paste",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "洋葱切丝、胡萝卜切片,"
+    },
+    {
+      "text": "鱿鱼、盐、胡椒粉、辣椒面、辣椒酱、孜然、白酒抓匀腌渍10分钟,"
+    },
+    {
+      "text": "用烧烤酱加少许白糖、面酱抓匀鱿鱼,"
+    },
+    {
+      "text": "烤箱提前预热180度，将黄油放在烤盘上融化，铺上洋葱丝、胡萝卜片最后放上鱿鱼，进烤箱上下火180度烤10分钟即可用夹子盛盘切开即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9907/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

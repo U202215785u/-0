@@ -1,0 +1,126 @@
+{
+  "id": "xf-107078517",
+  "title": "地三鲜",
+  "ingredients": [
+    {
+      "name": "茄子",
+      "mergeKey": "eggplant",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆角",
+      "mergeKey": "green-bean",
+      "amount": 5,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "半勺老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "食材，土豆，茄子，豆角切成条状"
+    },
+    {
+      "text": "土豆，茄子裹上一层淀粉"
+    },
+    {
+      "text": "下土豆、茄子，煎至金黄，"
+    },
+    {
+      "text": "豆角油炸后捞出"
+    },
+    {
+      "text": "油炸后捞出备用"
+    },
+    {
+      "text": "1勺生抽，1勺蚝油，半勺生抽，少许盐，鸡精，白糖，淀粉，加入少许清水，搅拌均匀"
+    },
+    {
+      "text": "锅留底油，放蒜末，小米椒，青椒炒香"
+    },
+    {
+      "text": "倒入土豆，茄子，豆角加入调好料汁"
+    },
+    {
+      "text": "翻炒均匀，即可出锅"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107078517/",
+  "author": "允儿家的小食记",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

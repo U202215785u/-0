@@ -1,0 +1,97 @@
+{
+  "id": "xf-9572",
+  "title": "白蘑菇排骨汤",
+  "ingredients": [
+    {
+      "name": "新鲜白蘑菇",
+      "mergeKey": "mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "排骨",
+      "mergeKey": "pork-rib",
+      "category": "肉类"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大料",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel-seed",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将排骨洗净剁成小块,"
+    },
+    {
+      "text": "排骨凉水下锅开锅，吐出血沫捞出排骨待用,"
+    },
+    {
+      "text": "将白蘑菇用水洗净，飞水捞出（可以除去蘑菇的土腥味）,"
+    },
+    {
+      "text": "锅中做清水放入焯好的排骨，葱、姜、蒜、花椒、大料、小茴香、烧开撇去浮沫放入绍酒,"
+    },
+    {
+      "text": "大火烧开，转小火炖1小时变成奶白色,"
+    },
+    {
+      "text": "最后加入白蘑菇再炖20分钟加盐、胡椒粉调味即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9572/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

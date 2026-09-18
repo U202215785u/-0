@@ -1,0 +1,83 @@
+{
+  "id": "xf-10099",
+  "title": "七叶瓜土豆汤",
+  "ingredients": [
+    {
+      "name": "七叶瓜",
+      "mergeKey": "squash",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小土豆",
+      "mergeKey": "potato",
+      "amount": 3,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一小把海米",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "quantityText": "适量",
+      "category": "其他"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将瓜和土豆分别清洗干净，土豆去皮，切成滚刀块，左手握住瓜蒂，右手用刀轻轻劈成大小均匀的块,"
+    },
+    {
+      "text": "直到瓜肉全部被切下，留下中间的籽以及瓜蒂不要,"
+    },
+    {
+      "text": "炒锅中放入底油，大火烧到5成热，放入七叶瓜和土豆，用中火翻炒大约3-5分钟，直到看见瓜表面开始变黄,"
+    },
+    {
+      "text": "加入适量的清水或者高汤，没过材料表面即可，倒入泡好的海米，在炒锅中将汤汁煮沸,"
+    },
+    {
+      "text": "将汤汁倒入汤锅中，用中火慢慢煮约10分钟，直到土豆变得绵软为止，最后加入一勺盐、一勺味精、适量白胡椒调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10099/",
+  "author": "豆牛",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 202.5,
+    "proteinG": 4.5,
+    "carbsG": 45,
+    "fatG": 0.7
+  },
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

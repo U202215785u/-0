@@ -1,0 +1,68 @@
+{
+  "id": "xf-9829",
+  "title": "芝麻酱糖饼",
+  "ingredients": [
+    {
+      "name": "红糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芝麻酱",
+      "mergeKey": "sesame-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "温水",
+      "mergeKey": "water",
+      "category": "其他"
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "温水和面，和成较软的面团，和好后饧半小时,"
+    },
+    {
+      "text": "将芝麻酱放香油和匀，稍微浓一些,"
+    },
+    {
+      "text": "饧好的面团擀成大片的长薄面片,"
+    },
+    {
+      "text": "在擀好的面皮上涂上芝麻酱,"
+    },
+    {
+      "text": "再撒杆碎的红糖在上面，撒少许干面粉在上面，防止红糖化了流,"
+    },
+    {
+      "text": "将面一层层折好,"
+    },
+    {
+      "text": "团成饼团，略微饧一会，要不会擀不开"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9829/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "xf-10223",
+  "title": "避风塘排骨",
+  "ingredients": [
+    {
+      "name": "子排",
+      "mergeKey": "pork-ribs",
+      "amount": 1.3,
+      "unit": "斤",
+      "category": "肉类"
+    },
+    {
+      "name": "面包糠",
+      "mergeKey": "breadcrumbs",
+      "amount": 0.5,
+      "unit": "碗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "柠檬",
+      "mergeKey": "lemon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "干椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "子排洗净滚水焯一下水后沥干，加一小勺盐、一大勺蒜末、 一勺淀粉、两生姜片、两片柠檬， 一瓶盖高度白酒，腌半个小时使之入味,"
+    },
+    {
+      "text": "腌好除去姜蒜末沥干水，将排骨放盘中隔水蒸10分钟至7分熟，取出沥干至凉,"
+    },
+    {
+      "text": "锅内多放些油中火烧热，放入排骨炸至金黄使全熟，取出放在吸油纸上,"
+    },
+    {
+      "text": "锅内留少许油，改小火，放入一大勺蒜末和干椒末煸炒出香味，再加入面包糠炒至金黄酥脆，加少许盐和糖调味，再加入炸好的排骨一起翻炒一下，最后撒上葱花起锅装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10223/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

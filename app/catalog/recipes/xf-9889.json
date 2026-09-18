@@ -1,0 +1,77 @@
+{
+  "id": "xf-9889",
+  "title": "石锅拌饭",
+  "ingredients": [
+    {
+      "name": "米饭",
+      "mergeKey": "rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "黄豆芽",
+      "mergeKey": "soybean-sprout",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干蕨菜",
+      "mergeKey": "dried-fern",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小白菜",
+      "mergeKey": "bok-choy",
+      "category": "蔬菜"
+    },
+    {
+      "name": "元葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "辣酱",
+      "mergeKey": "chili-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣白菜",
+      "mergeKey": "kimchi",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "豆芽和小白菜用开水焯一下，元葱胡萝卜切丝，干蕨菜煮软,"
+    },
+    {
+      "text": "用平底锅煎两个蛋，外面都是放一个蛋，自己家做实惠为主,"
+    },
+    {
+      "text": "准备一碗新出锅的米饭，我今天做的是二米饭,"
+    },
+    {
+      "text": "把蔬菜摆好，上面舀上辣酱，撒点辣白菜，最后铺上煎好的鸡蛋，拌饭就成功了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9889/",
+  "author": "方方球",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

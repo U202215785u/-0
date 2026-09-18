@@ -1,0 +1,58 @@
+{
+  "id": "xf-10045",
+  "title": "糖醋萝卜",
+  "ingredients": [
+    {
+      "name": "小萝卜",
+      "mergeKey": "radish",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干红椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "苹果片",
+      "mergeKey": "apple",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "萝卜切成条状， 先用一小勺盐腌1小时，倒掉汁水，再用一大勺糖腌一小时，倒去汁水沥干,"
+    },
+    {
+      "text": "取一带盖密封碗，将小半碗白醋， 半碗凉开水，两大勺白糖调匀，加入沥干水的萝卜、两只红干椒、几片苹果，挤上几滴柠檬汁会更清香，调料水要基本盖过萝卜，放冰箱冷藏两三天就可以吃了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10045/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

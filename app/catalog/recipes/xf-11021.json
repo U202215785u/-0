@@ -1,0 +1,109 @@
+{
+  "id": "xf-11021",
+  "title": "奶香土司",
+  "ingredients": [
+    {
+      "name": "高筋面粉",
+      "mergeKey": "bread-flour",
+      "amount": 270,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "奶粉",
+      "mergeKey": "milk-powder",
+      "amount": 12,
+      "unit": "克",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 40,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 20,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "/2小勺食盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 25,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "又1/2小勺快速干酵母",
+      "mergeKey": "yeast",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 145,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "根据一般面包的制作流程，把除黄油外的所有材料揉成面团，揉到起筋后，加入黄油继续揉，一直揉到完全阶段。在室温下发酵到2倍大，挤出面团内的空气，把面团分成3份，揉圆并放在室温下醒发15分钟。详细的步骤图请看“揉面发酵步骤图,"
+    },
+    {
+      "text": "取一个醒发好的面团，用擀面杖擀成长条状面片，宽度和土司模的宽一致,"
+    },
+    {
+      "text": "擀好的面片从上而下卷起来。一定要卷紧,"
+    },
+    {
+      "text": "把卷好的面团收口朝下放入土司盒底部,"
+    },
+    {
+      "text": "用同样的方法卷好其他两份面团，依次排入土司盒底部,"
+    },
+    {
+      "text": "把土司盒放在温度38度，湿度85%的条件下进行最后发酵。发酵到面团长到土司盒9分满的时候，盖上土司盒盖。送入预热好165度的烤箱，烤35分钟左右,"
+    },
+    {
+      "text": "打开土司盒，香喷喷的土司已经烤好了,"
+    },
+    {
+      "text": "趁热脱模，把土司放在冷却架上，冷却到温度和手心温度差不多的时候，放进保鲜袋里密封，第二天切片"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11021/",
+  "author": "君之",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 292.8,
+    "proteinG": 7.9,
+    "carbsG": 58.8,
+    "fatG": 3.4
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

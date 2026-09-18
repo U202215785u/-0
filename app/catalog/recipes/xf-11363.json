@@ -1,0 +1,87 @@
+{
+  "id": "xf-11363",
+  "title": "奶酪焗大虾",
+  "ingredients": [
+    {
+      "name": "马苏里拉奶酪丝",
+      "mergeKey": "mozzarella",
+      "category": "乳制品"
+    },
+    {
+      "name": "大虾",
+      "mergeKey": "shrimp",
+      "amount": 2,
+      "unit": "只",
+      "category": "水产"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "牛至碎",
+      "mergeKey": "oregano",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白葡萄酒",
+      "mergeKey": "white-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "大虾洗净剪去须子、背部开一刀去除虾线，用刀拍一下一会虾不会受热卷曲,"
+    },
+    {
+      "text": "大虾用大蒜蓉、牛至碎、白葡萄酒、盐、胡椒粉腌渍,"
+    },
+    {
+      "text": "撒上奶酪丝和一半的红椒碎,"
+    },
+    {
+      "text": "放在烤盘上，烤箱提前预热200度,"
+    },
+    {
+      "text": "放入烤箱上下火200度烤5分钟，撒上另一半红椒粒,"
+    },
+    {
+      "text": "在入烤箱烤2分钟奶酪微微焦黄即可出锅装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11363/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 125,
+    "proteinG": 24,
+    "carbsG": 1,
+    "fatG": 3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

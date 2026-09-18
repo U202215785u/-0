@@ -1,0 +1,116 @@
+{
+  "id": "xf-104116894",
+  "title": "香菇滑鸡",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken",
+      "amount": 2,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "干香菇",
+      "mergeKey": "dried-shiitake",
+      "amount": 15,
+      "unit": "朵",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一勺料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "aromatics",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "约两克盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡腿去骨，干香菇热水泡久一点，一个小时以上，不然香菇会硬。"
+    },
+    {
+      "text": "鸡腿躲大丁！下料酒，生抽，一小把淀粉，盐，腌制半个小时"
+    },
+    {
+      "text": "准备好葱姜蒜末"
+    },
+    {
+      "text": "油稍稍多一点，一定要油稍稍冒烟热一点在下鸡丁！鸡丁一变色就捞出！"
+    },
+    {
+      "text": "用锅底油炒葱姜蒜末"
+    },
+    {
+      "text": "泡好的香菇下锅炒一分钟左右，加盐。"
+    },
+    {
+      "text": "然后下鸡丁，下两勺生抽，一勺白糖，翻炒出锅。"
+    },
+    {
+      "text": "好了，就剩吃了"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/104116894/",
+  "author": "溜达的猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 744.4,
+    "proteinG": 53.5,
+    "carbsG": 57.8,
+    "fatG": 36
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

@@ -1,0 +1,139 @@
+{
+  "id": "spaghetti-pomodoro",
+  "title": "番茄酱意面",
+  "ingredients": [
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "quantityText": "按口味",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "整颗去皮番茄罐头",
+      "mergeKey": "canned-tomato",
+      "amount": 794,
+      "unit": "克",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "特级初榨橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒碎",
+      "mergeKey": "chili-flakes",
+      "quantityText": "一小撮",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "罗勒",
+      "mergeKey": "basil",
+      "quantityText": "3枝，另备叶片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "意大利面",
+      "mergeKey": "spaghetti",
+      "amount": 454,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "帕玛森奶酪",
+      "mergeKey": "parmesan",
+      "amount": 57,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 28,
+      "unit": "克",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "大锅加水煮沸，水开始冒蒸汽时加足量食盐。番茄罐头倒入滤篮，汁水接入碗中；逐个戳破番茄，分别保留番茄和汁水。",
+      "ingredientNames": [
+        "食盐",
+        "整颗去皮番茄罐头"
+      ]
+    },
+    {
+      "text": "蒜拍碎去皮；厚底锅中火加橄榄油，蒜翻炒约3分钟至金黄。",
+      "ingredientNames": [
+        "蒜",
+        "特级初榨橄榄油"
+      ]
+    },
+    {
+      "text": "加入干辣椒碎和番茄，提高火力，翻炒6至8分钟至番茄颜色变深并开始软裂，用木勺压成粗泥。加入番茄汁、少量食盐和罗勒枝，小火煮8至10分钟至苹果酱般浓度。",
+      "ingredientNames": [
+        "干辣椒碎",
+        "整颗去皮番茄罐头",
+        "食盐",
+        "罗勒"
+      ]
+    },
+    {
+      "text": "番茄酱熬煮时，意面比包装时间少煮约2分钟；捞出并保留1杯面汤，不要冲洗。",
+      "ingredientNames": [
+        "意大利面"
+      ]
+    },
+    {
+      "text": "意面放入番茄酱，加入半杯面汤，中高火持续翻拌约1分钟至酱汁裹住面条；需要时少量补面汤。",
+      "ingredientNames": [
+        "意大利面"
+      ]
+    },
+    {
+      "text": "转小火，分次加入约一半帕玛森奶酪并持续翻拌，必要时用面汤调松；离火加入黄油拌至融化。",
+      "ingredientNames": [
+        "帕玛森奶酪",
+        "无盐黄油"
+      ]
+    },
+    {
+      "text": "盛盘，撒剩余帕玛森奶酪和罗勒叶，按喜好加干辣椒碎并淋橄榄油。",
+      "ingredientNames": [
+        "帕玛森奶酪",
+        "罗勒",
+        "干辣椒碎",
+        "特级初榨橄榄油"
+      ]
+    }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 35,
+  "sourceUrl": "https://www.bonappetit.com/recipe/basically-spaghetti-pomodoro",
+  "author": "Claire Saffitz / Bon Appetit",
+  "fidelity": "structured-transcription",
+  "sourceNote": "固定字段采用来源份量范围下限4人份作为缩放基准；来源页面公开35分钟、9项配料和10段方法，保留番茄沥汁煎香、面水乳化和黄油收尾。",
+  "nutrition": {
+    "kcal": 235,
+    "proteinG": 5.8,
+    "carbsG": 23.9,
+    "fatG": 13
+  },
+  "tags": [
+    "炒"
+  ],
+  "difficulty": "中等"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "xf-11303",
+  "title": "双色豆腐酸辣汤",
+  "ingredients": [
+    {
+      "name": "瘦肉",
+      "mergeKey": "pork",
+      "amount": 100,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "amount": 2,
+      "unit": "朵",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "南豆腐",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "鸭血",
+      "mergeKey": "duck-blood",
+      "amount": 1,
+      "unit": "块",
+      "category": "肉类"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 75,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "数个干红椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "陈醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "材料处理：豆腐切块，鸭血氽烫过切块，瘦肉、木耳、胡萝卜、姜、干红椒切成丝,"
+    },
+    {
+      "text": "肉丝用胡椒粉、盐、鸡精、少许淀粉拌匀，稍腌一下,"
+    },
+    {
+      "text": "热锅凉油，小火把姜丝和干椒丝爆香,"
+    },
+    {
+      "text": "放入肉丝炒散至变色,"
+    },
+    {
+      "text": "加入清水或高汤烧开，依次下入鸭血和豆腐块。再次烧开时加入胡萝卜丝和木耳丝，烧至断生,"
+    },
+    {
+      "text": "调入酱油、盐和鸡精，用湿生粉勾芡,"
+    },
+    {
+      "text": "出锅前加入陈醋和胡椒粉，撒上葱花粒"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11303/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 73.3,
+    "proteinG": 4.6,
+    "carbsG": 8.8,
+    "fatG": 2.3
+  },
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

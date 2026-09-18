@@ -1,0 +1,90 @@
+{
+  "id": "xf-11104",
+  "title": "豉辣苦瓜",
+  "ingredients": [
+    {
+      "name": "苦瓜",
+      "mergeKey": "bitter-melon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干红辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "老干妈牛肉豆豉酱",
+      "mergeKey": "douchi-chili-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "苦瓜用淡盐水浸泡洗净后，对半切开，用小勺子把籽和瓤刮干净，洗净切成长条状。放点盐，用手抓捏几下，放置五分钟后，倒去多余水份沥干,"
+    },
+    {
+      "text": "姜切片，葱切段，干红辣椒剪开去籽后切成细丝,"
+    },
+    {
+      "text": "炒锅烧热，把苦瓜直接放入锅中（不放油，不加任何调料），用大火清炒2分钟，盛出待用,"
+    },
+    {
+      "text": "锅中放油烧热，下姜片和葱花爆出香味后，捞出扔掉,"
+    },
+    {
+      "text": "把干红辣椒丝放入小火煸香,"
+    },
+    {
+      "text": "转大火，放苦瓜条，煸炒几下,"
+    },
+    {
+      "text": "锅中放入一小勺老干妈牛肉豆豉酱煸炒均匀后，放盐、一点点糖和鸡精，炒匀即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11104/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

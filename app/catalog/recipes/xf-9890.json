@@ -1,0 +1,49 @@
+{
+  "id": "xf-9890",
+  "title": "新三鲜",
+  "ingredients": [
+    {
+      "name": "大头菜",
+      "mergeKey": "cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "尖辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "西红柿",
+      "mergeKey": "tomato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "大头菜洗净切丝，尖椒切丝，西红柿切片，葱姜分别切丝,"
+    },
+    {
+      "text": "锅内加油烧热，加入葱姜丝爆香，放入大头菜和尖椒丝煸炒，见菜丝变软后再放入西红柿翻炒，并用盐调味，临出锅时加入少许蒜片即好"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9890/",
+  "author": "方方球",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

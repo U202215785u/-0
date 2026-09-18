@@ -1,0 +1,108 @@
+{
+  "id": "xf-11695",
+  "title": "飘香榴莲土豆鸡",
+  "ingredients": [
+    {
+      "name": "嫩本鸡",
+      "mergeKey": "chicken",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "榴莲",
+      "mergeKey": "durian",
+      "amount": 300,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "-3颗蒜头",
+      "mergeKey": "garlic",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 80,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "左右盐",
+      "mergeKey": "salt",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖粉",
+      "mergeKey": "rock-sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白米酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将土豆洗净，煮熟，去皮压碎,"
+    },
+    {
+      "text": "锅中放入油，将生姜、蒜头、洋葱放入锅里翻炒，待出香味,"
+    },
+    {
+      "text": "将鸡块放入锅中，用大火翻炒；放入冰糖、盐、酱油3茶匙拌炒，加盖慢火焖15~20分钟,"
+    },
+    {
+      "text": "等到鸡肉基本熟透以后，放入土豆、少许水，翻炒几次，盖上锅盖炒至1分钟，最后放入榴莲拌炒即可上碟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11695/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 707.6,
+    "proteinG": 86.2,
+    "carbsG": 55,
+    "fatG": 13.1
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

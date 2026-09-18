@@ -1,0 +1,69 @@
+{
+  "id": "xf-11812",
+  "title": "叉烧包便当",
+  "ingredients": [
+    {
+      "name": "猕猴桃",
+      "mergeKey": "kiwi",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "叉烧包",
+      "mergeKey": "char-siu-bao",
+      "amount": 6,
+      "unit": "个",
+      "category": "米面主食"
+    },
+    {
+      "name": "小番茄",
+      "mergeKey": "cherry-tomato",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大杏仁",
+      "mergeKey": "almond",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "生菜",
+      "mergeKey": "lettuce",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "生菜叶铺底，装进叉烧包,"
+    },
+    {
+      "text": "塞进小番茄,"
+    },
+    {
+      "text": "最后装入大杏仁，可口的叉烧包便当就做好了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11812/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 869,
+    "proteinG": 76.2,
+    "carbsG": 5,
+    "fatG": 60.5
+  },
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

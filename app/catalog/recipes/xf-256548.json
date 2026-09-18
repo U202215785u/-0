@@ -1,0 +1,178 @@
+{
+  "id": "xf-256548",
+  "title": "口水鸡",
+  "ingredients": [
+    {
+      "name": "鸡汤",
+      "mergeKey": "chicken-stock",
+      "amount": 0.5,
+      "unit": "碗",
+      "category": "其他"
+    },
+    {
+      "name": "/4只麻鸡",
+      "mergeKey": "chicken",
+      "amount": 1,
+      "category": "肉类"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 1,
+      "unit": "块",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 60,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 30,
+      "unit": "粒",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "辣椒粉",
+      "mergeKey": "chili-powder",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香醋",
+      "mergeKey": "vinegar",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜瓣",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花生",
+      "mergeKey": "peanut",
+      "amount": 20,
+      "unit": "粒",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "芝麻",
+      "mergeKey": "sesame",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "麻鸡洗干净放入冷水，姜片，葱段，十粒花椒，烧开后转小火煮五分钟"
+    },
+    {
+      "text": "再关火焖熟，大约十五分钟左右"
+    },
+    {
+      "text": "用筷子撮一下鸡腿最厚的部位，能流出清澈汁水的表示鸡熟透"
+    },
+    {
+      "text": "捞出放入冰水中泡冷"
+    },
+    {
+      "text": "洗干净锅，放入少许两汤匙油，剩余花椒，小火爆香后捞出花椒"
+    },
+    {
+      "text": "舀入一小勺到装有辣椒粉的碗中，拌均匀辣椒粉，继续烧热剩余的油，冒烟的时候可以关火，倒入辣椒粉中"
+    },
+    {
+      "text": "迅速拌均匀"
+    },
+    {
+      "text": "然后加入蒜末，生抽，鸡汤，盐，糖，香醋调成酱汁"
+    },
+    {
+      "text": "炒香花生米，去衣压碎成粗颗粒，炒香芝麻，备用"
+    },
+    {
+      "text": "鸡捞出切块码放碟中，倒入酱汁"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "撒上芝麻和花生碎，撒上葱花即成"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/256548/",
+  "author": "居然",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 44.1,
+    "proteinG": 5.8,
+    "carbsG": 3.1,
+    "fatG": 0.7
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

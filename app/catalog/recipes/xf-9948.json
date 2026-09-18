@@ -1,0 +1,93 @@
+{
+  "id": "xf-9948",
+  "title": "鸭血豆腐羹",
+  "ingredients": [
+    {
+      "name": "鸭血",
+      "mergeKey": "duck-blood",
+      "amount": 1,
+      "unit": "块",
+      "category": "肉类"
+    },
+    {
+      "name": "嫩豆腐",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "盒",
+      "category": "豆制品"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸭血，嫩豆腐分别切小丁。鸡蛋打散,"
+    },
+    {
+      "text": "锅中放高汤（没有就加清水）煮开，把鸭血丁和嫩豆腐放丁放入,"
+    },
+    {
+      "text": "再次煮开后，撇去浮末，加盐，鸡精，一点点白糖，一汤匙醋，然后把调好的水淀粉倒入锅中，用勺子推匀，勾个薄芡,"
+    },
+    {
+      "text": "转中小火，保持汤似滚非滚状态，用一个面粉筛或者小筛网，把充分打散的鸡蛋液倒在筛网上，边倒边移动筛网，往一个方向移动画圈圈，全部鸡蛋液滴完，用勺子轻推，漂亮的鸡蛋花就出现了。最后撒上白胡椒粉就可以出锅了，喜欢吃香菜的还可以加点香菜碎"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9948/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 35.8,
+    "proteinG": 3.3,
+    "carbsG": 0.3,
+    "fatG": 2.5
+  },
+  "tags": [
+    "汤羹",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

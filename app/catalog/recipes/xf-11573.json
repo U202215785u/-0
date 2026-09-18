@@ -1,0 +1,58 @@
+{
+  "id": "xf-11573",
+  "title": "清炒南瓜丝",
+  "ingredients": [
+    {
+      "name": "嫩南瓜",
+      "mergeKey": "pumpkin",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "quantityText": "一点",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "南瓜用刀薄薄的削去表面一层皮，用勺子刮去瓤,"
+    },
+    {
+      "text": "擦成细丝（没有擦菜板就用刀慢慢切成细丝）,"
+    },
+    {
+      "text": "锅烧热放油，入葱花煸出香味,"
+    },
+    {
+      "text": "入南瓜丝快速翻炒一分钟左右，放盐、一点白糖和鸡精调味出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11573/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

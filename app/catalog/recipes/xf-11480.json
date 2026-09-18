@@ -1,0 +1,78 @@
+{
+  "id": "xf-11480",
+  "title": "酸奶水果麦片粥",
+  "ingredients": [
+    {
+      "name": "即熟燕麦片",
+      "mergeKey": "oats",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "酸奶",
+      "mergeKey": "yogurt",
+      "amount": 240,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "蕃薯",
+      "mergeKey": "sweet-potato",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "奶酪",
+      "mergeKey": "cheese",
+      "amount": 1,
+      "unit": "杯",
+      "category": "乳制品"
+    },
+    {
+      "name": "苹果",
+      "mergeKey": "apple",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "杏仁",
+      "mergeKey": "almond",
+      "amount": 3,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将麦片放少许水煮熟；鸡蛋及蕃薯切片入锅中蒸8-10分至熟；苹果切丁,"
+    },
+    {
+      "text": "将煮熟的鸡蛋切丁，蕃薯切丁，将所有材料放入碗中，倒入酸奶及奶酪即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11480/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 35.8,
+    "proteinG": 3.3,
+    "carbsG": 0.3,
+    "fatG": 2.5
+  },
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

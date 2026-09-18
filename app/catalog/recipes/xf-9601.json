@@ -1,0 +1,145 @@
+{
+  "id": "xf-9601",
+  "title": "红烧鱼头豆腐",
+  "ingredients": [
+    {
+      "name": "大鱼头",
+      "mergeKey": "fish-head",
+      "amount": 400,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "南豆腐",
+      "mergeKey": "tofu",
+      "amount": 2,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 25,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱段",
+      "mergeKey": "scallion",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙细盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 1.25,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "又1/2杯清水",
+      "mergeKey": "water",
+      "amount": 360,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鱼头先用料酒，细盐涂抹腌制10分钟。豆腐切小方块、大蒜用刀拍裂、香葱切段、姜切片、红椒切片,"
+    },
+    {
+      "text": "锅烧热，放入1大匙油烧热，放入沥净水的豆腐块小火慢煎,"
+    },
+    {
+      "text": "中途用筷子翻动，让四面都煎成金黄色,"
+    },
+    {
+      "text": "热锅热油，放入擦干水份的鱼头小火慢煎,"
+    },
+    {
+      "text": "煎完一面后，反面煎并放入姜片同煎，煎好后加入清水煮开,"
+    },
+    {
+      "text": "加入煎好的豆腐及所有调味料，大火煮开后转小火,"
+    },
+    {
+      "text": "最后加入青葱段及水淀粉勾芡，装盘后表面摆上红椒装饰"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9601/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 305,
+    "proteinG": 53.5,
+    "carbsG": 5,
+    "fatG": 8.6
+  },
+  "tags": [
+    "主食",
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

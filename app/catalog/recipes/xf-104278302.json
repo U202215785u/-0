@@ -1,0 +1,117 @@
+{
+  "id": "xf-104278302",
+  "title": "酸辣鸡杂",
+  "ingredients": [
+    {
+      "name": "鸡胗",
+      "mergeKey": "chicken-gizzard",
+      "amount": 10,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "泡椒",
+      "mergeKey": "pickled-pepper",
+      "amount": 8,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小米辣",
+      "mergeKey": "chili",
+      "amount": 8,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 1,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白醋",
+      "mergeKey": "vinegar",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒",
+      "mergeKey": "white-pepper",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "十三香",
+      "mergeKey": "shisanxiang",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡胗切小片，每个鸡胗大约切12-13片。放入煮开的水中，焯一下。变色马上捞出，空干水分。"
+    },
+    {
+      "text": "鸡胗放入生抽，料酒，白胡椒，十三香腌制20分钟。"
+    },
+    {
+      "text": "姜和蒜切沫，小米辣和泡椒切小块备用。"
+    },
+    {
+      "text": "炒锅中放花生油7成热，姜蒜末炒香，依次放入小米辣，泡椒炒香。然后将鸡胗连同腌料一起放入爆炒，加白醋，少许老抽调色，盐，鸡精，出锅。（我都被辣香味呛到了）搭配一大碗米饭，美味。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/104278302/",
+  "author": "猫小弟的姐姐",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 424.6,
+    "proteinG": 78.2,
+    "carbsG": 1.5,
+    "fatG": 9.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

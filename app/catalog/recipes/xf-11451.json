@@ -1,0 +1,40 @@
+{
+  "id": "xf-11451",
+  "title": "酸甜杨梅汁",
+  "ingredients": [
+    {
+      "name": "杨梅",
+      "mergeKey": "bayberry",
+      "category": "其他"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将杨梅用水冲淋一下，去除杂质，放入大的锅中加水至刚刚浸没杨梅,"
+    },
+    {
+      "text": "大火将锅烧开后，转小火，同时用勺背不断的将杨梅压扁（这步有些辛苦，温度高有些热，小心烫到手）,"
+    },
+    {
+      "text": "压碎全部的杨梅后，关火，取一个锅子及漏网，用勺背用力按压过滤掉杨梅渣,"
+    },
+    {
+      "text": "将过滤干净的杨梅汁按个人口味调入白糖（要多放一些，中和杨梅的酸味）凉后放冰箱冷藏即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11451/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

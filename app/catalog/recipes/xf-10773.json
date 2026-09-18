@@ -1,0 +1,77 @@
+{
+  "id": "xf-10773",
+  "title": "酿虾肉豆腐",
+  "ingredients": [
+    {
+      "name": "活虾",
+      "mergeKey": "shrimp",
+      "quantityText": "少量",
+      "category": "水产"
+    },
+    {
+      "name": "嫩豆腐",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "盒",
+      "category": "豆制品"
+    },
+    {
+      "name": "葱末",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "新鲜的活虾放冰箱速冻20分钟，取出剥去虾壳，挑出虾肠，剁成虾肉泥，放盐，料酒，葱姜末搅拌上劲,"
+    },
+    {
+      "text": "嫩豆腐盒底剪四个口子，倒扣取出豆腐，横剖成两块，再用模具按出形状（没有模具就切成四方块）,"
+    },
+    {
+      "text": "把每块豆腐当中用勺子挖个坑（不需要挖到底）。每个坑里填上虾肉泥，装盘,"
+    },
+    {
+      "text": "上锅旺火蒸5分钟左右，出锅，倒去盘里多余的水分。淋上少许生抽和香油就可以上桌了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10773/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

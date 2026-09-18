@@ -1,0 +1,42 @@
+{
+  "id": "xf-11571",
+  "title": "微波虾干",
+  "ingredients": [
+    {
+      "name": "新鲜虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "虾洗净后剪去须，撒两小勺盐拌匀,"
+    },
+    {
+      "text": "放入微波容器中，高火叮5分钟,"
+    },
+    {
+      "text": "取出倒掉容器中的汁水，把虾一个个平铺在微波炉的转盘上（虾不要叠起来，平铺一层），高火叮5分钟,"
+    },
+    {
+      "text": "取出把虾翻面再高火叮5分钟，重复这个步骤，直到虾表面干爽，肉质捏上去尚有弹性。（我这里把虾摊在微波炉转盘上总共叮了3个5分钟，共计15分钟）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11571/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,132 @@
+{
+  "id": "xf-11227",
+  "title": "川椒辣子鸡丁",
+  "ingredients": [
+    {
+      "name": "鸡胸肉",
+      "mergeKey": "chicken-breast",
+      "category": "肉类"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "陴县豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡胸肉两块，青红椒各一，干辣椒，陴县豆瓣酱，姜,"
+    },
+    {
+      "text": "青红椒切小块，姜切片，干辣椒切段,"
+    },
+    {
+      "text": "鸡肉切小方块，加入胡椒粉，米酒，蛋清一个，盐，少量生抽，鸡精，生粉上浆，略腌十分钟,"
+    },
+    {
+      "text": "锅烧热油，下鸡丁滑熟（全部变白就差不多了,"
+    },
+    {
+      "text": "另起一锅，入油。油热，小火爆香花椒粒。出香味后，滤出花椒不要,"
+    },
+    {
+      "text": "小火下姜片，干辣椒段和豆瓣酱翻炒,"
+    },
+    {
+      "text": "倒入青红椒翻炒，同时加入料酒，盐,"
+    },
+    {
+      "text": "倒入滑熟的鸡丁，翻炒均匀，勾薄芡即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11227/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

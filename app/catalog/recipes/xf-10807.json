@@ -1,0 +1,52 @@
+{
+  "id": "xf-10807",
+  "title": "草莓椰蓉汤圆",
+  "ingredients": [
+    {
+      "name": "水磨糯米粉",
+      "mergeKey": "glutinous-rice-flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "草莓",
+      "mergeKey": "strawberry",
+      "category": "其他"
+    },
+    {
+      "name": "豆沙馅",
+      "mergeKey": "red-bean-paste",
+      "category": "豆制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "草莓冲洗干净，摘去蒂,"
+    },
+    {
+      "text": "草莓用搅拌机打成草莓泥,"
+    },
+    {
+      "text": "打好的草莓泥中加入糯米粉，边加边搅拌，然后用手揉成不粘手的干湿适中面团,"
+    },
+    {
+      "text": "把面团分成小剂子，取一个，搓圆压扁，把豆沙馅放在中间,"
+    },
+    {
+      "text": "收口，搓圆。取一盘子，盘底刷食用油，把做好的汤圆排入,"
+    },
+    {
+      "text": "上锅蒸8分钟左右至熟。蒸熟的汤圆放在椰蓉中滚一圈即可食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10807/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

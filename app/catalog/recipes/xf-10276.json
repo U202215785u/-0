@@ -1,0 +1,165 @@
+{
+  "id": "xf-10276",
+  "title": "秘制酱肘子",
+  "ingredients": [
+    {
+      "name": "猪肘子",
+      "mergeKey": "pork-hock",
+      "amount": 1,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "京葱",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 10,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 4,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 1,
+      "unit": "块",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 3,
+      "unit": "张",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel-seed",
+      "amount": 15,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙北京黄酱",
+      "mergeKey": "yellow-bean-paste",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙花雕酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "用利刀将肘子割开一边，取出内部的大骨,"
+    },
+    {
+      "text": "用2大匙黄酱将肘子两面涂抹均匀，腌制60分钟,"
+    },
+    {
+      "text": "锅内烧开水，将大骨及腌好的肘子肉放入煮到水开，捞起洗净备用,"
+    },
+    {
+      "text": "锅内放1大匙油及25克冰糖用小火煮成褐色的糖色,"
+    },
+    {
+      "text": "加入黄酱1又1/2大匙翻炒几下,"
+    },
+    {
+      "text": "再加入大葱，姜，八角，桂皮，花椒，香味，茴香炒出香味,"
+    },
+    {
+      "text": "锅内放入肘子肉及大骨，加入生抽，酒，冷水（水量至肘子的2/3位置）,"
+    },
+    {
+      "text": "大火烧开后转小火加盖焖60分钟，再开盖酱30-40分钟至筷子可以插入瘦肉部份,"
+    },
+    {
+      "text": "取一张纱布袋（大号的煲汤袋），将肘子皮朝下放在纱布袋上,"
+    },
+    {
+      "text": "将肘子卷起，用棉线将肘子五花大绑起来,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "绑好的肘子放入冰箱冷藏过夜，第二天再取出肘子拆线,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "拆好的肘子再切成薄片,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "做辣油蘸酱，将生蒜蓉剁碎，放入盐，粗辣椒粉放入碗内,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "锅内烧热2大匙油，乘热倒入碗内调匀，加入生抽，麻油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10276/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 90,
+  "difficulty": "中等"
+}

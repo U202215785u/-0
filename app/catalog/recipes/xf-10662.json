@@ -1,0 +1,70 @@
+{
+  "id": "xf-10662",
+  "title": "海带豆腐蛤蜊汤",
+  "ingredients": [
+    {
+      "name": "海带",
+      "mergeKey": "kelp",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "蛤蜊",
+      "mergeKey": "clam",
+      "category": "水产"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "蛤蜊买回来，泡在清水中，水里加一小勺盐，滴几滴食用油，让蛤蜊把肚中的泥沙吐尽。海带结，洗净在清水里泡会儿，捞出。取一锅子，锅中注入清水，放入少许姜丝，把海带结放入煮开后转小火煮10分钟,"
+    },
+    {
+      "text": "豆腐切块，放入锅中，和海带一起小火煮两三分钟,"
+    },
+    {
+      "text": "蛤蜊洗净捞出，放入锅中，煮两三分钟，至开口，放盐和鸡精调味，撒葱花出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10662/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

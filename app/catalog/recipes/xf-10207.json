@@ -1,0 +1,70 @@
+{
+  "id": "xf-10207",
+  "title": "哈红肠西芹炒豆干",
+  "sourceUrl": "https://www.xiachufang.com/recipe/10207/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "ingredients": [
+    {
+      "name": "哈尔滨红肠",
+      "mergeKey": "sausage",
+      "category": "肉类"
+    },
+    {
+      "name": "西芹",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆干",
+      "mergeKey": "dried-tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "西芹洗净斜切菱形块，哈红肠与豆干切粗条状备用，葱蒜切小粒,"
+    },
+    {
+      "text": "锅内放少许油，七成热下葱蒜粒爆香，下红肠与豆干翻炒，下西芹迅速翻炒,"
+    },
+    {
+      "text": "加蚝油、盐鸡粉调味即可出锅"
+    }
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

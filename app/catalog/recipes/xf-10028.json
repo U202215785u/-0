@@ -1,0 +1,64 @@
+{
+  "id": "xf-10028",
+  "title": "椒盐土豆",
+  "ingredients": [
+    {
+      "name": "小土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "椒盐",
+      "mergeKey": "pepper-salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "小土豆洗干净放水里煮滚后加盐再煮个15分左右，筷子能插下去即可捞出,"
+    },
+    {
+      "text": "将小土豆去皮，用倒轻轻拍扁,"
+    },
+    {
+      "text": "锅里加热少许油，将土豆煎成两面金黄色捞出,"
+    },
+    {
+      "text": "干净的锅里再加热少许油，放入葱花爆香，倒入煎好的土豆，加盐，白糖，鸡精，椒盐，稍微拌一下均匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10028/",
+  "author": "子闻妈咪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

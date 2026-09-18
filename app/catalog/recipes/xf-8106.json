@@ -1,0 +1,96 @@
+{
+  "id": "xf-8106",
+  "title": "蒜苗炒牛肉",
+  "ingredients": [
+    {
+      "name": "牛里脊",
+      "mergeKey": "beef",
+      "amount": 300,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "蒜苗",
+      "mergeKey": "garlic-sprout",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2小勺盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "耗油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛肉切片用生抽，料酒，生粉抓匀腌制10分钟"
+    },
+    {
+      "text": "蒜苗洗净切段"
+    },
+    {
+      "text": "锅内烧热油下姜丝煸香，倒入腌好的牛肉炒变色"
+    },
+    {
+      "text": "加入盐，蚝油快速炒匀，倒入蒜苗翻炒半分钟关火出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/8106/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 211.3,
+    "proteinG": 8,
+    "carbsG": 31.5,
+    "fatG": 5.2
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

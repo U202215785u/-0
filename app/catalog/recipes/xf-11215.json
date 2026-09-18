@@ -1,0 +1,55 @@
+{
+  "id": "xf-11215",
+  "title": "泡菜煎饼",
+  "ingredients": [
+    {
+      "name": "泡菜",
+      "mergeKey": "kimchi",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将泡菜切碎,"
+    },
+    {
+      "text": "面粉倒入一个容器内,"
+    },
+    {
+      "text": "倒入凉水搅拌均匀，将面糊调成比汤稠一些，像蕃茄酱程度即可,"
+    },
+    {
+      "text": "将切碎的泡菜放入面糊，并倒入一些泡菜汁，放些鸡精调匀,"
+    },
+    {
+      "text": "不粘锅内放少量食用油，倒入调好的泡菜面糊，摊成面饼状，用中小火将两面煎熟，出锅稍凉后切块即可食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11215/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煎"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

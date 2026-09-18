@@ -1,0 +1,91 @@
+{
+  "id": "xf-9760",
+  "title": "百合排骨蔬菜汤",
+  "ingredients": [
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "category": "肉类"
+    },
+    {
+      "name": "百合",
+      "mergeKey": "lily",
+      "category": "蔬菜"
+    },
+    {
+      "name": "刀豆",
+      "mergeKey": "green-bean",
+      "category": "蔬菜"
+    },
+    {
+      "name": "海米",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "蘑菇",
+      "mergeKey": "mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将排骨斩小块，放入冷水中煮开后，略滚一会去除血水,"
+    },
+    {
+      "text": "木耳提前用温水泡发,"
+    },
+    {
+      "text": "百合掰成瓣洗净备用,"
+    },
+    {
+      "text": "刀豆切段，蘑菇切片,"
+    },
+    {
+      "text": "将焯过水的排骨放入炖锅中，加入适量开水，2小勺料酒，姜片，海米，煮沸后转小火炖1个小时,"
+    },
+    {
+      "text": "然后放入百合、刀豆、木耳、蘑菇，继续炖20分钟，最后加盐、胡椒粉调味"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9760/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

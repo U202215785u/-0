@@ -1,0 +1,85 @@
+{
+  "id": "xf-11221",
+  "title": "芝麻薄脆",
+  "ingredients": [
+    {
+      "name": "约75克蛋白",
+      "mergeKey": "egg-white",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "芝麻",
+      "mergeKey": "sesame",
+      "amount": 80,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 35,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "cake-flour",
+      "amount": 35,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "芝麻烤香,"
+    },
+    {
+      "text": "蛋白加糖打散，再加进色拉油、盐，筛入低粉搅匀，最后加进芝麻拌匀（稍留一点可撒上面,"
+    },
+    {
+      "text": "烤盘铺上高温油布，用勺子将芝麻糊分个摊薄，上面撒上余下的芝麻,"
+    },
+    {
+      "text": "烤箱170度预热，烤10分钟左右（上色就可以了，根据自己烤箱调整,"
+    },
+    {
+      "text": "出烤箱趁热取下， 如喜欢瓦片型，就趁热放在擀面杖上成型"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11221/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 125.7,
+    "proteinG": 2.2,
+    "carbsG": 26.2,
+    "fatG": 1.5
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

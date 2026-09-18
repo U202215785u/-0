@@ -1,0 +1,96 @@
+{
+  "id": "xf-11488",
+  "title": "菠萝油条虾",
+  "ingredients": [
+    {
+      "name": "油条",
+      "mergeKey": "youtiao",
+      "amount": 1,
+      "unit": "根",
+      "category": "米面主食"
+    },
+    {
+      "name": "明虾",
+      "mergeKey": "shrimp",
+      "quantityText": "适量",
+      "category": "水产"
+    },
+    {
+      "name": "台湾菠萝",
+      "mergeKey": "pineapple",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑芝麻",
+      "mergeKey": "black-sesame",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜葱末",
+      "mergeKey": "ginger-scallion",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大蒜粉",
+      "mergeKey": "garlic-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蛋清",
+      "mergeKey": "egg-white",
+      "category": "蛋类"
+    },
+    {
+      "name": "香甜沙拉酱",
+      "mergeKey": "sweet-salad-dressing",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将虾剥去虾头及虾壳，用牙签剔去泥肠，用刀拍扁，然后剁成虾泥，加入姜葱末，盐鸡精料酒，少许干生粉，蛋清搅拌上劲,"
+    },
+    {
+      "text": "油条选取膨松较好的部分，切成段，将虾泥用筷子仔细塞到油条的肚子里；油锅烧至六成热时下入油条中火慢炸至金黄，不断翻身，捞出；大火烧热锅中油，将油条迅速复炸一遍，让油条虾香脆捞出沥干油分出锅；菠萝切片，和油条虾一起摆盘，淋上沙拉酱，洒点黑芝麻即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11488/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

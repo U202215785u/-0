@@ -1,0 +1,59 @@
+{
+  "id": "xf-10768",
+  "title": "海苔土司卷",
+  "ingredients": [
+    {
+      "name": "土司片",
+      "mergeKey": "bread",
+      "category": "米面主食"
+    },
+    {
+      "name": "寿司海苔",
+      "mergeKey": "nori",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "金枪鱼松",
+      "mergeKey": "tuna-floss",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香辣酱",
+      "mergeKey": "chili-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉酱",
+      "mergeKey": "mayonnaise",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "土司片切去四周硬边,"
+    },
+    {
+      "text": "寿司海苔剪成比土司片稍大的方形，铺好，把两面涂好色拉酱的土司片放在上面,"
+    },
+    {
+      "text": "在上面放上金枪鱼松（另外个我吃的辣的口味我是放了阿香婆的香辣酱），这里要放的东西可以随意，像做寿司一样，放点蔬菜条，蛋皮啊什么都可以，总之喜欢吃什么口味就放什么材料上去,"
+    },
+    {
+      "text": "从自己身边开始卷起来，最后在海苔上抹点可以饮用的水封口固定。用一把锋利的小刀分割成寿司状"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10768/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

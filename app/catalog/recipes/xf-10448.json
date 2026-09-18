@@ -1,0 +1,50 @@
+{
+  "id": "xf-10448",
+  "title": "荠菜鸡丁",
+  "ingredients": [
+    {
+      "name": "荠菜",
+      "mergeKey": "shepherds-purse",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡胸肉",
+      "mergeKey": "chicken",
+      "category": "肉类"
+    },
+    {
+      "name": "春笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡胸肉洗净擦干水分，切成丁，用少许酱油、料酒、水淀粉抓匀后，放一汤匙色拉油抓匀腌制待用,"
+    },
+    {
+      "text": "荠菜摘去老叶，浸泡洗净沥干水分，切碎。春笋剥壳洗净切成丁,"
+    },
+    {
+      "text": "锅烧热，放油，入鸡丁翻炒至变色即盛起待用,"
+    },
+    {
+      "text": "倒入笋丁，用余油翻炒透，加少许水煮一下,"
+    },
+    {
+      "text": "放荠菜入锅翻炒片刻,"
+    },
+    {
+      "text": "把鸡丁倒入，放盐和鸡精翻炒均匀，迅速用水淀粉勾个薄薄的芡出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10448/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

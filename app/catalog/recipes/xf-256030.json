@@ -1,0 +1,183 @@
+{
+  "id": "xf-256030",
+  "title": "虎皮青椒",
+  "ingredients": [
+    {
+      "name": "做法一:"
+    },
+    {
+      "name": "青辣椒",
+      "mergeKey": "green-pepper",
+      "amount": 8,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香醋",
+      "mergeKey": "vinegar",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "做法二用料:",
+      "quantityText": "少许"
+    },
+    {
+      "name": "青辣椒",
+      "mergeKey": "green-pepper",
+      "amount": 3,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香醋",
+      "mergeKey": "vinegar",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将青椒洗干净"
+    },
+    {
+      "text": "把蒂部切掉，用小刀挖掉籽，或者侧面划一刀，抠出籽籽(吃得辣的可以不用去籽，直接把辣椒切成两段，有籽还更香)"
+    },
+    {
+      "text": "大蒜拍破后去皮，切成碎末"
+    },
+    {
+      "text": "将生抽、白糖、香醋、盐放入碗里混合均匀成调料汁备用(不放白糖也好吃的，我经常就是放陈醋和生抽就觉得好吃了)"
+    },
+    {
+      "text": "锅中倒入油，油可以稍微多一些，中火加热至4成热后，将青椒排放入锅中"
+    },
+    {
+      "text": "用锅铲轻轻按压青椒"
+    },
+    {
+      "text": "并不时的将青椒翻面，使之均匀的受热"
+    },
+    {
+      "text": "直至青椒两面表皮都煸出虎皮皱纹(可以根据喜好煸得软一些或脆口一些，两种我都喜欢)"
+    },
+    {
+      "text": "将青椒拨到锅头的一边，放入蒜末煸香"
+    },
+    {
+      "text": "倒入步骤（2）的调料汁，迅速翻炒入味，即可盛入盘中。\n\n\n\n\n\n                                              做法二:  干煸无油版\n\n\n\n以下图片步骤是第二种做法:不用放油干煸的，有锅头的焦香气味，非常特别。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将青椒洗干净，把蒂部去掉，大蒜拍破后去皮，切成碎末"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将生抽、白糖、香醋、盐放入碗里混合均匀成调料汁备用"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "锅中不放油，中火加热至4成热后，将青椒排放锅中入，用锅铲轻轻按压青椒，并不时的将青椒翻面，使之均匀的受热，青椒两面表皮都煸出皱纹"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将青椒盛出，放入少许油,也可以不放,将蒜末煸香，倒入步骤（2）的调料汁，放入青椒翻炒入味，待汤汁收浓稠时即可盛入盘中"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/256030/",
+  "author": "随心煮意",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 372.3,
+    "proteinG": 12.4,
+    "carbsG": 45.9,
+    "fatG": 18.6
+  },
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 90,
+  "difficulty": "中等"
+}

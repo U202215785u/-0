@@ -1,0 +1,76 @@
+{
+  "id": "xf-10431",
+  "title": "小奶瓶布丁",
+  "ingredients": [
+    {
+      "name": "原味酸奶",
+      "mergeKey": "yogurt",
+      "amount": 2,
+      "unit": "盒",
+      "category": "乳制品"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 70,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 1,
+      "unit": "盒",
+      "category": "乳制品"
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鱼胶粉",
+      "mergeKey": "gelatin",
+      "amount": 8,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "柠檬汁",
+      "mergeKey": "lemon-juice",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鱼胶粉加水浸泡透，隔温水溶解备用,"
+    },
+    {
+      "text": "把淡奶油，酸奶，牛奶，砂糖一起混合微微加热，不要烧滚，搅拌均匀加入溶解好的鱼胶水混合，加点柠檬汁混合,"
+    },
+    {
+      "text": "将布丁液倒入小奶瓶入冰箱冷藏凝固即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10431/",
+  "author": "子闻妈咪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

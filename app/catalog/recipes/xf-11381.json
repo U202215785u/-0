@@ -1,0 +1,98 @@
+{
+  "id": "xf-11381",
+  "title": "火腿蛤蜊豆腐煲",
+  "ingredients": [
+    {
+      "name": "火腿",
+      "mergeKey": "ham",
+      "amount": 3,
+      "unit": "大片",
+      "category": "肉类"
+    },
+    {
+      "name": "蛤蜊",
+      "mergeKey": "clam",
+      "amount": 0.5,
+      "unit": "斤",
+      "category": "水产"
+    },
+    {
+      "name": "内脂豆腐",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "盒",
+      "category": "豆制品"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "蛤蜊清洗干净后，捞出沥干。火腿切块，内脂豆腐切小块。锅烧热放一点点油，把火腿片放入中小火煸出香味,"
+    },
+    {
+      "text": "放入姜片和葱段煸香,"
+    },
+    {
+      "text": "倒入一大碗水煮开,"
+    },
+    {
+      "text": "放豆腐煮沸,"
+    },
+    {
+      "text": "转中火加盖煲3分钟左右,"
+    },
+    {
+      "text": "开盖放入蛤蜊，盖上盖子再煮2分钟左右，待蛤蜊全部张开。调入盐和鸡精（如果想要汤有浓稠的感觉，可以在这时放点水淀粉勾个薄薄的芡），出锅前撒白胡椒粉"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11381/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

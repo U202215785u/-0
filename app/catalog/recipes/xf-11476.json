@@ -1,0 +1,49 @@
+{
+  "id": "xf-11476",
+  "title": "银耳红枣木瓜羹",
+  "ingredients": [
+    {
+      "name": "泡发的银耳",
+      "mergeKey": "snow-fungus",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "红枣",
+      "mergeKey": "red-dates",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "木瓜",
+      "mergeKey": "papaya",
+      "category": "蔬菜"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "干银耳泡发1小时，摘成稍小的朵，清洗干净，放入高压锅中，加入3倍以上的水，大火烧开，转小火压30分钟左右,"
+    },
+    {
+      "text": "银耳压30分钟后，打开高压锅，将清洗干净的红枣和适量冰糖丢进去，大火烧开，转小火炖10分钟，关火,"
+    },
+    {
+      "text": "将木瓜去皮，去籽，切成块，放入压制好的银耳红枣汤中混匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11476/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

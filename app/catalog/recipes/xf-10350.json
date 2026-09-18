@@ -1,0 +1,75 @@
+{
+  "id": "xf-10350",
+  "title": "荷兰豆炒腊肉",
+  "ingredients": [
+    {
+      "name": "腊肉",
+      "mergeKey": "cured-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "荷兰豆",
+      "mergeKey": "snow-pea",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "橄榄油",
+      "mergeKey": "olive-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "熟的腊肉切成片备用,"
+    },
+    {
+      "text": "荷兰豆洗净，用手撕去两边的老筋。锅里放水，加一小勺盐和几滴色拉油，煮开后，把荷兰豆放入烫一会儿，捞出沥干水分备用,"
+    },
+    {
+      "text": "大蒜两粒切蒜末,"
+    },
+    {
+      "text": "锅烧热，倒入橄榄油，煸炒出香味,"
+    },
+    {
+      "text": "入腊肉煸炒出油,"
+    },
+    {
+      "text": "锅中加一小勺焯荷兰豆的水，倒入焯水沥干的荷兰豆，快速翻炒几下，加少量盐和鸡精出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10350/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

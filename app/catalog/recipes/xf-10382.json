@@ -1,0 +1,157 @@
+{
+  "id": "xf-10382",
+  "title": "蓝莓塔",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "mergeKey": "flour",
+      "amount": 150,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 75,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "新鲜蓝莓",
+      "mergeKey": "blueberry",
+      "amount": 150,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "蓝莓果酱",
+      "mergeKey": "blueberry-jam",
+      "amount": 125,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绵白糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰水",
+      "mergeKey": "water",
+      "amount": 37,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 12,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 1.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 40,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "明胶粉",
+      "mergeKey": "gelatin",
+      "amount": 2,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "首先制作塔皮：将黄油室温软化后切小块,"
+    },
+    {
+      "text": "筛入低粉,"
+    },
+    {
+      "text": "加入糖，用手轻轻将黄油搓开,"
+    },
+    {
+      "text": "使每颗米粒大小的黄油都均匀地裹上低粉,"
+    },
+    {
+      "text": "取12克蛋黄液,"
+    },
+    {
+      "text": "在蛋黄液中加入冰水、盐，搅拌均匀至盐融化,"
+    },
+    {
+      "text": "将蛋黄水倒入米粒状的低粉中,"
+    },
+    {
+      "text": "用手轻揉成团，裹保鲜膜，静置30分钟,"
+    },
+    {
+      "text": "此时可开始做派馅：新鲜蓝莓洗净，用厨房纸巾擦干表面水分，用淡奶油浸泡明胶粉,"
+    },
+    {
+      "text": "锅内放入蓝莓果酱，小火加热，不断搅拌,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "倒入淡奶油和明胶粉，继续小火加热，搅拌均匀，盛出放置室温即为蓝莓馅,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "取出面团，分割成小份，擀开,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将面团覆盖在塔模上，用小刀切去周边多余部分,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "用叉子在底部扎小孔,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "放入预热190度的烤箱，中层25分钟，取出稍凉后舀上馅料即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10382/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 303.8,
+    "proteinG": 9.4,
+    "carbsG": 54.5,
+    "fatG": 5.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 100,
+  "difficulty": "中等"
+}

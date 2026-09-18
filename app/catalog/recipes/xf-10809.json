@@ -1,0 +1,75 @@
+{
+  "id": "xf-10809",
+  "title": "上海菜饭",
+  "ingredients": [
+    {
+      "name": "熟猪油",
+      "mergeKey": "lard",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "青菜(上海青)",
+      "mergeKey": "bok-choy",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白米",
+      "mergeKey": "rice",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "咸肉",
+      "mergeKey": "salted-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "火腿",
+      "mergeKey": "ham",
+      "category": "肉类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "米洗净，入电饭煲放适量水，浸泡半小时以上。这里水要比平时稍微多一点点，因为菜饭煮如果硬了就不好吃了,"
+    },
+    {
+      "text": "把咸肉和火腿切成丁,"
+    },
+    {
+      "text": "咸肉丁和火腿丁放入浸泡好的米中，盖锅盖，插电，按煮饭键,"
+    },
+    {
+      "text": "小青菜洗净切碎。做上海菜饭最好用上海青，选颜色深的，颜色越深越糯，最好是下过霜的，就更甜糯了,"
+    },
+    {
+      "text": "电饭煲里的米饭煮起来，开始冒泡泡的时候，起个小油锅，煸炒青菜，不要炒太久 ，煸透就可以了,"
+    },
+    {
+      "text": "炒好青菜，电饭煲里的水差不多要干了，赶紧把炒好的青菜放进去，铺在饭的表面。等电饭煲的煮饭键跳起，再焖十分钟，开盖，加适量熟猪油和少量味精拌匀，就可以装碗开吃了。我这里因为加了咸肉一起烧，感觉咸味够了，所以没有加盐。你们做的时候可以尝下饭，淡的话加点盐。要记住，焖的时间不要超过十分钟，否则青菜照样要黄掉的"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10809/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

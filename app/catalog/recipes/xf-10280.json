@@ -1,0 +1,79 @@
+{
+  "id": "xf-10280",
+  "title": "大枣饽饽",
+  "ingredients": [
+    {
+      "name": "干红枣",
+      "mergeKey": "red-date",
+      "quantityText": "若干",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 95,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 1,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "干红枣提前用水泡发一夜,"
+    },
+    {
+      "text": "牛奶和酵母混合均匀后， 加入面粉， 揉成团（硬面团）后， 继续用力揉10分钟左右成光滑细致的面团， 收圆入盆， 温暖处发酵至两倍大,"
+    },
+    {
+      "text": "取出面团， 放在案板上， 不断铺撒薄面粉， 用力揉面10分钟左右， 揉透并排除气泡， 至切开面团， 切面细致无明显孔洞,"
+    },
+    {
+      "text": "分割四等份， 覆盖饧发10分钟左右,"
+    },
+    {
+      "text": "红枣擦干， 切成小条形的枣片,"
+    },
+    {
+      "text": "取一个面团， 揉成圆形馒头坯， 用两手指尖（我做的馒头小， 所以用眉钳）在顶端挑出一个’鼻儿’， 塞入一片枣片， 之后沿 ‘十’ 字方向向下依次挑出4排8个 ‘鼻儿”， 分别塞入枣片， 即成大枣饽饽生坯,"
+    },
+    {
+      "text": "依次做完其他面团,"
+    },
+    {
+      "text": "铺垫在笼屉中， 覆盖， 于温暖处继续饧发至按压表皮有松软感,"
+    },
+    {
+      "text": "上屉， 大火蒸12分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10280/",
+  "author": "CANDEY",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 176.4,
+    "proteinG": 5.9,
+    "carbsG": 32.8,
+    "fatG": 2.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

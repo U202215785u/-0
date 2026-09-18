@@ -1,0 +1,87 @@
+{
+  "id": "xf-9768",
+  "title": "茄汁大虾",
+  "ingredients": [
+    {
+      "name": "虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "番茄酱",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将虾去肠泥，洗净，用厨房用纸吸干水分后，表层抹上一层薄薄的生粉,"
+    },
+    {
+      "text": "放适量的油，油温热到筷子放进会泛泡泡时，放入虾，炸至两面金黄后，捞出沥干油备用,"
+    },
+    {
+      "text": "锅中留少许油，爆香姜末蒜末，放入炸好的虾，用铲子将虾头压扁，压出虾油，加少许料酒、生抽、老抽，加适量水（没过虾就可以），加入2勺番茄酱，加糖（糖可以多放一些）,"
+    },
+    {
+      "text": "煮沸后盖上锅盖焖至汤汁浓稠关火，虾装盘后，将剩余汤汁淋在虾上"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9768/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

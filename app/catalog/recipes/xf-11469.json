@@ -1,0 +1,95 @@
+{
+  "id": "xf-11469",
+  "title": "蒜苔炒鳝丝",
+  "ingredients": [
+    {
+      "name": "蒜苔",
+      "mergeKey": "garlic-scape",
+      "quantityText": "若干",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄鳝",
+      "mergeKey": "eel",
+      "amount": 1,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜片",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄鳝买时请店家宰杀并去骨，蒜苔摘去老硬部分，清洗干净,"
+    },
+    {
+      "text": "锅中水烧沸，放入洗干净的黄鳝略烫，可去除表面的粘液；黄鳝洗净后切段，将鳝骨用刀剔除后切丝,"
+    },
+    {
+      "text": "鳝丝中加入料酒，少许盐，鸡精，白胡椒粉，生粉抓匀腌10分钟；锅中放油烧热后爆香姜片及蒜片，入鳝丝翻炒,"
+    },
+    {
+      "text": "鳝丝炒至5成熟时放入蒜苔一同翻炒，调入少许盐，美极鲜酱油，少许糖，翻炒成熟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11469/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "xf-11160",
+  "title": "黑胡椒牛肉粒",
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生菜",
+      "mergeKey": "lettuce",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小米椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小西红柿",
+      "mergeKey": "cherry-tomato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜蒜",
+      "mergeKey": "ginger-garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛肉洗净，切成适量大小的丁,"
+    },
+    {
+      "text": "料酒1小勺，生抽1小勺，淀粉1小勺加清水、盐、调匀做成腌料,"
+    },
+    {
+      "text": "把切好的牛肉放入腌料和拌匀，用保鲜膜盖住放入冰箱冷藏8个小时,"
+    },
+    {
+      "text": "煎锅烧热，倒入少量油，放入洋葱爆香将腌制好的牛肉用中火煎放入现磨的黑胡椒碎不断翻动煎的均匀至牛肉8分熟放入一两个切开的小米椒略微煸炒加一点辣味即可,"
+    },
+    {
+      "text": "起锅前再撒入一些现磨的黑胡椒，装盘包裹上生菜卷着吃不烫嘴还过瘾，小西红柿切开点缀"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11160/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "xf-9755",
+  "title": "黄豆花生炖鸡爪",
+  "ingredients": [
+    {
+      "name": "橘子皮",
+      "mergeKey": "tangerine-peel",
+      "amount": 2,
+      "unit": "片",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "黄豆",
+      "mergeKey": "soybean",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花生",
+      "mergeKey": "peanut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡爪",
+      "mergeKey": "chicken-feet",
+      "category": "肉类"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄豆和花生提前一晚用清水浸泡,"
+    },
+    {
+      "text": "将鸡爪洗净后放入冷水中，水开后，略煮1-2分钟，然后将鸡爪捞出再次洗净,"
+    },
+    {
+      "text": "另取砂锅加入适量清水，水开后，放入鸡爪、姜片、橘子皮少许料酒，大火煮沸后，继续用大火煮10分钟,"
+    },
+    {
+      "text": "然后放入黄豆和花生，大火煮开后转小火炖1个小时，关火前加适量盐和鸡精调味"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9755/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "xf-9583",
+  "title": "田园咖喱饭",
+  "ingredients": [
+    {
+      "name": "油咖喱",
+      "amount": 30,
+      "unit": "克",
+      "mergeKey": "curry-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米饭",
+      "mergeKey": "rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "小南瓜",
+      "amount": 1,
+      "unit": "个",
+      "mergeKey": "pumpkin",
+      "category": "蔬菜"
+    },
+    {
+      "name": "熟栗仁",
+      "amount": 100,
+      "unit": "克",
+      "mergeKey": "chestnut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "豆干",
+      "amount": 2,
+      "unit": "块",
+      "mergeKey": "dried-tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芹菜叶",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酱油",
+      "amount": 15,
+      "unit": "毫升",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "茶勺蘑菇精",
+      "amount": 5,
+      "mergeKey": "mushroom-powder",
+      "category": "调味料",
+      "pantry": true,
+      "unit": "克"
+    },
+    {
+      "name": "盐",
+      "quantityText": "适量",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "quantityText": "适量",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "热水",
+      "mergeKey": "water",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "蔬菜洗净，南瓜去籽去皮，切成小块，生姜切成末,"
+    },
+    {
+      "text": "栗仁用手弄成小块，豆干切成小丁，先用1勺食用油煎成金黄，捞出待用,"
+    },
+    {
+      "text": "不粘炒锅放底油，油热之后下姜末，煸香至软后下南瓜块，小火煸炒约5分钟，直至南瓜块变软，表面至焦黄,"
+    },
+    {
+      "text": "倒入栗仁和煎黄的豆干，翻炒约3分钟，添加2勺油咖喱和1勺酱油，充分混合，然后兑入热水（或高汤），盖上锅盖炖上几分钟，收汁，撒上1茶勺蘑菇精和适量的白胡椒粉和盐，拌匀入味，关火，将其淋在做好的高粱米饭上，用芹菜叶装饰，即可食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9583/",
+  "author": "线球",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

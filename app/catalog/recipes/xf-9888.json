@@ -1,0 +1,49 @@
+{
+  "id": "xf-9888",
+  "title": "一品扒全茄",
+  "ingredients": [
+    {
+      "name": "肉丝",
+      "mergeKey": "meat",
+      "category": "肉类"
+    },
+    {
+      "name": "茄子",
+      "mergeKey": "eggplant",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "香菜切段，蒜切末,"
+    },
+    {
+      "text": "锅里多添点油，烧热后把茄子放锅里煎，煎至筷子能轻松插透为止。茄子下锅前要沥干表面的水，或者擦干，否则崩油很厉害,"
+    },
+    {
+      "text": "煎好的茄子夹出来，放进盘里，下肉丝翻炒，把肉丝炒至变色，加盐，最后盛到小碗里,"
+    },
+    {
+      "text": "锅里放豆瓣酱，我用的是本地北大荒的。加水小炖，注意要勤翻炒，因为大酱很愿意粘锅底。最后盛出茄子，两边放香菜末，中间撒肉丝和蒜末，吃的时候随意拌匀就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9888/",
+  "author": "方方球",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

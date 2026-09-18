@@ -1,0 +1,119 @@
+{
+  "id": "xf-11127",
+  "title": "橄榄形酥香面包",
+  "ingredients": [
+    {
+      "name": "高粉",
+      "mergeKey": "bread-flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 20,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "cake-flour",
+      "amount": 15,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "奶酪粉",
+      "mergeKey": "cheese-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "全蛋",
+      "mergeKey": "egg",
+      "amount": 15,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "powdered-sugar",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "面团材料中除黄油外的其余材料全部混合均匀揉成光滑的面团后加入黄油，揉至扩展阶段,"
+    },
+    {
+      "text": "将面团放入容器中盖上保鲜膜，进行基础发酵,"
+    },
+    {
+      "text": "基础发酵结束后的面团排气，并分割成8等分。中间发酵15分钟,"
+    },
+    {
+      "text": "中间发酵结束后的面团，擀成椭圆形后卷起成橄榄形，整形后的面团排入烤盘放入烤箱进行最后发酵,"
+    },
+    {
+      "text": "油酥面糊：黄油软化后加入糖粉拌匀，搅打成松发状，筛入面粉拌匀,"
+    },
+    {
+      "text": "最后发酵完成的面团先刷上一层蛋液，在挤上奶酥面糊，放入180度预热的烤箱中层烘烤15-20分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11127/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 209.6,
+    "proteinG": 3.9,
+    "carbsG": 43,
+    "fatG": 2.6
+  },
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

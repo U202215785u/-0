@@ -1,0 +1,131 @@
+{
+  "id": "xf-10261",
+  "title": "山药木耳炒肉片",
+  "ingredients": [
+    {
+      "name": "山药",
+      "mergeKey": "yam",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "猪里脊肉",
+      "mergeKey": "pork-tenderloin",
+      "amount": 80,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "枸杞子",
+      "mergeKey": "goji",
+      "amount": 12,
+      "unit": "粒",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花生油",
+      "mergeKey": "cooking-oil",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 8,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "山药、猪里脊肉、葱、姜清洗干净，木耳用清水泡软，撕成小朵，清洗干净,"
+    },
+    {
+      "text": "山药去皮切成菱形或半圆形，片的形状随意，但不要太厚,"
+    },
+    {
+      "text": "切好的山药立即放入加入几滴白醋的清水里，以防变黑,"
+    },
+    {
+      "text": "木耳摘去根蒂，葱、姜切丝，瘦肉切薄片,"
+    },
+    {
+      "text": "肉片里加生抽、料酒、少许盐、淀粉腌制20分钟,"
+    },
+    {
+      "text": "锅烧热再倒油，油热放入葱、姜稍微一炒接着放肉片翻炒至完全变色,"
+    },
+    {
+      "text": "放入木耳翻炒几下,"
+    },
+    {
+      "text": "放入山药片、枸杞子翻炒均匀，再加少许清水、盐翻炒至熟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10261/",
+  "author": "咕咚姥姥",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 276,
+    "proteinG": 12.3,
+    "carbsG": 16.1,
+    "fatG": 17.7
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

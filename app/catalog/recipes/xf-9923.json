@@ -1,0 +1,175 @@
+{
+  "id": "xf-9923",
+  "title": "白菜猪肉炒木耳",
+  "ingredients": [
+    {
+      "name": "猪瘦肉",
+      "mergeKey": "pork",
+      "amount": 100,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "大白菜",
+      "mergeKey": "napa-cabbage",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "用温水泡发木耳",
+      "mergeKey": "wood-ear",
+      "amount": 10,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "新鲜红椒",
+      "mergeKey": "red-pepper",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小匙姜蓉",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/8小匙细盐",
+      "mergeKey": "salt",
+      "amount": 0.63,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙沙拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙清水",
+      "mergeKey": "water",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "小匙玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/4盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙特制红油辣椒酱",
+      "mergeKey": "chili-paste",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪瘦肉切薄片，大白菜分开菜叶及菜杆切小段，木耳手撕成小片，红椒切丝，姜剁成蓉，大蒜切片,"
+    },
+    {
+      "text": "将猪瘦肉用腌肉调料搅拌均匀，分次加入约1-2大匙的清水每次搅拌至看不到水份为此。放至腌制10分钟,"
+    },
+    {
+      "text": "锅内放入约2大匙油，烧至3成热放入猪瘦肉，用筷子划开,"
+    },
+    {
+      "text": "炒至猪瘦肉8成熟时，加入红油辣椒酱或辣椒粉炒出香味，连肉及油盛出备用,"
+    },
+    {
+      "text": "洗净锅子，再放少许油，冷油放入蒜蓉及蒜片炒出香味,"
+    },
+    {
+      "text": "放入细木耳，白菜杆及红椒丝，翻炒至菜杆变软身,"
+    },
+    {
+      "text": "最后再加入白菜叶，盐及鸡精，砂糖,"
+    },
+    {
+      "text": "炒至白菜叶变软时，加入炒好的肉片及油,"
+    },
+    {
+      "text": "翻炒均匀后，加入水淀粉勾薄芡,"
+    },
+    {
+      "text": "最后炒好的成品"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9923/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 124,
+    "proteinG": 13.3,
+    "carbsG": 10.5,
+    "fatG": 3.9
+  },
+  "tags": [
+    "炒",
+    "煮",
+    "烤"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

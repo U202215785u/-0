@@ -1,0 +1,136 @@
+{
+  "id": "xf-102416455",
+  "title": "广式烧鹅",
+  "ingredients": [
+    {
+      "name": "鹅",
+      "mergeKey": "goose",
+      "amount": 1,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "白砂糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "沙姜粉",
+      "mergeKey": "galangal-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "甘草粉",
+      "mergeKey": "licorice-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "五香粉",
+      "mergeKey": "five-spice-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角粉",
+      "mergeKey": "star-anise-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "海鲜酱",
+      "mergeKey": "hoisin-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芝麻酱",
+      "mergeKey": "sesame-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "面豉酱",
+      "mergeKey": "fermented-soybean-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红醋",
+      "mergeKey": "red-vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麦芽糖",
+      "mergeKey": "maltose",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "、准备新鲜鹅半只，将鹅洗净，沥干水份，沥水的时候准备淮盐，白砂糖、盐、鸡精、胡椒粉、沙姜粉、甘草粉、五香粉、八角粉，烧鹅酱：糖、海鲜酱、芝麻酱、面豉酱、生抽、耗油，把淮盐的各种粉类混合一块就是淮盐，烧鹅酱调匀。"
+    },
+    {
+      "text": "新鲜鹅沥干水份后，把烧鹅酱均匀的抹在鹅肚子里，把反面也均匀的抹匀，腌制10分钟，然后撒上淮盐，肚子里面也撒上，再涂抹均匀，轻轻的按摩一下，让鹅更好的入味，放置一边腌制半小时。"
+    },
+    {
+      "text": "调制脆皮水：清水250克、浙江红醋50克、麦芽糖2汤匙，混合一块调至麦芽糖完全溶化，用铁勾把鹅勾住挂起，刷上脆皮水，只刷带皮的那一面，把酱料刷下来，剩下的脆皮水，用小勺慢慢的一遍一遍淋在鹅身上，直至脆皮水用完"
+    },
+    {
+      "text": "然后风干三小时，到什么程度为止，用手摸一下鹅身，手指是干爽的，不带一点水份和油脂就可以，把风干好的鹅放在烧网上，烤网底下放烤盘垫上锡纸。"
+    },
+    {
+      "text": "烤箱预热190度，把鹅连同烤盘一起放入烤箱，烤盘放下层，鹅放中层，开启热风循环上下烘烤，烤20分钟后，将鹅取出，用锡纸包住脚部和翅膀部分。再次送入烤箱烤25分钟，最后出炉即可砍件切块食用，也可以配酸梅酱一同上桌"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102416455/",
+  "author": "汤丸籽爸爸",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

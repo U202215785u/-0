@@ -1,0 +1,73 @@
+{
+  "id": "xf-10188",
+  "title": "炸藕丸",
+  "ingredients": [
+    {
+      "name": "藕",
+      "mergeKey": "lotus-root",
+      "category": "蔬菜"
+    },
+    {
+      "name": "肉末",
+      "mergeKey": "minced-meat",
+      "category": "肉类"
+    },
+    {
+      "name": "小葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将藕削皮洗净，在擦茸器上来回擦动，擦出藕茸，毕出水份,"
+    },
+    {
+      "text": "将姜块也擦成茸,"
+    },
+    {
+      "text": "两枚鸡蛋，取蛋清放入藕茸中搅拌均匀,"
+    },
+    {
+      "text": "放入肉末、小葱、盐、白胡椒粉调料搅拌均匀上劲,"
+    },
+    {
+      "text": "锅中倒油烧热，开中火，用手抓一撮藕茸，放在手掌中，晃动手腕，将藕茸转成球形，放入油锅中,"
+    },
+    {
+      "text": "炸制成金黄色时捞出沥油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10188/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煎",
+    "炸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

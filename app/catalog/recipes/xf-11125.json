@@ -1,0 +1,60 @@
+{
+  "id": "xf-11125",
+  "title": "赤豆棒冰",
+  "ingredients": [
+    {
+      "name": "红豆沙",
+      "mergeKey": "red-bean-paste",
+      "amount": 150,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "蜜红豆",
+      "mergeKey": "red-bean",
+      "amount": 30,
+      "unit": "克",
+      "category": "豆制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "红豆沙+牛奶+淡奶油混合倒入奶锅中，小火加热至边缘冒泡泡关火,"
+    },
+    {
+      "text": "盖上盖子，放凉后倒入冰棍模中，撒入蜜红豆,"
+    },
+    {
+      "text": "放入冷冻室，冻硬后即可脱模食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11125/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 160,
+    "proteinG": 6,
+    "carbsG": 24,
+    "fatG": 4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

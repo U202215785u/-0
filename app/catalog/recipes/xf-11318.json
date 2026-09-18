@@ -1,0 +1,134 @@
+{
+  "id": "xf-11318",
+  "title": "香糯玉米豆腐丸",
+  "ingredients": [
+    {
+      "name": "干粉丝",
+      "mergeKey": "vermicelli",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "北豆腐",
+      "mergeKey": "tofu",
+      "amount": 200,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "黄玉米",
+      "mergeKey": "corn",
+      "amount": 1,
+      "unit": "条",
+      "category": "蔬菜"
+    },
+    {
+      "name": "紫玉米",
+      "mergeKey": "corn",
+      "amount": 1,
+      "unit": "条",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 80,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "quantityText": "适量",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "原料：北豆腐200克，干粉丝50克，胡萝卜100克，玉米淀粉80克，黄玉米和紫玉米各一条。配料：糖一小勺，盐，色拉油，鸡精，香油适量，清水适量,"
+    },
+    {
+      "text": "北豆腐用勺子压成泥，越碎越好。粉丝用热水泡软，切成1厘米左右的小段。胡萝卜擦成丝，再切碎，用一点点盐拌一下，使它变软。玉米脱成玉米粒（玉米罐头也可,"
+    },
+    {
+      "text": "把处理好的主料（玉米粒除外）放在容器里，加入配料，向一个方向搅拌均匀,"
+    },
+    {
+      "text": "分次加入玉米淀粉拌匀，根据情况加入适量水向同一方向搅拌，调整丸子糊的软硬程度，调整到干湿适当，不能太软太硬，刚好可以用手团成丸子，又不太粘手为好,"
+    },
+    {
+      "text": "用手把豆腐糊团成２－"
+    },
+    {
+      "text": "5厘米左右的丸子,"
+    },
+    {
+      "text": "丸子外层裹上玉米粒,"
+    },
+    {
+      "text": "竹蒸笼里铺上洗干净的玉米皮，摆上裹好玉米的豆腐丸子,"
+    },
+    {
+      "text": "水开后入锅，大火蒸６分钟，关火后不要马上开盖子，再虚蒸２、３分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11318/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 372.7,
+    "proteinG": 20.9,
+    "carbsG": 56.8,
+    "fatG": 8.1
+  },
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

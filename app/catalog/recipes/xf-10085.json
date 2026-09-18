@@ -1,0 +1,134 @@
+{
+  "id": "xf-10085",
+  "title": "北海道戚风蛋糕",
+  "ingredients": [
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 15,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "动物性淡奶油",
+      "mergeKey": "cream",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 10,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "数滴香草精",
+      "mergeKey": "vanilla",
+      "quantityText": "数滴",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "蛋黄用打蛋器打到浓稠发白状,"
+    },
+    {
+      "text": "将低粉和玉米淀粉筛入蛋黄糊中,"
+    },
+    {
+      "text": "轻轻搅拌，使面粉和蛋黄糊混合均匀,"
+    },
+    {
+      "text": "牛奶加糖，倒入奶锅里煮至沸腾,"
+    },
+    {
+      "text": "把煮沸的牛奶缓缓的倒1/3到蛋黄面糊里，边倒边不停的搅拌，防止蛋黄面糊结块,"
+    },
+    {
+      "text": "把拌匀的步骤5的蛋黄面糊再全部倒回牛奶锅里，并轻轻拌匀,"
+    },
+    {
+      "text": "加入几滴香草精，拌匀,"
+    },
+    {
+      "text": "把奶锅重新放回炉上，用小火加热，边加热边不停搅拌，待面糊变得浓稠后，立即离火,"
+    },
+    {
+      "text": "把煮好的蛋乳泥倒入坐在冰水的碗里，不停地搅拌，使蛋乳泥保持细腻光滑的状态，待冷却后用盖上保鲜膜放冰箱冷藏,"
+    },
+    {
+      "text": "动物性淡奶油打发到出现纹路状，然后和冷藏后的蛋乳泥混合，用橡皮刮刀拌匀即成香草奶油馅,"
+    },
+    {
+      "text": "蛋白分三次加入细砂糖，打发到湿性发泡的状态,"
+    },
+    {
+      "text": "蛋黄里加入剩下的细砂糖，搅打均匀后，依次加入色拉油和牛奶，搅匀,"
+    },
+    {
+      "text": "筛入低粉，拌匀,"
+    },
+    {
+      "text": "将蛋白糊分次拌入蛋黄糊中，翻拌均匀。入180度预热的烤箱，中层烤15分钟,"
+    },
+    {
+      "text": "将制作好的香草奶油馅倒入装有小号圆形裱花嘴的裱花袋中，将裱花嘴插入蛋糕内部，挤入香草奶油馅，至表面微微鼓起即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10085/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 231.7,
+    "proteinG": 8.8,
+    "carbsG": 35.7,
+    "fatG": 6.4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 75,
+  "difficulty": "中等"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "xf-9623",
+  "title": "咸鱼烧茄子",
+  "ingredients": [
+    {
+      "name": "紫茄子",
+      "mergeKey": "eggplant",
+      "amount": 300,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "咸鱼肉",
+      "mergeKey": "salted-fish",
+      "amount": 70,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "茄子洗净切长条,"
+    },
+    {
+      "text": "咸鱼切碎粒,"
+    },
+    {
+      "text": "锅内烧热油，下茄子炸软捞出，沥去油份,"
+    },
+    {
+      "text": "锅内少许底油烧热，放蒜末炒香，下咸鱼粒煸炒至微黄,"
+    },
+    {
+      "text": "倒入炸好的茄子翻炒均匀,"
+    },
+    {
+      "text": "加入生抽和少许水焖3分钟，出锅勾芡即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9623/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 103.8,
+    "proteinG": 11.9,
+    "carbsG": 11.9,
+    "fatG": 1.8
+  },
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

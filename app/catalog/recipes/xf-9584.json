@@ -1,0 +1,64 @@
+{
+  "id": "xf-9584",
+  "title": "胡萝卜金针奶酪卷",
+  "ingredients": [
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "金针菇",
+      "mergeKey": "enoki",
+      "category": "菌菇"
+    },
+    {
+      "name": "奶酪片",
+      "mergeKey": "cheese",
+      "category": "乳制品"
+    },
+    {
+      "name": "韭菜",
+      "mergeKey": "chives",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "category": "肉类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将胡萝卜切丝，韭菜切段，金针菇切段,"
+    },
+    {
+      "text": "将鸡蛋打撒，在锅上摊成薄蛋饼,"
+    },
+    {
+      "text": "蛋饼上铺上奶酪片，培根片、胡萝卜丝、韭菜、金针菇卷成卷,"
+    },
+    {
+      "text": "用香葱或烫过的整根韭菜将蛋皮卷困扎好，放入微波炉中用光波烤2分钟，待奶酪糊化即可取出装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9584/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

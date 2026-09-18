@@ -1,0 +1,49 @@
+{
+  "id": "xf-11491",
+  "title": "黑麦鸡蛋沙拉酱土司",
+  "ingredients": [
+    {
+      "name": "黑麦面包",
+      "mergeKey": "rye-bread",
+      "amount": 2,
+      "unit": "片",
+      "category": "米面主食"
+    },
+    {
+      "name": "白煮蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "去皮蕃茄",
+      "mergeKey": "tomato",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "千岛沙拉酱",
+      "mergeKey": "thousand-island-dressing",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "吐司放入平底锅小火煎至两面金黄，蕃茄滚水里汤一下去皮切成丁，鸡蛋煮熟剥壳切成丁,"
+    },
+    {
+      "text": "鸡蛋和蕃茄丁拌在一起，倒入沙拉酱拌匀，铺在煎好的吐司上即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11491/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

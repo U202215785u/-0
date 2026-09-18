@@ -1,0 +1,86 @@
+{
+  "id": "xf-10208",
+  "title": "肉丁炒芽菜豌豆",
+  "sourceUrl": "https://www.xiachufang.com/recipe/10208/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "ingredients": [
+    {
+      "name": "宜宾芽菜",
+      "mergeKey": "yacai",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "红椒粒",
+      "mergeKey": "red-chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "瘦肉",
+      "mergeKey": "lean-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "豌豆",
+      "mergeKey": "peas",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱白末",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅中倒水加少许油，放入豌豆煮开三分钟,"
+    },
+    {
+      "text": "锅烧热后倒油，倒入用盐、料酒、鸡精、老抽、淀粉腌制好的瘦肉丁,"
+    },
+    {
+      "text": "瘦肉炒至变色，肉发紧时倒入煮好的豌豆翻炒两分钟,"
+    },
+    {
+      "text": "加入红椒粒、葱白末后放入宜宾芽菜翻炒均匀即可"
+    }
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

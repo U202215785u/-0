@@ -1,0 +1,86 @@
+{
+  "id": "xf-10474",
+  "title": "红莓香槟杯",
+  "ingredients": [
+    {
+      "name": "吉列丁片",
+      "mergeKey": "gelatin",
+      "amount": 18,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "郎姆预调酒",
+      "mergeKey": "rum",
+      "amount": 250,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "安佳无糖淡奶油",
+      "mergeKey": "cream",
+      "amount": 250,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "白砂糖",
+      "mergeKey": "sugar",
+      "amount": 18,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "浸泡用冰水",
+      "mergeKey": "water",
+      "quantityText": "若干",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备好所需材料及两只香槟杯,"
+    },
+    {
+      "text": "吉列丁片分成2份，用冰水浸泡至软，挤干水份备用,"
+    },
+    {
+      "text": "锅内放入野莓朗姆酒和6克糖，小火加热,"
+    },
+    {
+      "text": "至沸腾后，关火，趁热加入9克泡软的吉列丁片，搅拌至完全融化，晾凉至室温，即为红莓冻液,"
+    },
+    {
+      "text": "将香槟杯斜放，倒入红莓冻液液，冷藏至凝固,"
+    },
+    {
+      "text": "锅内放入淡奶油和12克白砂糖，小火加热,"
+    },
+    {
+      "text": "加入9克泡软的吉列丁片，搅拌至完全融化，关火，晾至室温，即为奶油冻液,"
+    },
+    {
+      "text": "取出红莓冻液已凝固的香槟杯，倒入奶油冻液,"
+    },
+    {
+      "text": "冷藏至完全凝固，用红莓花装饰即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10474/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 625.8,
+    "proteinG": 4,
+    "carbsG": 150.1,
+    "fatG": 2.7
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

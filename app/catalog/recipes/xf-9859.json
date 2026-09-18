@@ -1,0 +1,57 @@
+{
+  "id": "xf-9859",
+  "title": "啤酒翅中",
+  "ingredients": [
+    {
+      "name": "翅中",
+      "mergeKey": "chicken-wing",
+      "amount": 8,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "听啤酒",
+      "mergeKey": "beer",
+      "amount": 1,
+      "category": "其他"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "翅中对半切成小块，方便入味,"
+    },
+    {
+      "text": "切好的翅中焯水后备用,"
+    },
+    {
+      "text": "油热后，放入翅中翻炒，皮变色后，倒入一听啤酒，生抽，老抽，加适量水没过翅中，转中火煮到汤汁收干即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9859/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

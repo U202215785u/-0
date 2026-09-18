@@ -1,0 +1,79 @@
+{
+  "id": "xf-8195",
+  "title": "炒红果",
+  "ingredients": [
+    {
+      "name": "新鲜山楂",
+      "mergeKey": "hawthorn",
+      "amount": 500,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白砂糖",
+      "mergeKey": "sugar",
+      "amount": 150,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 0.5,
+      "unit": "碗",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "新鲜山楂洗净后，沥干水份，用剪刀剪开，挑去山楂核，去梗去蒂"
+    },
+    {
+      "text": "干净的锅中，放小半碗清水，倒入姜末和一小勺盐"
+    },
+    {
+      "text": "处理好的山楂一起放入，开大火煮"
+    },
+    {
+      "text": "锅里水滚后，转中火盖上盖子，煮三四分钟至水渐少"
+    },
+    {
+      "text": "开盖，倒入白砂糖"
+    },
+    {
+      "text": "中火不断翻炒几分钟，至锅中水份基本收干即可。完全凉透后，可装瓶再淋点蜂蜜，放入冰箱冷藏后吃，更具风味"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/8195/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 492.3,
+    "proteinG": 7.6,
+    "carbsG": 105.3,
+    "fatG": 5.1
+  },
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

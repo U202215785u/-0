@@ -1,0 +1,89 @@
+{
+  "id": "xf-10335",
+  "title": "奶油天鹅泡芙",
+  "ingredients": [
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 45,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "高粉",
+      "mergeKey": "flour",
+      "amount": 55,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "打发安佳奶油",
+      "mergeKey": "cream",
+      "quantityText": "适量",
+      "category": "乳制品"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 1.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "约100克蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油切小块和水、糖、盐一起放锅中小火煮沸，马上筛入高粉搅匀后关火,"
+    },
+    {
+      "text": "面糊稍凉（60度左右）分三次加入蛋液，用手动打蛋器搅匀成光滑厚糊状,"
+    },
+    {
+      "text": "烤盘垫上防粘布，将糊装入平口挤花袋，挤出直径4－5公分圆糊，做天鹅的可挤成椭圆形，间隔稍大些，烤时会膨胀,"
+    },
+    {
+      "text": "烤箱200度预热， 先烤10分钟，再降温10度烤15分钟左右。另取烤盘挤几个2字形的做鹅的头颈，烤的时间相对缩短些,"
+    },
+    {
+      "text": "烤好后切开顶部挤入打发的奶油即可， 做天鹅的， 先在1/3处横切开，挤入奶油，上面的一片再竖着对半切开，分别盖在上面两侧当做翅膀"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10335/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 45.8,
+    "proteinG": 1.5,
+    "carbsG": 7.5,
+    "fatG": 1
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

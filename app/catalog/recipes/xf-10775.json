@@ -1,0 +1,70 @@
+{
+  "id": "xf-10775",
+  "title": "清炒芦笋虾仁",
+  "ingredients": [
+    {
+      "name": "新鲜虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "芦笋",
+      "mergeKey": "asparagus",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "虾洗净放冰箱速冻半个小时，取出剥壳去虾肠（留下尾巴 最后一段的虾壳,"
+    },
+    {
+      "text": "用少许盐，料酒和淀粉腌制剥好的虾仁，放冰箱冷藏十分钟取出待用,"
+    },
+    {
+      "text": "芦笋浸泡洗净后，削去老皮，斜切成段。姜切丝，葱切段,"
+    },
+    {
+      "text": "炒锅烧热，放油，煸炒姜丝和葱段至出香味后，把姜丝葱段捞出扔掉,"
+    },
+    {
+      "text": "把虾仁放入油锅滑炒至变色，入芦笋一起煸炒片刻，加少许盐调味出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10775/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

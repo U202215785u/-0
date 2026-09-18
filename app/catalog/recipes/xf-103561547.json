@@ -1,0 +1,332 @@
+{
+  "id": "xf-103561547",
+  "title": "肉夹馍",
+  "ingredients": [
+    {
+      "name": "炖肉",
+      "mergeKey": "braised-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "~600克五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 5,
+      "category": "肉类"
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2根大葱",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "category": "蔬菜"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 2,
+      "unit": "片",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 1,
+      "unit": "块",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 2,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小把花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 1,
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "草果",
+      "mergeKey": "tsaoko",
+      "amount": 1,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "几片甘草",
+      "mergeKey": "licorice",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "陈醋",
+      "mergeKey": "vinegar",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "~6根干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 5,
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "~4根香菜根",
+      "mergeKey": "cilantro",
+      "amount": 3,
+      "category": "蔬菜"
+    },
+    {
+      "name": "小结小香葱",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "category": "蔬菜"
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白吉馍",
+      "mergeKey": "baijimo",
+      "category": "米面主食"
+    },
+    {
+      "name": "中筋面粉",
+      "mergeKey": "flour",
+      "amount": 400,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 1,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 190,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 7,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 12,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "提前装备好香叶2片，桂皮1块，八角2个，花椒一小把，草果1个，甘草几片。"
+    },
+    {
+      "text": "五花肉洗净切成大块，再浸泡一会去血水。锅内倒冷水，放入五花肉，加些料酒，几片生姜和料酒。"
+    },
+    {
+      "text": "中大火煮沸，再煮5分钟。"
+    },
+    {
+      "text": "捞出后沥干备用。"
+    },
+    {
+      "text": "锅内倒少许油和冰糖"
+    },
+    {
+      "text": "中火熬糖，冰糖很快就会融化变色，转小火。"
+    },
+    {
+      "text": "迅速倒入五花肉翻炒上色（即炒糖色）"
+    },
+    {
+      "text": "放入葱段，生姜片，翻炒一下。"
+    },
+    {
+      "text": "倒入香料翻炒出香气。"
+    },
+    {
+      "text": "倒入1汤匙老抽，2汤匙生抽，1茶匙陈醋，少许冰糖，白胡椒粉，几个干辣椒和几根香菜根，翻炒一下。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加水没过五花肉，放入干辣椒，香葱结合香菜根。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加盖中大火煮开。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "很快就烧开拉，转小火慢炖，大概1小时吧。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "最后根据个人口味加盐。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "真心超级香的！！！"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "白吉馍的制作"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "出了油以外所有材料混合成絮絮状。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入油使劲儿揉（可以用面包机），揉到三光状态。这个面团是比较干硬的。放入发酵箱35度30分钟。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "取出揉一揉，醒15分钟；再揉一揉，表面就光滑拉；再醒15分钟。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "分成6等份，滚圆静置10分钟；将面团搓成2头细，中间粗的样子；擀成长舌状，对折后顺势卷起，一头压在底部。"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "手掌往下按一下面团，在擀成圆饼状。"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "小火将面饼2面炕成金黄色，放入烤箱150度10分钟左右。"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "取几块肉剁碎；喜欢香菜，青椒的，可以加入一起剁碎。"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "面饼对半剖开，将肉抹入面饼中。最后淋一勺肉汁儿，赞！"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "加香菜一起剁剁剁"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "我喜欢加香菜"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "舒服！"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/103561547/",
+  "author": "是_煩",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 359.9,
+    "proteinG": 11.2,
+    "carbsG": 59.3,
+    "fatG": 9.1
+  },
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

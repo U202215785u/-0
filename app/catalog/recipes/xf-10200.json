@@ -1,0 +1,95 @@
+{
+  "id": "xf-10200",
+  "title": "豆角焖面",
+  "ingredients": [
+    {
+      "name": "豆角",
+      "mergeKey": "green-beans",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面条",
+      "mergeKey": "noodles",
+      "category": "米面主食"
+    },
+    {
+      "name": "豆芽",
+      "mergeKey": "bean-sprouts",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜头",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小红椒",
+      "mergeKey": "chili",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 2,
+      "unit": "粒",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "豆角洗净掐成段，蒜头切末、葱切成片，小红椒切成小圈,"
+    },
+    {
+      "text": "锅中倒油，油热后，放入葱末、小红椒，炒出香味,"
+    },
+    {
+      "text": "倒入豆角翻炒两分钟，倒入清水（没过豆角），加入生抽、老抽、八角加盖焖煮两分钟，放入豆芽翻匀,"
+    },
+    {
+      "text": "将锅中的汤倒出碗中备用,"
+    },
+    {
+      "text": "开小火，在豆角上面加上一层面条，淋上适量油，顺着锅边加入少许汤，加盖焖五分钟,"
+    },
+    {
+      "text": "再加一次汤焖后，等汤收干，撒上蒜末、适量盐，用筷子抖匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10200/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

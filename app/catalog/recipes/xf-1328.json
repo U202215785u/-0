@@ -1,0 +1,132 @@
+{
+  "id": "xf-1328",
+  "title": "葱爆牛肉",
+  "ingredients": [
+    {
+      "name": "牛里脊",
+      "mergeKey": "beef",
+      "amount": 350,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 75,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 8,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 12,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 8,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "黄酒",
+      "mergeKey": "cooking-wine",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛肉切成条后，用清水浸泡2个小时后沥干，放入醋、淀粉、少许黄酒腌制30分钟"
+    },
+    {
+      "text": "大葱洗净后，从中间剖开，切成大块，胡萝卜洗净去皮切成片"
+    },
+    {
+      "text": "炒锅烧热后，放入油，下姜片、蒜粒、干辣椒煸香"
+    },
+    {
+      "text": "放入三分之一的大葱及胡萝卜炒到胡萝卜微软"
+    },
+    {
+      "text": "放入牛肉、倒入黄酒、酱油旺火翻炒"
+    },
+    {
+      "text": "最后放入剩余的大葱翻炒，加盐调味后即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/1328/",
+  "author": "色尘＠琴心茶韵",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 392.3,
+    "proteinG": 20.1,
+    "carbsG": 69.3,
+    "fatG": 6.6
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

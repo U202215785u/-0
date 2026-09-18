@@ -1,0 +1,104 @@
+{
+  "id": "xf-10204",
+  "title": "吉野家煎鸡饭",
+  "ingredients": [
+    {
+      "name": "大鸡腿",
+      "mergeKey": "chicken-thigh",
+      "category": "肉类"
+    },
+    {
+      "name": "西兰花",
+      "mergeKey": "broccoli",
+      "category": "蔬菜"
+    },
+    {
+      "name": "菜花",
+      "mergeKey": "cauliflower",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将胡萝卜洗净切片，边上修出小花,"
+    },
+    {
+      "text": "西蓝花和菜花掰成小朵，洋葱切丝,"
+    },
+    {
+      "text": "锅内做水，放少量黄油、盐，焯熟西蓝花、菜花、胡萝卜,"
+    },
+    {
+      "text": "把鸡腿肉用美极酱油、味噌、料酒、盐、白糖腌渍,"
+    },
+    {
+      "text": "将抹好调料的鸡腿腌制半个小时以上（可以多放些，这样可以把腥味去掉，而且上色。）,"
+    },
+    {
+      "text": "平锅里放油，油热后加入腌好的鸡腿肉，先将鸡皮面朝下煎（注意：小火或中火多煎一会儿，等鸡皮煎出漂亮的颜色后，将鸡腿翻面，继续煎，用中火将另一面也煎出酱色,"
+    },
+    {
+      "text": "加入一些水（不要没过鸡腿），加入一点酱油，加糖（这个一定要多放！味道才会出来），加些料酒（也可以加些白酒，不过有人不喜欢那种味道）,"
+    },
+    {
+      "text": "然后加入用中火熬个十分钟,"
+    },
+    {
+      "text": "将鸡腿拿出来，放在案板上，用刀将其切成一个个小条（就像吉野家那样）,"
+    },
+    {
+      "text": "最后在做好的鸡肉、西兰花、菜花、胡萝卜放在已经装好米饭的碗里（造型您自己决定～）最后最后，最关键的一步！！！将锅内剩下的汤汁别浪费，洋葱丝煸香加一点蚝油煸炒放入原汤略煮，调一点水淀粉勾芡。将其煮开后琳在鸡肉饭上！！！这样就100%和吉野家一模一样啦～～～"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10204/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "煎",
+    "炒"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

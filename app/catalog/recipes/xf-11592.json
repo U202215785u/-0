@@ -1,0 +1,50 @@
+{
+  "id": "xf-11592",
+  "title": "五彩饼干棒",
+  "ingredients": [
+    {
+      "name": "熟花生米",
+      "mergeKey": "peanut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "饼干棒",
+      "mergeKey": "cookie-stick",
+      "category": "米面主食"
+    },
+    {
+      "name": "巧克力",
+      "mergeKey": "chocolate",
+      "category": "其他"
+    },
+    {
+      "name": "彩针",
+      "mergeKey": "sprinkles",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "花生米用刀按压成碎。锅中放水烧至有小泡泡，用手腕试下温度，不烫为宜，关火。巧克力放入小碗中，碗放在锅里水中，用勺子慢慢搅动直至完全融化（我用的是烘培巧克力，比较容易成型，光泽度也好。当然也可以用超市售卖的纯巧克力）,"
+    },
+    {
+      "text": "用勺子或者刷子把融化的巧克力涂在饼干棒上，注意尾端留大概两公分左右，便于手拿,"
+    },
+    {
+      "text": "花生碎平铺在油纸上，涂好巧克力的饼干棒，放在花生碎上滚一下，让花生碎沾在饼干棒上，然后放在干净的油纸上待巧克力凝固,"
+    },
+    {
+      "text": "彩针或者其它的装饰也按这个方法沾在涂好巧克力的饼干棒上。 全部装饰好排在油纸上，待巧克力完全凝固即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11592/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

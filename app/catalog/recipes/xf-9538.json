@@ -1,0 +1,82 @@
+{
+  "id": "xf-9538",
+  "title": "东北大丰收炖",
+  "ingredients": [
+    {
+      "name": "豆角",
+      "mergeKey": "green-bean",
+      "category": "蔬菜"
+    },
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "category": "肉类"
+    },
+    {
+      "name": "南瓜",
+      "mergeKey": "pumpkin",
+      "category": "蔬菜"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "东北大酱",
+      "mergeKey": "soybean-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "排骨洗净，滚水汆烫捞出备用"
+    },
+    {
+      "text": "锅内放少量油，加葱段、姜片、蒜片、八角炒出香味，下排骨煸炒出油，加稀释好的大酱、生抽、老抽继续翻炒，加足量清水，大火烧开后转中火煮炖30分钟"
+    },
+    {
+      "text": "豆角掐头去尾洗净掰小段，另起锅放油翻炒，将炒熟的豆角放入排骨锅中"
+    },
+    {
+      "text": "再将、玉米段、南瓜块、土豆块下入锅中，煮炖15分钟，待所有食材熟软后，加鸡粉调味即成"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9538/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,163 @@
+{
+  "id": "xf-100447441",
+  "title": "麻辣香锅",
+  "ingredients": [
+    {
+      "name": "鲜虾",
+      "mergeKey": "shrimp",
+      "amount": 500,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "一节藕",
+      "mergeKey": "lotus-root",
+      "category": "蔬菜"
+    },
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "quantityText": "适量",
+      "category": "菌菇"
+    },
+    {
+      "name": "金针菇",
+      "mergeKey": "enoki",
+      "quantityText": "适量",
+      "category": "菌菇"
+    },
+    {
+      "name": "鹌鹑蛋",
+      "mergeKey": "quail-egg",
+      "amount": 10,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "aromatics",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆腐干",
+      "mergeKey": "dried-tofu",
+      "amount": 0.5,
+      "unit": "根",
+      "category": "豆制品"
+    },
+    {
+      "name": "青红椒",
+      "mergeKey": "pepper",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备材料"
+    },
+    {
+      "text": "鲜虾洗净去除虾线"
+    },
+    {
+      "text": "鹌鹑蛋清洗后煮熟后浸泡凉水"
+    },
+    {
+      "text": "鹌鹑蛋去皮，圆溜溜真可爱！"
+    },
+    {
+      "text": "烧开一锅水，水中放一小勺盐，金针菇去根和木耳焯水后投凉捞出控水"
+    },
+    {
+      "text": "藕和豆腐干煮熟"
+    },
+    {
+      "text": "准备好葱姜蒜"
+    },
+    {
+      "text": "锅中放两勺油，油烧热后，将葱姜蒜下锅煸香"
+    },
+    {
+      "text": "加入鲜虾翻炒六成熟"
+    },
+    {
+      "text": "取出麻辣香锅的调料"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "调料加入锅内"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "调料的用量看自己的口味调剂"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入去壳的鹌鹑蛋蛋"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入焯水控干水分的食材"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入青红椒翻炒均匀"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "翻炒至出香味"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "根据咸淡加适量食盐"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "略微加点糖会更加提味"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "出锅喽！"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "来碗米饭，就是一顿美餐！"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "堂妈和大头哥吃光一盆麻辣香锅还意犹未尽"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100447441/",
+  "author": "堂妈小厨",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

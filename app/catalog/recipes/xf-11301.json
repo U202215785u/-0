@@ -1,0 +1,93 @@
+{
+  "id": "xf-11301",
+  "title": "泰式南瓜蒸糕",
+  "ingredients": [
+    {
+      "name": "泰国米粉",
+      "mergeKey": "rice-flour",
+      "amount": 250,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "南瓜",
+      "mergeKey": "pumpkin",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "椰浆",
+      "mergeKey": "coconut-milk",
+      "amount": 500,
+      "unit": "毫升",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙竹芋粉",
+      "mergeKey": "arrowroot",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "木薯粉",
+      "mergeKey": "tapioca-starch",
+      "amount": 150,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/8茶匙盐",
+      "mergeKey": "salt",
+      "amount": 0.63,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 100,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将南瓜切成丝,"
+    },
+    {
+      "text": "将其它食材全部混合,"
+    },
+    {
+      "text": "将拌混好的原料一起倒入模具中,"
+    },
+    {
+      "text": "放入蒸笼，用大火蒸20～25分钟,"
+    },
+    {
+      "text": "蒸糕凝固、冷却后，切成切4×4大小的方块"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11301/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 716,
+    "proteinG": 16.9,
+    "carbsG": 139,
+    "fatG": 9.4
+  },
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

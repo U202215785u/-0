@@ -1,0 +1,81 @@
+{
+  "id": "xf-11661",
+  "title": "鲜蘑雪菜炒肉丝",
+  "ingredients": [
+    {
+      "name": "蘑菇",
+      "mergeKey": "mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "袋装雪菜",
+      "mergeKey": "xuecai",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "猪里脊肉",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "青红椒",
+      "mergeKey": "pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "蘑菇用淡盐水泡一会儿，用牙刷轻轻刷干净表面，切成片。青红椒切成小圈,"
+    },
+    {
+      "text": "里脊肉切丝后，用一小勺蚝油和一点料酒拌匀，再倒一小勺食用油拌匀腌制备用,"
+    },
+    {
+      "text": "锅中放油，油五成热的时候放入腌制好的肉丝煸炒至变色捞出,"
+    },
+    {
+      "text": "用锅中余油煸炒蘑菇至软,"
+    },
+    {
+      "text": "放半包雪菜一起煸炒,"
+    },
+    {
+      "text": "倒入煸炒好的肉丝和青红椒圈，翻炒几下就可以出锅。（最后一步尝下味道，雪菜比较咸，我家吃的比较淡，我就没再加盐，鲜味感觉也够了，所以也没加鸡精）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11661/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

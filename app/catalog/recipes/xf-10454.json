@@ -1,0 +1,162 @@
+{
+  "id": "xf-10454",
+  "title": "什锦菌菇笋叮包",
+  "ingredients": [
+    {
+      "name": "猪肉末",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "鲜香菇",
+      "mergeKey": "shiitake",
+      "amount": 50,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "蘑菇",
+      "mergeKey": "mushroom",
+      "amount": 50,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "黑木耳",
+      "mergeKey": "wood-ear",
+      "amount": 50,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 500,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "amount": 50,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "unit": "把",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "酸奶",
+      "mergeKey": "yogurt",
+      "amount": 80,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "干酵母",
+      "mergeKey": "yeast",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "包打粉",
+      "mergeKey": "baking-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 250,
+      "unit": "毫升",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "面粉、泡打粉、白糖、干酵母、酸奶、牛奶全部混合和成柔软的面团，反复揉搓直至“三光”为止、等待面团醒发,"
+    },
+    {
+      "text": "鲜香菇、蘑菇、杏饱菇、大白菜、胡萝卜、香葱切碎加调味料与肉糜搅拌均匀制成馅料,"
+    },
+    {
+      "text": "面团醒发后，分成12个均匀小团，擀成中间厚，外围薄的面饼，放上馅，拇指支住面皮，食指开始均匀的打褶收皮儿，收好按一下,"
+    },
+    {
+      "text": "笼屉上放大小合适的油纸，上面抹上少许油，包子放在笼屉上，再醒发一下,"
+    },
+    {
+      "text": "半锅水烧开，放上笼屉，大火猛蒸12分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10454/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 569.3,
+    "proteinG": 22.8,
+    "carbsG": 99,
+    "fatG": 9.6
+  },
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

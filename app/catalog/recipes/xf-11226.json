@@ -1,0 +1,107 @@
+{
+  "id": "xf-11226",
+  "title": "彩椒鸡肉片",
+  "ingredients": [
+    {
+      "name": "鸡胸肉",
+      "mergeKey": "chicken-breast",
+      "category": "肉类"
+    },
+    {
+      "name": "彩椒",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-pepper-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "红、黄柿子椒各一个（其实每个只用了一半），姜一小块，鸡胸肉一块,"
+    },
+    {
+      "text": "鸡胸肉斜切薄片（如果是冷冻的， 半解冻状态容易切,"
+    },
+    {
+      "text": "用盐、花椒粉、米酒、香油，一点点生抽，一小勺生粉，半个鸡蛋清拌匀，腌渍十分钟,"
+    },
+    {
+      "text": "姜切片，柿子椒去籽切块,"
+    },
+    {
+      "text": "锅下油，五分热，倒入鸡片滑散，炒至变色盛出,"
+    },
+    {
+      "text": "重起锅热少量油，入姜片和椒块，调入盐，大火翻炒至断生,"
+    },
+    {
+      "text": "把鸡片回锅，翻炒均匀，适量鸡精调味，关火"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11226/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炸",
+    "烤"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

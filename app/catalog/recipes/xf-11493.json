@@ -1,0 +1,73 @@
+{
+  "id": "xf-11493",
+  "title": "葱油多宝鱼",
+  "ingredients": [
+    {
+      "name": "1斤左右多宝鱼",
+      "mergeKey": "turbot",
+      "amount": 1,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "太太乐鲜贝露",
+      "mergeKey": "scallop-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将杀好的多宝鱼清洗干净，放入大的鱼盘中，两面撒上盐，腌制10分钟,"
+    },
+    {
+      "text": "鱼身上铺姜丝去姜，洒少许料酒，倒少许太太乐鲜贝露或蒸鱼豉油，鸡精，入开水锅中大火蒸5分钟,"
+    },
+    {
+      "text": "将蒸好的鱼取出，拣去姜丝，撒上葱花再倒入少许鲜贝露，淋上烧的冒烟的热油，再洒少许白胡椒粉即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11493/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

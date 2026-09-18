@@ -1,0 +1,84 @@
+{
+  "id": "xf-11151",
+  "title": "酸辣土豆丝",
+  "ingredients": [
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青紅椒",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "土豆洗淨去皮切成絲。土豆絲用流動的水沖洗,"
+    },
+    {
+      "text": "把土豆絲浸泡再淡鹽水中至少20分鐘，然後撈出瀝乾水份備用,"
+    },
+    {
+      "text": "青紅椒切成絲,"
+    },
+    {
+      "text": "鍋燒熱，放油，把花椒用小火煸香后，撈出扔掉（你不想吃的時候咬到花椒吧）,"
+    },
+    {
+      "text": "把剪成小段的干辣椒放入煸出香味,"
+    },
+    {
+      "text": "倒入土豆絲，加一勺白醋快速翻炒片刻,"
+    },
+    {
+      "text": "放入青紅椒絲快速煸炒片刻后，調入少量鹽和雞精即可出鍋"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11151/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

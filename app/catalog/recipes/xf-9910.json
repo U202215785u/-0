@@ -1,0 +1,73 @@
+{
+  "id": "xf-9910",
+  "title": "清炖牛尾",
+  "ingredients": [
+    {
+      "name": "新鲜牛尾",
+      "mergeKey": "oxtail",
+      "category": "肉类"
+    },
+    {
+      "name": "西洋参",
+      "mergeKey": "ginseng",
+      "amount": 1,
+      "unit": "片",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛尾飞水去除血污,"
+    },
+    {
+      "text": "慢炖锅中加足热水，加入牛尾，少许料酒，姜片，西洋参片，高档炖3-4小时,"
+    },
+    {
+      "text": "撇去浮油，食用时加入盐，香菜或葱花即可 （也可加少许白胡椒粉提香）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9910/",
+  "author": "留美坐家",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

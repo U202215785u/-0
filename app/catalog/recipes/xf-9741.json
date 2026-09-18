@@ -1,0 +1,63 @@
+{
+  "id": "xf-9741",
+  "title": "孜然薯条",
+  "ingredients": [
+    {
+      "name": "大土豆",
+      "mergeKey": "potato",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "孜然粉",
+      "mergeKey": "cumin",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "土豆削皮切成条状。用水反复冲洗，这样做是为了洗掉土豆表面的淀粉，等下炸的时候土豆条就不会粘在一起了,"
+    },
+    {
+      "text": "洗净沥干的土豆条，撒少许盐，拌匀，腌制十分钟左右,"
+    },
+    {
+      "text": "腌好的土豆条，用厨房纸吸干水分,"
+    },
+    {
+      "text": "锅里烧热油（油量稍微多点），大火，放土豆条下去炸两分钟左右,"
+    },
+    {
+      "text": "捞出,"
+    },
+    {
+      "text": "待锅里油温再上来的时候，把土豆条放下去复炸一遍，至土豆条成金黄色,"
+    },
+    {
+      "text": "捞出用厨房纸吸掉多余油份，装盘撒少许孜然，即可食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9741/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 67.5,
+    "proteinG": 1.5,
+    "carbsG": 15,
+    "fatG": 0.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

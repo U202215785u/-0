@@ -1,0 +1,101 @@
+{
+  "id": "xf-11300",
+  "title": "椰香紫薯蒸糕",
+  "ingredients": [
+    {
+      "name": "紫薯",
+      "mergeKey": "sweet-potato",
+      "amount": 80,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "泰国米粉",
+      "mergeKey": "rice-flour",
+      "amount": 150,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "椰浆",
+      "mergeKey": "coconut-milk",
+      "amount": 200,
+      "unit": "毫升",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "木薯淀粉",
+      "mergeKey": "tapioca-starch",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "粗椰丝",
+      "mergeKey": "coconut",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 40,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将紫薯切小叮,"
+    },
+    {
+      "text": "将泰国米饭、木薯粉、盐、糖和椰浆一起搅拌均匀，成米浆状,"
+    },
+    {
+      "text": "将拌混好的原料一起倒入模具中,"
+    },
+    {
+      "text": "放入蒸笼用大火蒸15分钟,"
+    },
+    {
+      "text": "待碗中的蒸糕凝固后，放上椰丝，改中火继续蒸3分钟；取出放凉，冷藏后食用即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11300/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 366.9,
+    "proteinG": 9.2,
+    "carbsG": 69.8,
+    "fatG": 5
+  },
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

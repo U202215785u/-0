@@ -1,0 +1,92 @@
+{
+  "id": "xf-9612",
+  "title": "平菇肉末汤",
+  "ingredients": [
+    {
+      "name": "平菇",
+      "mergeKey": "oyster-mushroom",
+      "amount": 200,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "猪绞肉",
+      "mergeKey": "pork-mince",
+      "amount": 50,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱末",
+      "mergeKey": "scallion",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "平菇撕开成小条，洗净备用,"
+    },
+    {
+      "text": "猪绞肉先用生抽腌10分钟。锅内烧半锅清水，水烧开后加少许开水入绞肉碗内。把绞肉烫至半熟,"
+    },
+    {
+      "text": "锅内放入姜末及平菇,"
+    },
+    {
+      "text": "再将烫至半熟的肉末倒入，划散,"
+    },
+    {
+      "text": "最后放入盐，鸡精调味。加入香葱末即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9612/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 106,
+    "proteinG": 4,
+    "carbsG": 15.9,
+    "fatG": 2.7
+  },
+  "tags": [
+    "汤羹",
+    "煮",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

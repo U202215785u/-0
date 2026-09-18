@@ -1,0 +1,132 @@
+{
+  "id": "xf-11211",
+  "title": "紫苏菌菇炒鸡肉",
+  "ingredients": [
+    {
+      "name": "鸡胸肉",
+      "mergeKey": "chicken",
+      "amount": 200,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "amount": 100,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "蘑菇",
+      "mergeKey": "mushroom",
+      "amount": 100,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "紫苏",
+      "mergeKey": "shiso",
+      "amount": 80,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 80,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡胸肉切片，用蛋清、少许盐、色拉油、糖、酱油、料酒腌制30分钟,"
+    },
+    {
+      "text": "取紫苏嫩头部分，将蘑菇、香菇、洋葱改刀,"
+    },
+    {
+      "text": "锅中放入油，将腌制好的鸡胸肉用中火慢炒，约5成熟后取出,"
+    },
+    {
+      "text": "另起锅放少许油、将洋葱、大蒜爆香，放入菌菇、糖、盐拌炒；再放入紫苏、芹菜和鸡胸肉直至入味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11211/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 285.2,
+    "proteinG": 32,
+    "carbsG": 23.2,
+    "fatG": 7.3
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

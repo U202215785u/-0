@@ -1,0 +1,121 @@
+{
+  "id": "xf-9751",
+  "title": "辣子鸡块",
+  "ingredients": [
+    {
+      "name": "大鸡腿",
+      "mergeKey": "chicken-leg",
+      "amount": 1,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡腿切小块，用生粉，盐抓匀,"
+    },
+    {
+      "text": "干辣椒用剪刀剪成小段，青椒切成小段,"
+    },
+    {
+      "text": "蒜剁成蒜末，然后用清水冲一下,"
+    },
+    {
+      "text": "锅中倒入适量的油（能没过鸡块），油温6成热的时候，放入鸡块，中火扎制表面泛黄，捞出沥干油,"
+    },
+    {
+      "text": "锅底留少许油，放入蒜末炒出香味,"
+    },
+    {
+      "text": "放入青椒，花椒，干辣椒翻炒均匀,"
+    },
+    {
+      "text": "倒入炸好的鸡块，加2勺料酒，2勺生抽，少许胡椒粉，少许糖，翻炒均匀，出锅前再淋上一勺香油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9751/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 132.8,
+    "proteinG": 18,
+    "carbsG": 0,
+    "fatG": 6
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

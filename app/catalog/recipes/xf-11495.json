@@ -1,0 +1,56 @@
+{
+  "id": "xf-11495",
+  "title": "南瓜玉米汁",
+  "ingredients": [
+    {
+      "name": "新鲜甜玉米",
+      "mergeKey": "corn",
+      "amount": 2,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "南瓜",
+      "mergeKey": "pumpkin",
+      "amount": 1,
+      "unit": "块",
+      "category": "蔬菜"
+    },
+    {
+      "name": "纯牛奶",
+      "mergeKey": "milk",
+      "amount": 1,
+      "unit": "包",
+      "category": "乳制品"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有食材清洗干净，将玉米用刀削下，南瓜切成丁，放入有玉米汁功能的豆浆机中，加入800毫升左右的水,"
+    },
+    {
+      "text": "启动玉米汁功能，待榨汁完成，用过滤网过滤干净，倒入牛奶及适量白砂糖调出淡淡的甜味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11495/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 135,
+    "proteinG": 3,
+    "carbsG": 30,
+    "fatG": 0.5
+  },
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

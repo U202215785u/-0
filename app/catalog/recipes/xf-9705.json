@@ -1,0 +1,89 @@
+{
+  "id": "xf-9705",
+  "title": "椿苗拌三丝",
+  "ingredients": [
+    {
+      "name": "香椿苗",
+      "mergeKey": "toon-sprout",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆腐丝",
+      "mergeKey": "tofu",
+      "amount": 200,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "白菜心",
+      "mergeKey": "napa-cabbage",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 75,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 1,
+      "unit": "勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一勺蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "-2勺醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "半根胡萝卜洗净削皮切细丝,"
+    },
+    {
+      "text": "水开后下入胡萝卜丝焯熟捞出过凉水后控干备用,"
+    },
+    {
+      "text": "白菜心洗净切细丝备用,"
+    },
+    {
+      "text": "豆腐丝用开水稍烫一下捞出控干晾凉切成和菜丝一样长的段备用,"
+    },
+    {
+      "text": "香椿苗洗净后控干水,"
+    },
+    {
+      "text": "将香椿苗和三丝混合，加入蚝油，糖，醋调味，制作完成"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9705/",
+  "author": "卤煮鲍鱼",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 166.3,
+    "proteinG": 16.5,
+    "carbsG": 11.3,
+    "fatG": 7.3
+  },
+  "tags": [
+    "凉拌",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

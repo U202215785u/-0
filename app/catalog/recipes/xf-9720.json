@@ -1,0 +1,55 @@
+{
+  "id": "xf-9720",
+  "title": "杏子酱",
+  "ingredients": [
+    {
+      "name": "新鲜杏子",
+      "mergeKey": "apricot",
+      "amount": 700,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 100,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麦芽糖",
+      "mergeKey": "maltose",
+      "amount": 150,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把杏子洗干净，用小刀削去皮，然后把果肉削下来。我用了杏子700克，削下来杏子果肉的净重为500克左右,"
+    },
+    {
+      "text": "取一个耐酸的锅子，把杏子果肉放进去，同时放100克白糖,"
+    },
+    {
+      "text": "开小火慢慢煮，边煮边用木铲把杏子果肉捣碎,"
+    },
+    {
+      "text": "等锅中的白糖完全融化，放麦芽糖150克进去,"
+    },
+    {
+      "text": "保持小火，边煮边用木铲不停搅拌，大约煮二三十分钟，看到果酱慢慢边稠，比自己想要的稠度稍稀点的状态，即可离火。稍凉一会儿，热装入干燥耐热的容器，盖上盖子，室温下放置到完全凉透，再放冰箱冷藏"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9720/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "xf-10271",
+  "title": "玉带蟹子豆腐",
+  "ingredients": [
+    {
+      "name": "蟹子",
+      "mergeKey": "crab-roe",
+      "category": "水产"
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "瑶柱",
+      "mergeKey": "dried-scallop",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "高汤",
+      "mergeKey": "broth",
+      "category": "其他"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将干贝泡软将干贝上的老筋剥去，洗去泥沙、加入高汤、葱姜上蒸锅蒸20分钟。取出控干水分备用,"
+    },
+    {
+      "text": "锅中放少许油、煸炒蒸过的干贝出香味，烹入料酒，炒散一些即可,"
+    },
+    {
+      "text": "盒豆腐取出略微蒸一下，晾凉，切开，用模子刻出心形,"
+    },
+    {
+      "text": "将煸好煸散的干贝丝撒上，再放上蟹子，点少许万字酱油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10271/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

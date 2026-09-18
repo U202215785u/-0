@@ -1,0 +1,73 @@
+{
+  "id": "xf-11806",
+  "title": "黑椒鸡排",
+  "ingredients": [
+    {
+      "name": "鸡排",
+      "mergeKey": "chicken",
+      "category": "肉类"
+    },
+    {
+      "name": "黑胡椒碎",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒粉",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "选鸡腿部附近的肉，连着皮那种，用黑胡椒碎、胡椒粉、辣椒粉、糖、盐、料酒腌制搓揉一下就好。比例按自己喜欢的调整就成，没有特别严格的要求。做鸡排时最好用复底的煎锅，这样加热比较均匀，不容易把鸡皮弄糊弄掉，我用的是酷菲斯单柄锅，虽然开的最小火，但鸡排做的很熟，水分也锁在里面，营养最大程度的做到不流失,"
+    },
+    {
+      "text": "烧热锅子，把腌好的鸡排皮朝下铺进去，不要放油,"
+    },
+    {
+      "text": "小火10分钟，会把鸡皮里的脂肪都逼出来,"
+    },
+    {
+      "text": "翻一面，小火8分钟,"
+    },
+    {
+      "text": "把油全部倒掉，再翻一下，小火1分钟，把皮烙酥就可以"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11806/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

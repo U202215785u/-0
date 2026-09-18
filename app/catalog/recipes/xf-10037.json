@@ -1,0 +1,79 @@
+{
+  "id": "xf-10037",
+  "title": "香茅草烤鲫鱼",
+  "ingredients": [
+    {
+      "name": "鲫鱼",
+      "mergeKey": "carp",
+      "category": "水产"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱姜蒜粉",
+      "mergeKey": "scallion-ginger-garlic-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香茅草",
+      "mergeKey": "lemongrass",
+      "category": "蔬菜"
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鱼处理后洗干净，沥干水分。姜切丝，葱切段，大蒜切片,"
+    },
+    {
+      "text": "在鱼表面和肚子里都撒上盐和料酒，抹匀，然后撒上葱姜蒜粉，把葱段，姜丝和蒜片放在鱼身上，腌制半小时,"
+    },
+    {
+      "text": "取一根香茅草，把草叶一根根分开，用水洗湿。把鱼身上的葱姜蒜全部塞到鱼肚子里。用香茅草叶绑在鱼身上,"
+    },
+    {
+      "text": "烤箱预热200度，烤盘铺锡纸，把鱼放在上面，入烤箱200度烤10分钟后，取出两面刷色拉油，再入烤箱继续烤15～20分钟，鱼表面收干，稍带焦黄即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10037/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

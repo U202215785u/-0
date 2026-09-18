@@ -1,0 +1,79 @@
+{
+  "id": "xf-9864",
+  "title": "奶香小熊饼干",
+  "ingredients": [
+    {
+      "name": "中筋面粉",
+      "mergeKey": "flour",
+      "amount": 125,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 55,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "全蛋液",
+      "mergeKey": "egg",
+      "amount": 25,
+      "unit": "克",
+      "category": "蛋类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油切小块，提前放室温软化，用打蛋器打散后，加入糖粉搅打至膨松,"
+    },
+    {
+      "text": "分3次加入全蛋液，每次需搅打至完全溶合,"
+    },
+    {
+      "text": "搅打好的样子,"
+    },
+    {
+      "text": "筛入中筋面粉，用橡皮刮刀翻拌均匀,"
+    },
+    {
+      "text": "用手将（过程4）抓捏成面团，盖上保鲜膜松弛15分钟,"
+    },
+    {
+      "text": "案板上洒少许干粉，用擀面棍将面团擀成2毫米厚圆饼,"
+    },
+    {
+      "text": "用小熊饼干模按压出形状。（按压出形状后，剩下的面皮重新整合起来再擀成皮）,"
+    },
+    {
+      "text": "小心的将边源的面片取出后，再用刮板将小熊取出,"
+    },
+    {
+      "text": "移至烤盘中，烤箱175度预热，中层10-12分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9864/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 215,
+    "proteinG": 4,
+    "carbsG": 46.7,
+    "fatG": 1.7
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

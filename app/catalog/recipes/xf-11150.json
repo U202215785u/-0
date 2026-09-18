@@ -1,0 +1,86 @@
+{
+  "id": "xf-11150",
+  "title": "焗烤英式布丁",
+  "sourceUrl": "https://www.xiachufang.com/recipe/11150/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "ingredients": [
+    {
+      "name": "-5片吐司",
+      "mergeKey": "bread",
+      "amount": 3,
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 3,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鲜奶油",
+      "mergeKey": "cream",
+      "amount": 200,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "滴香草精",
+      "mergeKey": "vanilla-extract",
+      "amount": 3,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葡萄干",
+      "mergeKey": "raisin",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 10,
+      "unit": "克",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将吐司的边缘切掉，然后将吐司切成小块备用,"
+    },
+    {
+      "text": "把鸡蛋，细砂糖，鲜奶油，香草精在一个大碗中混合，并搅拌均匀成为蛋奶液备用,"
+    },
+    {
+      "text": "将软化的黄油均匀地刷在焗碗的内部，然后将吐司块放入蛋奶液中浸泡几秒钟后捞出放入焗碗内,"
+    },
+    {
+      "text": "烤盘内注入1-2厘米高的热水，然后将焗碗放入烤盘内，并在吐司表面撒上葡萄干。放入预热好的烤箱中，以170度焗烤约30分钟左右，表明呈金黄色即可"
+    }
+  ],
+  "tags": [
+    "烤"
+  ],
+  "nutrition": {
+    "kcal": 300,
+    "proteinG": 13.4,
+    "carbsG": 40.2,
+    "fatG": 9.9
+  },
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

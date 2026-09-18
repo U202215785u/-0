@@ -1,0 +1,126 @@
+{
+  "id": "xf-10236",
+  "title": "韭香豆干",
+  "ingredients": [
+    {
+      "name": "猪腿肉",
+      "mergeKey": "pork",
+      "amount": 180,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "五香豆干",
+      "mergeKey": "dried-tofu",
+      "amount": 3,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "韭苗",
+      "mergeKey": "chive-sprout",
+      "amount": 120,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 2,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "沙拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙食盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪肉，韭苗，豆干，红椒，姜分别切细丝，蒜头切片,"
+    },
+    {
+      "text": "将猪肉，姜丝，用料酒1大匙，生抽1大匙，沙拉油1茶匙腌制15分钟,"
+    },
+    {
+      "text": "锅内放少许油，冷油放入大蒜片爆至出香味,"
+    },
+    {
+      "text": "放入豆干丝，慢火煸炒至表面变金黄色,"
+    },
+    {
+      "text": "投入韭苗段，红椒丝，盐1/2茶匙，砂糖1/2茶匙,"
+    },
+    {
+      "text": "快速翻炒约1分钟，盛出备用,"
+    },
+    {
+      "text": "锅内再放入一匙油，放入腌好的肉丝，姜丝,"
+    },
+    {
+      "text": "慢火煸炒至表面变金黄色,"
+    },
+    {
+      "text": "最后把倒入韭苗，豆干混合，再炒约2分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10236/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 195.5,
+    "proteinG": 12.5,
+    "carbsG": 21.5,
+    "fatG": 6.7
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

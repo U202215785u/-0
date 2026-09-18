@@ -1,0 +1,58 @@
+{
+  "id": "xf-10399",
+  "title": "腊鸭腿焖春笋",
+  "ingredients": [
+    {
+      "name": "腊鸭腿",
+      "mergeKey": "duck",
+      "category": "肉类"
+    },
+    {
+      "name": "春笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "春笋剥掉外衣，切除老茎部分，切滚刀块,"
+    },
+    {
+      "text": "腊鸭腿用温水泡洗后切小块,"
+    },
+    {
+      "text": "春笋倒入开水锅中煮沸五分钟，捞起用清水再冲清，去除草酸味,"
+    },
+    {
+      "text": "锅中倒少许食用油烧热，倒入鸭腿块煸出油，鸭皮呈透明、微黄时放入辣椒段再煸半分钟,"
+    },
+    {
+      "text": "倒入春笋翻炒一分钟,"
+    },
+    {
+      "text": "将春笋鸭腿倒入沙锅中，加入齐面的开水，小火煲一小时即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10399/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "xf-10771",
+  "title": "金枪鱼酸奶沙拉",
+  "ingredients": [
+    {
+      "name": "青豆粒",
+      "mergeKey": "green-pea",
+      "category": "蔬菜"
+    },
+    {
+      "name": "金枪鱼罐头",
+      "mergeKey": "tuna",
+      "category": "水产"
+    },
+    {
+      "name": "一小罐果味酸奶",
+      "mergeKey": "yogurt",
+      "category": "乳制品"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米粒",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "番茄",
+      "mergeKey": "tomato",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "把土豆弄熟切成小丁,"
+    },
+    {
+      "text": "玉米青豆粒水里煮熟,"
+    },
+    {
+      "text": "番茄去皮切丁,"
+    },
+    {
+      "text": "以上材料混合晾凉，装盘，在上面撒上金枪鱼肉，最后再浇上果味酸奶。吃的时候拌开"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10771/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "xf-9996",
+  "title": "白菜冻豆腐",
+  "ingredients": [
+    {
+      "name": "冻豆腐",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "白菜",
+      "mergeKey": "napa-cabbage",
+      "amount": 600,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "(5克)盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "高汤",
+      "mergeKey": "stock",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备材料,"
+    },
+    {
+      "text": "将冻豆腐切成长条，白菜切成小段,"
+    },
+    {
+      "text": "锅中放油，油热后，倒入冻豆腐,"
+    },
+    {
+      "text": "接着下入白菜和高汤，少煮片刻，起锅时放盐"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9996/",
+  "author": "飞雪无霜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 131.5,
+    "proteinG": 8.7,
+    "carbsG": 22.4,
+    "fatG": 2.5
+  },
+  "tags": [
+    "炒",
+    "煮"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

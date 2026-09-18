@@ -1,0 +1,72 @@
+{
+  "id": "xf-11719",
+  "title": "早春美容汤",
+  "ingredients": [
+    {
+      "name": "圣女果干",
+      "mergeKey": "dried-cherry-tomato",
+      "amount": 150,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "玫瑰茄",
+      "mergeKey": "hibiscus",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花粉",
+      "mergeKey": "pollen",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 1500,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "玫瑰茄和圣女果干，冲洗干净备用。加入足量清水煮沸,"
+    },
+    {
+      "text": "转文火煲30分钟。加入花粉，搅拌均匀关火,"
+    },
+    {
+      "text": "温度降到80度时，加入蜂蜜即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11719/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 146.1,
+    "proteinG": 3.3,
+    "carbsG": 28.2,
+    "fatG": 2.2
+  },
+  "tags": [
+    "煮",
+    "炸"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

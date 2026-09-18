@@ -1,0 +1,112 @@
+{
+  "id": "xf-10136",
+  "title": "鲜椒茶油牛蛙",
+  "ingredients": [
+    {
+      "name": "牛蛙",
+      "mergeKey": "frog",
+      "category": "水产"
+    },
+    {
+      "name": "鲜花椒",
+      "mergeKey": "sichuan-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "海尔斯茶油",
+      "mergeKey": "tea-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "泡灯笼椒",
+      "mergeKey": "pickled-chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜蒜",
+      "mergeKey": "ginger-garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红辣椒油",
+      "mergeKey": "chili-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小米椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛蛙洗净斩件，加葱、姜、料酒、盐腌渍20分钟，用生粉上浆,"
+    },
+    {
+      "text": "锅中放茶油5成热，放入牛蛙 滑7成熟捞出,"
+    },
+    {
+      "text": "锅内加茶油，放葱、姜、蒜、泡灯笼椒、鲜花椒炒出香味，下牛蛙、料酒、高汤及调料用小火烧至牛蛙成熟，放鸡精调好口味，淋红油放小米椒翻炒放炸好的藕片装盆"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10136/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

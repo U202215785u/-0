@@ -1,0 +1,145 @@
+{
+  "id": "xf-10170",
+  "title": "褡裢火烧",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "猪肉馅",
+      "mergeKey": "minced-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "高汤",
+      "mergeKey": "broth",
+      "category": "其他"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒水",
+      "mergeKey": "peppercorn-water",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "用温水将面粉活成面团，盖上屉布饧半小时,"
+    },
+    {
+      "text": "将葱姜切末（葱多放一点）打一个鸡蛋，拌在猪肉馅里,"
+    },
+    {
+      "text": "放入酱油、盐、绍酒花椒水调味,"
+    },
+    {
+      "text": "加高汤、顺时针朝一个方向将肉馅打散即可（以前老妈做都加一点白菜捣碎汲去汤的白菜馅）,"
+    },
+    {
+      "text": "将饧好的面的揉成长条,"
+    },
+    {
+      "text": "揪成大小均匀的剂子,"
+    },
+    {
+      "text": "将剂子揉圆擀成长方形面皮,"
+    },
+    {
+      "text": "放入调好的猪肉馅抹平,"
+    },
+    {
+      "text": "像叠被子一样左边叠一下,"
+    },
+    {
+      "text": "右边叠一下,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "两头稍稍捏劳，防止馅露出来,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "依照以上办法多做一些,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "电饼铛上倒入少量的油,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将做好的褡里火烧坯子在电饼铛里码放整齐,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "一面煎成金黄色，出油,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "翻至另一面也煎至出油，变成金黄色出锅即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10170/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 110,
+  "difficulty": "中等"
+}

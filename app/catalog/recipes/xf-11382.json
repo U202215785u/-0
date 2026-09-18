@@ -1,0 +1,105 @@
+{
+  "id": "xf-11382",
+  "title": "抹茶豆沙冰皮月饼",
+  "ingredients": [
+    {
+      "name": "糯米粉",
+      "mergeKey": "glutinous-rice-flour",
+      "amount": 45,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "粘米粉",
+      "mergeKey": "rice-flour",
+      "amount": 35,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "澄面(小麦淀粉)",
+      "mergeKey": "wheat-starch",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 185,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "～5克抹茶粉",
+      "mergeKey": "matcha",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豆沙馅",
+      "mergeKey": "red-bean-paste",
+      "quantityText": "适量",
+      "category": "豆制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "在盆里倒入牛奶、糖粉、色拉油搅拌均匀,"
+    },
+    {
+      "text": "倒入糯米粉、粘米粉、澄面。充分搅拌均匀，成为稀面糊，搅拌好的稀面糊静置30分钟,"
+    },
+    {
+      "text": "静置好的面糊入蒸锅，大火蒸15分钟即可蒸熟。蒸熟的面糊，用筷子使劲的搅拌至顺滑。然后等待其冷却，就是冰皮了,"
+    },
+    {
+      "text": "包月饼：冷却后（如果心急，可以不等到完全冷却，不烫手即可。但完全冷却更好操作），把冰皮分成25一个，豆沙馅分成25一个。在手上拍点糕粉防粘，然后将冰皮放在手心压扁,"
+    },
+    {
+      "text": "放上一个豆沙馅,"
+    },
+    {
+      "text": "用冰皮把豆沙馅包起来，并慢慢往上推，直到把豆沙馅全部包裹住，收口,"
+    },
+    {
+      "text": "在模具里（这次我用的是可以做果冻的那种塑料模具）撒点糕粉，让糕粉均匀粘在模具壁上，然后把多余的糕粉倒出来。这样可以方便脱模。然后把包好的冰皮面团放进模具，用手掌压实。把月饼模往下推出来，冰皮月饼就做好了。做好的月饼放保鲜盒，进冰箱冷藏一晚，就可以吃了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11382/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 238.8,
+    "proteinG": 4.5,
+    "carbsG": 49.7,
+    "fatG": 2.4
+  },
+  "tags": [
+    "凉拌"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

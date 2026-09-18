@@ -1,0 +1,104 @@
+{
+  "id": "xf-107152672",
+  "title": "宋嫂鱼羹",
+  "ingredients": [
+    {
+      "name": "鳜鱼",
+      "mergeKey": "mandarin-fish",
+      "category": "水产"
+    },
+    {
+      "name": "笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "火腿",
+      "mergeKey": "ham",
+      "category": "肉类"
+    },
+    {
+      "name": "水发香菇",
+      "mergeKey": "dried-shiitake",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "本地酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "猪油",
+      "mergeKey": "lard",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鱼宰杀洗净，去骨，切丝，用盐，味精，黄酒码味上浆，笋切丝，香菇切丝，熟火腿切丝，姜切丝，葱部分切丝，部分切段，蛋清打匀"
+    },
+    {
+      "text": "锅上火，烧热滑油，入油，油温3成时，下鱼丝，倒出沥油"
+    },
+    {
+      "text": "锅中炒香葱段，入水，煮沸时去掉葱段，下笋，香菇，姜丝，黄酒，酱油，盐，味精，勾芡，下鱼丝，下米醋，下蛋液，火腿丝，推匀装汤碗，放上姜，葱，火腿丝，带胡椒粉即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107152672/",
+  "author": "比肩天涯",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

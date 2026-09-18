@@ -1,0 +1,152 @@
+{
+  "id": "xf-10439",
+  "title": "天鹅泡芙",
+  "ingredients": [
+    {
+      "name": "低粉",
+      "mergeKey": "flour",
+      "amount": 50,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 45,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 150,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绵白糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋液",
+      "mergeKey": "egg",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "蛋类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅内放入黄油、水、糖、盐，小火加热,"
+    },
+    {
+      "text": "煮制沸腾时关火,"
+    },
+    {
+      "text": "倒入过筛后的低筋面粉,"
+    },
+    {
+      "text": "搅拌成均匀的面团,"
+    },
+    {
+      "text": "继续开小火，不断搅拌至锅底出现一层薄膜（约2分钟）,"
+    },
+    {
+      "text": "关火，取出面团，放置不烫手,"
+    },
+    {
+      "text": "分4~5次加入蛋液，每次都要拌至完全吸收再加下一次,"
+    },
+    {
+      "text": "用勺子舀起面糊，面糊呈现倒三角形流动即可,"
+    },
+    {
+      "text": "将1/5的面糊装入裱花袋，前端装小号圆嘴,"
+    },
+    {
+      "text": "挤出天鹅的头颈，放入170度烤箱烤制6~8分钟,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "剩余面糊挤出大小均匀的水滴状,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "用叉子沾水画出纹路，放入190度的烤箱烤制25分钟,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "取出待凉，将一半的水滴泡芙纵剖开，做为翅膀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "淡奶油加入白砂糖,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "搅打至全发，装入裱花袋中，使用大花嘴,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "在水滴泡芙上挤上淡奶油,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "两旁贴上纵剖开的“翅膀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "插上“头颈”，即可食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10439/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 167,
+    "proteinG": 5.2,
+    "carbsG": 28.2,
+    "fatG": 3.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

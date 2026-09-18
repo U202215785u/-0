@@ -1,0 +1,151 @@
+{
+  "id": "soy-sauce-chicken",
+  "title": "豉油鸡",
+  "ingredients": [
+    {
+      "name": "整鸡",
+      "mergeKey": "chicken",
+      "amount": 1792,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 3,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 90,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 28,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红葱头",
+      "mergeKey": "shallot",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米酒",
+      "mergeKey": "cooking-wine",
+      "amount": 90,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "quantityText": "12盎司",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 90,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "沸水",
+      "mergeKey": "water",
+      "quantityText": "16盎司",
+      "category": "其他"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 84,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "冰块",
+      "mergeKey": "ice",
+      "quantityText": "2加仑袋装",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "清洗整鸡可选；若清洗，重点冲洗鸡胸内侧和腔体杂质，之后彻底清洁消毒接触生鸡肉或飞溅水的表面。"
+    },
+    {
+      "text": "八角掰成小块；为防止碎片飞散，可用厨房纸包住，再用厚刀侧面敲碎。"
+    },
+    {
+      "text": "炒锅大火加热，加入食用油。"
+    },
+    {
+      "text": "把鸡转入足够大的深锅，酱汁应至少没过鸡身一半；小火煮至微沸，盖盖浸煮15分钟。"
+    },
+    {
+      "text": "鸡熟后要快速降温，避免余温继续加热；大碗底部放一袋冰，冰袋可避免融冰稀释鸡肉。"
+    },
+    {
+      "text": "鸡肉降温期间把豉油煮沸，方便保存和复用；本菜只用三勺，剩余豉油妥善保存。"
+    },
+    {
+      "text": "熟鸡按部位分段斩件。"
+    },
+    {
+      "text": "炒锅加入之前的三勺豉油，大火煮沸。"
+    }
+  ],
+  "baseServings": 5,
+  "durationMinutes": 65,
+  "sourceUrl": "https://www.madewithlau.com/recipes/soy-sauce-chicken",
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的5人份、准备20分钟、烹调45分钟、总时长65分钟、15项配料和8段方法；保留浸煮15分钟、冰袋降温和豉油复用说明。",
+  "tags": [
+    "烧焖"
+  ],
+  "difficulty": "中等"
+}

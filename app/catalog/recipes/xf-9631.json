@@ -1,0 +1,95 @@
+{
+  "id": "xf-9631",
+  "title": "肉末毛豆炒香干",
+  "ingredients": [
+    {
+      "name": "五香豆干",
+      "mergeKey": "dried-tofu",
+      "amount": 2,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "猪绞肉",
+      "mergeKey": "pork",
+      "amount": 100,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "毛豆",
+      "mergeKey": "edamame",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "朝天红椒",
+      "mergeKey": "chili",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2小匙盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "五香豆干切成细丁，朝天红椒切成小圈,"
+    },
+    {
+      "text": "锅内烧开水，放入毛豆煮至水开捞起沥净水备用,"
+    },
+    {
+      "text": "锅内热少许油，放入猪绞肉小火煸炒至出油,"
+    },
+    {
+      "text": "加入豆干丁，及红椒圈炒出香味,"
+    },
+    {
+      "text": "加入烫过的毛豆，及所有调味料,"
+    },
+    {
+      "text": "再翻炒至毛豆的水份收干即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9631/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 149,
+    "proteinG": 9,
+    "carbsG": 17.1,
+    "fatG": 4.9
+  },
+  "tags": [
+    "炒",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

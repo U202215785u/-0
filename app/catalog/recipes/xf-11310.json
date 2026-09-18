@@ -1,0 +1,66 @@
+{
+  "id": "xf-11310",
+  "title": "莲藕海带煲猪骨",
+  "ingredients": [
+    {
+      "name": "海带",
+      "mergeKey": "kelp",
+      "category": "蔬菜"
+    },
+    {
+      "name": "猪骨",
+      "mergeKey": "pork-bone",
+      "category": "肉类"
+    },
+    {
+      "name": "莲藕",
+      "mergeKey": "lotus-root",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "米酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "海带结洗净，开水焯过。猪骨（大骨，脊骨，排骨都行，这里用的扇骨）砍大块，用开水加米酒焯过，冲洗干净。藕一段，姜一小块，胡萝卜一根（可无,"
+    },
+    {
+      "text": "莲藕切大块，胡萝卜切滚刀块。切姜三四片,"
+    },
+    {
+      "text": "以上材料放瓦罐汤煲内,"
+    },
+    {
+      "text": "加入适量米酒，加入清水至七八分满（约食材三倍）。大火烧开，转小火，撇去浮沫，煲一个半小时左右。关火前十分钟调入盐"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11310/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

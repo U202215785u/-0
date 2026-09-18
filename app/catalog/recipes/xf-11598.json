@@ -1,0 +1,109 @@
+{
+  "id": "xf-11598",
+  "title": "孜然蒜香烤鸡翅",
+  "ingredients": [
+    {
+      "name": "鸡翅",
+      "mergeKey": "chicken-wing",
+      "amount": 6,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "5克葱末",
+      "mergeKey": "scallion",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2茶匙约3克姜末",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "5克蒜末",
+      "mergeKey": "garlic",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "15毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙约1克盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙约3克糖",
+      "mergeKey": "sugar",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15克蒜蓉辣酱",
+      "mergeKey": "garlic-chili-sauce",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克孜然",
+      "mergeKey": "cumin",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡翅洗净并擦干水，放入在盘中，用叉子在鸡翅的表面扎几下，以便在腌制时更好的入味,"
+    },
+    {
+      "text": "将生抽，料酒，盐，糖和葱姜蒜末一起放在碗中搅均，并将鸡翅放入搅拌均匀后，腌渍至少30分钟（时间越长越好）,"
+    },
+    {
+      "text": "将腌渍好的鸡翅放置在烤网上，均匀地刷上蒜蓉辣酱，并撒上一层孜然，放入预热好的烤箱中层，200度，烤约20分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11598/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 326.3,
+    "proteinG": 29,
+    "carbsG": 2.8,
+    "fatG": 22.1
+  },
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

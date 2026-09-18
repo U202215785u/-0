@@ -1,0 +1,83 @@
+{
+  "id": "xf-11304",
+  "title": "霸王花冬瓜煲猪骨",
+  "ingredients": [
+    {
+      "name": "猪骨",
+      "mergeKey": "pork-bone",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "冬瓜",
+      "mergeKey": "winter-melon",
+      "amount": 300,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "霸王花",
+      "mergeKey": "bawanghua",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蜜枣",
+      "mergeKey": "jujube",
+      "amount": 4,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "米酒",
+      "mergeKey": "cooking-wine",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "霸王花浸泡1小时左右，洗干净，撕成小块。猪骨斩大块，用热水焯过冲洗干净。冬瓜连皮切成大块。姜切片。蜜枣洗干净,"
+    },
+    {
+      "text": "处理好的材料放入汤煲中,"
+    },
+    {
+      "text": "加入少量米酒，加入1500－2000克左右的水（水量大约为食材的2倍）大火烧开，转小火，煲2小时左右。关火前调入适量的盐（盐不要早放"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11304/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 332,
+    "proteinG": 12.5,
+    "carbsG": 49.8,
+    "fatG": 8.3
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

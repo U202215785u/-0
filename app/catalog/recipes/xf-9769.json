@@ -1,0 +1,100 @@
+{
+  "id": "xf-9769",
+  "title": "五香肉松",
+  "ingredients": [
+    {
+      "name": "猪后腿肉",
+      "mergeKey": "pork",
+      "amount": 1,
+      "unit": "块",
+      "category": "肉类"
+    },
+    {
+      "name": "葱段",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "五香粉",
+      "mergeKey": "five-spice",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪肉切几刀，焯水洗净，加水炖开，加葱段，姜片，香叶，八角小火炖3个小时以上,"
+    },
+    {
+      "text": "捞出晾凉，撕成越细越好的肉丝,"
+    },
+    {
+      "text": "锅里热油，倒入肉丝，转小火,"
+    },
+    {
+      "text": "加盐，五香粉，白糖，生抽慢慢翻炒约30分钟至肉丝蓬松"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9769/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 2,
+    "proteinG": 0.1,
+    "carbsG": 0.3,
+    "fatG": 0.1
+  },
+  "tags": [
+    "炒",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

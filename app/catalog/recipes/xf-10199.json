@@ -1,0 +1,103 @@
+{
+  "id": "xf-10199",
+  "title": "牙签牛肉",
+  "ingredients": [
+    {
+      "name": "白熟芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "牛肉",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "牙签",
+      "mergeKey": "toothpick",
+      "category": "其他"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "十三香",
+      "mergeKey": "thirteen-spice",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-peppercorn-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "孜然粉",
+      "mergeKey": "cumin",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒粉",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛肉洗净，按肉横纹理切成条再改成小块，放入盐，鸡精，料酒，生抽，老抽，十三香，生粉拌匀腌制两到三小时，腌好后，串上牙签,"
+    },
+    {
+      "text": "锅中放油，油热后放入牙签牛肉炸，待牛肉有些收紧变色时捞起，再放入炸好的牛肉复炸至表面有些焦酥时捞起,"
+    },
+    {
+      "text": "倒出锅中的油，放入炸好的牛肉后，撒上花椒粉，孜然粉，辣椒粉，白熟芝麻，翻炒均匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10199/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

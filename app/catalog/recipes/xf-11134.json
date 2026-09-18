@@ -1,0 +1,163 @@
+{
+  "id": "xf-11134",
+  "title": "尼斯沙拉",
+  "sourceUrl": "https://www.xiachufang.com/recipe/11134/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "ingredients": [
+    {
+      "name": "熟鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "/4茶匙约1克左右干百里香",
+      "mergeKey": "thyme",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2罐金枪鱼罐头",
+      "mergeKey": "tuna",
+      "category": "水产",
+      "pantry": true
+    },
+    {
+      "name": "/2根黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "西红柿",
+      "mergeKey": "tomato",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2茶匙约3克洋葱",
+      "mergeKey": "onion",
+      "amount": 3,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑橄榄",
+      "mergeKey": "black-olive",
+      "amount": 3,
+      "unit": "粒",
+      "category": "蔬菜"
+    },
+    {
+      "name": "甜豆",
+      "mergeKey": "sweet-pea",
+      "amount": 3,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生菜",
+      "mergeKey": "lettuce",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "5克盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克黑胡椒碎",
+      "mergeKey": "black-pepper",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油醋汁",
+      "mergeKey": "vinaigrette",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升白酒醋",
+      "mergeKey": "vinegar",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "45毫升橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙约3克大蒜碎",
+      "mergeKey": "garlic",
+      "amount": 3,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/4茶匙约2克左右大藏芥末",
+      "mergeKey": "dijon-mustard",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙约1克左右法香碎",
+      "mergeKey": "parsley",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把原料中所有的蔬菜洗净。然后，吧黄瓜切成薄片，西红柿切成小块，洋葱切成圈，土豆去皮后切成1厘米大小的丁，黑橄榄切圈，生菜充分沥干水后撕碎，再把煮熟的鸡蛋切成小块,"
+    },
+    {
+      "text": "锅中放入水，加入少许盐，放入土豆丁，大火煮开后，调成中火煮8分钟左右，捞出土豆，然后放入甜豆，继续煮1分钟，捞出过冷水后沥干备用,"
+    },
+    {
+      "text": "过滤掉金枪鱼罐头中的油水，把鱼肉用勺子捣碎。用一个大一些的容器，将所有准备好的材料都放入容器中，淋上油醋汁，撒入盐，黑胡椒碎，拌匀即可"
+    }
+  ],
+  "tags": [
+    "凉拌"
+  ],
+  "nutrition": {
+    "kcal": 370.2,
+    "proteinG": 9.1,
+    "carbsG": 31.4,
+    "fatG": 24.5
+  },
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

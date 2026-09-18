@@ -1,0 +1,45 @@
+{
+  "id": "xf-11107",
+  "title": "苦瓜奶饮",
+  "ingredients": [
+    {
+      "name": "冰牛奶",
+      "mergeKey": "milk",
+      "category": "乳制品"
+    },
+    {
+      "name": "苦瓜",
+      "mergeKey": "bitter-melon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "苦瓜用淡盐水浸泡，洗刷干净表皮后，对半剖开，用一把小勺子，刮去苦瓜的瓤和白色膜,"
+    },
+    {
+      "text": "苦瓜切成小块,"
+    },
+    {
+      "text": "苦瓜块放入食物搅拌器，稍微加点纯净水，榨成苦瓜汁,"
+    },
+    {
+      "text": "取一个杯子，在杯中倒入过滤后的苦瓜汁，大概五分之一的量，然后冲入冰牛奶，加一勺蜂蜜调匀，即可饮用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11107/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

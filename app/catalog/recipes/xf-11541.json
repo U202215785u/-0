@@ -1,0 +1,79 @@
+{
+  "id": "xf-11541",
+  "title": "干煎辣豆腐",
+  "ingredients": [
+    {
+      "name": "北豆腐",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "盒",
+      "category": "豆制品"
+    },
+    {
+      "name": "鲜香菇",
+      "mergeKey": "shiitake",
+      "amount": 4,
+      "unit": "朵",
+      "category": "菌菇"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "尖椒",
+      "mergeKey": "hot-pepper",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "60毫升西班牙橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "30克豆豉辣酱",
+      "mergeKey": "douchi-paste",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将北豆腐切成2厘米大小见方的块儿，胡萝卜去皮切片，尖椒去蒂去籽切成三角块。香菇洗净后切成小块,"
+    },
+    {
+      "text": "锅中倒入橄榄油，大火加热待油7成热时，放入豆腐块，改成中小火煎炸成几面金黄色捞出,"
+    },
+    {
+      "text": "加热锅中的底油，待7成热时放入胡萝卜片，香菇块充分炒透后，放入豆腐块和豆豉辣酱，不要加水用中小火继续煸炒1分钟左右,"
+    },
+    {
+      "text": "最后，加入尖椒块翻炒30秒钟后即可出锅。如果咸度不够，可以适当的加一点点盐"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11541/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 343.5,
+    "proteinG": 5.5,
+    "carbsG": 19.3,
+    "fatG": 28.9
+  },
+  "tags": [
+    "煎"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

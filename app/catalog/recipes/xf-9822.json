@@ -1,0 +1,70 @@
+{
+  "id": "xf-9822",
+  "title": "羊肉炖白萝卜",
+  "ingredients": [
+    {
+      "name": "羊肉",
+      "mergeKey": "lamb",
+      "category": "肉类"
+    },
+    {
+      "name": "白萝卜",
+      "mergeKey": "daikon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱姜",
+      "mergeKey": "scallion-ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白酒",
+      "mergeKey": "baijiu",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "羊肉切块，白萝卜去皮切块，姜切片,"
+    },
+    {
+      "text": "锅中放入清水，羊肉凉水下锅，待水烧开，待血沫膻味除净，捞出冲净待用,"
+    },
+    {
+      "text": "锅中做开水放入焯净的羊肉块，葱、姜，大火烧开烹入白酒，改中火盖盖煨1小时,"
+    },
+    {
+      "text": "打开锅盖放入焯过水的白萝卜，白萝卜焯水加一点醋去臭味，改大火煮30分钟，加盐、胡椒粉调味，看到白萝卜变软透明即可出锅，放入提前烧热的石锅中撒枸杞、香菜叶保温食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9822/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "煮",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

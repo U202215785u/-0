@@ -1,0 +1,81 @@
+{
+  "id": "xf-10556",
+  "title": "鲜香黑木耳",
+  "ingredients": [
+    {
+      "name": "泡发黑木耳",
+      "mergeKey": "wood-ear",
+      "amount": 1,
+      "unit": "碗",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "干大蒜",
+      "mergeKey": "garlic",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "新鲜小红椒",
+      "mergeKey": "red-chili",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黑木耳冷水浸泡一晚后洗净沥干,"
+    },
+    {
+      "text": "锅中多放些水烧开， 放入黑木耳焯水（1分钟左右），捞出放在冷开水中，凉后取出沥干,"
+    },
+    {
+      "text": "大蒜、红椒、青椒都切成末混合放碗中，加入调料盐、鸡精、味精和少许砂糖，锅中放油（比平时炒菜稍多一点）烧热，淋在调料碗中，稍凉后拌入黑木耳中即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10556/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

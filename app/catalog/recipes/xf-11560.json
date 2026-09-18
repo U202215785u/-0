@@ -1,0 +1,99 @@
+{
+  "id": "xf-11560",
+  "title": "黑芝麻贝果",
+  "ingredients": [
+    {
+      "name": "高筋面粉",
+      "mergeKey": "bread-flour",
+      "amount": 250,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺即发干酵母",
+      "mergeKey": "instant-yeast",
+      "amount": 3,
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 1000,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 10,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "黑芝麻",
+      "mergeKey": "black-sesame",
+      "amount": 13,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将除黄油以外的所有原料放在一起，揉至面筋扩展、表面光滑，加入黑芝麻揉匀,"
+    },
+    {
+      "text": "揉好的面团分成5个，滚圆后松弛10分钟,"
+    },
+    {
+      "text": "将松弛好的面团擀成椭圆形,"
+    },
+    {
+      "text": "翻面后压薄底边，自上而下卷起来，收口处捏紧,"
+    },
+    {
+      "text": "将面团搓至20厘米左右长，一头擀成薄片,"
+    },
+    {
+      "text": "另一头放到压薄的面片上，用薄片将另一头包好。将面团排在垫了布的烤盘上，放温暖湿润处发酵30分钟,"
+    },
+    {
+      "text": "糖水煮沸后转小火，将发酵好的贝果面团表面朝下放入其中，两面各煮15秒钟,"
+    },
+    {
+      "text": "将煮好的贝果捞出来沥去水分，排在烤盘上。入预热200℃的烤箱，中层，上下火，20分钟。 出炉后立即移到烤网上晾凉"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11560/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 278.5,
+    "proteinG": 6,
+    "carbsG": 60.1,
+    "fatG": 2.1
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

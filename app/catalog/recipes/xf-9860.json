@@ -1,0 +1,60 @@
+{
+  "id": "xf-9860",
+  "title": "海米焖冬瓜",
+  "ingredients": [
+    {
+      "name": "冬瓜",
+      "mergeKey": "winter-melon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "海米",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "海米用水泡15分钟；（泡海米的水不要倒掉噢）,"
+    },
+    {
+      "text": "冬瓜去瓤切片备用，少许姜丝、葱花备用,"
+    },
+    {
+      "text": "热锅热油，爆香姜丝，放入海米，翻炒变色，再放冬瓜，倒入泡海米的水，盖上盖子焖10分钟，煮到冬瓜变得透明，加少许盐调味，撒上葱花出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9860/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "蒸"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

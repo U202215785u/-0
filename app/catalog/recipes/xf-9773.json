@@ -1,0 +1,122 @@
+{
+  "id": "xf-9773",
+  "title": "豆花鱼",
+  "ingredients": [
+    {
+      "name": "1.5-2斤左右黑鱼",
+      "mergeKey": "blackfish",
+      "amount": 1,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "嫩豆腐",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "盒",
+      "category": "豆制品"
+    },
+    {
+      "name": "大勺郫县豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "amount": 2,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "朝天椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先将嫩豆腐切成片状，平铺在盆底,"
+    },
+    {
+      "text": "将黑鱼洗净后，骨肉分开，鱼肉片成薄片，鱼片和鱼骨分别用生粉、料酒、盐、胡椒粉先腌一会入味,"
+    },
+    {
+      "text": "热锅温油（油要多放一点），倒入鱼片，用筷子将其划散，鱼片变色后即可捞出,"
+    },
+    {
+      "text": "用剩余的油，将干辣椒和花椒炒出香味，捞出辣椒和花椒，待凉后，将辣椒和花椒切成碎末末备用,"
+    },
+    {
+      "text": "用炒过辣椒和花椒的油继续放入蒜末和姜末、郫县豆瓣酱，炒至出红油后，放入鱼骨，翻炒变色后，加入清水，加少许生抽、盐、糖调味，煮沸后，略滚一会，关火倒入装有豆腐的容器中,"
+    },
+    {
+      "text": "倒入炒好的鱼片，撒上辣椒和花椒末，撒上葱花,"
+    },
+    {
+      "text": "另起油锅，放入朝天椒，油烧至8成热后，连同朝天椒一起淋在鱼片上即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9773/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

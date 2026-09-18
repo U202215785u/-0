@@ -1,0 +1,51 @@
+{
+  "id": "xf-100622136",
+  "title": "葱烧海参",
+  "ingredients": [
+    {
+      "name": "蚝油少许泡发海参随意",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖少许大葱随意",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "高汤少许、没有高汤清水也可以盐少许",
+      "mergeKey": "stock",
+      "category": "其他"
+    },
+    {
+      "name": "淀粉少许鸡精少许",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "泡发后的海参"
+    },
+    {
+      "text": "取肚洗净"
+    },
+    {
+      "text": "大葱切段、锅内放入适量花生油烧热加大葱炒香、加入少许白糖、蚝油、鸡精和盐、然后放入海参炒匀、加一勺高汤再次拌匀、烧开锅后、淀粉勾芡即可、出锅淋点香油开吃👏👏👏🌹💕"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100622136/",
+  "author": "月色家的小厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

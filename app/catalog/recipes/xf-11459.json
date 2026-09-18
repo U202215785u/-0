@@ -1,0 +1,47 @@
+{
+  "id": "xf-11459",
+  "title": "胡萝卜煎饼",
+  "ingredients": [
+    {
+      "name": "面粉糊",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "面糊加冷水搅成糊，放置一会，让面粉与水彻底溶合后加入鸡蛋打散,"
+    },
+    {
+      "text": "胡萝卜切丝，葱切花，加入面粉鸡蛋糊中，调入盐，鸡精，白胡椒粉拌匀,"
+    },
+    {
+      "text": "平底锅中放少许油，烧热后，放两勺面糊，摊平，中火慢煎至8成熟，转大火煎到自己喜欢的焦脆程度即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11459/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煎"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "xf-10184",
+  "title": "鸡哈豆腐",
+  "ingredients": [
+    {
+      "name": "老豆腐",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒面",
+      "mergeKey": "sichuan-pepper",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒面",
+      "mergeKey": "chili-powder",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "豆腐、姜末、蒜末、葱花,"
+    },
+    {
+      "text": "将豆腐用手抓成大块（直接将整块豆腐下锅用锅铲压碎也可以）,"
+    },
+    {
+      "text": "炒锅烧热，放入比炒菜略多一点的油，放入姜末和蒜末炒香,"
+    },
+    {
+      "text": "放入豆腐用中小火翻炒，一直要炒到豆腐水分散干，表面呈金黄色，如果觉得豆腐的块太大可以用锅铲修整,"
+    },
+    {
+      "text": "根据口味加入适量花椒面和辣椒面以及盐,"
+    },
+    {
+      "text": "加入葱花起锅成盘，最后撒上适量葱花做装饰"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10184/",
+  "author": "大菜的美食物语",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "xf-11539",
+  "title": "麻辣火锅汤底",
+  "ingredients": [
+    {
+      "name": "大重庆火锅底料",
+      "mergeKey": "hotpot-base",
+      "amount": 0.5,
+      "unit": "袋",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15克郫县辣酱",
+      "mergeKey": "doubanjiang",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 40,
+      "unit": "根",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 1,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 2,
+      "unit": "片",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 2,
+      "unit": "片",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "草果",
+      "mergeKey": "black-cardamom",
+      "amount": 1,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "山奈",
+      "mergeKey": "galangal",
+      "amount": 3,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 40,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 3,
+      "unit": "段",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "30毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "30毫升香油",
+      "mergeKey": "sesame-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 1500,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "/2茶匙3克盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅中倒入油，马上放入花椒，干辣椒，八角，桂皮，香叶，草果和山奈，用小火慢慢炒出香味后，放入拍散的大蒜，姜片和葱段炒香,"
+    },
+    {
+      "text": "然后改成大火，放入郫县辣酱煸炒1分钟出红油后，倒入清水，大火煮开后放入火锅底料，搅匀后盖上盖子，转小火煮20分钟,"
+    },
+    {
+      "text": "待所有香料的味道都融入汤中，用笊篱捞出汤中的部分香料（主要是葱姜蒜和少量的花椒辣椒），然后再调入一勺火锅底料，充分溶解后关火,"
+    },
+    {
+      "text": "食用时，将麻辣火锅的汤底，一直放在电磁炉上持续加热即可涮菜食用,"
+    },
+    {
+      "text": "把大蒜用压蒜器压成蒜茸，放在碗中，到入香油浸泡10分钟，根据个人口味调入一些盐即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11539/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 849.1,
+    "proteinG": 42.1,
+    "carbsG": 143.5,
+    "fatG": 22.3
+  },
+  "tags": [
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

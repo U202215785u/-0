@@ -1,0 +1,92 @@
+{
+  "id": "xf-9749",
+  "title": "杏仁黑芝麻油麦菜",
+  "ingredients": [
+    {
+      "name": "杏仁",
+      "mergeKey": "almond",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "黑芝麻",
+      "mergeKey": "black-sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "油麦菜",
+      "mergeKey": "youmaicai",
+      "category": "蔬菜"
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "熟黑芝麻",
+      "mergeKey": "black-sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大杏仁",
+      "mergeKey": "almond",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "芝麻酱",
+      "mergeKey": "sesame-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红油",
+      "mergeKey": "chili-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "油麦菜洗净切段,"
+    },
+    {
+      "text": "大杏仁拍碎切小粒,"
+    },
+    {
+      "text": "芝麻酱用水泻开，加少许盐、鸡精、醋、红油调匀淋在油麦菜上撒黑芝麻，杏仁碎，泡开的枸杞即可装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9749/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "xf-9702",
+  "title": "微波鸡肉串",
+  "ingredients": [
+    {
+      "name": "鸡脯肉",
+      "mergeKey": "chicken-breast",
+      "category": "肉类"
+    },
+    {
+      "name": "炸鸡粉",
+      "mergeKey": "frying-powder",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "彩椒",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "孜然粉",
+      "mergeKey": "cumin",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡脯肉一块洗净，沥干水分，用刀背把鸡肉剁过，让鸡肉松驰。切成2厘米见方的小块，用一点料酒腌制一会儿去腥,"
+    },
+    {
+      "text": "用一勺炸鸡粉，很少一点点盐，一点生抽，一勺色拉油拌匀，腌制30分钟左右,"
+    },
+    {
+      "text": "把彩椒洗净切成小块，竹签事先用水泡一下，把腌制好的鸡肉和彩椒间隔着串起来,"
+    },
+    {
+      "text": "把鸡肉串放在可以凌空搁起的容器上，我用的是乐扣格拉斯900毫升的耐高温玻璃盒，入微波炉高火两分半钟左右至熟，取出撒上孜然粉即可开动拉"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9702/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "xf-10341",
+  "title": "鲜虾培根杂蔬披萨",
+  "ingredients": [
+    {
+      "name": "马苏里拉芝士",
+      "mergeKey": "mozzarella",
+      "category": "乳制品"
+    },
+    {
+      "name": "高粉",
+      "mergeKey": "flour",
+      "amount": 400,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "鲜虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "category": "肉类"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 4,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 4,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 250,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 20,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "青豆",
+      "mergeKey": "green-peas",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "除黄油外，所有材料混合成光滑面团后，加入黄油，揉至扩展阶段。放温暖处发酵至2倍大,"
+    },
+    {
+      "text": "基础发酵结束后的面团，排气后分割成2等分，松弛15分钟。（这个方子的面团差不多可以烤2个9寸披萨）,"
+    },
+    {
+      "text": "在烤盘内刷一层橄榄油（这样饼底会更松脆）。用烤盘直接做披萨的容器，方便将饼底擀成任何你所希望的形状，或圆或方，厚薄也可自行调整,"
+    },
+    {
+      "text": "松弛后的面团，擀成薄片，铺入烤盘中，室温下松弛30分钟,"
+    },
+    {
+      "text": "面团松弛的时候，可以将铺在表面的鲜虾和蔬菜先焯水，以免烤的时候出水太多,"
+    },
+    {
+      "text": "二次松弛完成的面团，用叉子叉些小孔（以免烤的过程中面团膨胀）,"
+    },
+    {
+      "text": "刷一层番茄酱,"
+    },
+    {
+      "text": "铺上一层马苏里拉芝士,"
+    },
+    {
+      "text": "均匀的撒上鲜虾、培根和蔬菜,"
+    },
+    {
+      "text": "放入190度预热的烤箱，下层先烤10-15分钟，待饼底焦黄之后，取出披萨，再在表面撒上一层马苏里拉芝士，然后放置烤箱上层继续烤5分钟，待芝士完全融化即可出炉"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10341/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 308.3,
+    "proteinG": 10.1,
+    "carbsG": 50.4,
+    "fatG": 6.7
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

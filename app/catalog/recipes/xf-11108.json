@@ -1,0 +1,109 @@
+{
+  "id": "xf-11108",
+  "title": "鲜蔬鸡丝面",
+  "ingredients": [
+    {
+      "name": "生面",
+      "mergeKey": "noodle",
+      "category": "米面主食"
+    },
+    {
+      "name": "鸡脯肉",
+      "mergeKey": "chicken-breast",
+      "category": "肉类"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡脯肉切成丝，加老抽、蚝油、胡椒粉、料酒、淀粉抓捏均匀后，再加点色拉油拌匀（可以防止粘锅），腌制15分钟。胡萝卜和黄瓜洗净去皮切丝,"
+    },
+    {
+      "text": "锅中放油烧热，入姜丝爆出香味后，捞出扔掉,"
+    },
+    {
+      "text": "入腌制好的鸡丝，快速爆炒至表面变白，装出备用,"
+    },
+    {
+      "text": "用余油把胡萝卜丝煸炒一下，加适量盐和鸡精翻匀,"
+    },
+    {
+      "text": "倒入鸡丝，放点盐和鸡精调味，快速翻匀出锅,"
+    },
+    {
+      "text": "锅里放半锅水烧开，把面条放进去煮熟后捞出装碗里，喜欢吃汤面的可以加点肉汤之类的高汤。然后把黄瓜和炒好的蔬菜鸡丝放在面上，吃的时候拌开就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11108/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

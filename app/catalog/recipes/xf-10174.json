@@ -1,0 +1,103 @@
+{
+  "id": "xf-10174",
+  "title": "芥兰爆鱿鱼",
+  "ingredients": [
+    {
+      "name": "鱿鱼",
+      "mergeKey": "squid",
+      "category": "水产"
+    },
+    {
+      "name": "芥兰",
+      "mergeKey": "kai-lan",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜片",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "看下，处理好的鱼，和从鱼身上撕下来的暗紫色薄膜，透明长软骨；以及从鱼头部分（即鱿鱼须部）取下的小软骨块，类似眼睛的圆软骨,"
+    },
+    {
+      "text": "将鱿鱼从上到下直刀分切成两大片，然后刀倾斜在鱼身上间隔均匀的切出条形，但不要切断，约1/2深,"
+    },
+    {
+      "text": "第一遍切完后，将鱿鱼换个方向，选鱿鱼片的一角开始以和第一遍交叉的纹路继续斜刀均匀切出条形，同样不要切断，切完后形成小棱形块,"
+    },
+    {
+      "text": "将切完花刀的鱿鱼，按第二次切的纹路间隔切成三角块,"
+    },
+    {
+      "text": "锅中烧开水，加入些料酒后，入鱿鱼在水中翻动下,"
+    },
+    {
+      "text": "鱿鱼遇热水就打起卷，成形后快速捞起鱿鱼卷,"
+    },
+    {
+      "text": "红辣椒和芥兰切棱形，姜和蒜头切成片,"
+    },
+    {
+      "text": "锅中倒油，烧热后放入姜和蒜片，翻出香味,"
+    },
+    {
+      "text": "倒入芥兰和红辣椒秒约一分钟,"
+    },
+    {
+      "text": "倒入氽过水的鱿鱼，加入，盐、鸡精、蚝油、白胡椒粉，炒匀后即可出锅盛盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10174/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

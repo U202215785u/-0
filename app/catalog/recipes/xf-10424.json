@@ -1,0 +1,67 @@
+{
+  "id": "xf-10424",
+  "title": "红薯拌胡萝卜",
+  "ingredients": [
+    {
+      "name": "红薯",
+      "mergeKey": "sweet-potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "熟黑芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "红薯、胡萝卜洗净去皮，处理成细丝,"
+    },
+    {
+      "text": "锅中放水煮开后，把红薯丝和胡萝卜丝放入煮一两分钟至熟，捞出沥干水分,"
+    },
+    {
+      "text": "煮好的红薯丝和胡萝卜丝放入碗中，加盐、少量白糖、鸡精拌匀。在表面撒少许黑芝麻，淋上香麻油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10424/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "xf-11446",
+  "title": "香甜牛奶薏米露",
+  "ingredients": [
+    {
+      "name": "黄桃罐头",
+      "mergeKey": "peach",
+      "category": "其他"
+    },
+    {
+      "name": "薏仁",
+      "mergeKey": "barley",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 0.5,
+      "unit": "包",
+      "category": "乳制品"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "薏仁提前一晚浸泡，淘洗干净，放入高压锅加适量水及冰糖，大火烧开转小火压10分钟左右至熟烂,"
+    },
+    {
+      "text": "滤去多余的水（薏仁水可当饮料喝），加入牛奶一起搅打成薏仁露,"
+    },
+    {
+      "text": "倒入碗中，放上切片的黄桃即可（冷藏味道更佳）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11446/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "xf-11696",
+  "title": "虾酱鱼干茄子煲",
+  "ingredients": [
+    {
+      "name": "茄子",
+      "mergeKey": "eggplant",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "罐头鱼干",
+      "mergeKey": "dried-fish",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "虾酱",
+      "mergeKey": "shrimp-paste",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "沙拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "chili",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青辣椒",
+      "mergeKey": "green-chili",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小汤匙酱油",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水芡粉",
+      "mergeKey": "cornstarch",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "茄子洗干净切段，用水泡半个小时，捞起晾干水备用；青辣椒、红辣椒、姜、葱、蒜切碎,"
+    },
+    {
+      "text": "茄子先下锅用油泡一下捞起,"
+    },
+    {
+      "text": "锅内留下少许油，加入1-2大茶匙虾酱、砂糖和姜蒜粒炒香,"
+    },
+    {
+      "text": "再放入茄子、鱼干、酱油、料酒爆炒均匀，加适量水焖煮7~8分钟左右,"
+    },
+    {
+      "text": "加入水芡粉翻炒均匀，改中小火,"
+    },
+    {
+      "text": "待茄子焖软入味后，撒葱花翻炒均匀即可装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11696/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 160.2,
+    "proteinG": 17,
+    "carbsG": 19.3,
+    "fatG": 2.6
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

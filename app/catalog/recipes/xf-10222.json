@@ -1,0 +1,85 @@
+{
+  "id": "xf-10222",
+  "title": "焗酱香菇四色小炒",
+  "ingredients": [
+    {
+      "name": "酱香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "马蹄",
+      "mergeKey": "water-chestnut",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芥兰",
+      "mergeKey": "gai-lan",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "生菜",
+      "mergeKey": "lettuce",
+      "category": "蔬菜"
+    },
+    {
+      "name": "番茄酱",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "焗酱香菇锅里面放黄油，化开后放整个的去蒂酱香菇，香菇上面放上黄油和番茄酱，中小火焗到香味出来就可以了,"
+    },
+    {
+      "text": "把酱香菇、红椒、马蹄、芥兰切块后备用,"
+    },
+    {
+      "text": "起油锅把酱香菇、马蹄、芥兰大火煸炒，最后放红椒，放盐和味精调味，放点胡椒粉就可以了,"
+    },
+    {
+      "text": "盘子的一边用生菜垫底放上焗好的香菇，旁边放上四色小炒就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10222/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

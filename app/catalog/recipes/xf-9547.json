@@ -1,0 +1,134 @@
+{
+  "id": "xf-9547",
+  "title": "番茄滑蛋牛肉饭",
+  "ingredients": [
+    {
+      "name": "米饭",
+      "mergeKey": "rice",
+      "amount": 1,
+      "unit": "碗",
+      "category": "米面主食"
+    },
+    {
+      "name": "番茄",
+      "mergeKey": "tomato",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "牛里脊肉",
+      "mergeKey": "beef",
+      "amount": 100,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "-4片姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "-4小匙盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙分两次放，一次1小匙料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大匙色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "小匙酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把牛肉切片，番茄切成大的滚刀块，葱切段，姜切片，鸡蛋打入碗中备用"
+    },
+    {
+      "text": "牛肉切好后放入容器，加入盐，料酒，淀粉，色拉油拌匀，放在一边腌30分钟左右"
+    },
+    {
+      "text": "锅内加入少许油，烧热后倒入牛肉过油，变色后捞出沥油"
+    },
+    {
+      "text": "锅内加入一大匙油，爆香葱段和姜片，加入番茄块翻炒一下，放入清水，酱油，料酒，白糖，少许的盐，煮滚后勾薄芡，加入牛肉片，淋上蛋液，最后淋入少许香油即可出锅。吃的时候把米饭盛在平盘上，淋上番茄滑蛋牛肉就好了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9547/",
+  "author": "美食情书",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 200.3,
+    "proteinG": 8.1,
+    "carbsG": 33.1,
+    "fatG": 3.7
+  },
+  "tags": [
+    "主食",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

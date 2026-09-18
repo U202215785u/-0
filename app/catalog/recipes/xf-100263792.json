@@ -1,0 +1,141 @@
+{
+  "id": "xf-100263792",
+  "title": "口味虾",
+  "ingredients": [
+    {
+      "name": "魔芋豆腐",
+      "mergeKey": "konjac-tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "、3滴山胡椒油",
+      "mergeKey": "pepper-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小龙虾",
+      "mergeKey": "crayfish",
+      "category": "水产"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干辣椒段",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "辣椒粉",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon-bark",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "帅哥豆豉（可用豆瓣酱）",
+      "mergeKey": "douchi",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "紫苏",
+      "mergeKey": "perilla",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精或味精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "虾去头，去肠，洗净（去肠揪住尾巴中间的片片扭扭扯扯，备注：我的是卖龙虾的老板帮我弄好的，胆大的亲可以尝试自行解决。。。）\n魔芋豆腐切厚一点的片，其他材料洗净，姜切片，蒜粒拍一下，其余的洗好做好准备。"
+    },
+    {
+      "text": "锅里放油稍多一些，烧热之后，先将八角桂皮入锅小火炸香（这样之后香味才能释放的更好），注意不要烧掉就行，然后姜蒜入锅，还是保持小火，直到蒜的表面稍稍变金黄。"
+    },
+    {
+      "text": "然后将干辣椒段入锅（注意不要炸黑了。，。），香味出来就立刻将小龙虾下锅，火调大些，加入料酒翻炒至变色，扒拉到一边，空出的位置下魔芋豆腐"
+    },
+    {
+      "text": "现在继续保持大火稍稍翻炒一下，加酱油、生抽，以及帅哥豆豉（可换成豆瓣酱），颜色翻匀了，翻炒到魔芋豆腐多出的水分基本快炒干 然后根据自己的接受程度加辣椒粉，翻炒翻炒"
+    },
+    {
+      "text": "然后加水，完全的漫过食材，大火烧开后，转小一点，放入紫苏，一点胡椒粉，盐，开始煮。"
+    },
+    {
+      "text": "口味虾是要留些汤才好吃的，最后试咸淡，不够加盐。然后加入鸡精，两滴山胡椒油，香油，撒上几根葱段。"
+    },
+    {
+      "text": "完成。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100263792/",
+  "author": "希洛大大大大人",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

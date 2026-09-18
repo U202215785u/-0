@@ -1,0 +1,84 @@
+{
+  "id": "xf-102154795",
+  "title": "手抓羊肉",
+  "ingredients": [
+    {
+      "name": "新鲜就好、最好是羊排/800克羊肉",
+      "mergeKey": "lamb",
+      "category": "肉类"
+    },
+    {
+      "name": "-5根葱",
+      "mergeKey": "scallion",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "左右花椒",
+      "mergeKey": "sichuan-pepper",
+      "amount": 10,
+      "unit": "粒",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "-10粒枸杞",
+      "mergeKey": "goji",
+      "amount": 10,
+      "unit": "粒",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "-5颗山楂（自选）",
+      "mergeKey": "hawthorn",
+      "amount": 5,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "店内做法照片。"
+    },
+    {
+      "text": "先将羊排放入冷水中浸泡一个小时"
+    },
+    {
+      "text": "把浸泡的水倒掉。锅内放入冷水，放入羊排大火开始加热。"
+    },
+    {
+      "text": "等水快要开锅，用勺子把里面的血沫打捞干净。必须打捞干净血沫！"
+    },
+    {
+      "text": "放入葱姜，小火煮一个半小时。焖到一个小时左右时，再加入几颗枸杞和花椒。\n\n（动妈自己经常在这时加入几颗山楂，特别增鲜）\n\n——如果是羊羔肉，四十分钟左右就好了！"
+    },
+    {
+      "text": "时间到，把羊排盛出锅，蘸椒盐或蒜泥即可食用"
+    },
+    {
+      "text": "羊排出锅后，羊汤放葱花、香菜、味精、盐，即可喝汤。"
+    },
+    {
+      "text": "为了这个菜谱，动妈家最近又去了北京最地道的宁夏饭店吃了一次手抓羊肉，而且和饭店大厨仔细请教了一下做法。把菜谱又更新了一次😋。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102154795/",
+  "author": "动妈要做一道好看的菜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

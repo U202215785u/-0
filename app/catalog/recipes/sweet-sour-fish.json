@@ -1,0 +1,184 @@
+{
+  "id": "sweet-sour-fish",
+  "title": "糖醋鱼",
+  "ingredients": [
+    {
+      "name": "龙利鱼柳",
+      "mergeKey": "sole",
+      "amount": 448,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "菠萝",
+      "mergeKey": "pineapple",
+      "amount": 56,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 56,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红甜椒",
+      "mergeKey": "red-bell-pepper",
+      "amount": 56,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米油",
+      "mergeKey": "cooking-oil",
+      "amount": 336,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "中筋面粉",
+      "mergeKey": "flour",
+      "amount": 45,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰水",
+      "mergeKey": "water",
+      "amount": 67.5,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "米酒醋",
+      "mergeKey": "vinegar",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "番茄酱",
+      "mergeKey": "ketchup",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 90,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "土豆淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1.65,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "切掉鱼柳尾端；顺纹把鱼柳分成四块约2英寸宽的段，再逆纹斜切成约1英寸宽的片。"
+    },
+    {
+      "text": "菠萝切成大块；来源页面提示可参考其菠萝切法视频和文章。"
+    },
+    {
+      "text": "面粉、玉米淀粉、泡打粉、食盐和冰水混合，搅匀后加入食用油再混合，调成面糊。"
+    },
+    {
+      "text": "米酒醋、番茄酱、白糖和清水混合成糖醋汁。"
+    },
+    {
+      "text": "鱼肉冲洗并擦干三遍，再沥水。"
+    },
+    {
+      "text": "炒锅大火加热至锅中央发白并冒烟，倒入玉米油。"
+    },
+    {
+      "text": "糖醋汁倒入锅中转中小火；可加少量清水涮净碗壁后倒入锅中。"
+    }
+  ],
+  "baseServings": 4,
+  "sourceUrl": "https://www.madewithlau.com/recipes/sweet-sour-fish",
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、准备15分钟、烹调15分钟、总时长30分钟、19项配料和7段方法；保留鱼柳切法、冰水面糊、三次冲洗擦干和糖醋汁收尾信息。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

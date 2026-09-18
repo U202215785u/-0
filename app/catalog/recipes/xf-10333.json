@@ -1,0 +1,98 @@
+{
+  "id": "xf-10333",
+  "title": "八宝钱袋",
+  "ingredients": [
+    {
+      "name": "薄千张",
+      "mergeKey": "tofu-sheet",
+      "category": "豆制品"
+    },
+    {
+      "name": "虾仁",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "冬笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇"
+    },
+    {
+      "name": "火腿",
+      "mergeKey": "ham",
+      "category": "肉类"
+    },
+    {
+      "name": "马蹄",
+      "mergeKey": "water-chestnut",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅中水烧开，香菇和冬笋焯水后捞出，沥干水分,"
+    },
+    {
+      "text": "除薄千张外，所有材料切碎，混合搅匀成馅,"
+    },
+    {
+      "text": "找一只大小合适的盘子或者碗，倒扣在薄千张上，用刀沿碗或者盘边上划一圈成圆形千张,"
+    },
+    {
+      "text": "在划出来的圆形千张上放上调好味的馅料,"
+    },
+    {
+      "text": "把边收拢，用棉线松松的扎好，成钱袋子的样子,"
+    },
+    {
+      "text": "锅中水烧开，放入大火蒸15分钟。取出后，用开水烫过的葱换掉棉线。再用盘中蒸出的水（如果不够再加点清水），加盐，鸡精和水淀粉勾个薄芡成浇汁，吃前浇在八宝钱袋上"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10333/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

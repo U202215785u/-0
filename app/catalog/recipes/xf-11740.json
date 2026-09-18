@@ -1,0 +1,75 @@
+{
+  "id": "xf-11740",
+  "title": "法棍三文治",
+  "ingredients": [
+    {
+      "name": "法棍面包",
+      "mergeKey": "baguette",
+      "category": "米面主食"
+    },
+    {
+      "name": "几条培根",
+      "mergeKey": "bacon",
+      "category": "肉类"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "只",
+      "category": "蛋类"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 30,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "生菜",
+      "mergeKey": "lettuce",
+      "category": "蔬菜"
+    },
+    {
+      "name": "番茄沙司",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "加热锅子，煎熟培根、撒些黑胡椒,"
+    },
+    {
+      "text": "利用煎培根渗出的油，摊两只鸡蛋，撒点盐,"
+    },
+    {
+      "text": "法棍横切成两片，涂上黄油，放入生菜、煎蛋、培根，淋上番茄沙司就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11740/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

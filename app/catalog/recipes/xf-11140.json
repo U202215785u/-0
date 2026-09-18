@@ -1,0 +1,89 @@
+{
+  "id": "xf-11140",
+  "title": "酱烤墨鱼仔",
+  "sourceUrl": "https://www.xiachufang.com/recipe/11140/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "ingredients": [
+    {
+      "name": "墨鱼仔",
+      "mergeKey": "cuttlefish",
+      "amount": 5,
+      "unit": "个",
+      "category": "水产"
+    },
+    {
+      "name": "蒜片",
+      "mergeKey": "garlic",
+      "amount": 6,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "30毫升海鲜酱",
+      "mergeKey": "hoisin-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "30毫升蜂蜜",
+      "mergeKey": "honey",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "用食指和大拇指紧紧捏住墨鱼仔须子下部，用力挤压，将中间的小黑点揪出。再用剪刀剪开墨鱼仔的眼睛，先将里面的黑色汁液挤出（不要面对自己哈），再彻底冲洗干净,"
+    },
+    {
+      "text": "将海鲜酱、料酒、生抽、蜂蜜、蒜片、姜片放入一个大碗中搅拌均匀，然后将洗净的墨鱼仔放入腌料中，腌渍2小时以上（放入冰箱腌制一夜，味道会更好,"
+    },
+    {
+      "text": "将腌渍好的墨鱼仔放在烤架上，烤架下面要垫一个铺有锡纸的烤盘，用来接住烤制过程中滴落的汤汁,"
+    },
+    {
+      "text": "放入预热好的烤箱中，以200度先烤10分钟，然后刷一层腌渍时用的酱料，再烤5分钟即可"
+    }
+  ],
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "nutrition": {
+    "kcal": 399.1,
+    "proteinG": 64.3,
+    "carbsG": 18.7,
+    "fatG": 8
+  },
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

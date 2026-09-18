@@ -1,0 +1,77 @@
+{
+  "id": "xf-888",
+  "title": "椒麻鸡",
+  "ingredients": [
+    {
+      "name": "1千克左右嫩鸡",
+      "mergeKey": "chicken",
+      "amount": 1,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡洗净后，凉水入锅，放入姜片，大火煮开后再煮15分钟，煮到鸡刚熟为好,"
+    },
+    {
+      "text": "煮熟的鸡放入冰水中，过凉后沥干水分切块装盘,"
+    },
+    {
+      "text": "花椒和大葱剁碎切末,"
+    },
+    {
+      "text": "切好的花椒大葱末中，加入盐、2大勺生抽、1勺麻油、1勺糖，少许鸡汤，调匀后淋在鸡身上即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/888/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

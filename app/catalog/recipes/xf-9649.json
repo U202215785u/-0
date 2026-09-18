@@ -1,0 +1,54 @@
+{
+  "id": "xf-9649",
+  "title": "奶香南瓜羹",
+  "ingredients": [
+    {
+      "name": "老南瓜",
+      "mergeKey": "pumpkin",
+      "amount": 300,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "老南瓜去皮切成小块，上锅隔水蒸熟,"
+    },
+    {
+      "text": "蒸熟的老南瓜块放入食物搅拌机，倒入50毫升淡奶油和25克白糖打匀、装碗,"
+    },
+    {
+      "text": "滴几滴淡奶油用牙签划开"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9649/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 188.4,
+    "proteinG": 5.3,
+    "carbsG": 33.5,
+    "fatG": 3.5
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

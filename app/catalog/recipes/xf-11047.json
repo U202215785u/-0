@@ -1,0 +1,64 @@
+{
+  "id": "xf-11047",
+  "title": "彩椒海鲜菇",
+  "ingredients": [
+    {
+      "name": "海鲜菇",
+      "mergeKey": "seafood-mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "彩椒",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅中水烧开，海鲜菇浸泡洗净后，放入焯水，一分钟后捞出，用水冲凉沥干,"
+    },
+    {
+      "text": "彩椒去蒂去籽，切成条，海鲜菇切段,"
+    },
+    {
+      "text": "锅子烧热放食用油，油稍热，倒入彩椒翻炒一分钟,"
+    },
+    {
+      "text": "倒入海鲜菇一起翻炒片刻,"
+    },
+    {
+      "text": "滴入美级鲜酱油,"
+    },
+    {
+      "text": "加一点鸡精翻炒均匀后即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11047/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

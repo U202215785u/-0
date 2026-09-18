@@ -1,0 +1,63 @@
+{
+  "id": "xf-9969",
+  "title": "奇妙芥末虾",
+  "ingredients": [
+    {
+      "name": "薯片",
+      "mergeKey": "potato-chips",
+      "category": "其他"
+    },
+    {
+      "name": "新鲜活虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "芥末",
+      "mergeKey": "wasabi",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉酱",
+      "mergeKey": "mayonnaise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "新鲜的活虾，去头开背去虾肠，留尾巴和最后一节虾壳,"
+    },
+    {
+      "text": "锅中水煮开，放一点点盐和料酒，把剥好的虾放入烫熟，捞出用厨房纸巾吸去表面水分备用,"
+    },
+    {
+      "text": "把色拉酱挤在小碗里，放适量青芥末（这个量视个人能承受芥末的辣味程度而定），把青芥末和沙拉酱拌匀（耐心点，要拌到光滑无颗粒）,"
+    },
+    {
+      "text": "手捏住烫熟虾仁的尾部，把虾仁放到芥末沙拉酱中打个滚，让虾除了尾巴的部分全部包裹上酱，然后用薯片做托，把蘸了芥末沙拉酱的虾仁竖起来放在薯片上，撒上彩针装饰即可（没有彩针就省略这一步）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9969/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

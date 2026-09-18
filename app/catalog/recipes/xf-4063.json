@@ -1,0 +1,125 @@
+{
+  "id": "xf-4063",
+  "title": "鱼香豇豆",
+  "ingredients": [
+    {
+      "name": "豇豆",
+      "mergeKey": "long-bean",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "泡红辣椒",
+      "mergeKey": "pickled-chili",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "豇豆用淡盐水浸泡，冲洗干净，择去两头，从当中切一刀。锅里烧开半锅水，放一小勺盐，滴两滴食用油"
+    },
+    {
+      "text": "把豇豆放入焯水大约两分钟"
+    },
+    {
+      "text": "焯好水的豇豆捞出，立即泡在冰水中降温"
+    },
+    {
+      "text": "降温后的豇豆捞出沥干水分，切段，放大盆中，放盐和鸡精码味"
+    },
+    {
+      "text": "姜蒜剁细末，葱切葱花，泡椒切碎，全部放在一个小碗中"
+    },
+    {
+      "text": "锅中油烧热，浇入小碗中激出香味"
+    },
+    {
+      "text": "浇了热油的调料碗中加一汤匙盐、一汤匙香醋、两汤匙生抽、一汤匙麻油、一点鸡精拌匀"
+    },
+    {
+      "text": "倒入凉透的豇豆中拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/4063/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 167.5,
+    "proteinG": 5.1,
+    "carbsG": 29.5,
+    "fatG": 3.1
+  },
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

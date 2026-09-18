@@ -1,0 +1,70 @@
+{
+  "id": "xf-9654",
+  "title": "枸杞山药煲龙骨",
+  "ingredients": [
+    {
+      "name": "猪龙骨",
+      "mergeKey": "pork-bones",
+      "category": "肉类"
+    },
+    {
+      "name": "山药",
+      "mergeKey": "yam",
+      "category": "蔬菜"
+    },
+    {
+      "name": "十几颗枸杞",
+      "mergeKey": "goji",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "几片姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱结",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪龙骨斩块，洗净,"
+    },
+    {
+      "text": "锅里水烧开，把龙骨绰水（可以看到绰出来的水很脏哦）,"
+    },
+    {
+      "text": "绰过水的龙骨捞出用流动的水洗干净,"
+    },
+    {
+      "text": "沙锅里放绰过水的龙骨，加足量冷水，投几片姜，一个葱结和少许料酒，开大火煮开后撇去浮末，转小火煮半个小时,"
+    },
+    {
+      "text": "带上橡皮手套，把山药洗净去皮切块，迅速投入锅中（速度要快，否则山药很容易氧化发黑），小火继续煲半个小时左右,"
+    },
+    {
+      "text": "山药如果煲半个小时后，投入十多颗枸杞再煲个5分钟，加盐调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9654/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

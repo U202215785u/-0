@@ -1,0 +1,88 @@
+{
+  "id": "xf-11800",
+  "title": "陈皮鸳鸯贝蘑菇汤",
+  "ingredients": [
+    {
+      "name": "陈皮",
+      "mergeKey": "chenpi",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "元蘑",
+      "mergeKey": "yuan-mushroom",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸳鸯贝",
+      "mergeKey": "clam",
+      "amount": 300,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "葱段",
+      "mergeKey": "scallion",
+      "quantityText": "少量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜段",
+      "mergeKey": "ginger",
+      "quantityText": "少量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡高汤",
+      "mergeKey": "chicken-stock",
+      "amount": 1000,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "泡发好的元蘑，加入陈皮、葱姜、鸡高汤，上火煮开,"
+    },
+    {
+      "text": "沸腾后，转文火煲30分钟,"
+    },
+    {
+      "text": "加入鸳鸯贝,"
+    },
+    {
+      "text": "大火煮到贝壳打开即可,"
+    },
+    {
+      "text": "最后加盐调味"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11800/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 201.5,
+    "proteinG": 36.5,
+    "carbsG": 3.6,
+    "fatG": 4.9
+  },
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

@@ -1,0 +1,189 @@
+{
+  "id": "salt-pepper-chicken-wings",
+  "title": "椒盐鸡翅",
+  "ingredients": [
+    {
+      "name": "鸡翅",
+      "mergeKey": "chicken-wings",
+      "amount": 672,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "小甜椒",
+      "mergeKey": "baby-pepper",
+      "amount": 28,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红葱头",
+      "mergeKey": "shallot",
+      "amount": 3,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "chili",
+      "amount": 2,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 60,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "中筋面粉",
+      "mergeKey": "flour",
+      "amount": 45,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 45,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "玉米油",
+      "mergeKey": "cooking-oil",
+      "amount": 1200,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米油",
+      "mergeKey": "cooking-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜盐",
+      "mergeKey": "garlic-salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡翅清洗可选；来源作者说明这样做有助于口感均匀，也更安心。若清洗，接触生鸡肉或飞溅水的台面要彻底清洁消毒。"
+    },
+    {
+      "text": "碗中混合食盐、白糖、白胡椒粉、生抽、蚝油、料酒和老抽，加入鸡翅拌匀并按摩，使腌料更充分进入鸡翅。"
+    },
+    {
+      "text": "葱切小段；来源作者偏好葱白，葱绿可留作其他菜，后续烹调时注意避免烧焦。"
+    },
+    {
+      "text": "小碗混合蒜盐、食盐和白胡椒粉。"
+    },
+    {
+      "text": "深锅中加足量玉米油，中火加热至约149摄氏度，油量应能没过鸡翅。"
+    },
+    {
+      "text": "炒锅中火加热，加入取自炸锅的玉米油。"
+    }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 40,
+  "sourceUrl": "https://www.madewithlau.com/recipes/salt-pepper-chicken-wings",
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、准备20分钟、烹调20分钟、总时长40分钟、20项配料和6段方法；保留鸡翅清洗说明、149摄氏度油温和调味步骤。",
+  "tags": [
+    "炸"
+  ],
+  "difficulty": "中等"
+}

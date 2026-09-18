@@ -1,0 +1,133 @@
+{
+  "id": "xf-10000",
+  "title": "炖羊蝎子",
+  "ingredients": [
+    {
+      "name": "紫草",
+      "mergeKey": "zi-cao",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "羊蝎子",
+      "mergeKey": "lamb",
+      "category": "肉类"
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "肉寇",
+      "mergeKey": "nutmeg",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豆蔻",
+      "mergeKey": "cardamom",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "三奈",
+      "mergeKey": "sannai",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "砂仁",
+      "mergeKey": "sharen",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "丁香",
+      "mergeKey": "clove",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜"
+    },
+    {
+      "name": "辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "高汤",
+      "mergeKey": "broth",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "把羊蝎子剁成4厘米的块，洗净，然后用冷水浸泡2小时，目的是泡出羊肉里的血水去除膻味,"
+    },
+    {
+      "text": "锅内放油，煎香洋葱和整根的香菜,"
+    },
+    {
+      "text": "就是为了要这个油，这个油里充满了香菜和洋葱的香味是小火慢慢沁出来的,"
+    },
+    {
+      "text": "煸香葱、姜、蒜、小茴香，八角，紫草，肉寇，豆蔻，三奈，砂仁，丁香、香叶，桂皮，小辣椒炒出香味,"
+    },
+    {
+      "text": "将刚才煸好的洋葱香菜油和炒出香味的调料一并倒入汤锅中，加入酱油、冰糖煮沸，这个汤很关键，香料可以去膻解腻，还何以增加香味，反正满厨房都是香的，更别说羊肉了,"
+    },
+    {
+      "text": "放入泡净血沫的羊蝎子,"
+    },
+    {
+      "text": "大火烧开撇去浮沫，烹入料酒，改中火盖盖炖1个半小时,"
+    },
+    {
+      "text": "最后放盐、胡椒粉调味出锅即可。汤多了可以放在火锅里，就是外面的羊蝎子火锅了。涮点蔬菜、豆腐之类的热热乎乎的在这么冷的冬天北方人都爱吃这道羊肉的大餐啊"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10000/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

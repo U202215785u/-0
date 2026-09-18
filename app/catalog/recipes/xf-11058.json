@@ -1,0 +1,92 @@
+{
+  "id": "xf-11058",
+  "title": "杭椒鸡肉小炒",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken",
+      "amount": 3,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "杭椒",
+      "mergeKey": "chili",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜头",
+      "mergeKey": "garlic",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "橄榄油",
+      "mergeKey": "olive-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡腿肉去骨后，切成小块；杭椒切小段；蒜头切片,"
+    },
+    {
+      "text": "鸡肉加少许料酒、盐、淀粉、橄榄油腌制15分钟,"
+    },
+    {
+      "text": "炒锅中倒入2勺橄榄油，温热后倒入腌制好的鸡肉丁滑炒至变色后盛出备用,"
+    },
+    {
+      "text": "锅中留少许底油，放入杭椒和蒜片翻炒出香味后，倒入滑炒过的鸡肉丁，加少许生抽和糖调味，翻炒均匀即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11058/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸",
+    "烤"
+  ],
+  "nutrition": {
+    "kcal": 398.3,
+    "proteinG": 54,
+    "carbsG": 0,
+    "fatG": 18
+  },
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

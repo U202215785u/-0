@@ -1,0 +1,120 @@
+{
+  "id": "xf-10560",
+  "title": "焦糖葡萄干蛋糕",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 60,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 70,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "葡萄干",
+      "mergeKey": "raisin",
+      "amount": 35,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 35,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 35,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "细沙糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋液",
+      "mergeKey": "egg",
+      "amount": 60,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "大匙奶粉",
+      "mergeKey": "milk-powder",
+      "amount": 30,
+      "unit": "克",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙无铝泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅内放入细砂糖，小火加热,"
+    },
+    {
+      "text": "至琥珀色时，立即关火，小心加入水、葡萄干,"
+    },
+    {
+      "text": "继续开小火煮至沸腾，关火，盛出，即为焦糖葡萄干,"
+    },
+    {
+      "text": "室温软化黄油，加入细砂糖，搅拌至羽毛状,"
+    },
+    {
+      "text": "分3次加入蛋液，每次都要拌匀再加下一次,"
+    },
+    {
+      "text": "低粉、奶粉、泡打粉混合过筛，加入5中，切拌至无干粉粒,"
+    },
+    {
+      "text": "取1/2的焦糖葡萄干加入面糊中，拌匀,"
+    },
+    {
+      "text": "将面糊装入裱花袋,"
+    },
+    {
+      "text": "挤入纸杯中五分满，撒上剩余的焦糖葡萄干，放入预热190度的烤箱，烤制20~25分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10560/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 233.2,
+    "proteinG": 3.8,
+    "carbsG": 50.5,
+    "fatG": 2.1
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

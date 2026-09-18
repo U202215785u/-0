@@ -1,0 +1,58 @@
+{
+  "id": "xf-11456",
+  "title": "芦笋百合扇贝",
+  "ingredients": [
+    {
+      "name": "冰冻小扇贝",
+      "mergeKey": "scallop",
+      "category": "水产"
+    },
+    {
+      "name": "芦笋",
+      "mergeKey": "asparagus",
+      "category": "蔬菜"
+    },
+    {
+      "name": "百合",
+      "mergeKey": "lily",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "冷冻扇贝解冻，去除泥肠等，清洗干净，拍碎姜片和葱段，调入少许料酒和盐，将扇贝腌制去腥,"
+    },
+    {
+      "text": "芦笋百合清洗干净，芦笋削去尾部老皮等，和百合一起入沸水中氽烫至8成熟,"
+    },
+    {
+      "text": "将腌制好的扇贝肉挑出来，锅中放油烧热，放入蒜蓉和扇贝快速翻炒，加入芦笋百合，调入盐，蚝油翻匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11456/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

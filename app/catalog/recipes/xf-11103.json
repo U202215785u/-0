@@ -1,0 +1,85 @@
+{
+  "id": "xf-11103",
+  "title": "凉拌海蜇丝",
+  "ingredients": [
+    {
+      "name": "海蜇丝",
+      "mergeKey": "jellyfish",
+      "amount": 300,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "15毫升米醋",
+      "mergeKey": "vinegar",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/23克白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙1克盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5毫升辣椒油",
+      "mergeKey": "chili-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克熟白芝麻",
+      "mergeKey": "sesame",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将海蜇丝放入开水中焯烫10到15秒钟后捞出沥干，放入盘中后倒入100毫升米醋浸泡10分钟,"
+    },
+    {
+      "text": "然后将浸泡的米醋倒掉不用。调入15毫升新的米醋，生抽，白糖，盐，辣椒油和熟芝麻，拌匀即可,"
+    },
+    {
+      "text": "在夏季，放入冰箱冷藏20分钟后食用口感更好"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11103/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 133.4,
+    "proteinG": 5.5,
+    "carbsG": 19.8,
+    "fatG": 3.2
+  },
+  "tags": [
+    "凉拌"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

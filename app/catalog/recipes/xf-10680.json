@@ -1,0 +1,86 @@
+{
+  "id": "xf-10680",
+  "title": "酸菜炖排骨",
+  "ingredients": [
+    {
+      "name": "酸菜",
+      "mergeKey": "suancai",
+      "category": "蔬菜"
+    },
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "category": "肉类"
+    },
+    {
+      "name": "粉条",
+      "mergeKey": "vermicelli",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "猪油",
+      "mergeKey": "lard",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "粉条提前剪短，用温水提前泡软,"
+    },
+    {
+      "text": "排骨洗净血污，锅中冷水烧开，放排骨进去煮三分钟,"
+    },
+    {
+      "text": "捞出排骨，洗净沥干,"
+    },
+    {
+      "text": "干净锅中放冷水，把焯好水的排骨放入，开大火煮,"
+    },
+    {
+      "text": "锅中煮开后转小火，撇去浮沫后，加料酒，生姜片和葱结，小火炖1个小时,"
+    },
+    {
+      "text": "酸菜用清水洗洗沥干水份，炒锅放猪油，把酸菜丝倒入煸炒透，放入排骨汤内一起炖，10分钟后放粉条，煮几分钟看到粉条变透明，加适量盐和鸡精调好味，即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10680/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

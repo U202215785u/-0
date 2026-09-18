@@ -1,0 +1,86 @@
+{
+  "id": "xf-10433",
+  "title": "虎皮蛋红烧肉",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "-9个鹌鹑蛋",
+      "mergeKey": "quail-egg",
+      "amount": 8,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红烧汁",
+      "mergeKey": "braising-sauce",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "肉切成小方块， 在沸水中焯一下去掉血腥味沥干,"
+    },
+    {
+      "text": "锅中放少许油烧热，放进肉翻炒一会，加热水盖过肉（要一次加足），加入姜片和料酒，此时我移至小砂锅小火焖烧,"
+    },
+    {
+      "text": "鹌鹑蛋煮熟去壳，热油中炸至表皮金黄捞出沥干油,"
+    },
+    {
+      "text": "肉烧至6成熟的时候加入生抽、红烧汁（或老抽）、冰糖和炸好的虎皮蛋，继续小火焖烧，期间要翻动几次，最后几分钟改中火烧至汤汁浓厚即可关火，起锅装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10433/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 259,
+    "proteinG": 4.7,
+    "carbsG": 0,
+    "fatG": 26.5
+  },
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

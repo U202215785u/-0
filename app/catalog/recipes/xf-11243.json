@@ -1,0 +1,159 @@
+{
+  "id": "xf-11243",
+  "title": "紫米核桃吐司",
+  "ingredients": [
+    {
+      "name": "高筋粉",
+      "mergeKey": "bread-flour",
+      "amount": 250,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "汤种",
+      "mergeKey": "tangzhong",
+      "amount": 70,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "熟紫米",
+      "mergeKey": "purple-rice",
+      "amount": 50,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "核桃碎",
+      "mergeKey": "walnut",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "奶粉",
+      "mergeKey": "milk-powder",
+      "amount": 15,
+      "unit": "克",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "三分之二小勺盐",
+      "mergeKey": "salt",
+      "amount": 3.33,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干酵母",
+      "mergeKey": "yeast",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "全蛋",
+      "mergeKey": "egg",
+      "amount": 20,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "无盐奶油",
+      "mergeKey": "butter",
+      "amount": 20,
+      "unit": "克",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "把除奶油、熟紫米、核桃碎之外的原料倒在一起，揉至面团有弹性。 （牛奶要先加入三分之二左右，其余视情况加入,"
+    },
+    {
+      "text": "加入奶油揉匀，面团至完全阶段。 （能拉开薄膜，破洞周围平滑,"
+    },
+    {
+      "text": "再加入紫米和核桃碎慢慢揉均匀,"
+    },
+    {
+      "text": "放入涂薄油的盆中，盖上保鲜膜，基础发酵,"
+    },
+    {
+      "text": "发酵至二至二点五倍大，用手指沾面粉插下去，洞口不回缩，证明发酵完成,"
+    },
+    {
+      "text": "取出面团，轻拍排气，滚圆，盖上保鲜膜，中间发酵十五分钟,"
+    },
+    {
+      "text": "将面团先略收成长椭圆，上下擀开约30厘米，左右约比吐司模的长度略短,"
+    },
+    {
+      "text": "相机没电了，少拍一步,"
+    },
+    {
+      "text": "面团翻面，由上往下卷起，收口收紧，放入模型进行最后发酵,"
+    },
+    {
+      "text": "最后发酵放在烤箱里（夏天不用把烤箱通电）。 如果空气很干燥，可以先在烤箱里先放一碗热水约半分钟左右，取出，再放面包进去,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "发酵到模型九分满，拿出,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "烤箱预热185度，放下层烤35分钟左右（此温度三能波纹吐司盒适用,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "注意观察，表面上色之后，在上层放烤网加锡纸遮盖,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "出炉，脱模"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11243/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 250.7,
+    "proteinG": 8,
+    "carbsG": 41.8,
+    "fatG": 5.3
+  },
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 90,
+  "difficulty": "中等"
+}

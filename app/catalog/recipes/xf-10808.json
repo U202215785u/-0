@@ -1,0 +1,101 @@
+{
+  "id": "xf-10808",
+  "title": "兔肉南瓜饭",
+  "ingredients": [
+    {
+      "name": "兔肉",
+      "mergeKey": "rabbit",
+      "category": "肉类"
+    },
+    {
+      "name": "南瓜",
+      "mergeKey": "pumpkin",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大米",
+      "mergeKey": "rice",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "兔肉洗净泡在清水里，中途换三次水，到兔肉颜色发白，捞出沥水。把兔肉切小块，加盐，少许老抽，料酒腌制30分钟,"
+    },
+    {
+      "text": "大米用清水泡30分钟，沥干备用,"
+    },
+    {
+      "text": "南瓜切丁，葱姜蒜切末,"
+    },
+    {
+      "text": "锅烧热，放少许色拉油，油温上来后爆香葱姜蒜末,"
+    },
+    {
+      "text": "把腌制好的兔肉放进去煸炒至变色,"
+    },
+    {
+      "text": "放南瓜块进去一起煸炒至南瓜软身，加少许料酒和老抽继续翻炒均匀,"
+    },
+    {
+      "text": "放泡好沥干的大米进去翻炒片刻,"
+    },
+    {
+      "text": "加水，适量盐和鸡精煮一分钟。（水的量根据你家喜欢饭的软硬度情况来定，比平时煮饭的水稍稍多一点就可以了,"
+    },
+    {
+      "text": "移入电饭煲，插电按下煮饭键，让它们在里面咕噜吧。等煮饭键跳起后焖20分钟，就可以装碗开吃了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10808/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

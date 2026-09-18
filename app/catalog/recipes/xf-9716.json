@@ -1,0 +1,78 @@
+{
+  "id": "xf-9716",
+  "title": "酱爆花蛤",
+  "ingredients": [
+    {
+      "name": "花蛤",
+      "mergeKey": "clam",
+      "category": "水产"
+    },
+    {
+      "name": "两勺蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一勺海鲜酱",
+      "mergeKey": "hoisin-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一勺料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备一盆清水，放几勺盐，让水成淡盐水，把花蛤泡在淡盐水中，再滴一两滴食用油，浸泡二到三小时，让花蛤把泥沙吐尽,"
+    },
+    {
+      "text": "把浸泡过的花蛤淘洗干净，沥水,"
+    },
+    {
+      "text": "准备一个小碗，用两勺蚝油，一勺海鲜酱，一勺料酒，三勺清水的比例调制成酱汁。葱切段，葱白和葱青分开，姜切丝,"
+    },
+    {
+      "text": "锅中放水放两片姜煮开后，倒入花蛤，煮一分钟左右，待花蛤张开，捞出沥水待用,"
+    },
+    {
+      "text": "起油锅，爆香姜丝和葱白,"
+    },
+    {
+      "text": "把刚才调好的酱汁倒入锅中，煮开,"
+    },
+    {
+      "text": "倒入焯好水的花蛤，快速翻炒至酱汁包裹住花蛤，起锅，撒葱花"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9716/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

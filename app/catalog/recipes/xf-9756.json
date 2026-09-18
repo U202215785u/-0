@@ -1,0 +1,63 @@
+{
+  "id": "xf-9756",
+  "title": "素三丝",
+  "ingredients": [
+    {
+      "name": "茭白",
+      "mergeKey": "water-bamboo",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "榨菜",
+      "mergeKey": "pickled-mustard",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将茭白、胡萝卜、榨菜分别切丝,"
+    },
+    {
+      "text": "起油锅，油热后将原料依次倒入翻炒均匀后，加2勺高汤，稍许焖一会，待胡萝卜茭白变软后，加入盐、鸡精调味，最后淋几滴香油即可出锅~"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9756/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

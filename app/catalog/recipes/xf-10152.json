@@ -1,0 +1,51 @@
+{
+  "id": "xf-10152",
+  "title": "雪梨山楂",
+  "ingredients": [
+    {
+      "name": "山楂糕",
+      "mergeKey": "hawthorn-cake",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "雪梨",
+      "mergeKey": "pear",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "雪梨去皮、 山楂糕切条、 黄瓜切条,"
+    },
+    {
+      "text": "把食材都放在盘中加上蜂蜜和枸杞就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10152/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "xf-10356",
+  "title": "朗姆酒芝士焗虾",
+  "ingredients": [
+    {
+      "name": "马苏里拉芝士",
+      "mergeKey": "mozzarella",
+      "category": "乳制品"
+    },
+    {
+      "name": "大对虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "朗姆酒",
+      "mergeKey": "rum",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜蓉",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "对虾洗净剪去须，沥干水分，用剪刀在背部剪开，挑出肠泥。撒上盐，淋点朗姆酒，撒白胡椒粉腌制一个小时左右,"
+    },
+    {
+      "text": "烤箱180度预热。烤盘铺锡纸，把腌制好的对虾排在上面，在虾开背处撒上蒜蓉,"
+    },
+    {
+      "text": "马苏里拉芝士刨成屑，撒在对虾开背处。放入预热好的烤箱中层、180度烤20分钟左右即可出炉"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10356/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

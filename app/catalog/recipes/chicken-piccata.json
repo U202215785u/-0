@@ -1,0 +1,150 @@
+{
+  "id": "chicken-piccata",
+  "title": "柠檬酸豆鸡排",
+  "ingredients": [
+    {
+      "name": "去皮鸡胸肉",
+      "quantityText": "2大块",
+      "mergeKey": "chicken-breast",
+      "category": "肉类"
+    },
+    {
+      "name": "粗盐",
+      "quantityText": "适量",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "面粉",
+      "amount": 60,
+      "unit": "克",
+      "mergeKey": "flour",
+      "category": "米面主食"
+    },
+    {
+      "name": "特级初榨橄榄油",
+      "amount": 45,
+      "unit": "毫升",
+      "mergeKey": "olive-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜",
+      "amount": 20,
+      "unit": "克",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干白葡萄酒",
+      "amount": 80,
+      "unit": "毫升",
+      "mergeKey": "white-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酸豆",
+      "amount": 15,
+      "unit": "克",
+      "mergeKey": "capers",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "无盐黄油",
+      "amount": 57,
+      "unit": "克",
+      "mergeKey": "butter",
+      "category": "乳制品"
+    },
+    {
+      "name": "鲜柠檬汁",
+      "amount": 30,
+      "unit": "毫升",
+      "mergeKey": "lemon-juice",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "欧芹",
+      "quantityText": "适量",
+      "mergeKey": "parsley",
+      "category": "蔬菜"
+    },
+    {
+      "name": "柠檬角",
+      "quantityText": "适量",
+      "mergeKey": "lemon-wedge",
+      "category": "蔬菜"
+    },
+    {
+      "name": "清水",
+      "amount": 120,
+      "unit": "毫升",
+      "mergeKey": "water",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡胸肉横向剖成4块，用保鲜膜夹住轻轻拍薄至约1.3厘米，撒少量粗盐；面粉放浅盘，鸡排逐块裹粉并抖掉多余面粉。",
+      "ingredientNames": [
+        "去皮鸡胸肉",
+        "粗盐",
+        "面粉"
+      ]
+    },
+    {
+      "text": "平底锅中火加2汤匙橄榄油，鸡排分批下锅，不移动煎约2分钟至底面深褐，翻面再煎约30秒，盛出。",
+      "ingredientNames": [
+        "特级初榨橄榄油",
+        "去皮鸡胸肉"
+      ]
+    },
+    {
+      "text": "锅中加入剩余橄榄油和拍碎的蒜，中火炒约2分钟至金黄；加入白葡萄酒和酸豆，刮起锅底焦香，煮约3分钟至酒液将干。",
+      "ingredientNames": [
+        "特级初榨橄榄油",
+        "蒜",
+        "干白葡萄酒",
+        "酸豆"
+      ]
+    },
+    {
+      "text": "加入清水和黄油，快速转动锅子约1分钟，使黄油与水乳化成酱汁。",
+      "ingredientNames": [
+        "清水",
+        "无盐黄油"
+      ]
+    },
+    {
+      "text": "鸡排回锅，小火煮约2分钟至熟透、酱汁能挂勺；离火拌入柠檬汁，尝味补盐，撒欧芹并配柠檬角。",
+      "ingredientNames": [
+        "去皮鸡胸肉",
+        "鲜柠檬汁",
+        "粗盐",
+        "欧芹",
+        "柠檬角"
+      ]
+    }
+  ],
+  "baseServings": 4,
+  "sourceUrl": "https://www.bonappetit.com/recipe/chicken-piccata",
+  "author": "Chris Morocco / Bon Appetit",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验 Bon Appetit 公开的4人份、25分钟总时长、Chris Morocco署名、10项配料和4段方法；按公开内容翻译为中文并保留鸡排拍薄、分批煎制、白葡萄酒收汁和柠檬离火加入。",
+  "nutrition": {
+    "kcal": 148.6,
+    "proteinG": 2,
+    "carbsG": 9.5,
+    "fatG": 11.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

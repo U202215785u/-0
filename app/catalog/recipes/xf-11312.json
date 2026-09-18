@@ -1,0 +1,123 @@
+{
+  "id": "xf-11312",
+  "title": "海苔肉松面包",
+  "ingredients": [
+    {
+      "name": "高粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "肉松",
+      "mergeKey": "pork-floss",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "海苔",
+      "mergeKey": "nori",
+      "amount": 1,
+      "unit": "张",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "原味酸奶",
+      "mergeKey": "yogurt",
+      "amount": 35,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "/3小匙酵母",
+      "mergeKey": "yeast",
+      "amount": 3.33,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 20,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 80,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 15,
+      "unit": "克",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "面团揉至完全阶段，发酵至两倍大，排气，滚圆，松弛15分钟,"
+    },
+    {
+      "text": "擀开呈四方形，略大于海苔。（用擀面杖向四个角擀开，容易形成四方形,"
+    },
+    {
+      "text": "翻面，铺上一张海苔,"
+    },
+    {
+      "text": "在海苔上均匀铺上肉松,"
+    },
+    {
+      "text": "卷起,"
+    },
+    {
+      "text": "摆入烤盘，在烤箱里放一碗温水，放入烤箱进行最后一次发酵50分钟左右。（水温根据气温决定，现在广州气温30度，所以不用太热的水,"
+    },
+    {
+      "text": "最后一次发酵完成，取出刷全蛋液,"
+    },
+    {
+      "text": "烤箱预热175度，中层烤25分钟。（上色足够后，要盖锡纸"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11312/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 127.4,
+    "proteinG": 4.1,
+    "carbsG": 21.2,
+    "fatG": 2.7
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

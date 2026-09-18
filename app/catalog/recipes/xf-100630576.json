@@ -1,0 +1,49 @@
+{
+  "id": "xf-100630576",
+  "title": "粉蒸肉",
+  "ingredients": [
+    {
+      "name": "蒸肉米粉",
+      "mergeKey": "rice-flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "姜，葱花",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酱油，料酒",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "五花肉切块，用料酒酱油生姜腌一个小时，然后加米粉拌匀。"
+    },
+    {
+      "text": "芋头或南瓜或土豆切块，加一点盐拌匀，平铺到盘中垫底，把拌好的肉放在上面。"
+    },
+    {
+      "text": "水开后上锅蒸，中小火一个半小时即可，出锅前撒葱花点缀。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100630576/",
+  "author": "波斯不是喵",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "蒸",
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

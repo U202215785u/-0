@@ -1,0 +1,82 @@
+{
+  "id": "xf-9703",
+  "title": "家常拔丝红薯",
+  "ingredients": [
+    {
+      "name": "红心红薯",
+      "mergeKey": "sweet-potato",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 100,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(约耗50克)菜油",
+      "mergeKey": "cooking-oil",
+      "amount": 500,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "红薯去皮，洗净，切成3厘米大小的滚刀块，放入清水中浸洗，捞出，主要是洗去表面的淀粉防止一会一炸就变黑，沥去水分,"
+    },
+    {
+      "text": "锅置旺火上，菜油烧至六成热时，放人红薯块慢慢炸制,"
+    },
+    {
+      "text": "炸至红薯块充分成熟、外表微黄时捞出,"
+    },
+    {
+      "text": "锅内留少量油，加入冰糖，加少许水不断翻炒,"
+    },
+    {
+      "text": "小火炒至冰糖开始慢慢溶化,"
+    },
+    {
+      "text": "开始融化但颜色较浅，并有大的泡泡,"
+    },
+    {
+      "text": "全部融化色浅有大的泡泡，注意火候，不要温度太高,"
+    },
+    {
+      "text": "此时糖已经金黄色，气泡也开始变小,"
+    },
+    {
+      "text": "糖开始变得粘稠有些力度了气泡有的地方变没了，这就要百般注意了，千万不能温度高了，就功亏一篑了糖就会变苦成焦糖了,"
+    },
+    {
+      "text": "迅速放入炸好的红薯块,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "放入红薯块迅速炒均匀即可出盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9703/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 393.5,
+    "proteinG": 7.5,
+    "carbsG": 92.5,
+    "fatG": 1.4
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "xf-11597",
+  "title": "奶酪夹心巧克力派",
+  "ingredients": [
+    {
+      "name": "中筋面粉或低筋面粉",
+      "mergeKey": "flour",
+      "amount": 125,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "奶油奶酪",
+      "mergeKey": "cream-cheese",
+      "amount": 150,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "黑巧克力",
+      "mergeKey": "dark-chocolate",
+      "amount": 40,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "(50克)鸡蛋",
+      "mergeKey": "egg",
+      "amount": 50,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "红糖",
+      "mergeKey": "sugar",
+      "amount": 75,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葵花籽油",
+      "mergeKey": "cooking-oil",
+      "amount": 28,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 28,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "可可粉",
+      "mergeKey": "cocoa-powder",
+      "amount": 18,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺(2.5毫升)泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺(2.5毫升)小苏打",
+      "mergeKey": "baking-soda",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺(1.25毫升)盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "powdered-sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "-75克动物性淡奶油",
+      "mergeKey": "cream",
+      "amount": 50,
+      "unit": "克",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "黑巧克力切成小块放入碗里，坐在热水里加热并不断搅拌，直到黑巧克力融化成液态。将碗从热水里取出，将巧克力冷却到摸上去不再温热但仍保持流动性的程度（冬天如果天气太冷巧克力可能会快就会凝固，可将装巧克力的碗放在温水里使它保持液态）,"
+    },
+    {
+      "text": "鸡蛋、融化的黄油、红糖、葵花籽油、盐全部倒入大碗，用打蛋器搅拌均匀,"
+    },
+    {
+      "text": "倒入融化的巧克力，搅拌均匀成为如图所示的糊状,"
+    },
+    {
+      "text": "面粉、可可粉、泡打粉、小苏打等粉类混合均匀并过筛,"
+    },
+    {
+      "text": "在第3步的液体混合物里倒入1/3的牛奶,"
+    },
+    {
+      "text": "倒入1/3过筛后的粉类混合物，用刮刀拌匀,"
+    },
+    {
+      "text": "再倒入1/3牛奶，倒入1/3粉类，重复这个过程直到牛奶和粉类全部加入完毕，搅拌成为光滑的面糊,"
+    },
+    {
+      "text": "将面糊装入裱花带，用大号的圆孔裱花嘴在烤盘上挤出圆形的面糊。每个面糊之间留出足够的距离。这个配方的分量大概可以挤出20个圆形面糊，若烤盘不够大，可以分次烘烤,"
+    },
+    {
+      "text": "将烤盘放入预热好200的烤箱，中层，烤10分钟左右，面糊在烤的过程中会膨胀并略微平摊开来，成为比原来打上许多的巧克力蛋糕。烤好的巧克力蛋糕取出冷却,"
+    },
+    {
+      "text": "接着制作奶酪馅。奶油奶酪室温软化以后，加入糖粉用打蛋器充分打发，成为蓬松顺滑的状态，然后分2-3次加入淡奶油,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入淡奶油后用打蛋器充分搅打，使奶油奶酪达到合适的浓稠程度。淡奶油不一定需要全部加完。如此奶酪馅便做好了,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将奶酪馅装入裱花带，画圈挤在一片巧克力蛋糕的底部，盖上另一片蛋糕，就可以吃了。同时，也可以在蛋糕上撒点糖粉作为装饰"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11597/",
+  "author": "君之",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 459.4,
+    "proteinG": 11.8,
+    "carbsG": 87.7,
+    "fatG": 7.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

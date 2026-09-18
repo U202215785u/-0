@@ -1,0 +1,134 @@
+{
+  "id": "xf-11165",
+  "title": "奶香蘑菇饭",
+  "ingredients": [
+    {
+      "name": "马苏里拉芝士",
+      "mergeKey": "mozzarella",
+      "amount": 30,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "白米饭",
+      "mergeKey": "rice",
+      "amount": 1,
+      "unit": "碗",
+      "category": "米面主食"
+    },
+    {
+      "name": "草菇",
+      "mergeKey": "straw-mushroom",
+      "amount": 20,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "新鲜香菇",
+      "mergeKey": "shiitake",
+      "amount": 20,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "平菇",
+      "mergeKey": "oyster-mushroom",
+      "amount": 20,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "洋菇",
+      "mergeKey": "button-mushroom",
+      "amount": 20,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "鲜奶",
+      "mergeKey": "milk",
+      "amount": 150,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "/4颗洋葱",
+      "mergeKey": "onion",
+      "amount": 0.25,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2大匙沙拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/8小匙黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "amount": 0.625,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "意大利香料",
+      "mergeKey": "italian-herbs",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将各类蘑菇洗净，草菇切成4小块，平菇用手撕成小条，香菇和洋菇去蒂切片，洋葱切成小块，大蒜去皮剁成蓉,"
+    },
+    {
+      "text": "炒锅内放入沙拉油，冷油加入洋葱和蒜蓉，小火炒出香味,"
+    },
+    {
+      "text": "转中火，先加入草菇，平菇和洋菇炒约1分钟，最后再加入平菇炒1分钟左右,"
+    },
+    {
+      "text": "加入白米饭一碗，注入鲜奶，水量以没过米饭和蘑菇为准。用锅铲将鲜奶和米饭拌匀后，加入盐， 黑胡椒粉，意大利香料。用小火煮8分钟左右，至米饭的水份基本收干。（不要太干了，太干口感不好,"
+    },
+    {
+      "text": "将煮好的蘑菇饭放入烤碗内，表面铺上马苏里拉芝士条，烤箱220度预热，放入烤箱中层烤5分钟，至芝干溶化表面有些微黄色即可。（没有烤箱的，放入微波炉用中火叮3分钟，至表面芝士溶化即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11165/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 197,
+    "proteinG": 5.8,
+    "carbsG": 36.1,
+    "fatG": 2.7
+  },
+  "tags": [
+    "主食",
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "xf-11678",
+  "title": "菠萝咕咾肉",
+  "ingredients": [
+    {
+      "name": "/4块菠萝",
+      "mergeKey": "pineapple",
+      "quantityText": "1/4块",
+      "category": "蔬菜"
+    },
+    {
+      "name": "里几肉",
+      "mergeKey": "pork",
+      "amount": 1,
+      "unit": "块",
+      "category": "肉类"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "枚",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蕃茄酱",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "里几肉清洗干净后切成小丁，并用刀背拍几下,"
+    },
+    {
+      "text": "肉质拍松的里几肉调入适量盐，鸡精，胡椒粉和少许生粉抓匀腌制备用，菠萝切小块备用；将腌制好的里几肉裹层蛋液再沾匀面粉（面粉及生粉2：1）,"
+    },
+    {
+      "text": "锅中放油烧热（筷子插入锅中有小汽泡），调成中小火放入里几块炸至金黄，快出锅前调大火炸至颜色变深捞出备用,"
+    },
+    {
+      "text": "锅烧热，放水1碗，调入多一些的蕃茄酱，多一些的糖，少许醋，烧开后淋入适量生粉水烧至粘稠再将炸好的里几肉及菠萝一同放入翻匀即可。（糖醋比例可依自己的口味增减）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11678/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

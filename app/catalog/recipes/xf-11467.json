@@ -1,0 +1,72 @@
+{
+  "id": "xf-11467",
+  "title": "香肠菠萝炒饭",
+  "ingredients": [
+    {
+      "name": "米饭",
+      "mergeKey": "rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "菠萝",
+      "mergeKey": "pineapple",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香肠",
+      "mergeKey": "sausage",
+      "category": "肉类"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豌豆",
+      "mergeKey": "pea",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有材料清洗干净后，菠萝一剖为二，取出果肉，留菠萝壳备用；其它材料切成丁，鸡蛋打散，放入锅煎成碎蛋块,"
+    },
+    {
+      "text": "锅中放油烧热，依次放入香肠丁，胡萝卜翻炒几下，接着加入豌豆丁翻炒，再加入米饭用锅铲打散翻炒，调入盐，鸡精，快出锅时撒上菠萝丁，葱花，蛋液翻匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11467/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

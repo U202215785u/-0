@@ -1,0 +1,77 @@
+{
+  "id": "xf-107230990",
+  "title": "红烧茄子",
+  "ingredients": [
+    {
+      "name": "茄子",
+      "mergeKey": "eggplant",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "甜椒",
+      "mergeKey": "bell-pepper",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "西红柿",
+      "mergeKey": "tomato",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "头蒜",
+      "mergeKey": "garlic",
+      "amount": 1,
+      "unit": "头",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "不定量（准备即可）生抽、老抽、蚝油、糖",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "茄子切块"
+    },
+    {
+      "text": "放入淀粉搅拌"
+    },
+    {
+      "text": "3勺淀粉、3勺面粉、鸡蛋一个，搅成面糊，茄子放入滚一圈"
+    },
+    {
+      "text": "起油烧锅炸至金黄，捞出控油"
+    },
+    {
+      "text": "料汁（大蒜切碎、一勺生抽、半勺老抽、一勺蚝油、半勺糖、适量清水，少许鸡精）搅拌均匀"
+    },
+    {
+      "text": "起锅烧油：倒入番茄、甜椒，倒入料汁，加入茄子，翻炒均匀即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107230990/",
+  "author": "任清艺的黑暗料理师",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

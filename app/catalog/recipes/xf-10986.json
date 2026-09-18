@@ -1,0 +1,114 @@
+{
+  "id": "xf-10986",
+  "title": "抹茶红豆戚风蛋糕",
+  "ingredients": [
+    {
+      "name": "低粉",
+      "mergeKey": "cake-flour",
+      "amount": 80,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "抹茶粉",
+      "mergeKey": "matcha-powder",
+      "amount": 6,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蜜红豆",
+      "mergeKey": "red-bean",
+      "amount": 50,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 4,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 75,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 40,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "几滴白醋",
+      "mergeKey": "vinegar",
+      "quantityText": "几滴",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "抹茶粉加少许温水搅拌均匀,"
+    },
+    {
+      "text": "蛋白滴几滴白醋后，打至粗泡，然后分次加糖打至接近硬性发泡,"
+    },
+    {
+      "text": "蛋黄加糖搅打至浓稠发白后，依次加入色拉油和牛奶，分别搅打均匀,"
+    },
+    {
+      "text": "将1加入蛋黄糊中，搅拌均匀,"
+    },
+    {
+      "text": "将低粉过筛后倒入，翻拌均匀（此时烤箱可以开始预热,"
+    },
+    {
+      "text": "将打发好的蛋白取1/3到蛋黄糊中，翻拌均匀,"
+    },
+    {
+      "text": "再倒回剩余的蛋白中翻拌均匀,"
+    },
+    {
+      "text": "将蜜红豆裹上一层低粉（防止沉底），倒入面糊中，翻拌均匀,"
+    },
+    {
+      "text": "倒入模中，轻轻震几下，磕出气泡，放入170度预热的烤箱，中下层，烘烤35-40分钟,"
+    },
+    {
+      "text": "出炉后立即倒扣，待凉透后脱模"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10986/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 378.5,
+    "proteinG": 16.4,
+    "carbsG": 52.1,
+    "fatG": 12.3
+  },
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

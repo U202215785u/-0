@@ -1,0 +1,114 @@
+{
+  "id": "xf-11672",
+  "title": "蒜蓉烤虾",
+  "ingredients": [
+    {
+      "name": "青椒丁",
+      "mergeKey": "green-pepper",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒丁",
+      "mergeKey": "red-pepper",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "15克大蒜末",
+      "mergeKey": "garlic",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鲜虾",
+      "mergeKey": "shrimp",
+      "amount": 8,
+      "unit": "只",
+      "category": "水产"
+    },
+    {
+      "name": "5克葱末",
+      "mergeKey": "scallion",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2茶匙3克姜末",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄椒丁",
+      "mergeKey": "yellow-pepper",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2茶匙约3克盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升西班牙橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先用剪刀剪掉虾枪和虾脚，用剪刀沿着虾背剪开，用牙签去除下线后，用刀将虾背片开,"
+    },
+    {
+      "text": "片开虾身的2/3，留下1/3不要断开。将虾背展开后，用刀轻轻的剁几下，这样做可以使虾身更舒展，而且在腌制时容易入味,"
+    },
+    {
+      "text": "在虾肉上均匀地撒上盐（2克）和料酒腌渍10分钟,"
+    },
+    {
+      "text": "将葱姜蒜末放入碗中，加入青红黄椒碎，调入盐（1克），和西班牙橄榄油，搅匀后放置5分钟,"
+    },
+    {
+      "text": "将虾放入铺有锡纸的烤盘中，并将拌好的葱姜蒜末和青红黄椒碎用勺子平摊在虾背上,"
+    },
+    {
+      "text": "放入烤箱的中层，用200度的温度，烤约10分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11672/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 576.7,
+    "proteinG": 96.5,
+    "carbsG": 6.3,
+    "fatG": 19.3
+  },
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

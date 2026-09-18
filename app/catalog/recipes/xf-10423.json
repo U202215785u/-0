@@ -1,0 +1,72 @@
+{
+  "id": "xf-10423",
+  "title": "香椿厚蛋烧",
+  "ingredients": [
+    {
+      "name": "香椿",
+      "mergeKey": "xiangchun",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "香椿放开水里汆烫一分钟，捞出,"
+    },
+    {
+      "text": "汆烫好的香椿切碎,"
+    },
+    {
+      "text": "鸡蛋打散，香椿切碎放入鸡蛋液中，加适量盐，加两汤匙温水，滴几滴黄酒搅匀,"
+    },
+    {
+      "text": "平底锅烧热后，放两小勺油，把搅拌好的香椿蛋液倒些入锅，能摊满锅底的量即可，小火,"
+    },
+    {
+      "text": "锅底蛋液凝结，用锅铲和筷子帮助把蛋饼卷起来，放在锅子一边,"
+    },
+    {
+      "text": "在锅中空出的地方再倒些蛋液,"
+    },
+    {
+      "text": "蛋液凝结马上把刚才卷好的蛋饼再和刚才反方向卷起来，再重复上面的步骤,"
+    },
+    {
+      "text": "直到把所有蛋液用完，卷起成厚蛋烧。出锅用刀切段装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10423/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

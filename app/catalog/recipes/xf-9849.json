@@ -1,0 +1,68 @@
+{
+  "id": "xf-9849",
+  "title": "巧克力小雪人",
+  "ingredients": [
+    {
+      "name": "盒乐芙球",
+      "mergeKey": "puff",
+      "amount": 1,
+      "category": "其他"
+    },
+    {
+      "name": "盒百利兹",
+      "mergeKey": "stick-cookie",
+      "amount": 1,
+      "category": "其他"
+    },
+    {
+      "name": "融化的白巧克力",
+      "mergeKey": "white-chocolate",
+      "quantityText": "适量",
+      "category": "其他"
+    },
+    {
+      "name": "融化的黑巧克力",
+      "mergeKey": "dark-chocolate",
+      "quantityText": "适量",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "根据自己喜好准备棒状饼干和圆形注芯泡芙,"
+    },
+    {
+      "text": "取棒状饼干一端小心扎在泡芙球上,"
+    },
+    {
+      "text": "小心穿过泡芙并预留出一个直径的位置,"
+    },
+    {
+      "text": "穿过另一个泡芙球，不需穿透，将其固定,"
+    },
+    {
+      "text": "隔水融化白巧克力,"
+    },
+    {
+      "text": "隔水融化黑巧克力,"
+    },
+    {
+      "text": "在泡芙球上均匀裹上白巧克力,"
+    },
+    {
+      "text": "凝固后发挥想象力用黑巧克力画出头发、眉眼,"
+    },
+    {
+      "text": "缎带洗净、晒干，裹在凝固后的雪人上即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9849/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

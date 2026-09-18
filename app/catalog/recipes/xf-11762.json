@@ -1,0 +1,83 @@
+{
+  "id": "xf-11762",
+  "title": "碧娇果娃娃菜瘦肉汤",
+  "ingredients": [
+    {
+      "name": "碧娇果",
+      "mergeKey": "bijiaoguo",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "娃娃菜",
+      "mergeKey": "baby-cabbage",
+      "amount": 1,
+      "unit": "棵",
+      "category": "蔬菜"
+    },
+    {
+      "name": "段生的瘦肉",
+      "mergeKey": "pork",
+      "amount": 150,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 1000,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "娃娃菜和瘦肉片加足清水，上火煮开,"
+    },
+    {
+      "text": "转文火继续煲15分钟,"
+    },
+    {
+      "text": "加入碧娇果，转大火煲开,"
+    },
+    {
+      "text": "加入枸杞煮10分钟,"
+    },
+    {
+      "text": "最后加盐调味就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11762/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 161.5,
+    "proteinG": 6.4,
+    "carbsG": 25.1,
+    "fatG": 3.8
+  },
+  "tags": [
+    "煮",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

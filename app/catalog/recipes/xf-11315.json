@@ -1,0 +1,76 @@
+{
+  "id": "xf-11315",
+  "title": "鱼香大虾",
+  "ingredients": [
+    {
+      "name": "大虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜茸",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "郫县豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "植物油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将大虾剪去虾须、虾脚，背部浅开一刀，取出虾线,"
+    },
+    {
+      "text": "将加工好的大虾放入热油锅，两面煎至变色出油取出（一定要煎出油，这样味道才浓香,"
+    },
+    {
+      "text": "另起锅烧热油，下葱、姜蒜，豆瓣酱炒香，烹料酒，加汤，放入煎过的虾，调味后慢火收干汤汁，取出装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11315/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,125 @@
+{
+  "id": "xf-11293",
+  "title": "氽胡萝卜肉丸子",
+  "ingredients": [
+    {
+      "name": "肥三瘦七的猪肉",
+      "mergeKey": "pork",
+      "amount": 300,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一小段黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 25,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋清",
+      "mergeKey": "egg-white",
+      "amount": 25,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-pepper",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "肥三瘦七的猪肉300克剁成肉糜，把葱、姜、100克（大约半个）胡萝卜切成末，再切少量黄瓜片和胡萝卜片备用,"
+    },
+    {
+      "text": "葱、姜、胡萝卜末，鸡蛋清、干淀粉以及适当调料和肉糜放在一起拌和,"
+    },
+    {
+      "text": "一边加入清水，一边用向一个方向筷子搅拌。（大约加入50克水,"
+    },
+    {
+      "text": "搅拌至肉糜起黏性,"
+    },
+    {
+      "text": "把拌好的肉糜用手挤成2厘米的丸子。（如果操作麻利的话，可以水开时直接把丸子挤到锅里。我不行的，操作太慢，所以不能省略先做丸子这一步,"
+    },
+    {
+      "text": "锅内倒入高汤烧开，下入丸子煮3分钟,"
+    },
+    {
+      "text": "加入胡萝卜片和黄瓜片，再次烧开后调入盐"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11293/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 259.9,
+    "proteinG": 33.8,
+    "carbsG": 5.1,
+    "fatG": 11.5
+  },
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

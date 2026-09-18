@@ -1,0 +1,140 @@
+{
+  "id": "xf-10388",
+  "title": "腐乳烧肉",
+  "ingredients": [
+    {
+      "name": "腐乳",
+      "mergeKey": "fermented-tofu",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小红椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大料",
+      "mergeKey": "star-anise",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "草果",
+      "mergeKey": "tsaoko",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "五花肉切块,"
+    },
+    {
+      "text": "葱切段、蒜切大片、姜切片,"
+    },
+    {
+      "text": "锅内做水放入切好块的五花肉,"
+    },
+    {
+      "text": "腐乳捣碎,"
+    },
+    {
+      "text": "锅内焯水的五花肉煮透吐出血沫,"
+    },
+    {
+      "text": "捞出肉放在盘中控干待用,"
+    },
+    {
+      "text": "往焖锅中放入少量的油,"
+    },
+    {
+      "text": "放入葱姜小红椒，煸炒出香味,"
+    },
+    {
+      "text": "倒入花椒、大料、小茴香、草果,"
+    },
+    {
+      "text": "出香味倒入焯好的肉,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "稍微煸炒一下,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "倒入刚刚碾碎的腐乳块（放入腐乳就不用再放酱油和盐了，味儿已经够足了。）,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "大火烧开后,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "盖上锅盖，转动锅盖上锁（用这个锅不用放水，其他锅要考虑放适量的水炖！）,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "分钟后听见锅盖扑扑的声音，肉香已经出来了,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "开锅收汁出盘即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10388/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 110,
+  "difficulty": "中等"
+}

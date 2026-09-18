@@ -1,0 +1,75 @@
+{
+  "id": "xf-11483",
+  "title": "奶油咖喱虾",
+  "ingredients": [
+    {
+      "name": "三花淡奶",
+      "mergeKey": "evaporated-milk",
+      "category": "乳制品"
+    },
+    {
+      "name": "嫩豌豆",
+      "mergeKey": "pea",
+      "category": "蔬菜"
+    },
+    {
+      "name": "新鲜虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "咖喱块",
+      "mergeKey": "curry",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜蓉",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "新鲜虾剪去虾脚虾须，由背部开一刀，不要切断；胡萝卜土豆切滚刀块，入沸中水煮至稍软，洋葱切块，蒜切蒜蓉,"
+    },
+    {
+      "text": "锅里放黄油丁烧热，依次放入蒜蓉爆香，加入洋葱丁，虾翻炒，接着加入煮好的土豆胡萝卜，放入咖喱块（用量根据个人口味），尝尝咸淡，不够咸，再加少许盐，鸡精，倒入三花淡奶或牛奶煮至虾熟，撒上熟豌豆丁即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11483/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

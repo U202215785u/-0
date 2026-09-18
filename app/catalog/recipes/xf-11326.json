@@ -1,0 +1,148 @@
+{
+  "id": "xf-11326",
+  "title": "萝卜丝馅饼",
+  "ingredients": [
+    {
+      "name": "中筋面粉",
+      "mergeKey": "flour",
+      "amount": 400,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "大半个白萝卜",
+      "mergeKey": "daikon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大半个胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "热水",
+      "mergeKey": "water",
+      "amount": 170,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "冷水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一小把虾皮",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小葱",
+      "mergeKey": "scallion",
+      "amount": 60,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "制作饼皮：面粉和色拉油放入盆里，慢慢加入热水，用筷子搅匀，再加入冷水，揉成光滑面团。盖上保鲜膜，松弛30分钟,"
+    },
+    {
+      "text": "分割成八等份，略滚圆。盖上保鲜膜，松弛十分钟,"
+    },
+    {
+      "text": "用擀面杖擀成片状,"
+    },
+    {
+      "text": "象包包子一样，包入萝卜馅，收口捏紧,"
+    },
+    {
+      "text": "在案板上压成饼,"
+    },
+    {
+      "text": "锅内刷少量油（不粘锅可不刷），以小火两面都烙至金黄,"
+    },
+    {
+      "text": "制作萝卜虾皮馅：虾皮（毛虾）一小把。白萝卜大半个，胡萝卜大半个，小葱两根,"
+    },
+    {
+      "text": "两种萝卜用擦板擦丝，用少量的盐抓拌均匀，腌一下,"
+    },
+    {
+      "text": "虾皮用酒泡十分钟,"
+    },
+    {
+      "text": "把腌出水的萝卜丝挤干水份（不要挤过干哦，水份还是要保留一部分的）。再加入沥干的虾皮、切碎的葱花、花椒粉、盐和鸡精拌匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "象包包子一样，包入萝卜虾皮馅，收口捏紧,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "在案板上压成饼。表面刷水,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "锅内刷少量油（不粘锅可不刷），以小火两面都烙至金黄。也可以用烤箱烤，据说烤的叫做烧饼，烙出来的叫火烧"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11326/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 282,
+    "proteinG": 9.2,
+    "carbsG": 54.9,
+    "fatG": 3.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 80,
+  "difficulty": "中等"
+}

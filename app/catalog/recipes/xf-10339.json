@@ -1,0 +1,89 @@
+{
+  "id": "xf-10339",
+  "title": "浓香芝士马芬",
+  "ingredients": [
+    {
+      "name": "奶油奶酪",
+      "mergeKey": "cream-cheese",
+      "amount": 80,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "flour",
+      "amount": 100,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "约50克鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "奶酪室温充分软化加糖搅至顺滑,"
+    },
+    {
+      "text": "分次加入牛奶拌匀，分次加入蛋液拌匀，分次加入色拉油拌匀,"
+    },
+    {
+      "text": "低粉和泡打粉混合筛入奶酪糊中拌匀,"
+    },
+    {
+      "text": "将糊装进圆嘴挤花袋（也可直接用勺子装），入模具8分满，烤箱预热180度， 烤25分钟左右"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10339/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 269.9,
+    "proteinG": 7.7,
+    "carbsG": 47.9,
+    "fatG": 5.4
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

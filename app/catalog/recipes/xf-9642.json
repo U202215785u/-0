@@ -1,0 +1,81 @@
+{
+  "id": "xf-9642",
+  "title": "培根口蘑炒通粉",
+  "ingredients": [
+    {
+      "name": "香芹碎",
+      "mergeKey": "parsley",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "amount": 2,
+      "unit": "片",
+      "category": "肉类"
+    },
+    {
+      "name": "通粉",
+      "mergeKey": "pasta",
+      "amount": 150,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "口蘑",
+      "mergeKey": "mushroom",
+      "amount": 50,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "味极鲜",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "橄榄油",
+      "mergeKey": "olive-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "口蘑洗净切片，培根切小片,"
+    },
+    {
+      "text": "通粉煮熟过凉备用，口蘑过滚水煮熟捞出沥干水份,"
+    },
+    {
+      "text": "锅内少许橄榄油，下培根煎至表面泛黄，下口蘑炒匀,"
+    },
+    {
+      "text": "倒入沥去水份的通粉，加少许味极鲜，盐炒匀，出锅前撒少许香芹碎"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9642/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 360,
+    "proteinG": 28,
+    "carbsG": 12,
+    "fatG": 22
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

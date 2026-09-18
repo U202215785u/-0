@@ -1,0 +1,75 @@
+{
+  "id": "xf-126312",
+  "title": "东坡肉",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "大块新鲜猪五花肉，洗净，冷水下锅，煮沸，加料酒，撇去浮沫，煮约"
+    },
+    {
+      "text": "5分钟，捞出至案板"
+    },
+    {
+      "text": "改刀成约"
+    },
+    {
+      "text": "5厘米见方的块"
+    },
+    {
+      "text": "香葱一把，去根洗净；姜块数颗去皮拍松；八角"
+    },
+    {
+      "text": "3个，花椒、桂皮、丁香少许"
+    },
+    {
+      "text": "取一砂锅，将香葱均匀平铺至锅底，姜块均匀放好，肉皮朝下码放整齐，均匀洒入香料，倒入料酒、老抽、生抽、冰糖，并加温水至肉顶端以下，大火烧沸，转至最小火，盖闷约两个小时，后半时加一次盐"
+    },
+    {
+      "text": "开盖，将肉块轻轻翻面，肉皮朝上，再文火煮约半小时即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/126312/",
+  "author": "悟饭",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

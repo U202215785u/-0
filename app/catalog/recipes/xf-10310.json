@@ -1,0 +1,69 @@
+{
+  "id": "xf-10310",
+  "title": "山楂决明子清脂茶",
+  "ingredients": [
+    {
+      "name": "山楂干",
+      "mergeKey": "hawthorn",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "决明子",
+      "mergeKey": "cassia-seed",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "绿茶",
+      "mergeKey": "green-tea",
+      "amount": 2,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 700,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "随意冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将山楂干放入清水中浸泡2分钟后，用清水冲净,"
+    },
+    {
+      "text": "锅中倒入清水，放入山楂干和决明子，用大火煮开后，改成小火煮10分钟，然后放入绿茶继续煮5分钟,"
+    },
+    {
+      "text": "放入冰糖搅匀，然后用漏网将茶滗出即可饮用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10310/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 10.8,
+    "proteinG": 0.4,
+    "carbsG": 1.6,
+    "fatG": 0.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "xf-5393",
+  "title": "豆豉蒸排骨",
+  "ingredients": [
+    {
+      "name": "大排500克猪排骨",
+      "mergeKey": "pork-rib",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "油菜",
+      "mergeKey": "bok-choy",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豆豉",
+      "mergeKey": "douchi",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 4,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "amount": 8,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 25,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 16,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将猪排骨洗净，剁成段，放入蚝油、豆豉、精盐、料酒腌5分钟"
+    },
+    {
+      "text": "油菜切段，焯水，备用"
+    },
+    {
+      "text": "葱切末"
+    },
+    {
+      "text": "将腌好的排骨放入蒸锅，蒸18分钟取出，摆在另一个铺好的油菜的盘中，放上葱末，淋入烧热的色拉油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/5393/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,178 @@
+{
+  "id": "xf-102940484",
+  "title": "鱼头豆腐汤",
+  "ingredients": [
+    {
+      "name": "（1000克）鱼头（胖头鱼鱼头）",
+      "mergeKey": "fish-head",
+      "amount": 1000,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "方块豆腐豆腐",
+      "mergeKey": "tofu",
+      "amount": 4,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "（150克）香菜",
+      "mergeKey": "cilantro",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "（20克）白酒（料酒）",
+      "mergeKey": "cooking-wine",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "饭碗（1500克）水",
+      "mergeKey": "water",
+      "amount": 1500,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "（15克）姜",
+      "mergeKey": "ginger",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小匙（12克）盐",
+      "mergeKey": "salt",
+      "amount": 12,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙（2克）胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙（2克）鸡粉",
+      "mergeKey": "chicken-powder",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把鱼档斩好的鱼重新清洗干净沥干水。切好姜丝，方块豆腐中间分开切薄，一个方块豆腐分成8小块。\n\n洗好香菜。"
+    },
+    {
+      "text": "锅里加入比炒菜多的油，油热后放入鱼头。"
+    },
+    {
+      "text": "全部鱼头放进锅里，调成中火，开盖煎3分钟。"
+    },
+    {
+      "text": "煎了3分钟后，鱼头翻面。"
+    },
+    {
+      "text": "倒入姜丝。"
+    },
+    {
+      "text": "加了2汤匙左右的白酒（料酒），不盖锅盖，煎5分钟。"
+    },
+    {
+      "text": "5分钟时间到了，给鱼头换换位置，争取全部鱼头都煎焦黄色。再煎2分钟。\n\n鱼煎焦黄色是白色浓汤的关键，这步要做好。"
+    },
+    {
+      "text": "鱼煎好了，倒入6饭碗冷水。\n\n这次材料多，我用的是一大盆水，刚好是6饭碗水（1500克水左右）。\n\n煮肉，喝汤是加冷水，吃肉是加热水。我们煮鱼汤当然是加冷水的。"
+    },
+    {
+      "text": "倒入豆腐。"
+    },
+    {
+      "text": "盖锅盖中火炖煮鱼头豆腐汤8~10分钟。\n\n千炖豆腐万炖鱼，这个汤可以炖30分钟，炖到豆腐里面很多空洞象冻豆腐那样，那非常好喝。我们时间紧，炖10分钟口感也不错了。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "浓浓的鱼汤看起来真美呀。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "看看炖煮视频，美吧？"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "炖煮的时间到了，加入"
+    },
+    {
+      "text": "5小匙（12克）盐。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入1小匙（2克）胡椒粉。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入1小匙（2克）鸡粉。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "放入准备好的香菜。轻轻拌均匀所有材料。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "盖锅盖再煮30秒。\n\n看视频想喝汤了吧😍？"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "关火，盛出。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "浓浓的的鱼头汤，完全没有鱼腥味，好鲜美呀！给我来一碗😍！"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102940484/",
+  "author": "广东人家",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 408.5,
+    "proteinG": 44.5,
+    "carbsG": 41.4,
+    "fatG": 9.9
+  },
+  "tags": [
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

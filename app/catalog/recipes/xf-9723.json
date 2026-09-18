@@ -1,0 +1,56 @@
+{
+  "id": "xf-9723",
+  "title": "葱香椒盐芋艿",
+  "ingredients": [
+    {
+      "name": "芋奶",
+      "mergeKey": "taro",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "椒盐粉",
+      "mergeKey": "spiced-salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "芋奶用刷子刷洗干净，放水里煮熟（用筷子可以轻松插入）,"
+    },
+    {
+      "text": "煮熟的芋奶剥皮切块，葱切成葱花，准备椒盐粉,"
+    },
+    {
+      "text": "锅里多点油，油热了把芋奶块炸几分钟，至表面稍稍出现金黄即可,"
+    },
+    {
+      "text": "捞出沥油,"
+    },
+    {
+      "text": "锅里油倒出，用余油把芋奶和葱花煸炒下，撒上椒盐粉出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9723/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "xf-11810",
+  "title": "培根四季豆",
+  "ingredients": [
+    {
+      "name": "四季豆",
+      "mergeKey": "green-bean",
+      "category": "蔬菜"
+    },
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "category": "肉类"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "高汤",
+      "mergeKey": "stock",
+      "category": "其他"
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "四季豆切丝备用,"
+    },
+    {
+      "text": "热锅热油爆香蒜米，加入四季豆丝，旺火炒软炒熟；培根撕片加入翻炒2分钟,"
+    },
+    {
+      "text": "加半杯高汤，焖5分钟,"
+    },
+    {
+      "text": "淋麻油、加盐、胡椒调味，就可以吃了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11810/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "xf-9955",
+  "title": "溜肥肠",
+  "ingredients": [
+    {
+      "name": "野猪大肠",
+      "mergeKey": "pork-intestine",
+      "category": "肉类"
+    },
+    {
+      "name": "青红椒",
+      "mergeKey": "pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青蒜",
+      "mergeKey": "green-garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱段",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 1,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-pepper",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "，白糖",
+      "mergeKey": "sugar",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "虽说是免洗的猪大肠但还是要拿盐醋搓洗一下，清洗干净。将洗好的猪大肠放入凉水下锅，放入葱段、姜片、八角、绍酒、盐、胡椒粉,"
+    },
+    {
+      "text": "待锅开，水冒出白沫，撇去沫子，加入绍酒，煮40分钟,"
+    },
+    {
+      "text": "将煮好的肥肠捞出待用,"
+    },
+    {
+      "text": "将捞出的肥肠晾凉切段待用,"
+    },
+    {
+      "text": "重要的溜就在这时候出现了，热锅温油放入肥肠煸炒捞出（保持油温使肠子里的不健康的油逼出来，大肠也变得爽脆）,"
+    },
+    {
+      "text": "热锅温油放入洋葱、青椒块炒出香味,"
+    },
+    {
+      "text": "放入红椒、肥肠翻炒加入酱油、高汤、胡椒粉、盐调味炒匀,"
+    },
+    {
+      "text": "调好水淀粉，勾芡，放入青蒜段，翻均匀出锅即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9955/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "xf-9828",
+  "title": "红酒煎鹅肝",
+  "ingredients": [
+    {
+      "name": "鹅肝",
+      "mergeKey": "goose-liver",
+      "category": "肉类"
+    },
+    {
+      "name": "面包",
+      "mergeKey": "bread",
+      "category": "米面主食"
+    },
+    {
+      "name": "苹果",
+      "mergeKey": "apple",
+      "category": "蔬菜"
+    },
+    {
+      "name": "橄榄油",
+      "mergeKey": "olive-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红酒",
+      "mergeKey": "red-wine",
+      "category": "其他"
+    },
+    {
+      "name": "莳萝叶",
+      "mergeKey": "dill",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "圆葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "蒜、圆葱切末，鹅肝沾少许淀粉备用,"
+    },
+    {
+      "text": "锅内放少许橄榄油，稍热，放入蒜末、圆葱末炒香,"
+    },
+    {
+      "text": "放入鹅肝，小火慢慢煎，煎至两面焦黄，加少许盐调味,"
+    },
+    {
+      "text": "煎鹅肝的中间，放入面包片（鹅肝油性大，面包有吸油的作用，吸收了油的面包很好吃），煎至金黄盛出，随即锅内放入少量红酒，待鹅肝吸收后，盛出,"
+    },
+    {
+      "text": "盘内放入苹果片（苹果的作用主要是解油腻），摆上煎好的鹅肝和面包片，撒上莳萝叶即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9828/",
+  "author": "crystal苏提",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煎",
+    "炸",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

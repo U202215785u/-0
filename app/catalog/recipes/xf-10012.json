@@ -1,0 +1,131 @@
+{
+  "id": "xf-10012",
+  "title": "什锦白肉卷",
+  "ingredients": [
+    {
+      "name": "后臀尖",
+      "mergeKey": "pork",
+      "amount": 400,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "莴笋",
+      "mergeKey": "celtuce",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "薄荷",
+      "mergeKey": "mint",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 2,
+      "unit": "段",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青柠蒙",
+      "mergeKey": "lime",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-pepper",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红油",
+      "mergeKey": "chili-oil",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "后臀尖洗净放入汤锅中，加入清水、葱、姜用大火烧开，然后撇去表层浮沫，加入盐转成中小火加盖，慢慢炖约40分钟，直到用筷子能很容易的扎透，将肉取出充分晾凉,"
+    },
+    {
+      "text": "自然冷却肉的同时将莴笋、胡萝卜切成细丝，豆芽用开水焯烫至熟，在莴笋丝、胡萝卜和豆芽中挤入柠檬汁拌匀,"
+    },
+    {
+      "text": "取一只小碗将生抽、白糖、花椒粉、香油混合均匀，将完全冷却的肉切成薄片，放入蔬菜轻轻卷起，最后搭配调料汁食用即可，可以根据自己的喜好淋入少许红油，或者搭配鲜薄荷"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10012/",
+  "author": "豆牛",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 389.9,
+    "proteinG": 43.9,
+    "carbsG": 11.5,
+    "fatG": 18.4
+  },
+  "tags": [
+    "炒",
+    "煮",
+    "炸",
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

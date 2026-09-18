@@ -1,0 +1,221 @@
+{
+  "id": "eggplant-garlic-sauce",
+  "title": "鱼香茄子",
+  "ingredients": [
+    {
+      "name": "中国茄子",
+      "mergeKey": "eggplant",
+      "amount": 624,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鲜香菇",
+      "mergeKey": "shiitake",
+      "amount": 57,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "小甜椒",
+      "mergeKey": "sweet-pepper",
+      "amount": 4,
+      "unit": "只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 25,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 14,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 90,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "quantityText": "5根",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红糖",
+      "mergeKey": "sugar",
+      "amount": 45,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "绍兴酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "茄子切段；香菇、小甜椒、蒜、姜、葱和干辣椒切好。锅中蒸架加清水烧沸。",
+      "ingredientNames": [
+        "中国茄子",
+        "鲜香菇",
+        "小甜椒",
+        "蒜",
+        "姜",
+        "葱",
+        "干辣椒",
+        "清水"
+      ]
+    },
+    {
+      "text": "茄子放蒸架蒸15分钟，蒸到柔软但不烂。",
+      "ingredientNames": [
+        "中国茄子"
+      ]
+    },
+    {
+      "text": "生抽、老抽、蚝油、醋、红糖、豆瓣酱、玉米淀粉、绍兴酒和清水混合成鱼香汁。",
+      "ingredientNames": [
+        "生抽",
+        "老抽",
+        "蚝油",
+        "醋",
+        "红糖",
+        "豆瓣酱",
+        "玉米淀粉",
+        "绍兴酒",
+        "清水"
+      ]
+    },
+    {
+      "text": "锅烧热加食用油，分批炒香蒜、姜、干辣椒、香菇和甜椒，再放入蒸好的茄子。",
+      "ingredientNames": [
+        "食用油",
+        "蒜",
+        "姜",
+        "干辣椒",
+        "鲜香菇",
+        "小甜椒",
+        "中国茄子"
+      ]
+    },
+    {
+      "text": "倒入鱼香汁翻拌至沸腾收浓，装盘撒葱，淋芝麻油。",
+      "ingredientNames": [
+        "生抽",
+        "老抽",
+        "蚝油",
+        "醋",
+        "红糖",
+        "豆瓣酱",
+        "玉米淀粉",
+        "绍兴酒",
+        "清水",
+        "葱",
+        "芝麻油"
+      ]
+    }
+  ],
+  "baseServings": 4,
+  "sourceUrl": "https://www.madewithlau.com/recipes/eggplant-with-garlic-sauce",
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、45分钟总时长和6段方法；保留先蒸15分钟、鱼香汁调制及分段炒香顺序。",
+  "nutrition": {
+    "kcal": 152.1,
+    "proteinG": 5.2,
+    "carbsG": 27.5,
+    "fatG": 3.3
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "xf-9708",
+  "title": "韭菜花炒蚬肉",
+  "ingredients": [
+    {
+      "name": "韭菜花",
+      "mergeKey": "chive-flower",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄蚬",
+      "mergeKey": "clam",
+      "category": "水产"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄蚬买来洗净，煮一锅水，放姜片和葱，料酒一起煮开，放黄蚬下去，黄蚬张口马上捞出,"
+    },
+    {
+      "text": "把黄蚬肉剥出待用,"
+    },
+    {
+      "text": "韭菜花洗净，摘去顶部的花苞，切去根部老的部分，切成段,"
+    },
+    {
+      "text": "烧热锅，放油，入韭菜花大火爆炒片刻，加盐和鸡精调好味,"
+    },
+    {
+      "text": "放黄蚬肉下去迅速翻炒均匀，即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9708/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "xf-9673",
+  "title": "三丝炒藕",
+  "ingredients": [
+    {
+      "name": "鲜藕",
+      "mergeKey": "lotus-root",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香水芹菜",
+      "mergeKey": "celery",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/3小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.67,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鲜藕用刷子刷净泥沙，切成丝，胡萝卜切丝，芹菜切段,"
+    },
+    {
+      "text": "锅内热1又1/2大匙油，放入藕丝翻炒约1分钟,"
+    },
+    {
+      "text": "加入胡萝卜丝、芹菜段，放入盐1/3小匙,"
+    },
+    {
+      "text": "再迅速翻炒均匀即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9673/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 108.8,
+    "proteinG": 4.3,
+    "carbsG": 16.8,
+    "fatG": 2.6
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "xf-10366",
+  "title": "虾皮韭菜炒鸡蛋",
+  "ingredients": [
+    {
+      "name": "韭菜",
+      "mergeKey": "chives",
+      "category": "蔬菜"
+    },
+    {
+      "name": "虾皮",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "韭菜摘去老叶，洗净切成1厘米 长的碎。虾皮洗净沥干。鸡蛋加适量盐调味，用筷子打散,"
+    },
+    {
+      "text": "在打散的鸡蛋中加一点白砂糖,"
+    },
+    {
+      "text": "在打散的鸡蛋中加几小勺水,"
+    },
+    {
+      "text": "把虾皮和切好的韭菜放入鸡蛋液中搅匀,"
+    },
+    {
+      "text": "锅子烧热，放油烧至大约7成热,"
+    },
+    {
+      "text": "把虾皮韭菜鸡蛋液倒入锅中，蛋液开始要凝结的时候，快速用筷子把蛋液搅散成小块状，继续翻炒一会儿，蛋液完全凝固即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10366/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

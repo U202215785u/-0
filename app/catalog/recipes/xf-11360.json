@@ -1,0 +1,67 @@
+{
+  "id": "xf-11360",
+  "title": "香煎鸡腿",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken",
+      "category": "肉类"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "黑糊椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "柠檬汁",
+      "mergeKey": "lemon-juice",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡大腿洗净沥干，剔去骨头；然后将有皮的一面朝下，用刀背在鸡肉上敲打数次,"
+    },
+    {
+      "text": "将处理好的鸡腿肉放入料理盒中，加入适量的盐、姜末、黑糊椒粉、淀粉、生抽，滴入几滴柠檬汁，戴上一次性手套将其捏匀后盖上盒盖，放入冰箱冷藏两小时以上,"
+    },
+    {
+      "text": "锅内放入少量的油，下入腌制好的鸡腿肉，盖上锅盖，小火将其煎至一面金黄后打开锅盖，翻面，最后煎至两面金黄中间熟透后出锅切件装盘即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11360/",
+  "author": "爱厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "煎"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "xf-11454",
+  "title": "肉骨头海带玉米汤",
+  "ingredients": [
+    {
+      "name": "肉骨头",
+      "mergeKey": "pork-bone",
+      "category": "肉类"
+    },
+    {
+      "name": "泡好的海带",
+      "mergeKey": "kelp",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "肉骨头清洗干净，干海带泡发；高压锅中放水浇沸，将肉骨头烧开去除血水后，重新放水加入姜片葱结及适量盐大火烧开转小火压10分钟左右,"
+    },
+    {
+      "text": "压好的骨头汤转放到砂锅中，小火煲至汤浓骨头软烂,"
+    },
+    {
+      "text": "泡好的海带撕成均匀的长条，然后打成结，放入骨头汤中，小火煲20-30分钟至软烂,"
+    },
+    {
+      "text": "最后加入切块的玉米煲10分钟，调入鸡精，葱花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11454/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "煮",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

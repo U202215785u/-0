@@ -1,0 +1,79 @@
+{
+  "id": "xf-11179",
+  "title": "海米枸杞烧丝瓜",
+  "ingredients": [
+    {
+      "name": "丝瓜",
+      "mergeKey": "luffa",
+      "category": "蔬菜"
+    },
+    {
+      "name": "海米",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji-berry",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "aromatics",
+      "category": "蔬菜"
+    },
+    {
+      "name": "高汤",
+      "mergeKey": "stock",
+      "category": "其他"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "海米冲洗干净后，温水泡发半小时,"
+    },
+    {
+      "text": "丝瓜去皮后，切滚刀块备用,"
+    },
+    {
+      "text": "起油锅，油热后，炒香海米,"
+    },
+    {
+      "text": "下入蒜末、姜丝炒香,"
+    },
+    {
+      "text": "下入丝瓜大火翻炒,"
+    },
+    {
+      "text": "添加高汤和泡发海米的水，煮开后小火慢炖,"
+    },
+    {
+      "text": "煮至丝瓜透明后，调入适量盐和味精,"
+    },
+    {
+      "text": "勾薄芡，大火收汁,"
+    },
+    {
+      "text": "撒上枸杞和葱花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11179/",
+  "author": "灯芯绒",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

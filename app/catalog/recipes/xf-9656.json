@@ -1,0 +1,100 @@
+{
+  "id": "xf-9656",
+  "title": "春川拌面",
+  "ingredients": [
+    {
+      "name": "荞麦面",
+      "mergeKey": "buckwheat-noodles",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "海苔",
+      "mergeKey": "nori",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜茸",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱末",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芥末",
+      "mergeKey": "mustard",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "荞麦面冷水入锅，水里放点盐，开中火煮至水滚立刻熄火，不要打开锅盖，焖3～5分钟,"
+    },
+    {
+      "text": "把焖好的荞麦面放在流动的水中彻底冲凉，同时冲掉面条外面的粘腻的淀粉物质，最后用凉开水过一遍，沥干水分,"
+    },
+    {
+      "text": "把胡萝卜和黄瓜擦成丝，海苔剪成条。一个鸡蛋煮熟剥壳切半,"
+    },
+    {
+      "text": "用生抽3汤匙，香醋1汤匙，蒜茸，少许白糖，葱末，姜末还有芥末调和成调味汁,"
+    },
+    {
+      "text": "把沥干水分的荞麦面放入碗中，把胡萝卜丝，黄瓜丝和海苔丝放在面上，再放半个鸡蛋，吃的时候把调味汁浇上拌匀就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9656/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炸",
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

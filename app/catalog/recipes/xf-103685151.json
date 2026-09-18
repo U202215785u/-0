@@ -1,0 +1,97 @@
+{
+  "id": "xf-103685151",
+  "title": "外婆菜炒蛋",
+  "ingredients": [
+    {
+      "name": "。约1斤外婆菜",
+      "mergeKey": "waipocai",
+      "amount": 2,
+      "unit": "包",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 5,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "chili",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜蓉",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先把外婆菜开包装。"
+    },
+    {
+      "text": "葱花洗干净，切粒"
+    },
+    {
+      "text": "红椒剪好。\n4鸡蛋打好。\n5蒜米拍好切末"
+    },
+    {
+      "text": "先热锅，下冷油。把鸡蛋炒香。\n炒至金黄即可。把鸡蛋捞出备用"
+    },
+    {
+      "text": "把蒜蓉和干红椒爆香，在放外婆菜下锅炒香，在放入炒好的鸡蛋一起炒。"
+    },
+    {
+      "text": "快起锅的时候加入生抽和葱花即可"
+    },
+    {
+      "text": "外婆菜炒蛋。就好了。\n香口，下饭"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/103685151/",
+  "author": "大城小厨小胖",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 331.4,
+    "proteinG": 17,
+    "carbsG": 4.3,
+    "fatG": 28
+  },
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

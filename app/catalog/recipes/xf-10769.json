@@ -1,0 +1,71 @@
+{
+  "id": "xf-10769",
+  "title": "美极杏鲍菇",
+  "ingredients": [
+    {
+      "name": "杏鲍菇",
+      "mergeKey": "king-oyster",
+      "category": "菌菇"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "海鲜酱",
+      "mergeKey": "hoisin-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "杏鲍菇洗净，上锅隔水中火蒸8分钟左右,"
+    },
+    {
+      "text": "取出，待凉后戴上一次性手套，把杏鲍菇撕成条状,"
+    },
+    {
+      "text": "加一点点盐，白糖，蒜末，芝麻油，撒点黑胡椒粉，放一勺海鲜酱拌匀后，撒上葱花上桌"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10769/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "xf-10434",
+  "title": "酸奶慕斯",
+  "ingredients": [
+    {
+      "name": "戚风蛋糕片",
+      "mergeKey": "sponge-cake",
+      "amount": 6,
+      "unit": "片",
+      "category": "米面主食"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 110,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "原味酸奶",
+      "mergeKey": "yogurt",
+      "amount": 130,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 125,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "柠檬",
+      "mergeKey": "lemon",
+      "amount": 0.5,
+      "unit": "只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 40,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "鱼胶粉",
+      "mergeKey": "gelatin",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "奶锅中倒入糖和水，小火加热煮沸,"
+    },
+    {
+      "text": "将煮沸的糖水缓缓倒入装有蛋黄的盆中，一边倒一边用打蛋器打发蛋黄，打至蛋黄糊有纹路出现，用刮刀铲起缓缓滴落,"
+    },
+    {
+      "text": "将酸奶和牛奶混合后加入蛋黄糊中，搅拌均匀,"
+    },
+    {
+      "text": "加入柠檬汁搅拌均匀,"
+    },
+    {
+      "text": "鱼胶粉加少许水拌匀后，隔水加热至融合，待凉后使用,"
+    },
+    {
+      "text": "淡奶油打发至出现明显纹路,"
+    },
+    {
+      "text": "将打发好的淡奶油与蛋黄牛奶糊搅拌均匀后，加入鱼胶水搅拌均匀,"
+    },
+    {
+      "text": "慕斯杯中先倒入1/3杯的慕斯糊，放入一片蛋糕片，在蛋糕片上刷上一层朗姆酒，再倒入1/3杯慕斯糊,"
+    },
+    {
+      "text": "将装满慕斯糊的杯子放入冰箱冷藏4小时以上再装饰"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10434/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 229.7,
+    "proteinG": 6.7,
+    "carbsG": 42,
+    "fatG": 3.8
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

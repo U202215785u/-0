@@ -1,0 +1,99 @@
+{
+  "id": "xf-256763",
+  "title": "大煮干丝",
+  "ingredients": [
+    {
+      "name": "干丝",
+      "mergeKey": "tofu",
+      "amount": 200,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "鸡丝",
+      "mergeKey": "chicken",
+      "amount": 20,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "干虾仁",
+      "mergeKey": "dried-shrimp",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡汤",
+      "mergeKey": "chicken-stock",
+      "amount": 500,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "水发香菇",
+      "mergeKey": "shiitake",
+      "amount": 15,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "火腿",
+      "mergeKey": "ham",
+      "amount": 10,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "千张切细丝（有淮扬方干最好，千张只是替代品）"
+    },
+    {
+      "text": "火腿切细丝，香菇泡发后切细丝，鸡脯肉过沸水抄熟后同样拆成细丝备用"
+    },
+    {
+      "text": "锅内注水烧开，下入干丝烫煮至再次沸腾时关火"
+    },
+    {
+      "text": "捞出过水冲滤一遍，以去除豆腐本身的豆腥味"
+    },
+    {
+      "text": "鸡汤（带鸡油）下入干虾煮开，下入火腿、香菇、鸡丝和干丝，小火煮10分钟左右至入味"
+    },
+    {
+      "text": "起锅装盘，表面再撒上些火腿和鸡丝即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/256763/",
+  "author": "坨坨妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 516.1,
+    "proteinG": 84.4,
+    "carbsG": 12.6,
+    "fatG": 11.5
+  },
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "xf-11306",
+  "title": "白芝麻辣椒面包",
+  "ingredients": [
+    {
+      "name": "高筋面粉",
+      "mergeKey": "flour",
+      "amount": 250,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "红辣椒面",
+      "mergeKey": "chili-powder",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白芝麻",
+      "mergeKey": "sesame",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙酵母",
+      "mergeKey": "yeast",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 150,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将高筋面粉，细砂糖，盐，酵母和水搅拌成松散状，加入橄榄油，揉成稍具延展性的面团,"
+    },
+    {
+      "text": "加入红辣椒面，揉至面团扩展阶段,"
+    },
+    {
+      "text": "放在容器中，盖上保鲜膜发酵,"
+    },
+    {
+      "text": "发酵至2倍半大,"
+    },
+    {
+      "text": "分割成4个，滚圆松弛10分钟,"
+    },
+    {
+      "text": "松弛后再滚圆一次，表面刷蛋液，沾满白芝麻，进行最后一次发酵,"
+    },
+    {
+      "text": "最后一次发酵20分钟左右的时候，用筷子将面团压成两半（压到底，勿压断），再继续发酵20分钟。（我这个压得有点晚了，压痕不是很明显,"
+    },
+    {
+      "text": "烤箱预热180度，中层，20－25分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11306/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 302.2,
+    "proteinG": 5.8,
+    "carbsG": 44.3,
+    "fatG": 11.9
+  },
+  "tags": [
+    "煮",
+    "烧焖",
+    "炸",
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

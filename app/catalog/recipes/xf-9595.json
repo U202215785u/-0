@@ -1,0 +1,59 @@
+{
+  "id": "xf-9595",
+  "title": "薄荷橙香汤圆",
+  "ingredients": [
+    {
+      "name": "小汤圆",
+      "mergeKey": "tangyuan",
+      "category": "米面主食"
+    },
+    {
+      "name": "雪梨",
+      "mergeKey": "pear",
+      "category": "蔬菜"
+    },
+    {
+      "name": "薄荷碎",
+      "mergeKey": "mint",
+      "category": "蔬菜"
+    },
+    {
+      "name": "糯米粉",
+      "mergeKey": "glutinous-rice-flour",
+      "category": "米面主食"
+    },
+    {
+      "name": "橙汁",
+      "mergeKey": "orange-juice",
+      "category": "其他"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "小汤圆入锅用小火先煮到8分熟，捞出待用,"
+    },
+    {
+      "text": "雪梨去皮切成小丁,"
+    },
+    {
+      "text": "橙汁倒入锅中，加入白糖调好口味，再加入雪梨丁和小汤圆用小火煮开，等到汤圆软糯汤汁香浓的时候，用糯米粉来勾芡，最后撒上薄荷碎，即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9595/",
+  "author": "游走",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

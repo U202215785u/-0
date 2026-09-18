@@ -1,0 +1,117 @@
+{
+  "id": "xf-11569",
+  "title": "鲜肉发面饼",
+  "ingredients": [
+    {
+      "name": "普通面粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "鲜肉末",
+      "mergeKey": "pork-mince",
+      "category": "肉类"
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 2,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "温水",
+      "mergeKey": "water",
+      "quantityText": "适量",
+      "category": "其他"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "肉皮冻(或者清水)",
+      "mergeKey": "pork-skin-jelly",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "酵母溶于少量温水中（大约30度左右，手腕试不烫），静置3分钟。面粉放在大盆中，倒入酵母水，再倒入剩下的温水，先用筷子搅拌成雪片状，然后用手揉成光滑面团,"
+    },
+    {
+      "text": "盖上保鲜膜，放温暖的室内发酵至大约,"
+    },
+    {
+      "text": "倍大,"
+    },
+    {
+      "text": "新鲜肉末放料酒、盐、鸡精、姜末、蒜末、少量老抽（调色用）搅拌均匀。肉皮冻融化开，倒入肉末用，把肉末顺一个方向使劲搅拌至上劲（如果没有肉皮冻就放清水）,"
+    },
+    {
+      "text": "发酵好的面团揉匀排气，分成小剂子。取一个小剂子，用擀面杖擀成圆形，在当中放上肉馅,"
+    },
+    {
+      "text": "像包包子一样包起来后，用手掌轻轻按扁,"
+    },
+    {
+      "text": "两面都沾上芝麻，静置饧发15分钟左右,"
+    },
+    {
+      "text": "平底锅，不放油，把饧发好的面饼排入锅中,"
+    },
+    {
+      "text": "盖上锅盖，小火烙，一面成淡淡焦黄色后翻面再烙成淡淡焦黄色"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11569/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 138.8,
+    "proteinG": 4.5,
+    "carbsG": 27.1,
+    "fatG": 1.5
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

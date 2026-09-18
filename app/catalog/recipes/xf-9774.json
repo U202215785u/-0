@@ -1,0 +1,92 @@
+{
+  "id": "xf-9774",
+  "title": "酱鸭胗",
+  "ingredients": [
+    {
+      "name": "鸭胗",
+      "mergeKey": "duck-gizzard",
+      "category": "肉类"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄豆酱",
+      "mergeKey": "soybean-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "茴香",
+      "mergeKey": "fennel",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸭胗洗净后，放入冷水中煮沸后略滚一会，取出洗净备用,"
+    },
+    {
+      "text": "将焯过水的鸭胗放入锅中，加入料酒、生抽、老抽、白糖、黄豆酱、八角、桂皮、香叶、茴香、干辣椒等调料，大火煮开后转小火炖1个钟头，转中火或大火再继续煮20分钟收汁即可,"
+    },
+    {
+      "text": "关火后，继续放在汤汁中浸上一段时间（可以更入味），待冷却后再取出切片食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9774/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

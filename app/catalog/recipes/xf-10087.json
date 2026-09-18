@@ -1,0 +1,120 @@
+{
+  "id": "xf-10087",
+  "title": "炝拌青萝卜",
+  "ingredients": [
+    {
+      "name": "青萝卜",
+      "mergeKey": "radish",
+      "amount": 300,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "amount": 6,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "自家种的青萝卜，还这么小，哈～我就给拔回来了几个,"
+    },
+    {
+      "text": "洗净后去皮去根,"
+    },
+    {
+      "text": "这个厨房小助手就是：果蔬加工机，这是它的包装,"
+    },
+    {
+      "text": "打开包装，就是这么一个绿色的可爱的小东西,"
+    },
+    {
+      "text": "取下一个头看看是啥东东,"
+    },
+    {
+      "text": "另一个头也给拧下来,"
+    },
+    {
+      "text": "把萝卜固定在插座上,"
+    },
+    {
+      "text": "罩上这个单刀口的头，然后开始转，就出了长长的萝卜丝,"
+    },
+    {
+      "text": "换一个萝卜插上，罩上另一个双刀口的头，继续转，又出来了长长的漂亮的萝卜花,"
+    },
+    {
+      "text": "四个小萝卜被制作成了这些半成品,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "把半成品放入盘中，撒上尖椒、盐、白糖，炒锅烧热后放入油和花椒煸出香味，去掉花椒,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将花椒油泼在红椒上，吃时拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10087/",
+  "author": "色尘＠琴心茶韵",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 60.5,
+    "proteinG": 3.2,
+    "carbsG": 12.1,
+    "fatG": 0.7
+  },
+  "tags": [
+    "凉拌",
+    "炒"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

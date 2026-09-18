@@ -1,0 +1,95 @@
+{
+  "id": "xf-9608",
+  "title": "湖南辣子田鸡",
+  "ingredients": [
+    {
+      "name": "(去头去腿后的重量)田鸡肉",
+      "mergeKey": "frog",
+      "amount": 350,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙味精",
+      "mergeKey": "msg",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙细盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "田鸡去表皮，切割去头部及趾部。将前腿，腹部，大小腿分别切成三段,"
+    },
+    {
+      "text": "锅内冷油，放入姜蒜爆香后，放入田鸡大火翻炒片段,"
+    },
+    {
+      "text": "至变色后，加入料酒，红椒段及所有调味料继续大火翻炒入味,"
+    },
+    {
+      "text": "最后至水份收干即可起锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9608/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 324.8,
+    "proteinG": 55.6,
+    "carbsG": 5.4,
+    "fatG": 7.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

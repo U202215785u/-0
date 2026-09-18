@@ -1,0 +1,83 @@
+{
+  "id": "xf-10165",
+  "title": "橙肉土豆泥",
+  "ingredients": [
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "橙",
+      "mergeKey": "orange",
+      "amount": 1,
+      "unit": "个",
+      "category": "其他"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红豆",
+      "mergeKey": "red-bean",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "星星软糖",
+      "mergeKey": "star-candy",
+      "category": "其他"
+    },
+    {
+      "name": "模具",
+      "mergeKey": "mold",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "土豆去皮切片；胡萝卜去皮切薄片（只需几片），红豆洗净；一起上锅蒸熟,"
+    },
+    {
+      "text": "橙子切开，取橙肉，备用,"
+    },
+    {
+      "text": "枸杞用温水泡发，备用,"
+    },
+    {
+      "text": "取适量油，抹在模具内侧，以方便待会顺利脱模,"
+    },
+    {
+      "text": "土豆蒸熟后，加入保鲜袋中，用擀面杖（或可乐瓶之类的）擀成泥状，尽量细一点，这样口感会好一些,"
+    },
+    {
+      "text": "根据个人口味，将土豆泥分成两份：一份可加糖（或盐或淡奶油），做成原味的；另一份和准备好的橙肉混合均匀，即成橙味的"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10165/",
+  "author": "狗尾巴草",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "nutrition": {
+    "kcal": 135,
+    "proteinG": 3,
+    "carbsG": 30,
+    "fatG": 0.5
+  },
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

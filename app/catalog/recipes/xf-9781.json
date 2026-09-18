@@ -1,0 +1,73 @@
+{
+  "id": "xf-9781",
+  "title": "笋干肉末炒豇豆",
+  "ingredients": [
+    {
+      "name": "笋干",
+      "mergeKey": "dried-bamboo-shoot",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "豇豆",
+      "mergeKey": "cowpea",
+      "category": "蔬菜"
+    },
+    {
+      "name": "肉末",
+      "mergeKey": "ground-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "笋干用温水泡软后，洗净，切成细末,"
+    },
+    {
+      "text": "豇豆切末，放入沸水中焯1分钟后捞出沥干水分备用；（豇豆焯水后再炒比较容易熟，而且颜色也比较好看）,"
+    },
+    {
+      "text": "热锅热油，放入肉末炒至变色，倒入少许料酒，生抽，翻炒均匀后，放入豇豆和笋干，翻炒3-5分钟，最后加盐、鸡精调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9781/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

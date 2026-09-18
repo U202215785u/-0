@@ -1,0 +1,111 @@
+{
+  "id": "xf-10162",
+  "title": "泡椒红酒鸡",
+  "ingredients": [
+    {
+      "name": "净仔鸡",
+      "mergeKey": "chicken",
+      "amount": 0.5,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "泡小米椒",
+      "mergeKey": "pickled-chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红酒",
+      "mergeKey": "red-wine",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "调味料"
+    },
+    {
+      "name": "莴笋",
+      "mergeKey": "celtuce",
+      "category": "蔬菜"
+    },
+    {
+      "name": "野山椒",
+      "mergeKey": "wild-chili",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "泡菜",
+      "mergeKey": "pickle",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "高汤",
+      "mergeKey": "stock",
+      "amount": 80,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "香辣酱",
+      "mergeKey": "spicy-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将净仔鸡斩成小块，莴笋去皮切成条，野山椒与泡小米椒斜切成段，泡菜也切成条；生姜切片，葱切段,"
+    },
+    {
+      "text": "热锅放油，下入鸡块与姜片，大火爆炒至鸡块表面看起来有微微焦黄的感觉,"
+    },
+    {
+      "text": "下入野山椒、泡小米椒、泡菜、香辣酱，翻炒约2分钟,"
+    },
+    {
+      "text": "倒入红酒及高汤，放入适量的盐、鸡粉及少许胡椒粉，小火煮约3至5分钟,"
+    },
+    {
+      "text": "下入莴笋条，转大火翻炒均匀后下入适量的生抽与葱段，炒匀即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10162/",
+  "author": "爱厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

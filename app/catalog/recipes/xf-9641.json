@@ -1,0 +1,82 @@
+{
+  "id": "xf-9641",
+  "title": "百里香烤蜜翅",
+  "ingredients": [
+    {
+      "name": "鸡翅",
+      "mergeKey": "chicken-wing",
+      "category": "肉类"
+    },
+    {
+      "name": "百里香",
+      "mergeKey": "thyme",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "aromatics",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡翅洗净，放入大碗备用，葱姜蒜切小粒,"
+    },
+    {
+      "text": "鸡翅中加入葱姜蒜粒，撒入百里香、加料酒、蚝油、生抽、老抽、蜂蜜、鸡粉，按摩3分钟,"
+    },
+    {
+      "text": "放入冰箱冷藏腌制12小时以上,"
+    },
+    {
+      "text": "烤盘铺上锡纸，摆上鸡翅，烤箱温度200度，烤制20分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9641/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

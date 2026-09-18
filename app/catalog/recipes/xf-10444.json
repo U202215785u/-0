@@ -1,0 +1,81 @@
+{
+  "id": "xf-10444",
+  "title": "杏仁银耳煲猪腱",
+  "ingredients": [
+    {
+      "name": "猪腱子肉",
+      "mergeKey": "pork",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "南杏仁",
+      "mergeKey": "apricot-kernel",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "北杏仁",
+      "mergeKey": "bitter-apricot-kernel",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "银耳",
+      "mergeKey": "tremella",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 1800,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将南北杏仁洗净后，用水浸泡20分钟。银耳用冷水浸泡20分钟后去蒂，用手撕成小块备用,"
+    },
+    {
+      "text": "猪腱肉洗净，改刀切成5大块,"
+    },
+    {
+      "text": "锅中放入猪腱肉，倒入清水，大火煮沸后，用勺子撇去浮沫，继续煮2分钟后捞出，用清水冲净肉表面的浮沫。焯烫的水，倒掉不要,"
+    },
+    {
+      "text": "将锅洗净后，放入焯烫过的肉，倒入足量清水，大火煮开后，再充分撇去有可能再产生的浮沫，然后加入南北杏仁和银耳，盖上盖子转小火煲2个小时后，加入盐调味即可食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10444/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 216,
+    "proteinG": 8.1,
+    "carbsG": 32.4,
+    "fatG": 5.4
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

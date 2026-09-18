@@ -1,0 +1,61 @@
+{
+  "id": "xf-11466",
+  "title": "豌豆蘑菇小炒",
+  "ingredients": [
+    {
+      "name": "豌豆",
+      "mergeKey": "pea",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蘑菇",
+      "mergeKey": "mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "玉米",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "湿淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将所有材料清洗干净，切丁,"
+    },
+    {
+      "text": "豌豆先用沸水氽熟，锅里放油，依次放入胡萝卜丁炒软，接着加入蘑菇玉米丁翻炒，快熟时倒入焯好的豌豆丁，调入盐，鸡精，淋少许湿淀粉勾薄芡即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11466/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

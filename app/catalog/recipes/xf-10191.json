@@ -1,0 +1,107 @@
+{
+  "id": "xf-10191",
+  "title": "红酒椒香烤羊排",
+  "ingredients": [
+    {
+      "name": "羊排",
+      "mergeKey": "lamb",
+      "amount": 1,
+      "unit": "块",
+      "category": "肉类"
+    },
+    {
+      "name": "红酒",
+      "mergeKey": "red-wine",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel-seed",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "孜然粉",
+      "mergeKey": "cumin",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "孜然粒",
+      "mergeKey": "cumin-seed",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "海天特辣酱",
+      "mergeKey": "chili-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将羊排洗净放入锅中，大火煮沸后撇去浮沫。放入大葱，姜片和花椒，八角，小茴香，调入酱油和盐，盖上盖子，用高压锅煮15分钟,"
+    },
+    {
+      "text": "红酒中孜然粉、黑胡椒粉、海天特辣酱调成酱汁，烤盘上铺上锡纸，预热烤箱，230度,"
+    },
+    {
+      "text": "将煮熟的羊腿取出放入烤盘中，先趁热刷一层调好的酱汁，再撒一层孜粒，（如果羊排不够咸，可以在撒孜然之前撒少许盐。）放入烤箱中层，烤10分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10191/",
+  "author": "梅依旧",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "xf-10036",
+  "title": "金枪鱼三明治",
+  "ingredients": [
+    {
+      "name": "全麦土司片",
+      "mergeKey": "toast",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "金枪鱼罐头",
+      "mergeKey": "tuna",
+      "category": "水产",
+      "pantry": true
+    },
+    {
+      "name": "甜玉米粒",
+      "mergeKey": "sweet-corn",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "沙拉酱",
+      "mergeKey": "mayonnaise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "三明治制作器",
+      "mergeKey": "sandwich-maker",
+      "category": "其他",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄瓜，胡萝卜切粒。金枪鱼，玉米粒沥干水分，所有材料混合挤入沙拉酱拌匀,"
+    },
+    {
+      "text": "取一片土司，上面铺上拌好的沙拉,"
+    },
+    {
+      "text": "再在上面盖上一片土司,"
+    },
+    {
+      "text": "三明治制作器放上面，压下,"
+    },
+    {
+      "text": "对角切开"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10036/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "xf-9676",
+  "title": "猪肉白菜炖粉条",
+  "ingredients": [
+    {
+      "name": "猪五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "土豆粉条",
+      "mergeKey": "potato-noodles",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大白菜",
+      "mergeKey": "cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "scallion-ginger-garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "五花肉洗净用刀子刮净肉皮，切大块,"
+    },
+    {
+      "text": "大白菜洗净切块,"
+    },
+    {
+      "text": "土豆粉条提前用温水泡软,"
+    },
+    {
+      "text": "五花肉凉水下锅，烧开，焯水祛除血末，捞出待用,"
+    },
+    {
+      "text": "锅中做开水加入葱姜蒜、八角、茴香、花椒、烧开,"
+    },
+    {
+      "text": "烧开后放入五花肉，大火烧开，烹入绍酒,"
+    },
+    {
+      "text": "烧开后盖盖，改中火烧40分钟，待汤汁变白,"
+    },
+    {
+      "text": "加入酱油盐、白糖调味,"
+    },
+    {
+      "text": "捞去葱姜蒜，待五花肉入味大约10分钟，捞出一些肉,"
+    },
+    {
+      "text": "放入粉条子炖5分钟,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入切好的白菜炖3分钟,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "放入捞出的肉搅拌将猪肉，粉条、白菜在锅中拌匀即可装碗出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9676/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "煮",
+    "烤"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

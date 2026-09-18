@@ -1,0 +1,48 @@
+{
+  "id": "xf-10708",
+  "title": "话梅花生",
+  "ingredients": [
+    {
+      "name": "带壳花生",
+      "mergeKey": "peanut",
+      "amount": 500,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "～10颗话梅",
+      "mergeKey": "plum",
+      "amount": 8,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "带壳花生剥去壳，剥出来的花生米用水清洗下。放小锅里，倒入清水没过花生米两公分左右，话梅同时放入,"
+    },
+    {
+      "text": "大火煮开后，转小火煮至花生酥软即可,"
+    },
+    {
+      "text": "连汤装入密封容器中，入冰箱，浸泡一夜后吃更入味"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10708/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 200,
+    "proteinG": 7.5,
+    "carbsG": 30,
+    "fatG": 5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

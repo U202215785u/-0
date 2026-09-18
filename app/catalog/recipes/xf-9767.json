@@ -1,0 +1,131 @@
+{
+  "id": "xf-9767",
+  "title": "甜甜圈",
+  "ingredients": [
+    {
+      "name": "中筋面粉",
+      "mergeKey": "all-purpose-flour",
+      "amount": 330,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 80,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "干酵母",
+      "mergeKey": "yeast",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "我没有就没放香草籽",
+      "mergeKey": "vanilla",
+      "quantityText": "少量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "全蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 3,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 80,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "我也没放柠檬皮屑",
+      "mergeKey": "lemon-zest",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛奶加热到40度，放入酵母及一小撮面粉，搅拌均匀放置15分钟,"
+    },
+    {
+      "text": "另取一个碗，放入全蛋、蛋黄、盐、砂糖搅拌均匀,"
+    },
+    {
+      "text": "将黄油隔水融化,"
+    },
+    {
+      "text": "将2和3混合均匀,"
+    },
+    {
+      "text": "将面粉倒入一个较大的盆中，加入酵母和牛奶的混合液，再将4倒入,"
+    },
+    {
+      "text": "揉成光滑的面团，覆盖保鲜膜基本醒发45分钟,"
+    },
+    {
+      "text": "将醒发好的面团擀成1厘米厚的面片，中间醒发15分钟,"
+    },
+    {
+      "text": "用甜甜圈的模子压出形状，没有模子的话也可以用一个大的直径8－9厘米和一个小的直径约2－3厘米的圆形物替代（如图）,"
+    },
+    {
+      "text": "把压好的甜甜圈和中间的小圆球一起盖上保鲜膜再次醒发45分钟,"
+    },
+    {
+      "text": "锅中放适量油，油温烧至160度，改小火，发酵是冲上面的面下锅时要冲下，炸至两面金黄即可,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "炸好的甜甜圈，沥干油，控凉后表面可随意用融化的白巧克力或黑巧克力装饰，还可撒上各类坚果或椰蓉或抹茶粉等等"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9767/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 390.5,
+    "proteinG": 9.9,
+    "carbsG": 79.4,
+    "fatG": 4.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

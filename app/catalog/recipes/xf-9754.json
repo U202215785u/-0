@@ -1,0 +1,122 @@
+{
+  "id": "xf-9754",
+  "title": "热狗面包",
+  "ingredients": [
+    {
+      "name": "高筋面粉",
+      "mergeKey": "bread-flour",
+      "amount": 140,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "火腿肠",
+      "mergeKey": "ham-sausage",
+      "amount": 5,
+      "unit": "根",
+      "category": "肉类"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 80,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 15,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "鸡蛋液",
+      "mergeKey": "egg",
+      "amount": 10,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "/4小勺盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小勺干酵母",
+      "mergeKey": "yeast",
+      "amount": 1,
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小勺奶粉",
+      "mergeKey": "milk-powder",
+      "amount": 1,
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "全蛋液",
+      "mergeKey": "egg",
+      "quantityText": "适量",
+      "category": "蛋类"
+    },
+    {
+      "name": "黑芝麻",
+      "mergeKey": "black-sesame",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将除黄油外的所有材料揉成光滑的面团后，加入黄油，将面团揉至扩展阶段,"
+    },
+    {
+      "text": "放在温暖处发酵至2倍大,"
+    },
+    {
+      "text": "将发酵好的面团排气后等分成5份，中间发酵10－15分钟,"
+    },
+    {
+      "text": "将中间发酵好的面团搓成细长条,"
+    },
+    {
+      "text": "把长面团一圈一圈的绕在火腿肠上,"
+    },
+    {
+      "text": "依次排入烤盘中，进行最后发酵,"
+    },
+    {
+      "text": "最后发酵完成后，表面刷全蛋液，撒上黑芝麻。放入180度预热的烤箱中层15分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9754/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 148.5,
+    "proteinG": 4,
+    "carbsG": 29.9,
+    "fatG": 1.7
+  },
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

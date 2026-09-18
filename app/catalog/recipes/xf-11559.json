@@ -1,0 +1,99 @@
+{
+  "id": "xf-11559",
+  "title": "蜜红豆南瓜小布利",
+  "ingredients": [
+    {
+      "name": "南瓜泥",
+      "mergeKey": "pumpkin",
+      "amount": 70,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "老面团",
+      "mergeKey": "old-dough",
+      "amount": 160,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "高粉",
+      "mergeKey": "bread-flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋",
+      "mergeKey": "egg",
+      "amount": 70,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 55,
+      "unit": "克",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "老面团解冻，撕成小块，和其它材料一起,"
+    },
+    {
+      "text": "和成光滑面团。（如面团过干，可用少量牛奶调节。）,"
+    },
+    {
+      "text": "把面团分成20－25克一个（我一共做了24个），松弛10分钟,"
+    },
+    {
+      "text": "擀开呈椭圆形,"
+    },
+    {
+      "text": "折一下。也可以不折，但这样是为了更方便地擀成长水滴形,"
+    },
+    {
+      "text": "再擀开呈长水滴形薄片,"
+    },
+    {
+      "text": "光滑面向下，在宽的一端摆上适量蜜红豆。卷起来,"
+    },
+    {
+      "text": "排在烤盘里，表面刷蛋液，撒上白芝麻。180度烤箱中层，上下火15－18分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11559/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 280.1,
+    "proteinG": 8.3,
+    "carbsG": 48.3,
+    "fatG": 5.6
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

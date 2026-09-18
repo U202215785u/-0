@@ -1,0 +1,121 @@
+{
+  "id": "xf-10212",
+  "title": "云石蛋糕",
+  "sourceUrl": "https://www.xiachufang.com/recipe/10212/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "ingredients": [
+    {
+      "name": "动物鲜奶油",
+      "mergeKey": "cream",
+      "amount": 30,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "flour",
+      "amount": 70,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "黑巧克力",
+      "mergeKey": "chocolate",
+      "amount": 30,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 45,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "小匙泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "可可粉",
+      "mergeKey": "cocoa-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 70,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 40,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "鲜奶",
+      "mergeKey": "milk",
+      "amount": 70,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "-5滴香草精",
+      "mergeKey": "vanilla-extract",
+      "amount": 3,
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "低筋面粉和泡打粉混合过筛，室温软化黄油加砂糖打至松发,"
+    },
+    {
+      "text": "分次少量的加入全蛋液，搅至混合,"
+    },
+    {
+      "text": "加鲜奶拌匀,"
+    },
+    {
+      "text": "倒入面粉和泡打粉用橡皮刮刀拌匀,"
+    },
+    {
+      "text": "将面糊分成2份，其中一份拌入可可粉,"
+    },
+    {
+      "text": "将1小匙白色面糊放入模内，另装1小匙可可面糊放在模具侧，重复以上动作填满模具（8-9分）,"
+    },
+    {
+      "text": "烤箱预热，175度中层20分钟,"
+    },
+    {
+      "text": "烤好后将巧克力酱（将黑巧克力隔40度温水溶化成浆状，加入40度鲜奶油拌匀。）填入内馅即可"
+    }
+  ],
+  "nutrition": {
+    "kcal": 284.4,
+    "proteinG": 6.9,
+    "carbsG": 55.5,
+    "fatG": 4.3
+  },
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

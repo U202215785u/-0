@@ -1,0 +1,108 @@
+{
+  "id": "xf-10122",
+  "title": "辣子鸡",
+  "ingredients": [
+    {
+      "name": "鸡腿肉",
+      "mergeKey": "chicken",
+      "amount": 2,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "/2勺盐",
+      "mergeKey": "salt",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2勺酱油",
+      "mergeKey": "soy-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "quantityText": "若干",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "一小把花椒",
+      "mergeKey": "sichuan-pepper",
+      "quantityText": "一小把",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 1,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "可省去熟芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "干辣椒剪成小段儿，别偷懒，最好小一些，好看又好吃,"
+    },
+    {
+      "text": "鸡腿肉去骨，切成小块儿，基本上是比鸡丁大一点点的样子，在热油里面炸到金黄色（炸熟~），我感觉油大概有8成热的样子吧。建议一次不要炸太多，否则颜色会不漂亮,"
+    },
+    {
+      "text": "锅里留适量的油，依次放入八角，花椒，葱，干辣椒，炒香（炒香就行，一定别时间太长，容易让辣椒变黑色）,"
+    },
+    {
+      "text": "把2的鸡肉放入3里面，加盐，少量酱油，适当多一些的糖。翻炒半分钟到1分钟的样子,"
+    },
+    {
+      "text": "加芝麻，炒匀，出锅吧"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10122/",
+  "author": "寻没",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 265.5,
+    "proteinG": 36,
+    "carbsG": 0,
+    "fatG": 12
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

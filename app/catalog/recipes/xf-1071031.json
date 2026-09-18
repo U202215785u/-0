@@ -1,0 +1,69 @@
+{
+  "id": "xf-1071031",
+  "title": "清蒸鱼",
+  "ingredients": [
+    {
+      "name": "鲈鱼鳊鱼等等都可以鱼",
+      "mergeKey": "fish",
+      "category": "水产"
+    },
+    {
+      "name": "蒸鱼豉油",
+      "mergeKey": "fish-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "植物油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "部分切片部分切丝葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "部分切片部分切丝姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "在鱼身两面都切上几刀，均匀抹上盐和料酒，放些姜片，腌制10分钟"
+    },
+    {
+      "text": "腌制好的鱼，摆在盘子上，放入蒸锅，蒸15分钟"
+    },
+    {
+      "text": "蒸好的鱼取出后铺上葱丝、姜丝，淋上蒸鱼豉油"
+    },
+    {
+      "text": "烧热一勺油，浇在鱼身上即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/1071031/",
+  "author": "味蕾工坊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

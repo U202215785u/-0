@@ -1,0 +1,108 @@
+{
+  "id": "xf-11588",
+  "title": "果仁咸味曲奇",
+  "ingredients": [
+    {
+      "name": "核桃仁碎",
+      "mergeKey": "walnut",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 100,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "全蛋液",
+      "mergeKey": "egg",
+      "amount": 40,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "一小匙盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙黑胡椒",
+      "mergeKey": "black-pepper",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙肉桂粉",
+      "mergeKey": "cinnamon",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "核桃仁入烤箱以150度烤制10分钟左右至香，取出用刀切碎,"
+    },
+    {
+      "text": "低粉过筛，和盐、细砂糖、黑胡椒、肉桂粉混合均匀,"
+    },
+    {
+      "text": "黄油提前室温软化，加入步骤2，用手搓成均匀的面包粉状态,"
+    },
+    {
+      "text": "加入全蛋液，搅拌均匀,"
+    },
+    {
+      "text": "倒入核桃碎混合均匀成团,"
+    },
+    {
+      "text": "把面团垫保鲜膜，整成长方体（我这里整成4厘米 Ⅹ4厘米的长方条）。 用保鲜膜包起，入冰箱冷冻（注意是冷冻不是冷藏哦）一个小时左右至硬,"
+    },
+    {
+      "text": "烤箱180度预热。取出冻硬的面团，用快刀切成6毫米左右的片,"
+    },
+    {
+      "text": "切好的饼干片排入铺了油布的烤盘，要留有一定间隔。入预热好的烤箱，180度中层烤20分钟左右，至饼干上色即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11588/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 282.4,
+    "proteinG": 8.1,
+    "carbsG": 53.9,
+    "fatG": 3.9
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

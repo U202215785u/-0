@@ -1,0 +1,78 @@
+{
+  "id": "xf-10767",
+  "title": "鲜虾土司卷",
+  "ingredients": [
+    {
+      "name": "活虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "白土司",
+      "mergeKey": "bread",
+      "category": "米面主食"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "面包糠",
+      "mergeKey": "breadcrumbs",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "活虾买回来扔进冰箱速冻二十分钟再拿出来，剥壳去肠泥，冻过的活虾会比较方便剥壳,"
+    },
+    {
+      "text": "剁成虾泥，放少许料酒，盐搅拌均匀,"
+    },
+    {
+      "text": "一个鸡蛋打散备用,"
+    },
+    {
+      "text": "白土司切去四周硬的边皮，用擀面杖把土司的两头擀薄（方便等下卷起来,"
+    },
+    {
+      "text": "在白土司的一边涂上虾泥，另一边刷上蛋液,"
+    },
+    {
+      "text": "把涂好馅料的土司卷起来，在土司卷外表刷上蛋液,"
+    },
+    {
+      "text": "放进面包糠，让土司卷在里面打个滚,"
+    },
+    {
+      "text": "烧热油锅到面包糠扔进去会马上浮起来，放入土司卷， 中火炸至金黄色,"
+    },
+    {
+      "text": "出锅后用厨房纸巾吸去多余的油份，摆盘，上桌蘸番茄酱或者色拉酱食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10767/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

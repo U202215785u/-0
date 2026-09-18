@@ -1,0 +1,101 @@
+{
+  "id": "xf-11229",
+  "title": "草菇炒瓜片",
+  "ingredients": [
+    {
+      "name": "七八个草菇",
+      "mergeKey": "straw-mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "quantityText": "少量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "草菇七八个（可以换成别的种类蘑菇），黄瓜一根，小葱一根，蒜两瓣，胡萝卜少量,"
+    },
+    {
+      "text": "草菇和黄瓜切半厘米厚的片，胡萝卜切丝，葱切花，蒜切片,"
+    },
+    {
+      "text": "用滚水把草菇片焯一下，30秒左右，七八分熟,"
+    },
+    {
+      "text": "热锅凉油，炒香葱花和蒜片,"
+    },
+    {
+      "text": "下黄瓜片和草菇片翻炒,"
+    },
+    {
+      "text": "加入胡萝卜丝炒匀，调入盐，鸡精，一点点水淀粉勾芡"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11229/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 17.5,
+    "proteinG": 1,
+    "carbsG": 3.5,
+    "fatG": 0.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

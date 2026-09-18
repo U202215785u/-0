@@ -1,0 +1,108 @@
+{
+  "id": "xf-11072",
+  "title": "香菇芽菜卤肉饭",
+  "ingredients": [
+    {
+      "name": "随意煮鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "芽菜",
+      "mergeKey": "yacai",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "amount": 10,
+      "unit": "朵",
+      "category": "菌菇"
+    },
+    {
+      "name": "米饭",
+      "mergeKey": "rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "干葱",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "45毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "60毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "30毫升老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "香菇用40度左右的温水浸泡软，洗净后切碎备用。干葱，姜都切成同等大小的碎末。五花肉切成比黄豆芽粗些的小条，芽菜切碎备用,"
+    },
+    {
+      "text": "锅中倒入油，先将干葱末，姜末放入炒香后，倒入香菇碎和芽菜碎煸炒2分钟，然后将它们用铲子拨到锅的一侧。放入五花肉煸炒，淋入料酒，炒约4分钟后盛出,"
+    },
+    {
+      "text": "将炒好的五花肉，香菇碎，芽菜碎一起倒入飞利浦电饭锅中，倒入清水，没过食材表面，倒入生抽，老抽搅匀后盖上盖子，按下“焖/炖”键，选择“焖,"
+    },
+    {
+      "text": "炖好后打开盖子，放入煮好去皮的鸡蛋，然后再盖上盖子，用余温继续焖制一会儿即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11072/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 1521.9,
+    "proteinG": 37.9,
+    "carbsG": 41.1,
+    "fatG": 134.6
+  },
+  "tags": [
+    "烧焖",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

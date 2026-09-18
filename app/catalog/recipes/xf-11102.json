@@ -1,0 +1,161 @@
+{
+  "id": "xf-11102",
+  "title": "海鲜白汁意大利面",
+  "ingredients": [
+    {
+      "name": "意大利面",
+      "mergeKey": "pasta",
+      "amount": 100,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "虾仁",
+      "mergeKey": "shrimp",
+      "amount": 10,
+      "unit": "个",
+      "category": "水产"
+    },
+    {
+      "name": "蛤蜊",
+      "mergeKey": "clam",
+      "amount": 10,
+      "unit": "个",
+      "category": "水产"
+    },
+    {
+      "name": "/4只鱿鱼",
+      "mergeKey": "squid",
+      "category": "水产"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 200,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "黑橄榄",
+      "mergeKey": "olive",
+      "amount": 5,
+      "unit": "颗",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "大汤匙15毫升橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙1克黑胡椒碎",
+      "mergeKey": "black-pepper",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/8茶匙0.5克欧芹",
+      "mergeKey": "parsley",
+      "amount": 0.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙1克盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克奶酪粉",
+      "mergeKey": "cheese-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "几片新鲜罗勒叶",
+      "mergeKey": "basil",
+      "quantityText": "几片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 50,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 60,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙1克黑胡椒",
+      "mergeKey": "black-pepper",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙1克欧芹碎",
+      "mergeKey": "parsley",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅中放入黄油，用小火漫漫融化。然后加入面粉翻炒约15秒炒香，接着倒入牛奶不停搅拌，一直搅拌熬煮成糊状，加入盐，黑胡椒，欧芹碎调味盛出备用,"
+    },
+    {
+      "text": "将虾仁，蛤蜊清洗干净（用淡盐水浸泡20分钟后使用）。把虾仁放入开水中焯烫10秒钟后捞出，把蛤蜊放入焯烫至开口儿后捞出,"
+    },
+    {
+      "text": "把鱿鱼切条放入开水中，焯烫20秒钟后捞出备用。焯烫的水，倒掉不用,"
+    },
+    {
+      "text": "将锅清洗干净，另烧一锅开水，并在水中加入1/2小勺盐，将意大利面放入煮约10分钟后捞出，用冷水过凉后沥干,"
+    },
+    {
+      "text": "锅中倒入橄榄油，加入虾仁，蛤蜊，鱿鱼，黑橄榄翻炒几下，再加入意大利面翻炒约1分钟，倒入奶油白酱搅匀,"
+    },
+    {
+      "text": "最后，调入加入黑胡椒，欧芹，盐调味，拌匀后即可关火。吃之前，撒入一层奶酪粉和新鲜罗勒叶味道更好，如果没有也可以不放"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11102/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 808.4,
+    "proteinG": 126.7,
+    "carbsG": 34.4,
+    "fatG": 19
+  },
+  "tags": [
+    "煮",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

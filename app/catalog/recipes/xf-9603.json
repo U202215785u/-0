@@ -1,0 +1,120 @@
+{
+  "id": "xf-9603",
+  "title": "凉拌香辣花生",
+  "ingredients": [
+    {
+      "name": "花生仁",
+      "mergeKey": "peanut",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "amount": 3,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小红椒",
+      "mergeKey": "chili",
+      "amount": 2,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/4小匙细盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙黑醋",
+      "mergeKey": "vinegar",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙细砂糖",
+      "mergeKey": "sugar",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙辣椒红油",
+      "mergeKey": "chili-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "滴芝麻香油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "滴",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅内冷油，放入花生仁保持小火炸，炸时可把锅子侧起让油浸过花生,"
+    },
+    {
+      "text": "炸至花生变深色，即熄火，捞起沥净油，放凉1小时,"
+    },
+    {
+      "text": "黄瓜切去内部的芯，切成小块。红椒，香菜切碎，大蒜剁成蒜,"
+    },
+    {
+      "text": "将调味料在碗内调好，加入花生及步骤3的蔬菜类拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9603/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 97.8,
+    "proteinG": 4.8,
+    "carbsG": 17.6,
+    "fatG": 1.7
+  },
+  "tags": [
+    "凉拌",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

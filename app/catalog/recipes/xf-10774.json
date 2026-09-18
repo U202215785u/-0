@@ -1,0 +1,81 @@
+{
+  "id": "xf-10774",
+  "title": "烤酿鲜鱿",
+  "ingredients": [
+    {
+      "name": "新鲜鱿鱼",
+      "mergeKey": "squid",
+      "category": "水产"
+    },
+    {
+      "name": "肉馅",
+      "mergeKey": "ground-pork",
+      "quantityText": "适量",
+      "category": "肉类"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "烧烤酱",
+      "mergeKey": "bbq-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鲜鱿鱼撕去外皮，除内脏，洗干净，加入料酒和白胡椒粉腌制片刻,"
+    },
+    {
+      "text": "胡萝卜，黄瓜，葱姜都切成末，放在肉末里，加适量盐，料酒，一点点的糖，用筷子使劲朝一个方向搅上劲,"
+    },
+    {
+      "text": "将调好的肉馅塞入鱿鱼内，刷上烧烤酱，用锡纸包好，入烤箱中层，210度烤15分钟后取出，打开锡纸包，再刷一层烧烤酱，这个时候不要再把锡纸包上了，打开放入烤箱，继续刚才的温度烤15分钟，取出稍凉后切片装盘，把多余的汁水浇上去，上桌"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10774/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,193 @@
+{
+  "id": "xf-10277",
+  "title": "京味鸡肉卷",
+  "ingredients": [
+    {
+      "name": "中筋面粉",
+      "mergeKey": "flour",
+      "amount": 70,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "土豆淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken-thigh",
+      "amount": 2,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "温水",
+      "mergeKey": "water",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "红萝卜",
+      "mergeKey": "carrot",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青瓜",
+      "mergeKey": "cucumber",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "京葱白",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "嫩生菜",
+      "mergeKey": "lettuce",
+      "amount": 5,
+      "unit": "张",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙甜面酱",
+      "mergeKey": "sweet-bean-sauce",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "煎鸡的油",
+      "mergeKey": "cooking-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡腿两只，去骨取肉用料酒1大匙，生抽1大匙腌制20分钟,"
+    },
+    {
+      "text": "中筋面粉+土豆淀粉混合,"
+    },
+    {
+      "text": "加入适量温水，用筷子搅拌成雪花状,"
+    },
+    {
+      "text": "用手和成光滑的面团，盖上保鲜膜，松弛二十分钟,"
+    },
+    {
+      "text": "搓成长条后，切成小段,"
+    },
+    {
+      "text": "用手按成饼形,"
+    },
+    {
+      "text": "用擀面仗擀成薄的圆饼,"
+    },
+    {
+      "text": "平底锅烧热，用中火放上饼皮,"
+    },
+    {
+      "text": "等到表面起泡时，翻过另一面烙至表面起微黄色的小泡即可,"
+    },
+    {
+      "text": "烙好的饼皮要还是很柔软的，以下是我用手捏过,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "再放开，也不会开裂,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "锅内放薄薄的一层油，中火将鸡肉放入煎至两面金黄色，取出放凉切件,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "最后准备好生菜，饼皮，鸡肉条，红萝卜丝，黄瓜条，京葱段,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "甜面酱放1茶匙蜂蜜，入上汽的锅内蒸2分钟，取出备用,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "饼皮放最底下，铺上生菜，鸡肉条，红萝卜丝，黄瓜条，京葱段,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "最后淋上一层蒸好的甜面酱,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "卷起即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10277/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 526.1,
+    "proteinG": 47.7,
+    "carbsG": 48,
+    "fatG": 15.9
+  },
+  "tags": [
+    "炸",
+    "烤"
+  ],
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

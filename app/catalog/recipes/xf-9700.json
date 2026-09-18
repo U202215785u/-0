@@ -1,0 +1,83 @@
+{
+  "id": "xf-9700",
+  "title": "基础发糕",
+  "ingredients": [
+    {
+      "name": "普通面粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "温水",
+      "mergeKey": "water",
+      "amount": 190,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 35,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 1.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葡萄干",
+      "mergeKey": "raisin",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "3克酵母溶于190克温水中（水温不得高于40度）,"
+    },
+    {
+      "text": "将所有材料混合，拌匀,"
+    },
+    {
+      "text": "耐高温的容器（我用是乐扣760毫升耐高温玻璃保鲜盒）刷油，把拌好的面糊倒入容器,"
+    },
+    {
+      "text": "放在温暖处发酵至原来体积的两倍大，我用了大概一小时。在发酵好的面糊表面撒上葡萄干,"
+    },
+    {
+      "text": "冷水上锅，大火蒸30分钟左右即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9700/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 207.5,
+    "proteinG": 4.6,
+    "carbsG": 44.8,
+    "fatG": 1.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

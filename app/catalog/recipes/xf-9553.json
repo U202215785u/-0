@@ -1,0 +1,80 @@
+{
+  "id": "xf-9553",
+  "title": "海味蟹子茄子",
+  "ingredients": [
+    {
+      "name": "蟹子",
+      "mergeKey": "crab-roe",
+      "category": "水产"
+    },
+    {
+      "name": "茄子",
+      "mergeKey": "eggplant",
+      "category": "蔬菜"
+    },
+    {
+      "name": "虾米",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "熟黑芝麻",
+      "mergeKey": "black-sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "高汤",
+      "mergeKey": "stock",
+      "category": "其他"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "茴香",
+      "mergeKey": "fennel",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将虾米用温水泡发洗净待用"
+    },
+    {
+      "text": "茄子去皮，用盐抹在表面使茄子变软"
+    },
+    {
+      "text": "锅中放油，加入姜末煸香放入虾米炒出香味"
+    },
+    {
+      "text": "放入高汤将茄子放入开锅后小火入味慢慢侵熟，大火收汁入味可以加少许盐绍酒调味。装盘时黄瓜片片垫底，撒上蟹子、熟黑芝麻即可，茴香提味并点缀"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9553/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

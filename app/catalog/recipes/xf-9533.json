@@ -1,0 +1,64 @@
+{
+  "id": "xf-9533",
+  "title": "蟹味菇竹笋鸡汤",
+  "ingredients": [
+    {
+      "name": "三黄鸡",
+      "mergeKey": "chicken",
+      "category": "肉类"
+    },
+    {
+      "name": "蟹味菇",
+      "mergeKey": "shimeji",
+      "category": "菌菇"
+    },
+    {
+      "name": "竹笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蜜枣",
+      "mergeKey": "jujube",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "整只鸡洗净，飞水,"
+    },
+    {
+      "text": "蟹味菇去根，竹笋对切、玉米切段、姜切2-3片、蜜枣1-2颗,"
+    },
+    {
+      "text": "沙锅内放入鸡、姜片，大火煮沸改小火煲1个小时,"
+    },
+    {
+      "text": "加入蟹味菇、竹笋、玉米、蜜枣继续煲2-3小时,"
+    },
+    {
+      "text": "临出锅时加盐调味即成"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9533/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

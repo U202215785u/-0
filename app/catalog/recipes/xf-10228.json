@@ -1,0 +1,105 @@
+{
+  "id": "xf-10228",
+  "title": "火爆鱿鱼丝",
+  "ingredients": [
+    {
+      "name": "水发鱿鱼",
+      "mergeKey": "squid",
+      "amount": 120,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "蒜苔",
+      "mergeKey": "garlic-scape",
+      "amount": 120,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-bell-pepper",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜蓉",
+      "mergeKey": "garlic",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜蓉",
+      "mergeKey": "ginger",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙秘制红油辣椒酱",
+      "mergeKey": "chili-sauce",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将干鱿鱼提前一晚用冷水泡发，切成长条状。蒜苔切段，红椒切丝,"
+    },
+    {
+      "text": "大蒜，生姜剁成蓉,"
+    },
+    {
+      "text": "锅内热1/2小匙油，放入蒜苔及盐1/2小匙，清水50毫升，翻炒至熟，盛出备用,"
+    },
+    {
+      "text": "锅内冷油1大匙放入蒜蓉，姜蓉炒出香味,"
+    },
+    {
+      "text": "加入鱿鱼丝和红椒丝，秘制辣椒红油1大匙，生抽，盐用大火煸炒,"
+    },
+    {
+      "text": "煸炒至鱿鱼丝上色入味,"
+    },
+    {
+      "text": "加入炒好的蒜苔，鸡精再翻炒均匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10228/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

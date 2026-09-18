@@ -1,0 +1,132 @@
+{
+  "id": "xf-13705",
+  "title": "夫妻肺片",
+  "ingredients": [
+    {
+      "name": "牛舌",
+      "mergeKey": "beef-tongue",
+      "category": "肉类"
+    },
+    {
+      "name": "牛肚",
+      "mergeKey": "beef-tripe",
+      "category": "肉类"
+    },
+    {
+      "name": "牛腱",
+      "mergeKey": "beef-shank",
+      "category": "肉类"
+    },
+    {
+      "name": "牛头",
+      "mergeKey": "beef-head",
+      "category": "肉类"
+    },
+    {
+      "name": "花生仁碎",
+      "mergeKey": "peanut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白酒",
+      "mergeKey": "baijiu",
+      "amount": 2,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "amount": 4,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芝麻",
+      "mergeKey": "sesame",
+      "amount": 2,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-pepper-powder",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 2,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "肉桂",
+      "mergeKey": "cinnamon",
+      "amount": 2,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒油",
+      "mergeKey": "chili-oil",
+      "amount": 4,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将牛腱、牛杂洗净，切成大块；将牛肉、牛杂放入加入白酒的沸水锅中煮，血水捞起。另一锅内，加入老汤卤水及花椒、肉桂、八角、香叶、盐、白酒，再加适量清水，用旺火烧沸约30分钟后，改用小火煮90分钟，煮到牛杂熟而不烂，先熟的先捞出，晾凉待用"
+    },
+    {
+      "text": "将卤水用旺火烧沸约10分钟后，将味精、辣椒油、酱油、花椒粉、卤水放入碗中调成汁"
+    },
+    {
+      "text": "将熟花生米拍碎待用，再将晾凉的牛肉、牛杂等切成薄片混合在一起，淋上调味汁拌匀，再撒上芝麻粉和花生仁末，以香菜装饰即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/13705/",
+  "author": "摆渡大厨",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

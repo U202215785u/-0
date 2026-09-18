@@ -1,0 +1,61 @@
+{
+  "id": "xf-11688",
+  "title": "梨藕汁",
+  "ingredients": [
+    {
+      "name": "梨",
+      "mergeKey": "pear",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "藕",
+      "mergeKey": "lotus-root",
+      "amount": 1,
+      "unit": "段",
+      "category": "蔬菜"
+    },
+    {
+      "name": "纯净水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "梨去皮去核，切小块。藕去皮切小块（处理藕的时候动作要快，否则藕会发黑，或者切好泡在滴了白醋的水里，可以有效避免藕发黑）,"
+    },
+    {
+      "text": "处理好的梨和藕放入榨汁机，倒入100毫升纯净水（不放水太干，很难打），搅打细腻,"
+    },
+    {
+      "text": "搅打好梨藕汁用纱布或者筛网过滤（用纱布效果会比较好，可以包起来挤出汁，我手边没纱布，所以用了筛网）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11688/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 29,
+    "proteinG": 0,
+    "carbsG": 7.5,
+    "fatG": 0
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "xf-11317",
+  "title": "烤豆角",
+  "ingredients": [
+    {
+      "name": "豆角",
+      "mergeKey": "green-bean",
+      "category": "蔬菜"
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "孜然粉",
+      "mergeKey": "cumin",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒粉",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "竹签",
+      "mergeKey": "bamboo-skewer",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "豆角洗净去筋，用两根竹签穿成一排,"
+    },
+    {
+      "text": "入烤箱中层，220度烤5分钟变软，表面微皱后，取出。（先烤5分钟再刷料，是因为变软后，调料更好粘附在表面不易脱落，入味更好,"
+    },
+    {
+      "text": "取出后刷色拉油,"
+    },
+    {
+      "text": "撒上盐、孜然粉、辣椒粉、黑胡椒粉。继续烤15分钟。翻面，刷油，撒调料，再15分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11317/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

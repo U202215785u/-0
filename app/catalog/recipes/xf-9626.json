@@ -1,0 +1,72 @@
+{
+  "id": "xf-9626",
+  "title": "茶香熏三文鱼",
+  "ingredients": [
+    {
+      "name": "挪威三文鱼",
+      "mergeKey": "salmon",
+      "amount": 250,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "茶叶",
+      "mergeKey": "tea",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺黑胡椒碎",
+      "mergeKey": "black-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "三文鱼用胡椒，盐抹匀腌制十分钟，沥干水份,"
+    },
+    {
+      "text": "炒锅烧热，铺上锡纸，倒入拌匀的红糖和茶叶,"
+    },
+    {
+      "text": "烧至微冒烟的时候放上篦子，把三文鱼放上盖盖，正反面各盖盖焖5-8分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9626/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 220.3,
+    "proteinG": 30.2,
+    "carbsG": 17.2,
+    "fatG": 3.9
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

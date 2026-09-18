@@ -1,0 +1,85 @@
+{
+  "id": "xf-11444",
+  "title": "萝卜排骨汤",
+  "ingredients": [
+    {
+      "name": "仔排",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "萝卜",
+      "mergeKey": "radish",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "仔排清洗干净，剁成小块（这步很重要），萝卜去皮切滚刀块,"
+    },
+    {
+      "text": "切成小块的仔排放入大碗中，调入盐，鸡精，白胡椒粉，料酒，美极鲜酱油及生粉腌制10分钟,"
+    },
+    {
+      "text": "取砂锅放水及萝卜大火煮开备用,"
+    },
+    {
+      "text": "锅中放油烧热，放入腌好的仔排翻炒至肉排变白没有血水，放入烧开的萝卜汤中，丢中姜片葱段烧开转小火煲20分钟左右即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11444/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

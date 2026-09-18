@@ -1,0 +1,63 @@
+{
+  "id": "xf-10778",
+  "title": "成长果冻果汁杯",
+  "ingredients": [
+    {
+      "name": "奇异果",
+      "mergeKey": "kiwi",
+      "category": "蔬菜"
+    },
+    {
+      "name": "橙子",
+      "mergeKey": "orange",
+      "category": "蔬菜"
+    },
+    {
+      "name": "苹果",
+      "mergeKey": "apple",
+      "category": "蔬菜"
+    },
+    {
+      "name": "琼脂",
+      "mergeKey": "agar",
+      "quantityText": "一小撮",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "一勺蜂蜜",
+      "mergeKey": "honey",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有水果洗干净。两个橙子剥皮，其中一小部分需要剥去里面果瓤上的皮，取出果肉，掰成小块。一个奇异果去皮切小丁，半个苹果去皮切小丁,"
+    },
+    {
+      "text": "三种水果丁取少量放入玻璃杯中,"
+    },
+    {
+      "text": "毫升清水加一小撮琼脂，煮至琼脂化开，稍凉后调入一勺蜂蜜拌匀,"
+    },
+    {
+      "text": "步骤3倒入步骤2的杯中，半杯就够了。入冰箱至凝固,"
+    },
+    {
+      "text": "剩下的橙子、奇异果和苹果丁（留几粒等下放在果汁中）放入榨汁机榨出果汁。倒在凝结好的果冻杯里，撒上水果粒即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10778/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

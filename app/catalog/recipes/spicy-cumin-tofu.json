@@ -1,0 +1,163 @@
+{
+  "id": "spicy-cumin-tofu",
+  "title": "香辣孜然豆腐",
+  "ingredients": [
+    {
+      "name": "孜然籽",
+      "mergeKey": "cumin",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芫荽籽",
+      "mergeKey": "coriander",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红椒碎",
+      "mergeKey": "chili-flakes",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白醋",
+      "mergeKey": "vinegar",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白洋葱",
+      "mergeKey": "onion",
+      "quantityText": "1个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "quantityText": "1把",
+      "category": "蔬菜"
+    },
+    {
+      "name": "老豆腐",
+      "mergeKey": "tofu",
+      "amount": 397,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "quantityText": "按口味",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "quantityText": "搭配食用",
+      "category": "蔬菜"
+    },
+    {
+      "name": "米饭",
+      "mergeKey": "rice",
+      "quantityText": "搭配食用",
+      "category": "米面主食"
+    }
+  ],
+  "steps": [
+    {
+      "text": "孜然籽和芫荽籽放入干燥平底锅，中火翻炒5至7分钟至出香味、颜色变深；研碎后放入小碗。使用粉末时直接混合。",
+      "ingredientNames": [
+        "孜然籽",
+        "芫荽籽"
+      ]
+    },
+    {
+      "text": "在香料中加入生抽、红糖、红椒碎和白醋，拌匀成酱汁。",
+      "ingredientNames": [
+        "生抽",
+        "红糖",
+        "红椒碎",
+        "白醋"
+      ]
+    },
+    {
+      "text": "平底锅大火加1汤匙食用油，放入切成约2.5厘米块的洋葱和葱，铺平煎约4分钟至局部起泡但仍爽脆，盛出。",
+      "ingredientNames": [
+        "食用油",
+        "白洋葱",
+        "葱"
+      ]
+    },
+    {
+      "text": "锅中加入剩余食用油，放入沥干并掰成小块的老豆腐，大火翻炒8至10分钟至局部金黄酥脆。转中火倒入酱汁，再炒约2分钟至液体基本收干。",
+      "ingredientNames": [
+        "食用油",
+        "老豆腐",
+        "生抽",
+        "红糖",
+        "红椒碎",
+        "白醋"
+      ]
+    },
+    {
+      "text": "关火，放回洋葱和葱拌匀，按口味加食盐，撒香菜，搭配米饭食用。",
+      "ingredientNames": [
+        "白洋葱",
+        "葱",
+        "食盐",
+        "香菜",
+        "米饭"
+      ]
+    }
+  ],
+  "baseServings": 2,
+  "sourceUrl": "https://www.bonappetit.com/recipe/spicy-cumin-tofu",
+  "author": "Shilpa Uskokovic / Bon Appetit",
+  "fidelity": "structured-transcription",
+  "sourceNote": "固定字段采用来源份量范围下限2人份作为缩放基准；来源页面公开40分钟、13项配料和5段方法，调味用量与时序未改写。",
+  "nutrition": {
+    "kcal": 582.1,
+    "proteinG": 32,
+    "carbsG": 23.6,
+    "fatG": 42
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

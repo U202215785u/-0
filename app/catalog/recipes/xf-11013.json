@@ -1,0 +1,72 @@
+{
+  "id": "xf-11013",
+  "title": "巧克力奶香蛋饼",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 60,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "巧克力豆",
+      "mergeKey": "chocolate",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡蛋打散后，加入细砂糖，快速打至砂糖融化,"
+    },
+    {
+      "text": "筛入面粉后，分几次加入牛奶，将面糊搅匀呈糊状，但提起打蛋器，面糊能缓慢的自然下落为最佳,"
+    },
+    {
+      "text": "倒入巧克力碎粒，继续搅匀后，将蛋饼糊用勺子盛入飞利浦三明治机中，盖上盖子，按下开关即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11013/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 199,
+    "proteinG": 8.9,
+    "carbsG": 27.8,
+    "fatG": 6.2
+  },
+  "tags": [
+    "主食",
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "xf-11477",
+  "title": "菠萝炒鸡丁",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken",
+      "amount": 3,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "菠萝",
+      "mergeKey": "pineapple",
+      "amount": 0.5,
+      "unit": "只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 75,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "莴笋",
+      "mergeKey": "celtuce",
+      "amount": 0.5,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "腰果",
+      "mergeKey": "cashew",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蕃茄酱",
+      "mergeKey": "tomato-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有材料清洗干净，鸡腿去骨，切成大小一致的鸡丁；鸡丁中调入盐，鸡粉，淀粉少许，白胡椒粉，料酒，少许水，搅至略粘的程度，腌制10分钟；其它材料切丁,"
+    },
+    {
+      "text": "锅中放油烧热，入鸡丁滑炒，稍一变色即关火用余温烫熟，盛出备用；用底油炒胡萝卜一会，然后放入莴笋丁，炒至快熟时加入鸡丁，调入盐，少许糖，鸡精，蕃茄酱，少许美极鲜酱油翻炒，出锅前放入菠萝丁拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11477/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 407,
+    "proteinG": 54.5,
+    "carbsG": 1.8,
+    "fatG": 18.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

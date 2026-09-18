@@ -1,0 +1,98 @@
+{
+  "id": "xf-9614",
+  "title": "柱侯鸡",
+  "ingredients": [
+    {
+      "name": "带骨带皮鸡块",
+      "mergeKey": "chicken",
+      "amount": 320,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "大匙柱侯酱",
+      "mergeKey": "zhuhou-sauce",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "各一个青红椒",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜片",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2大匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙清水",
+      "mergeKey": "water",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅内热油，放入生鸡块中火翻炒,"
+    },
+    {
+      "text": "炒至鸡块变色后，加入姜片，蒜片继续翻炒至鸡块紧缩。烹入料酒炒至酒气散去,"
+    },
+    {
+      "text": "将柱侯酱，砂糖，水调好后倒入锅内翻炒至出香味,"
+    },
+    {
+      "text": "倒入清水约半杯，水量至鸡块的2/3处,"
+    },
+    {
+      "text": "加盖小火焖煮至汤汁剩1/4时，加入青红椒块,"
+    },
+    {
+      "text": "炒至青红椒块八成熟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9614/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 264,
+    "proteinG": 49.6,
+    "carbsG": 0,
+    "fatG": 5.8
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

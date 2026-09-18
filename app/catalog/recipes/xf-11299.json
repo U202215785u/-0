@@ -1,0 +1,81 @@
+{
+  "id": "xf-11299",
+  "title": "虾仁炒米粉",
+  "ingredients": [
+    {
+      "name": "米粉",
+      "mergeKey": "rice-noodles",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "荷兰豆",
+      "mergeKey": "snow-peas",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "米粉用冷水泡软,"
+    },
+    {
+      "text": "泡软的米粉捞出沥干水份，用一汤匙蚝油、一汤匙生抽和少许鸡精，拌匀备用,"
+    },
+    {
+      "text": "虾去头剥壳开背去肠泥后，放开水锅中焯水捞出备用。荷兰豆洗净摘去两头备用,"
+    },
+    {
+      "text": "锅烧热，放油烧热，一个鸡蛋不用 打散直接打入锅中，用筷子把鸡蛋搅散至熟,"
+    },
+    {
+      "text": "把步骤2的米粉倒入锅中，保持中火，用筷子不停的翻炒至干爽并熟,"
+    },
+    {
+      "text": "倒入步骤3的虾仁和荷兰豆，用筷子不停翻炒一分钟后，即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11299/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

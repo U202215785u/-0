@@ -1,0 +1,115 @@
+{
+  "id": "xf-11534",
+  "title": "小熊曲奇",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "mergeKey": "low-gluten-flour",
+      "amount": 120,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 60,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "绵白糖",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋液",
+      "mergeKey": "egg",
+      "amount": 28,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "大匙可可粉",
+      "mergeKey": "cocoa-powder",
+      "amount": 22.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备工作：黄油室温放软；低筋面粉过筛；烤箱预热165度,"
+    },
+    {
+      "text": "黄油室温放软后加入过筛的低粉和糖中,"
+    },
+    {
+      "text": "用手将黄油轻捏成均匀的粗颗粒，并使每个颗粒都裹满面粉,"
+    },
+    {
+      "text": "加入蛋液,"
+    },
+    {
+      "text": "用手轻捏成团，静置10分钟,"
+    },
+    {
+      "text": "将面团分割出一个50克小面团用于制作可可面团，其余的则为原味面团,"
+    },
+    {
+      "text": "小面团中加入可可粉,"
+    },
+    {
+      "text": "揉匀即为可可面团,"
+    },
+    {
+      "text": "原味面团擀开呈"
+    },
+    {
+      "text": "4厘米薄片，用最大号花嘴的底部（或直径4厘米的圆形饼干圈）压出圆形，作为小熊头部,"
+    },
+    {
+      "text": "剩余的面团揉成团，再擀开成"
+    },
+    {
+      "text": "2厘米的薄片，用小号花嘴底部压出小圆形，最为小熊的鼻子,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将两个圆形面团组合，再用可可面团捏成耳朵、鼻子的形状，并画出嘴巴,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "也可组合成小娃娃的样子,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将整型好的饼胚排入烤盘，放入预热165度的烤箱中层烤制15分钟，关火后继续焖15分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11534/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 214.8,
+    "proteinG": 4,
+    "carbsG": 46.5,
+    "fatG": 1.8
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 90,
+  "difficulty": "中等"
+}

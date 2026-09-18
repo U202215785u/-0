@@ -1,0 +1,70 @@
+{
+  "id": "xf-9928",
+  "title": "豆豉鲈鱼",
+  "ingredients": [
+    {
+      "name": "鲈鱼",
+      "mergeKey": "fish",
+      "amount": 1,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "豆豉",
+      "mergeKey": "douchi",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鲈鱼洗净后，在两侧鱼背上斜着划上几刀，鱼身抹一层薄薄的盐，表面撒上适量豆豉,"
+    },
+    {
+      "text": "蒸锅里的水煮沸后，放入鱼大火蒸8分钟关火，撒上葱花,"
+    },
+    {
+      "text": "另起油锅，倒入2小勺油，2小勺生抽，将油和生抽混合煮沸后淋在鱼上即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9928/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

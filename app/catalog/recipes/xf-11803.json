@@ -1,0 +1,70 @@
+{
+  "id": "xf-11803",
+  "title": "烤翅中",
+  "ingredients": [
+    {
+      "name": "鸡翅中",
+      "mergeKey": "chicken-wing",
+      "category": "肉类"
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "叉烧酱",
+      "mergeKey": "char-siu-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "洗净鸡翅，加黑胡椒、黄酒、生抽、叉烧酱、蜂蜜、老抽入一会味,"
+    },
+    {
+      "text": "烤箱预热200度，放中层烤15分钟,"
+    },
+    {
+      "text": "翻一下面再烤15分钟,"
+    },
+    {
+      "text": "喜欢吃干一点的，可以中途打开风门"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11803/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

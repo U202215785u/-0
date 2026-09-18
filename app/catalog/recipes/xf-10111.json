@@ -1,0 +1,69 @@
+{
+  "id": "xf-10111",
+  "title": "可丽饼",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 150,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 3,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 150,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡蛋打散加入糖粉搅拌均匀，加入面粉搅拌均匀,"
+    },
+    {
+      "text": "加入牛奶和水混合均匀．,"
+    },
+    {
+      "text": "平底锅加热，中小火，放少许油转动，将面糊倒入快速轻轻转动摊平，几秒后将饼皮掀过来再煎成金黄色即可，一张所花时间也就2－3分钟即可，接着就不用加油了，一张张操作即可．"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10111/",
+  "author": "子闻妈咪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 367.5,
+    "proteinG": 15.4,
+    "carbsG": 55,
+    "fatG": 10.1
+  },
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,150 @@
+{
+  "id": "xf-100352761",
+  "title": "鱼香肉丝",
+  "ingredients": [
+    {
+      "name": "瘦肉",
+      "amount": 250,
+      "unit": "克",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "黑木耳",
+      "amount": 50,
+      "unit": "克",
+      "mergeKey": "wood-ear",
+      "category": "菌菇"
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 50,
+      "unit": "克",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "靑椒",
+      "amount": 40,
+      "unit": "克",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": 20,
+      "unit": "克",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "amount": 20,
+      "unit": "克",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "amount": 20,
+      "unit": "毫升",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "amount": 15,
+      "unit": "毫升",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "amount": 15,
+      "unit": "毫升",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "，浆肉时用盐",
+      "amount": 1,
+      "unit": "克",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "amount": 10,
+      "unit": "克",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "amount": 20,
+      "unit": "毫升",
+      "mergeKey": "water",
+      "category": "其他"
+    },
+    {
+      "name": "见图葱姜蒜末",
+      "mergeKey": "aromatics",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "胡萝卜切丝，青椒洗净去蒂切丝，木耳撕成小块备用。"
+    },
+    {
+      "text": "瘦肉洗净切丝，并用盐，胡椒粉，料酒，蛋清，和淀粉上浆腌制10分钟。"
+    },
+    {
+      "text": "豆瓣酱一勺，葱姜蒜切末。"
+    },
+    {
+      "text": "取小碗，用白糖，香醋，料酒，盐，酱油，少量清水，水淀粉兑成一个芡汁。因为豆瓣酱很盐，口不重的就别放盐了！"
+    },
+    {
+      "text": "坐锅倒油，把浆好的肉下锅划散，炒到肉丝变白色移至盘中待用！"
+    },
+    {
+      "text": "原锅放少许油，胡罗卜不太容易就要先炒两下，再扒到一边，入豆瓣酱炒香出红油！"
+    },
+    {
+      "text": "下葱姜蒜沫和其他配料一起炒熟！"
+    },
+    {
+      "text": "下肉丝一起翻炒均匀！"
+    },
+    {
+      "text": "最后一步倒入兑好的小碗汁炒均匀，出锅！"
+    },
+    {
+      "text": "鱼香肉丝就完成了(^ω^)"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100352761/",
+  "author": "奚姥姥",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 211.1,
+    "proteinG": 7,
+    "carbsG": 35.9,
+    "fatG": 3.7
+  },
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

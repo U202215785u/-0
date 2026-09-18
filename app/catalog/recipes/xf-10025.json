@@ -1,0 +1,105 @@
+{
+  "id": "xf-10025",
+  "title": "迷你玛德琳",
+  "ingredients": [
+    {
+      "name": "无盐黄油",
+      "amount": 250,
+      "unit": "克",
+      "mergeKey": "butter",
+      "category": "乳制品"
+    },
+    {
+      "name": "低筋面粉",
+      "amount": 250,
+      "unit": "克",
+      "mergeKey": "flour",
+      "category": "米面主食"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 5,
+      "unit": "个",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "糖粉",
+      "amount": 200,
+      "unit": "克",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "amount": 50,
+      "unit": "克",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "柠檬皮",
+      "amount": 1,
+      "unit": "个量",
+      "mergeKey": "lemon-zest",
+      "category": "蔬菜"
+    },
+    {
+      "name": "柠檬汁",
+      "amount": 0.5,
+      "unit": "个量",
+      "mergeKey": "lemon-juice",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "泡打粉",
+      "amount": 5,
+      "unit": "克",
+      "mergeKey": "baking-powder",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "quantityText": "少许",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "无盐黄油融化备用,"
+    },
+    {
+      "text": "低粉，泡打粉，盐，一起过筛2次备用,"
+    },
+    {
+      "text": "鸡蛋打散，加入糖粉搅拌均匀，不要打发，加蜂蜜搅拌均匀，加柠檬皮和柠檬汁混合均匀，加入过筛好的粉类搅拌均匀，入冰箱冷藏一个小时,"
+    },
+    {
+      "text": "模具刷油撒上粉，拍掉多余的粉，取出面糊，装入裱花袋，或者用勺子，将面糊挤进模具8分满。烤箱预热180度,"
+    },
+    {
+      "text": "长帝烤箱180度中层烤10分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10025/",
+  "author": "子闻妈咪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 937,
+    "proteinG": 25.7,
+    "carbsG": 175.3,
+    "fatG": 16.9
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

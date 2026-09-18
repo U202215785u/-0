@@ -1,0 +1,129 @@
+{
+  "id": "xf-10101",
+  "title": "红酒炖羊肉",
+  "ingredients": [
+    {
+      "name": "羊肉",
+      "mergeKey": "lamb",
+      "amount": 250,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "红酒",
+      "mergeKey": "red-wine",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 4,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 4,
+      "unit": "段",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 20,
+      "unit": "粒",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 4,
+      "unit": "片",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 1,
+      "unit": "根",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "羊肉切成约3厘米见方的小块，找一只较深的汤碗，放入清水和花椒，然后放入羊肉稍稍抓匀，然后腌制半小时左右,"
+    },
+    {
+      "text": "羊肉腌好后倒掉血水不要，然后用清水冲洗两次，将剩余的血水和花椒粒洗净。炒锅中加入清水，放入一半量的葱、姜，放入羊肉用中大火将水烧开，水开后淋入料酒，避开浮沫将羊肉捞出，再次用清水冲洗干净,"
+    },
+    {
+      "text": "炒锅中加入少许油烧到3成热，放入羊肉、葱姜用中火煸炒至水分收干,"
+    },
+    {
+      "text": "淋入红酒，加入白糖炒至出香味，然后放入桂皮、香叶，加入清水没过羊肉表面,"
+    },
+    {
+      "text": "加盖用中小火慢慢炖1个半小时，用筷子扎一下羊肉能很容易的扎透，然后放入胡萝卜、洋葱，再煮10分钟，胡萝卜熟透即可。可以根据自己喜好将汤汁收干"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10101/",
+  "author": "豆牛",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 189.9,
+    "proteinG": 7.3,
+    "carbsG": 31.1,
+    "fatG": 3.9
+  },
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

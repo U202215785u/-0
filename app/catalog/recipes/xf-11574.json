@@ -1,0 +1,64 @@
+{
+  "id": "xf-11574",
+  "title": "香炸鸡翅",
+  "ingredients": [
+    {
+      "name": "鸡中翅",
+      "mergeKey": "chicken-wing",
+      "category": "肉类"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "排骨精",
+      "mergeKey": "pork-bouillon",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡中翅清洗干净后，挤干水分，对半剖开，放入容器中，调入盐，料酒，白胡椒粉，少许排骨精，两片拍扁的生姜末一起腌制10分钟入味,"
+    },
+    {
+      "text": "腌好的鸡中翅盘中，倒入适量生粉，以能均匀且薄薄的裹在鸡中翅上为准；锅中放油烧热，放入鸡翅，以中小火煎炸至金黄酥脆即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11574/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

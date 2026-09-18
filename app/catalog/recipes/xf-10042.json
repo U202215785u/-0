@@ -1,0 +1,117 @@
+{
+  "id": "xf-10042",
+  "title": "椒盐濑尿虾",
+  "ingredients": [
+    {
+      "name": "濑尿虾",
+      "mergeKey": "mantis-shrimp",
+      "amount": 450,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 25,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "chili",
+      "amount": 2,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2小匙细盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/8小匙五香粉",
+      "mergeKey": "five-spice",
+      "amount": 0.625,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙特细辣椒粉",
+      "mergeKey": "chili-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将虾用清水静养30分钟，再用牙刷轻刷外壳，冲洗干净,"
+    },
+    {
+      "text": "将大蒜，生姜，红椒剁成蓉，将葱切成葱花备用,"
+    },
+    {
+      "text": "锅内热半锅油，将虾放入大火炸至表皮变红色捞出备用,"
+    },
+    {
+      "text": "锅内的油重新烧热，重新放入虾，大火炸约1分钟捞起沥净油,"
+    },
+    {
+      "text": "锅内留底油，放入姜，蒜，红椒，蒜爆炒出香味,"
+    },
+    {
+      "text": "再放入盐，胡椒粉，五香粉，辣椒粉，料酒炒至水份干即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10042/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 331.3,
+    "proteinG": 55.9,
+    "carbsG": 9.8,
+    "fatG": 8
+  },
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

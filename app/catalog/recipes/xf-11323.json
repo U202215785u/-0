@@ -1,0 +1,150 @@
+{
+  "id": "xf-11323",
+  "title": "臊子面",
+  "ingredients": [
+    {
+      "name": "挂面",
+      "mergeKey": "noodle",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "猪肉碎",
+      "mergeKey": "pork",
+      "amount": 100,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "豆腐干",
+      "mergeKey": "tofu",
+      "amount": 50,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "虾干",
+      "mergeKey": "dried-shrimp",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "马蹄",
+      "mergeKey": "water-chestnut",
+      "amount": 3,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "数朵黑木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 75,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "植物油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "陈醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "细辣椒粉",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "原料处理：把肉碎用少量生抽、花椒粉和酒略腌一下。黑木耳泡开切成小块。葱白和葱叶分开，切成葱花。姜切成蓉。其余所有材料均切成"
+    },
+    {
+      "text": "5厘米见方的小块,"
+    },
+    {
+      "text": "热锅凉油（油要比炒菜多些），小火爆香姜蓉和葱白,"
+    },
+    {
+      "text": "加入肉碎和虾干，中火翻炒至肥肉出油。九成熟时加入陈醋、老抽、花椒粉，细红辣椒粉翻炒。３、再加入豆干、木耳、马蹄、胡萝卜翻炒均匀，加盐调味,"
+    },
+    {
+      "text": "添入高汤或开水，滚开转小火煮半个小时，即为臊子面汤,"
+    },
+    {
+      "text": "面条下沸水中煮好，盛入碗中。加入刚才煮好的臊子面汤卤，撒上葱花即成"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11323/",
+  "author": "礼拜天的心情",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 207.8,
+    "proteinG": 19.9,
+    "carbsG": 15.4,
+    "fatG": 7.4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

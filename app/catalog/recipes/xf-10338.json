@@ -1,0 +1,79 @@
+{
+  "id": "xf-10338",
+  "title": "花生芝麻糖",
+  "ingredients": [
+    {
+      "name": "花生",
+      "mergeKey": "peanut",
+      "amount": 250,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白芝麻",
+      "mergeKey": "sesame",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白砂糖",
+      "mergeKey": "sugar",
+      "amount": 120,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麦芽糖",
+      "mergeKey": "maltose",
+      "amount": 100,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "汤勺约10克色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "汤勺水",
+      "mergeKey": "water",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "花生炒香（有烤箱的可以烤香），冷却后去红衣，装保鲜袋中用擀面杖压成两半待用，  白芝麻也小火炒香,"
+    },
+    {
+      "text": "锅内放1汤勺色拉油小火烧热， 放入白砂糖，再加入1汤勺水，小火煮， 搅匀，再加入麦芽糖一起煮至成金黄色大泡（期间要不停搅拌），关火，马上倒入花生和芝麻，快速翻拌均匀，倒入容器压平,"
+    },
+    {
+      "text": "稍凉后就取出分切成小块即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10338/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 537.7,
+    "proteinG": 4.2,
+    "carbsG": 126.8,
+    "fatG": 2.8
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "xf-11594",
+  "title": "韩式泡菜海鲜锅",
+  "ingredients": [
+    {
+      "name": "泡菜",
+      "mergeKey": "kimchi",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蛤蜊",
+      "mergeKey": "clam",
+      "category": "水产"
+    },
+    {
+      "name": "明虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "蘑菇",
+      "mergeKey": "mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "西葫芦",
+      "mergeKey": "zucchini",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "汤勺黄豆酱",
+      "mergeKey": "huangdou-jiang",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "-2汤匙韩式辣酱",
+      "mergeKey": "gochujang",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有食材清洗干净，虾剪去虾须；西葫芦切成厚片，蘑菇切片，蒜切蒜末,"
+    },
+    {
+      "text": "锅中放适量水烧开后放入蛤蜊氽烫壳微微张开，捞出蛤蜊，保留原汤（等下用来烧汤会很鲜美）,"
+    },
+    {
+      "text": "取一炒锅，放油烧热，爆香蒜蓉，接着放入泡菜翻炒约1分钟，倒入刚才氽蛤蜊的原汤，放入蘑菇烧开；烧开后放入豆腐，小心的翻动以免豆腐碎掉，调入2汤匙黄豆酱，1汤匙左右韩式辣酱（不喜吃辣可以不放，量随自己口味增减），再尝尝咸淡，适当放盐,"
+    },
+    {
+      "text": "锅中再次煮沸后，放入明虾及西葫芦煮约1分钟，临出锅前调少许鸡精提鲜，把氽烫好的蛤蜊放入锅中一起煮开即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11594/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

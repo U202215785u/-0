@@ -1,0 +1,58 @@
+{
+  "id": "xf-11439",
+  "title": "蓉薯豆渣饼",
+  "ingredients": [
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆渣",
+      "mergeKey": "douzha",
+      "category": "豆制品"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "土豆切滚刀小块，煮熟，和豆渣一起调入盐，鸡精，黑胡椒粉及葱花搅匀,"
+    },
+    {
+      "text": "手心里拍些水（防止粘手），取适量薯蓉豆渣拍成圆形饼状，入平底锅里中火煎焦黄即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11439/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

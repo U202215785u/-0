@@ -1,0 +1,152 @@
+{
+  "id": "xf-259000",
+  "title": "片儿川",
+  "ingredients": [
+    {
+      "name": "潮面",
+      "mergeKey": "noodle",
+      "amount": 400,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "雪菜",
+      "mergeKey": "xuecai",
+      "amount": 60,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "冬笋",
+      "mergeKey": "bamboo-shoot",
+      "amount": 80,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "猪里脊肉",
+      "mergeKey": "pork",
+      "amount": 80,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "两勺盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱末",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪里脊内切薄片，加生粉、少许盐、老抽半小勺，加料酒搅拌均匀"
+    },
+    {
+      "text": "冬笋切片，酸菜备用"
+    },
+    {
+      "text": "潮面下入沸水中煮至半熟"
+    },
+    {
+      "text": "捞出过水冲凉备用"
+    },
+    {
+      "text": "锅中入油烧热，下入肉片扒熟后捞出，底油仍留在锅内"
+    },
+    {
+      "text": "下入酸菜和笋片翻炒1-2分钟"
+    },
+    {
+      "text": "加入半锅水，加盐、老抽搅拌均匀"
+    },
+    {
+      "text": "大火煮至沸腾时转小火，炖10分钟"
+    },
+    {
+      "text": "下入面条，煮至再次沸腾"
+    },
+    {
+      "text": "最后下入肉片，加鸡精、胡椒调味，稍煮即可关火"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "最后盛入碗中撒上葱花，放上胡萝卜片做装饰即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/259000/",
+  "author": "坨坨妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 565,
+    "proteinG": 18.5,
+    "carbsG": 38.3,
+    "fatG": 38
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

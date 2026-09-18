@@ -1,0 +1,48 @@
+{
+  "id": "xf-9992",
+  "title": "桂花蜜渍双丝",
+  "ingredients": [
+    {
+      "name": "白萝卜",
+      "mergeKey": "radish",
+      "category": "蔬菜"
+    },
+    {
+      "name": "雪梨",
+      "mergeKey": "pear",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干桂花",
+      "mergeKey": "osmanthus",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "白萝卜、雪梨去皮，切细丝，拌匀,"
+    },
+    {
+      "text": "撒少许干桂花于双丝上,"
+    },
+    {
+      "text": "浇适量蜂蜜，静置片刻，即可食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9992/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

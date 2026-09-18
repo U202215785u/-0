@@ -1,0 +1,142 @@
+{
+  "id": "xf-102203515",
+  "title": "可乐鸡翅",
+  "ingredients": [
+    {
+      "name": "鸡翅",
+      "mergeKey": "chicken",
+      "amount": 12,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "可口可乐",
+      "mergeKey": "cola",
+      "amount": 1,
+      "unit": "罐",
+      "category": "其他"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "左右盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "汤勺啤酒",
+      "mergeKey": "beer",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "汤勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小半汤勺老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "熟白芝麻",
+      "mergeKey": "sesame",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡翅洗净背面划二刀..\n\n方便入味.\n伱要真懒.\n也可以不划..(−_−＃)"
+    },
+    {
+      "text": "锅里放冷水.鸡翅..\n放入二片姜...\n\n煮开.."
+    },
+    {
+      "text": "准备一罐可乐.\n另一片姜切丝."
+    },
+    {
+      "text": "水开后煮二分钟左右..\n\n捞出洗净备用."
+    },
+    {
+      "text": "锅里放少许油.\n把洗净控干水分的鸡翅放下去煎香."
+    },
+    {
+      "text": "翻面.."
+    },
+    {
+      "text": "二面都煎好后放入生姜丝和啤酒.\n炒出香味..\n啤酒汁略微收干了.\n\n木有啤酒的可以用一勺料酒代替.\n不过我还是喜欢啤酒的！"
+    },
+    {
+      "text": "放入一汤勺的生抽.\n嗯.\n就平时喝汤的勺.."
+    },
+    {
+      "text": "小半汤勺的老抽."
+    },
+    {
+      "text": "翻炒均匀上色."
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "倒入可乐.\n烧开后转中火.\n盖上锅盖焖."
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "焖至一半汁时.\n加入盐.\n开大火收汁."
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "收到自己喜欢的程度就好.."
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "装盘.撒上熟白芝麻.\n\n我这是全部收干了的.\n一定要不停的搅拌.\n很容易糊."
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102203515/",
+  "author": "冇伱灬冇我",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 609.4,
+    "proteinG": 55.8,
+    "carbsG": 0.1,
+    "fatG": 43.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 90,
+  "difficulty": "中等"
+}

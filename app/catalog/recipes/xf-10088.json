@@ -1,0 +1,87 @@
+{
+  "id": "xf-10088",
+  "title": "肉末煸尖椒",
+  "ingredients": [
+    {
+      "name": "肉末",
+      "mergeKey": "minced-pork",
+      "amount": 150,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "尖椒",
+      "mergeKey": "chili-pepper",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 1,
+      "unit": "小勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺糖",
+      "mergeKey": "sugar",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜蓉",
+      "mergeKey": "garlic",
+      "amount": 1,
+      "unit": "大勺",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "尖椒洗净去籽，擦干内外的水,"
+    },
+    {
+      "text": "锅内烧热油下尖椒煸至表皮发皱,"
+    },
+    {
+      "text": "尖椒盛出备用，锅内余油煸香蒜蓉，下肉末煸炒至焦黄，加生抽，糖炒匀,"
+    },
+    {
+      "text": "倒入尖椒，翻炒均匀，倒入一大勺温水，翻炒至汤汁收干，加少许盐，胡椒粉炒匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10088/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 167.5,
+    "proteinG": 6.5,
+    "carbsG": 25,
+    "fatG": 4.2
+  },
+  "tags": [
+    "炒",
+    "炸",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

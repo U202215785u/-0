@@ -1,0 +1,71 @@
+{
+  "id": "xf-11498",
+  "title": "金银蛋上汤菠菜",
+  "ingredients": [
+    {
+      "name": "菠菜",
+      "mergeKey": "spinach",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "皮蛋",
+      "mergeKey": "preserved-egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "咸蛋",
+      "mergeKey": "salted-egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "炸蒜瓣",
+      "mergeKey": "garlic",
+      "amount": 35,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "菠菜洗净备用，皮蛋，咸蛋切碎备用,"
+    },
+    {
+      "text": "将水烧开，把皮蛋，咸蛋以及炸蒜瓣放入,"
+    },
+    {
+      "text": "当皮蛋和咸蛋的味道煮出到汤里的时候，即可放入菠菜,"
+    },
+    {
+      "text": "菠菜微微烧软，以盐调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11498/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 35,
+    "proteinG": 2,
+    "carbsG": 7,
+    "fatG": 0.4
+  },
+  "tags": [
+    "煮",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

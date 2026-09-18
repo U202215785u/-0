@@ -1,0 +1,73 @@
+{
+  "id": "xf-9659",
+  "title": "兰豆鸡丁",
+  "ingredients": [
+    {
+      "name": "荷兰豆",
+      "mergeKey": "snow-pea",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡脯肉",
+      "mergeKey": "chicken-breast",
+      "amount": 1,
+      "unit": "小块",
+      "category": "肉类"
+    },
+    {
+      "name": "辣椒",
+      "mergeKey": "pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡肉洗净，切成小丁，取干净碗，将鸡丁和盐，鸡粉，料酒一起搅拌均匀，腌渍十分钟左右，待用,"
+    },
+    {
+      "text": "荷兰豆洗净后切成菱形块，放入沸水中快速焯烫，然后捞出过凉，沥干水分备用,"
+    },
+    {
+      "text": "辣椒切小丁备用,"
+    },
+    {
+      "text": "炒锅倒入适量油烧热，将备好的鸡丁放入油中炒至变色捞出,"
+    },
+    {
+      "text": "锅中留底油，放入辣椒爆香，放入荷兰豆，鸡丁，快速翻炒，加入盐，鸡粉调味炒匀入味，用水淀粉勾薄芡，淋明油，即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9659/",
+  "author": "美食情书",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

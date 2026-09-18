@@ -1,0 +1,132 @@
+{
+  "id": "xf-11111",
+  "title": "可爱小熊蛋糕",
+  "ingredients": [
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 160,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "cake-flour",
+      "amount": 192,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 182,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小型的约4个本鸡蛋",
+      "mergeKey": "egg",
+      "amount": 160,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "朗姆酒",
+      "mergeKey": "rum",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 25,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "无铝泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "融化的黑巧克力",
+      "mergeKey": "chocolate",
+      "quantityText": "适量",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油加热至融化,"
+    },
+    {
+      "text": "加糖搅拌至糖融化,"
+    },
+    {
+      "text": "分5次加入蛋液，每次都要搅拌均匀,"
+    },
+    {
+      "text": "加入朗姆酒，拌匀,"
+    },
+    {
+      "text": "加入蜂蜜，拌匀,"
+    },
+    {
+      "text": "加入淡奶油，拌匀,"
+    },
+    {
+      "text": "筛入低粉、泡打粉,"
+    },
+    {
+      "text": "沿不规则方向切拌成均匀的糊状,"
+    },
+    {
+      "text": "将面糊装入裱花袋,"
+    },
+    {
+      "text": "挤入模具中约八九分满,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "放入预热180度的烤箱，烤制25~30分钟,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "出炉，晾凉后用融化的黑巧克力装饰，即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11111/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 643.9,
+    "proteinG": 16.3,
+    "carbsG": 120.5,
+    "fatG": 12
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

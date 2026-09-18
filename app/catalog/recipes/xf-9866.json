@@ -1,0 +1,86 @@
+{
+  "id": "xf-9866",
+  "title": "肉酱通心粉",
+  "ingredients": [
+    {
+      "name": "意面",
+      "mergeKey": "pasta",
+      "amount": 100,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "肉酱",
+      "mergeKey": "meat-sauce",
+      "amount": 100,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "甜面酱",
+      "mergeKey": "tianmianjiang",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备材料,"
+    },
+    {
+      "text": "锅中放少许油,"
+    },
+    {
+      "text": "倒入肉酱炒香后，加入葱末，甜面酱，豆瓣酱，和适量的水少煮片刻,"
+    },
+    {
+      "text": "汤锅中放水煮开，水中加少许油和盐,"
+    },
+    {
+      "text": "倒入通心粉,"
+    },
+    {
+      "text": "煮好后，取出,"
+    },
+    {
+      "text": "意面加入少许油搅拌,"
+    },
+    {
+      "text": "搅拌好后，加入面酱搅拌好即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9866/",
+  "author": "飞雪无霜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烤",
+    "烧焖"
+  ],
+  "nutrition": {
+    "kcal": 101.5,
+    "proteinG": 4,
+    "carbsG": 15.2,
+    "fatG": 2.1
+  },
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

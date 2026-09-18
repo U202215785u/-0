@@ -1,0 +1,66 @@
+{
+  "id": "xf-9710",
+  "title": "黑豆渣饼",
+  "ingredients": [
+    {
+      "name": "豆渣",
+      "mergeKey": "okara",
+      "category": "豆制品"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "彩椒丁",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "熟豆渣和面粉，大概1：1的比例混合，加一个鸡蛋，少许盐，胡椒粉和鸡精搅拌成厚的面糊,"
+    },
+    {
+      "text": "平底锅中倒少量油，开小火，把混合好的豆渣面糊用勺子挖一勺放锅里，用勺子摊开成一个小圆饼的样子,"
+    },
+    {
+      "text": "小火慢慢煎到两面金黄即可出锅，用厨房吸油纸把多余油份吸掉，即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9710/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

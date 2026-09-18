@@ -1,0 +1,104 @@
+{
+  "id": "pan-fried-chicken-breast",
+  "title": "香煎鸡胸",
+  "ingredients": [
+    {
+      "name": "鸡胸肉",
+      "mergeKey": "chicken",
+      "amount": 1,
+      "unit": "块",
+      "category": "肉类"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜盐",
+      "mergeKey": "garlic-salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡胸肉切成约1.3厘米厚的片，逆纹切更嫩；用刀背交叉拍松两面。",
+      "ingredientNames": [
+        "鸡胸肉"
+      ]
+    },
+    {
+      "text": "蚝油、白糖、蒜盐、玉米淀粉和清水调匀，加入鸡胸肉按摩入味。",
+      "ingredientNames": [
+        "蚝油",
+        "白糖",
+        "蒜盐",
+        "玉米淀粉",
+        "清水",
+        "鸡胸肉"
+      ]
+    },
+    {
+      "text": "把鸡胸肉两面薄薄裹上玉米淀粉。",
+      "ingredientNames": [
+        "鸡胸肉",
+        "玉米淀粉"
+      ]
+    },
+    {
+      "text": "锅大火烧热加食用油，油面有波纹后转小火，放入鸡胸肉煎至两面金黄且熟透，趁热装盘。",
+      "ingredientNames": [
+        "食用油",
+        "鸡胸肉"
+      ]
+    }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 20,
+  "sourceUrl": "https://www.madewithlau.com/recipes/easy-pan-fried-chicken-breast",
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、20分钟总时长和6段方法；保留逆纹切、刀背拍松、薄裹淀粉和高温预热后转小火。",
+  "tags": [
+    "烧焖",
+    "煎"
+  ],
+  "difficulty": "中等"
+}

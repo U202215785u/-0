@@ -1,0 +1,124 @@
+{
+  "id": "xf-11386",
+  "title": "花生红枣焖猪手",
+  "ingredients": [
+    {
+      "name": "猪手",
+      "mergeKey": "pork-trotter",
+      "amount": 2,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "花生",
+      "mergeKey": "peanut",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "红枣",
+      "mergeKey": "red-date",
+      "amount": 15,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "节葱",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 20,
+      "unit": "粒",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 3,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 3,
+      "unit": "片",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 1,
+      "unit": "块",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "90毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 90,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "45毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "30毫升老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将猪手剁成小块，放入开水中焯烫4分钟后捞出，冲净表面的浮沫备用。（焯烫猪蹄的水，倒掉不要）,"
+    },
+    {
+      "text": "把花生和红枣洗净，姜去皮切成片，大葱切段。将花椒，八角，香叶和桂皮放入一次性料包中,"
+    },
+    {
+      "text": "把焯烫好的猪手块放入电饭锅中，再加入姜片和葱段，倒入开水没过猪手,"
+    },
+    {
+      "text": "放入料包，倒入料酒，生抽，老抽搅匀后，盖上盖子，按下按钮“焖/炖”键，选择“焖”即可，约2—3小时,"
+    },
+    {
+      "text": "如果不用电饭锅煲制这个猪手，用普通锅的话，大火煮开后，改成中小火后，盖上盖子，炖1个半小时即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11386/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

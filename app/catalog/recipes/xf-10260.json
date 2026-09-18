@@ -1,0 +1,98 @@
+{
+  "id": "xf-10260",
+  "title": "豆豉烧冬瓜",
+  "ingredients": [
+    {
+      "name": "冬瓜",
+      "mergeKey": "winter-melon",
+      "amount": 500,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆豉",
+      "mergeKey": "douchi",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2杯高汤",
+      "mergeKey": "broth",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "/2茶匙细盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "冬瓜去皮，切成方块，并在表皮上打上深1厘米的花刀,"
+    },
+    {
+      "text": "青椒切成小块，大蒜去皮切块，豆豉洗净沥干水,"
+    },
+    {
+      "text": "锅内热2大匙油，放入冬瓜煎至表面微黄色,"
+    },
+    {
+      "text": "将冬瓜块拨到一边，放入豆豉大蒜煸炒出香味,"
+    },
+    {
+      "text": "倒入高汤或清水1/2杯，盐 1/2茶匙，煮开后加盖转小火焖,"
+    },
+    {
+      "text": "焖至冬瓜软烂，加入鸡精 1/2茶匙,"
+    },
+    {
+      "text": "加入青椒煮至青椒断生即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10260/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 210,
+    "proteinG": 7.9,
+    "carbsG": 31.5,
+    "fatG": 5.3
+  },
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

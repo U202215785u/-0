@@ -1,0 +1,76 @@
+{
+  "id": "xf-11705",
+  "title": "咖喱大虾",
+  "ingredients": [
+    {
+      "name": "虾",
+      "mergeKey": "shrimp",
+      "amount": 250,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "百梦多咖喱",
+      "mergeKey": "curry",
+      "amount": 35,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "虾买回来后，先清洗一下,"
+    },
+    {
+      "text": "将虾的长须，以及多余的部分剪去,"
+    },
+    {
+      "text": "在虾的第二指节处，用牙签抽出虾肠,"
+    },
+    {
+      "text": "处理好的虾再清洗一下待用,"
+    },
+    {
+      "text": "锅中放油，倒入葱末，姜丝,"
+    },
+    {
+      "text": "再将虾倒入,"
+    },
+    {
+      "text": "炒至变红后，将咖喱放入,"
+    },
+    {
+      "text": "加入适量的水，煮至汤汁浓稠即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11705/",
+  "author": "飞雪无霜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 174.3,
+    "proteinG": 30.7,
+    "carbsG": 3.9,
+    "fatG": 4.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

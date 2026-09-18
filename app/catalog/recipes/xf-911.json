@@ -1,0 +1,193 @@
+{
+  "id": "xf-911",
+  "title": "酸菜鱼",
+  "ingredients": [
+    {
+      "name": "新鲜草鱼",
+      "mergeKey": "grass-carp",
+      "amount": 750,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "酸菜",
+      "mergeKey": "pickled-cabbage",
+      "amount": 1,
+      "unit": "把",
+      "category": "蔬菜"
+    },
+    {
+      "name": "泡椒",
+      "mergeKey": "pickled-chili",
+      "amount": 6,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干红椒",
+      "mergeKey": "dried-chili",
+      "amount": 5,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜蓉",
+      "mergeKey": "garlic",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜蓉",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2小匙盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙2茶匙玉米淀粉+2大匙水调成水淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 25,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "新鲜草鱼，剖肚去净内脏及鳃，刮净鱼鳞,"
+    },
+    {
+      "text": "先斩去头部,"
+    },
+    {
+      "text": "用利刀从尾部接近鱼主骨处片出鱼肉,"
+    },
+    {
+      "text": "打开的样子，鱼腩内黑色膜要刮干净,"
+    },
+    {
+      "text": "再把上下两片肉都片出来,"
+    },
+    {
+      "text": "两片鱼肉，分别把鱼腩（肚）部份切除,"
+    },
+    {
+      "text": "再侧刀将鱼背肉片成约3毫米厚鱼片,"
+    },
+    {
+      "text": "将鱼头从中间剁开成两半,"
+    },
+    {
+      "text": "最后鱼分成，鱼头，鱼尾，鱼骨，鱼腩（肚），鱼片5部分,"
+    },
+    {
+      "text": "将头，尾，骨，鱼腩放一碗内，鱼片放一碗内，分别用少量盐，鸡精，料酒，水淀粉抓匀。腌制10分钟,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "酸菜洗净，切成段,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "锅内下油，放入姜，蒜蓉爆香后，下入泡椒，酸菜翻炒至出香味,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "另起一锅，热油放入鱼骨，鱼头略煎,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入清水4碗，加盖大火煮开,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入鱼腩，鱼尾，及炒好的酸菜类，加入盐（可不放），鸡精，白胡椒粉,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "煮好后，将所有的鱼都捞出来放入碗内，再放入鱼片煮至变色，马上连汤连鱼片倒入碗内,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "干锅将干红椒及花椒略爆香，放在鱼片上,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "再烧约2大匙热油，淋在鱼表面即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/911/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 494.4,
+    "proteinG": 91.9,
+    "carbsG": 7.9,
+    "fatG": 11.6
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

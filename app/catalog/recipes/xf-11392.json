@@ -1,0 +1,54 @@
+{
+  "id": "xf-11392",
+  "title": "椒麻鸡（清蒸版）",
+  "ingredients": [
+    {
+      "name": "鸡",
+      "mergeKey": "chicken",
+      "category": "肉类"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "花椒和盐放入锅内先炒一会，炒至香味飘出，盐略微发黄（照片我忘拍了），放凉备用,"
+    },
+    {
+      "text": "在鸡肉表面轻轻的抹上一层花椒盐，放至冰箱密封冷藏腌制2小时以上,"
+    },
+    {
+      "text": "腌制好的鸡肉用水洗去表面的盐和花椒,"
+    },
+    {
+      "text": "放入蒸锅内，淋上少许料酒，大火蒸25-30分钟即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11392/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "xf-9935",
+  "title": "孜然土豆",
+  "ingredients": [
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "孜然粉",
+      "mergeKey": "cumin",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "土豆切块撒少许盐，放入微波炉内叮8-10分钟，中间取出翻一次,"
+    },
+    {
+      "text": "起油锅，放入叮熟的土豆，加入孜然粉、胡椒粉翻炒拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9935/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "xf-10679",
+  "title": "蒜香烤面包",
+  "ingredients": [
+    {
+      "name": "土司",
+      "mergeKey": "toast",
+      "amount": 450,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "蒜泥",
+      "mergeKey": "garlic",
+      "amount": 60,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 60,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干葱",
+      "mergeKey": "scallion",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油软化加入蒜泥、糖粉、盐拌匀,"
+    },
+    {
+      "text": "土司去边皮切成正方4条，从底面开始抹上蒜泥奶油酱，再抹边上，放烤盘上后再抹面上，最后撒上干葱末,"
+    },
+    {
+      "text": "烤箱预热170度， 烘烤至外皮金黄，约20-30分钟（根据自己烤箱调整,"
+    },
+    {
+      "text": "取出稍凉后切成小块"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10679/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 247.4,
+    "proteinG": 8.6,
+    "carbsG": 39.2,
+    "fatG": 5.7
+  },
+  "tags": [
+    "主食",
+    "烧焖",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

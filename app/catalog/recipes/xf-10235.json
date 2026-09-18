@@ -1,0 +1,90 @@
+{
+  "id": "xf-10235",
+  "title": "腊肠炒芥蓝",
+  "ingredients": [
+    {
+      "name": "腊肠",
+      "mergeKey": "chinese-sausage",
+      "amount": 2,
+      "unit": "根",
+      "category": "肉类"
+    },
+    {
+      "name": "芥蓝",
+      "mergeKey": "chinese-broccoli",
+      "amount": 500,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "几片生姜",
+      "mergeKey": "ginger",
+      "quantityText": "几片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白酒",
+      "mergeKey": "baijiu",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "烧一锅水，滴几滴油，水开后放进芥蓝灼烫至变青绿,"
+    },
+    {
+      "text": "全部转色后，捞起沥干水分,"
+    },
+    {
+      "text": "热油锅，爆香姜片,"
+    },
+    {
+      "text": "放腊肠进锅，翻炒至腊肠变透明,"
+    },
+    {
+      "text": "倒进沥干水分的芥蓝，爆炒1分钟,"
+    },
+    {
+      "text": "加入白酒，翻炒均匀,"
+    },
+    {
+      "text": "加入白糖、盐翻炒均匀,"
+    },
+    {
+      "text": "装碟上桌"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10235/",
+  "author": "依依美食",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 487.8,
+    "proteinG": 32.6,
+    "carbsG": 31.8,
+    "fatG": 25.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "xf-11123",
+  "title": "原味曲奇",
+  "ingredients": [
+    {
+      "name": "低粉",
+      "mergeKey": "cake-flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 130,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 35,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "powdered-sugar",
+      "amount": 65,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 50,
+      "unit": "克",
+      "category": "蛋类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油软化后加细砂糖和糖粉，搅拌均匀,"
+    },
+    {
+      "text": "用打蛋器打至体积变大，颜色变浅,"
+    },
+    {
+      "text": "分2-3次加入鸡蛋液，每次加入之后都要搅拌均匀,"
+    },
+    {
+      "text": "筛入低粉，翻拌成均匀的面糊,"
+    },
+    {
+      "text": "装入裱花袋中，用中号的菊花形裱花嘴，在烤盘中铺入油纸或油布，挤成如图中的圆形曲奇,"
+    },
+    {
+      "text": "烤箱185度预热，中层用烘烤档烘烤12分钟左右"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11123/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 361.3,
+    "proteinG": 8.2,
+    "carbsG": 70.1,
+    "fatG": 5.8
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

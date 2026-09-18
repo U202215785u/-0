@@ -1,0 +1,60 @@
+{
+  "id": "xf-9727",
+  "title": "五彩炒丁",
+  "ingredients": [
+    {
+      "name": "黄瓜丁",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜丁",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米粒",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "火腿丁",
+      "mergeKey": "ham",
+      "category": "肉类"
+    },
+    {
+      "name": "杏鲍菇丁",
+      "mergeKey": "king-oyster-mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有材料全部切丁,"
+    },
+    {
+      "text": "锅中放油，稍热后，倒入杏鲍菇丁,"
+    },
+    {
+      "text": "倒入火腿丁,"
+    },
+    {
+      "text": "再倒入其他材料，翻炒均匀后，加入适量的盐即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9727/",
+  "author": "飞雪无霜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "xf-11481",
+  "title": "韭菜春笋炒蛏子",
+  "ingredients": [
+    {
+      "name": "新鲜蛏子",
+      "mergeKey": "razor-clam",
+      "quantityText": "少许",
+      "category": "水产"
+    },
+    {
+      "name": "韭菜",
+      "mergeKey": "chives",
+      "category": "蔬菜"
+    },
+    {
+      "name": "春笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "amount": 0.5,
+      "unit": "只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有材料清洗干净，蛏子入沸水中氽汤几秒，壳稍一打开，即取出，去除泥线取蛏肉备用；春笋切片，韭菜切段，红椒切丝,"
+    },
+    {
+      "text": "锅中放油烧热，依次放入春笋丝翻炒一下，接着加入韭菜，红椒，继续翻炒至9成熟，加入蛏肉，调入盐，鸡精，少许糖，美极鲜酱油略微翻炒下即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11481/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炸",
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

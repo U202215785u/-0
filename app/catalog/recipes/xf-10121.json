@@ -1,0 +1,117 @@
+{
+  "id": "xf-10121",
+  "title": "焖肉米线",
+  "ingredients": [
+    {
+      "name": "猪后臀尖",
+      "mergeKey": "pork",
+      "amount": 300,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "米线",
+      "mergeKey": "rice-noodles",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "昭通酱",
+      "mergeKey": "zhaotong-jiang",
+      "amount": 45,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 25,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豌豆苗",
+      "mergeKey": "pea-shoots",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "高汤",
+      "mergeKey": "stock",
+      "amount": 150,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将肉洗净后切成1厘米左右的块，肥肉部分先下锅用小火煸炒至出油，待肥肉开始出现焦黄的颜色后，放入瘦肉煸炒至变色，然后沥油捞出,"
+    },
+    {
+      "text": "利用锅中剩余的油将大蒜煸炒至外缘出现黄色，捞出备用。然后将火力转成小火放入辣酱，炒出红油,"
+    },
+    {
+      "text": "放入之前炒好的肉丁与辣酱充分炒匀，依次加入白糖、生抽炒出香味,"
+    },
+    {
+      "text": "锅中的油变多后放入大蒜炒匀，然后将所有材料倒入炖锅中,"
+    },
+    {
+      "text": "不要加水利用肉中的油脂慢火炖30分钟，直到肉丁和大蒜酥烂，即做成焖肉,"
+    },
+    {
+      "text": "米线和豌豆苗用清水洗净，分别放入开水中焯烫至熟，将米线盛入大碗中加入高汤和少许的盐调味，然后放入豌豆苗，浇上焖肉的汤汁、香葱拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10121/",
+  "author": "豆牛",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 361,
+    "proteinG": 36.6,
+    "carbsG": 23.5,
+    "fatG": 12.7
+  },
+  "tags": [
+    "烧焖",
+    "蒸",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

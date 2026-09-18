@@ -1,0 +1,85 @@
+{
+  "id": "xf-11290",
+  "title": "大盘蒜蓉粉丝蒸带子",
+  "ingredients": [
+    {
+      "name": "带子",
+      "mergeKey": "scallops",
+      "category": "水产"
+    },
+    {
+      "name": "粉丝",
+      "mergeKey": "vermicelli",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "red-chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "带子用小刀插入打开，把尾部内脏（红圈处）去掉,"
+    },
+    {
+      "text": "处理好的带子肉,"
+    },
+    {
+      "text": "把带子肉用清水淘洗干净。粉丝提前用凉水泡软。红辣椒一只切丁（可无），小葱一根切葱花，蒜一头（可多可少），切末,"
+    },
+    {
+      "text": "热锅凉油，小火炒香蒜末，再加少许盐。如嫌麻烦，可省略炒蒜这一步，不过当然是不省略的好啦,"
+    },
+    {
+      "text": "泡软的粉丝摆在盘底，带子肉均匀铺在上面,"
+    },
+    {
+      "text": "把炒过的蒜末撒在上面,"
+    },
+    {
+      "text": "入开水锅，盖盖子大火蒸5分钟,"
+    },
+    {
+      "text": "出锅撒上葱花和红椒粒，浇上烧热的色拉油和生抽"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11290/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

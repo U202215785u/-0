@@ -1,0 +1,75 @@
+{
+  "id": "xf-9648",
+  "title": "凉拌黑木耳",
+  "ingredients": [
+    {
+      "name": "黑木耳",
+      "mergeKey": "black-fungus",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜泥",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先把黑木耳放冷水或者温水里泡发开，然后在洗木耳的水中加一勺面粉，搅拌下，静置10分钟后再用流水一片片地清洗干净。把红椒去籽切成丝。清洗干净的黑木耳摘掉根部，用手撕成小片,"
+    },
+    {
+      "text": "锅上架烧开水，把黑木耳焯熟（大概两分钟左右）,"
+    },
+    {
+      "text": "接着把红椒放进绰木耳的开水烫下马上捞出。焯好后迅速放凉开水内过凉，以保持它的颜色和脆感,"
+    },
+    {
+      "text": "把焯好的黑木耳、红椒放碗里，放蒜泥、盐、鸡精、胡椒粉、香醋和一点点白糖，喜欢辣的可以加些辣油，一起搅拌均匀就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9648/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

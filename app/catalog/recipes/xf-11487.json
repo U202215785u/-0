@@ -1,0 +1,84 @@
+{
+  "id": "xf-11487",
+  "title": "酱鸭春笋菜泡饭",
+  "ingredients": [
+    {
+      "name": "酱鸭",
+      "mergeKey": "duck",
+      "category": "肉类"
+    },
+    {
+      "name": "剩饭",
+      "mergeKey": "rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "春笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蘑菇",
+      "mergeKey": "mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青菜",
+      "mergeKey": "greens",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "猪油",
+      "mergeKey": "lard",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "酱鸭剁成小块，其它食材清洗干净，切成丁；锅里放水烧开后，丢入姜丝及酱鸭块煮一会，稍后放入米饭同煮,"
+    },
+    {
+      "text": "锅里放油烧热，依次放入胡萝卜丁，春笋丁，蘑菇，调入少许盐，美极鲜酱油翻炒至8成熟，转盛入酱鸭泡饭锅里继续拌匀煮一下，调入盐，鸡精，然后放入切成丝的青菜，放一勺猪油，关火即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11487/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炸",
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

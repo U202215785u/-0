@@ -1,0 +1,64 @@
+{
+  "id": "xf-11383",
+  "title": "南瓜饼",
+  "ingredients": [
+    {
+      "name": "南瓜泥",
+      "mergeKey": "pumpkin",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "糯米粉",
+      "mergeKey": "glutinous-rice-flour",
+      "amount": 80,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "澄粉",
+      "mergeKey": "wheat-starch",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "豆沙馅",
+      "mergeKey": "red-bean-paste",
+      "quantityText": "少许",
+      "category": "豆制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "在南瓜泥中加入糯米粉和澄粉，搅拌成团,"
+    },
+    {
+      "text": "将面团静置15分钟,"
+    },
+    {
+      "text": "取一小份面团压扁后包入豆沙馅，滚圆,"
+    },
+    {
+      "text": "用牙签在一周压出纹路，放入蒸锅内大火蒸10分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11383/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 100,
+    "proteinG": 2.9,
+    "carbsG": 18.4,
+    "fatG": 1.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

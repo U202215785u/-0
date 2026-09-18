@@ -1,0 +1,110 @@
+{
+  "id": "xf-10027",
+  "title": "抹茶蜜豆小蛋糕",
+  "ingredients": [
+    {
+      "name": "无盐黄油",
+      "amount": 100,
+      "unit": "克",
+      "mergeKey": "butter",
+      "category": "乳制品"
+    },
+    {
+      "name": "低筋面粉",
+      "amount": 100,
+      "unit": "克",
+      "mergeKey": "flour",
+      "category": "米面主食"
+    },
+    {
+      "name": "-8克宇治抹茶粉",
+      "mergeKey": "matcha",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蜜红豆",
+      "quantityText": "少许",
+      "mergeKey": "sweet-red-beans",
+      "category": "豆制品",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "泡打粉",
+      "amount": 4,
+      "unit": "克",
+      "mergeKey": "baking-powder",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "quantityText": "少许",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖粉",
+      "amount": 60,
+      "unit": "克",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "amount": 20,
+      "unit": "克",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": ".柠檬汁和柠檬屑",
+      "quantityText": "少许",
+      "mergeKey": "lemon",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "无盐黄油融化备用  抹茶粉加温水溶解下，不要成水状哦，泥状就好。低粉，泡打粉，盐混合过筛两次备用,"
+    },
+    {
+      "text": "鸡蛋打散加入糖粉，蜂蜜充分搅拌均匀，不要打发,"
+    },
+    {
+      "text": "加入柠檬屑，柠檬汁混合，加入过筛的粉类混合，加入无盐黄油搅拌均匀包上保鲜模入冰箱冷藏1个小时,"
+    },
+    {
+      "text": "冰箱里取出加入蜜豆搅拌均匀，烤箱预热180度/,"
+    },
+    {
+      "text": "将面糊装入纸杯8分满，薄的纸杯下面要用模具托住，或者多加几个。入烤箱中层15-20分，时间根据情况掌握，因为放纸杯里面糊多了，和玛德琳模具不一样，时间稍微延长点"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10027/",
+  "author": "子闻妈咪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 336.9,
+    "proteinG": 10.3,
+    "carbsG": 60.2,
+    "fatG": 6.8
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

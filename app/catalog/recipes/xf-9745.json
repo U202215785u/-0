@@ -1,0 +1,70 @@
+{
+  "id": "xf-9745",
+  "title": "培根蛋炒饭",
+  "ingredients": [
+    {
+      "name": "米饭",
+      "mergeKey": "rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "category": "肉类"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 1,
+      "unit": "勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 2,
+      "unit": "勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡蛋打散，培根切小块备用,"
+    },
+    {
+      "text": "锅中倒入适量的油，油热后（要明显感觉都油温哦，差不多6成的样子吧），倒入鸡蛋迅速划散成形后，放入培根翻炒片刻,"
+    },
+    {
+      "text": "然后倒入米饭，用锅铲的背面将米饭压散，翻炒均匀后加入1勺料酒，2勺耗油，继续翻炒2分钟，最后关火撒上葱花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9745/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

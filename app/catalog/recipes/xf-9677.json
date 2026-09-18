@@ -1,0 +1,110 @@
+{
+  "id": "xf-9677",
+  "title": "兰花芝麻鱼片",
+  "ingredients": [
+    {
+      "name": "西兰花",
+      "mergeKey": "broccoli",
+      "category": "蔬菜"
+    },
+    {
+      "name": "草鱼",
+      "mergeKey": "grass-carp",
+      "amount": 0.5,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "熟黑芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "熟松子仁",
+      "mergeKey": "pine-nut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "草鱼片去皮去掉骨刺，斜刀片成片，用清水略冲加盐、胡椒粉、绍酒、蛋清、水淀粉拌匀腌渍,"
+    },
+    {
+      "text": "西兰花切小块，在开水中加少许盐、油焯熟，捞出待用，枸杞用温水泡开,"
+    },
+    {
+      "text": "锅烧热后放油，待油温四五成时将鱼片滑散捞出,"
+    },
+    {
+      "text": "锅留底油，煸香姜末、葱花放入鱼片加清水放入枸杞、鸡精、胡椒粉、白糖、盐调味水淀粉勾薄芡，淋少许香油即可关火,"
+    },
+    {
+      "text": "西兰花围边，鱼片出锅装盘撒烤好的熟芝麻、熟松子仁即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9677/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

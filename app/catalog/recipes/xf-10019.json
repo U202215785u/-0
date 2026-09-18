@@ -1,0 +1,56 @@
+{
+  "id": "xf-10019",
+  "title": "菌菇豆腐排骨煲",
+  "ingredients": [
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "category": "肉类"
+    },
+    {
+      "name": "菌菇",
+      "mergeKey": "mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "排骨放入冷水中煮沸后略滚一会，除去血水,"
+    },
+    {
+      "text": "砂锅里重新倒入适量热水，放入排骨，放少许料酒，大火煮沸后，转小火炖30分钟,"
+    },
+    {
+      "text": "放入菌菇，继续炖15分钟,"
+    },
+    {
+      "text": "最后放入豆腐，再炖10分钟，放少许盐调味，关火"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10019/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

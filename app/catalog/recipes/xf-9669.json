@@ -1,0 +1,191 @@
+{
+  "id": "xf-9669",
+  "title": "宫保鱿鱼",
+  "ingredients": [
+    {
+      "name": "或水发鱿鱼鱿鱼",
+      "mergeKey": "squid",
+      "amount": 400,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 10,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花生仁",
+      "mergeKey": "peanut",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大葱段",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜片",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "特细辣椒粉",
+      "mergeKey": "chili-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙陈醋",
+      "mergeKey": "vinegar",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "又1/2茶匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙细盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙味精",
+      "mergeKey": "msg",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙香麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙清水",
+      "mergeKey": "water",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鱿鱼去肚，拨去软骨，剥去表皮，洗净,"
+    },
+    {
+      "text": "将鱿鱼身切开两半，打上花刀,"
+    },
+    {
+      "text": "再切成三角型。须切成约3厘米长段,"
+    },
+    {
+      "text": "锅内放入清水，加入姜片5片，料酒1大匙，细盐1茶匙烧开后，放入鱿鱼烫至卷起，捞出,"
+    },
+    {
+      "text": "提前20分钟，炒锅内放冷油放入花生米炸至酥脆捞出放凉去皮,"
+    },
+    {
+      "text": "剩下的油，放入干辣椒段，花椒爆香后，放入姜片，蒜片，葱段爆香,"
+    },
+    {
+      "text": "放入沥净水的鱿鱼卷，辣椒粉1茶匙翻炒,"
+    },
+    {
+      "text": "同时倒入宫保汁和水淀粉,"
+    },
+    {
+      "text": "大火翻炒至收汁，倒入去皮花生米，淋上少许香麻油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9669/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

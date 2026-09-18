@@ -1,0 +1,67 @@
+{
+  "id": "xf-11152",
+  "title": "高升排骨",
+  "ingredients": [
+    {
+      "name": "或肋排小排",
+      "mergeKey": "pork-ribs",
+      "category": "肉类"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "小排或者肋排一斤剁成小块，洗净沥干水分。热锅温油，入排骨煸炒2~3分钟，肉有些泛金黄色就可以了,"
+    },
+    {
+      "text": "加1汤匙料酒，两汤匙醋，3汤匙白糖，4汤匙生抽，5汤匙水，佐料刚刚齐排骨就行,"
+    },
+    {
+      "text": "旺火煮开，转小火焖30分钟左右,"
+    },
+    {
+      "text": "看到汤汁浓稠，刚刚可以挂住排骨就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11152/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

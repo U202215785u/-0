@@ -1,0 +1,56 @@
+{
+  "id": "xf-9535",
+  "title": "甜玉米山菌排骨汤",
+  "ingredients": [
+    {
+      "name": "甜玉米",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "category": "肉类"
+    },
+    {
+      "name": "金针菇",
+      "mergeKey": "enoki",
+      "category": "菌菇"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "排骨洗净飞水，汆烫干净后重新加足量清水，大火烧开改小火煮炖,"
+    },
+    {
+      "text": "姜切大片、葱切段，玉米洗净切小段、金针菇洗净切去根部,"
+    },
+    {
+      "text": "将葱段、姜片、玉米加入排骨汤锅中煮1-2个小时,"
+    },
+    {
+      "text": "加金针菇继续煮20分钟，加盐调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9535/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "蒸",
+    "煮"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "xf-9695",
+  "title": "脆底煎饺",
+  "ingredients": [
+    {
+      "name": "速冻饺子",
+      "mergeKey": "dumpling",
+      "category": "米面主食"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "quantityText": "少许",
+      "category": "米面主食",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "平底锅里放少量油（只要能在锅底均匀铺开就行），开火,"
+    },
+    {
+      "text": "在锅中码上饺子（不需要解冻，直接放入）,"
+    },
+    {
+      "text": "中火煎一两分钟，煎到听到有滋滋声，饺子底部开始有点泛金黄色,"
+    },
+    {
+      "text": "这时候，倒入半碗水，水量大概到饺子三分之一处,"
+    },
+    {
+      "text": "盖上盖子，中火煮大概五分钟左右,"
+    },
+    {
+      "text": "趁这个空档，用面粉和水，按大约1：10的比例，调个稀稀的面粉水,"
+    },
+    {
+      "text": "锅里发出滋滋声，越来越响，这时候锅里水差不多干了，打开锅盖，把调好的稀面粉水均匀倒入锅里（如果要撒芝麻和葱花就在这个时候撒入），转小火再煎至锅里水干，面粉水在锅底形成一个脆膜即可关火,"
+    },
+    {
+      "text": "用锅铲沿锅壁铲开，把饺子装盘即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9695/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煎",
+    "炸"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

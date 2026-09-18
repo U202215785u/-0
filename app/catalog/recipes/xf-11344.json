@@ -1,0 +1,78 @@
+{
+  "id": "xf-11344",
+  "title": "煎红薯饭团",
+  "ingredients": [
+    {
+      "name": "黄心红薯",
+      "mergeKey": "sweet-potato",
+      "amount": 0.5,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "烤紫菜",
+      "mergeKey": "seaweed",
+      "amount": 1,
+      "unit": "小片",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小碗米饭",
+      "mergeKey": "rice",
+      "amount": 1,
+      "category": "米面主食"
+    },
+    {
+      "name": "匙芝麻",
+      "mergeKey": "sesame",
+      "amount": 2,
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "匙美极鲜调味汁",
+      "mergeKey": "maggi-seasoning",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "半匙寿司醋",
+      "mergeKey": "sushi-vinegar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将红薯去皮上火蒸熟（约15－20分钟），待红薯晾凉后切成厚片,"
+    },
+    {
+      "text": "烤紫菜用剪刀煎成半厘米宽的细条,"
+    },
+    {
+      "text": "米饭用寿司醋拌匀，手上沾少量寿司醋将米饭捏成和红薯片直径差不多的圆饼状,"
+    },
+    {
+      "text": "平底锅烧热，放入少量油，将红薯片放入煎成两面金黄色"
+    },
+    {
+      "text": "倒入美极鲜调味汁和芝麻,"
+    },
+    {
+      "text": "在每一个饭团上放上一片红薯片，用紫菜条和芝麻装饰即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11344/",
+  "author": "大菜的美食物语",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "煎",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

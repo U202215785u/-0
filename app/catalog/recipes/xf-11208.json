@@ -1,0 +1,105 @@
+{
+  "id": "xf-11208",
+  "title": "红酒蜜汁鳕鱼",
+  "ingredients": [
+    {
+      "name": "鳕鱼",
+      "mergeKey": "cod",
+      "amount": 200,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "红酒",
+      "mergeKey": "red-wine",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐巴",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "欧芹碎",
+      "mergeKey": "parsley",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉水淀粉",
+      "mergeKey": "water-starch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鳕鱼洗净平铺在盘子中，将鳕鱼两面均匀的撒上少许盐巴，黑胡椒，鸡粉腌制15分钟,"
+    },
+    {
+      "text": "煎锅中加入少许黄油，待其溶化后加入鳕鱼，小火煎到双面微微变黄即可,"
+    },
+    {
+      "text": "迷你煎锅中加入少许黄油，期待溶化后加入少许黑胡椒超香，加入生抽，红酒，蜂蜜和少许糖炒炒至浓稠后淋少许水淀粉和欧芹即可关火，将调好的酱汁淋到鳕鱼排上就完成了这道料理"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11208/",
+  "author": "百事小熊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 188.9,
+    "proteinG": 26.2,
+    "carbsG": 12.4,
+    "fatG": 4
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,154 @@
+{
+  "id": "xf-102118231",
+  "title": "蒜泥白肉",
+  "sourceUrl": "https://m.xiachufang.com/recipe/102118231/",
+  "author": "冇伱灬冇我",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "烤"
+  ],
+  "ingredients": [
+    {
+      "name": "带皮五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 1,
+      "unit": "块",
+      "category": "肉类"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "油辣子",
+      "mergeKey": "chili-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "陈醋",
+      "mergeKey": "vinegar",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "啤酒",
+      "mergeKey": "beer",
+      "quantityText": "适量",
+      "category": "其他"
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "熟白芝麻",
+      "mergeKey": "sesame",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "五花肉..把皮上的毛刮干净..\n切成二块..放入冷水锅.\n锅里放一点大葱.生姜.陈醋..\n开火煮...煮至筷子能穿过就捞出洗净放凉！\n\n陈醋的作用很多.\n在这里面起的最关键作用是：解腻！^_^"
+    },
+    {
+      "text": "煮肉时.\n\n把大蒜拍扁...剁碎！"
+    },
+    {
+      "text": "啤酒.生抽.白糖.白胡椒粉.油辣子.陈醋.盐.\n\n放入碗里混合均匀.."
+    },
+    {
+      "text": "锅里放少许油..\n\n把大蒜放下去爆香.."
+    },
+    {
+      "text": "再把调料汁放入..\n\n炒出香味后关火..\n淋芝麻油..放鸡精.撒白芝麻！"
+    },
+    {
+      "text": "煮好的肉.肉.肉..."
+    },
+    {
+      "text": "切成薄片.."
+    },
+    {
+      "text": "摆盘..\n\n可搭配大葱或黄瓜.\n我爸喜欢大葱.."
+    },
+    {
+      "text": "淋上蒜末酱汁或直接沾都很好吃.."
+    }
+  ],
+  "nutrition": {
+    "kcal": 259,
+    "proteinG": 4.7,
+    "carbsG": 0,
+    "fatG": 26.5
+  },
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

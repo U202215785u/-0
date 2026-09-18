@@ -1,0 +1,150 @@
+{
+  "id": "xf-10257",
+  "title": "蚝油鲜菇滑牛肉",
+  "ingredients": [
+    {
+      "name": "新鲜牛肉",
+      "mergeKey": "beef",
+      "amount": 150,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "草菇",
+      "mergeKey": "straw-mushroom",
+      "amount": 150,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "蒜蓉",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜蓉",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱碎",
+      "mergeKey": "scallion",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/8小匙嫩肉粉",
+      "mergeKey": "meat-tenderizer",
+      "amount": 0.625,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙水淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大匙沙拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/8小匙盐",
+      "mergeKey": "salt",
+      "amount": 0.625,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将牛肉用腌肉调料拌匀，腌制20分钟,"
+    },
+    {
+      "text": "锅内油烧至4成热，下入牛肉炒至7分熟捞起备用,"
+    },
+    {
+      "text": "锅内烧开水，放入草菇略烫，捞起沥净水,"
+    },
+    {
+      "text": "锅内冷油，放入姜，蒜蓉，葱白碎爆香,"
+    },
+    {
+      "text": "加入烫过的草菇，蚝油，盐，鸡精略炒,"
+    },
+    {
+      "text": "加入炒好的牛肉，再翻炒至牛肉10分熟时即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10257/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 259.5,
+    "proteinG": 22.2,
+    "carbsG": 10.8,
+    "fatG": 13.1
+  },
+  "tags": [
+    "炒",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "xf-11116",
+  "title": "冰镇酸梅汤",
+  "ingredients": [
+    {
+      "name": "乌梅",
+      "mergeKey": "wumei",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "山楂",
+      "mergeKey": "hawthorn",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "甘草",
+      "mergeKey": "licorice",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "原料先用水浸泡30分钟,"
+    },
+    {
+      "text": "然后在砂锅中放入"
+    },
+    {
+      "text": "5千克的清水，放入原料（我用了25颗左右的乌梅），大火煮开后，转小火炖4小时（我直接放电炖锅里，很省心,"
+    },
+    {
+      "text": "煮好后，根据个人口味放入适量的冰糖,"
+    },
+    {
+      "text": "煮好后的酸梅汤放入冰箱冷藏后饮用口感更好"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11116/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

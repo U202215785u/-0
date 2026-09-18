@@ -1,0 +1,81 @@
+{
+  "id": "xf-107522458",
+  "title": "腌笃鲜",
+  "ingredients": [
+    {
+      "name": "春笋",
+      "mergeKey": "bamboo-shoot",
+      "amount": 3,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一盘咸肉+鲜排骨",
+      "category": "肉类"
+    },
+    {
+      "name": "葱姜、料酒",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "莴笋",
+      "mergeKey": "celtuce",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "百叶结",
+      "mergeKey": "tofu-knot",
+      "amount": 300,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "盐、胡椒粉",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "春季来一锅腌笃鲜，一口鲜掉眉毛～"
+    },
+    {
+      "text": "水开加少许盐，放入春笋煮几分钟。"
+    },
+    {
+      "text": "新鲜排骨+咸肉冷水入锅，放葱姜料酒，煮开撇去浮沫后捞出"
+    },
+    {
+      "text": "锅中放少许油，下排骨和咸肉炒香，倒入适量开水，小火慢炖1小时。"
+    },
+    {
+      "text": "放入春笋和百叶结煮20分钟，加莴苣煮两分钟，来少许盐和胡椒粉调味！"
+    },
+    {
+      "text": "咸香咸香的真不错！"
+    },
+    {
+      "text": "百叶结吸饱了汤汁～超爱吃！"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107522458/",
+  "author": "-薄荷糖的味道-",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 120,
+    "proteinG": 4.5,
+    "carbsG": 18,
+    "fatG": 3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "xf-103826893",
+  "title": "木须肉",
+  "ingredients": [
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "amount": 1,
+      "unit": "把",
+      "category": "菌菇"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "amount": 0.5,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 75,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "肉",
+      "mergeKey": "meat",
+      "amount": 100,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "勺料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺酱油",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "几滴醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "几滴香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "肉切片备用！"
+    },
+    {
+      "text": "鸡蛋炒熟备用"
+    },
+    {
+      "text": "木耳提前泡好！胡萝卜，黄瓜切片"
+    },
+    {
+      "text": "起锅，烧油，蒜葱炝锅"
+    },
+    {
+      "text": "加入肉片炒至变色"
+    },
+    {
+      "text": "加料酒，酱油，蚝油，盐翻炒均匀"
+    },
+    {
+      "text": "倒入配菜翻炒"
+    },
+    {
+      "text": "淀粉加一点水，盐，几滴醋和香油，搅拌均匀！倒入锅中勾芡！翻炒均匀！"
+    },
+    {
+      "text": "出锅！"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/103826893/",
+  "author": "千粟粟",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 129,
+    "proteinG": 9,
+    "carbsG": 10,
+    "fatG": 6.2
+  },
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

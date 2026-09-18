@@ -1,0 +1,89 @@
+{
+  "id": "xf-10192",
+  "title": "酱爆鱿鱼圈",
+  "ingredients": [
+    {
+      "name": "各一个红绿辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鱿鱼",
+      "mergeKey": "squid",
+      "amount": 2,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "葱蒜末",
+      "mergeKey": "scallion-garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "李锦记风味豆鼓酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "李锦记蒸鱼酱油",
+      "mergeKey": "fish-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鲜鱿鱼，鱼摊稍处理了下（去掉眼睛），回来冲洗干净，撕掉鱼身上紫色膜，抽出软骨,"
+    },
+    {
+      "text": "将鱿鱼切成筒状，用盐稍腌下，这时可将红绿辣椒也切成筒状,"
+    },
+    {
+      "text": "锅中烧开水，将鱿鱼氽烫三秒钟倒出,"
+    },
+    {
+      "text": "锅中倒油烧热，放入蒜末、红绿辣椒煸炒，加豆鼓酱，酱油，料酒，倒入鱿鱼圈翻炒，加鸡精，胡椒粉，葱段翻炒起锅即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10192/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 125,
+    "proteinG": 24,
+    "carbsG": 1,
+    "fatG": 3
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

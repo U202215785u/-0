@@ -1,0 +1,132 @@
+{
+  "id": "xf-11332",
+  "title": "法式橙酒薄饼",
+  "ingredients": [
+    {
+      "name": "大匙橙汁",
+      "mergeKey": "orange-juice",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 60,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "白兰地酒",
+      "mergeKey": "brandy",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "大匙糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 90,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "香草精",
+      "mergeKey": "vanilla",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一点点盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "奶油",
+      "mergeKey": "cream",
+      "amount": 10,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "小匙橙皮末",
+      "mergeKey": "orange-zest",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "橙子",
+      "mergeKey": "orange",
+      "amount": 2,
+      "unit": "个",
+      "category": "其他"
+    },
+    {
+      "name": "大匙柑香酒",
+      "mergeKey": "curacao",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "蛋打散加入糖和所有液体拌匀,"
+    },
+    {
+      "text": "加入所有过筛后的粉类材料拌匀,"
+    },
+    {
+      "text": "静置十分钟后，加入朗姆酒，搅拌均匀．（静置是为了更容易拌匀，无颗粒,"
+    },
+    {
+      "text": "淋约六分之一面糊于平底锅中，晃动锅子让面糊均匀,"
+    },
+    {
+      "text": "煎到底面凝结即可翻面，煎到两面都呈金黄即可,"
+    },
+    {
+      "text": "把涂沫材料煮沸调匀．（用微波比较方便,"
+    },
+    {
+      "text": "用刷子刷于饼的两面,"
+    },
+    {
+      "text": "橙子去皮切薄片，夹在折成四折的薄饼之间．最后，在饼上淋上温热的白兰地酒，点火让酒精燃烧，直至火焰熄灭"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11332/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 105.4,
+    "proteinG": 3.8,
+    "carbsG": 17.7,
+    "fatG": 2.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "xf-9536",
+  "title": "粉蒸南瓜",
+  "ingredients": [
+    {
+      "name": "南瓜",
+      "mergeKey": "pumpkin",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒸肉米粉",
+      "mergeKey": "rice-flour",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豆豉酱",
+      "mergeKey": "douchi-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "南瓜去皮切3厘米见方的小块，葱切碎,"
+    },
+    {
+      "text": "取小碗，将适量盐、蚝油、生抽、红糖、黑胡椒、葱碎、豆豉酱、色拉油调成酱汁,"
+    },
+    {
+      "text": "去大碗，将调料拌入南瓜中，再倒入蒸肉米粉拌匀,"
+    },
+    {
+      "text": "将南瓜逐一排入大碗中，填满，加盖保鲜膜，入蒸锅蒸20分钟,"
+    },
+    {
+      "text": "取出稍放凉，将碗倒扣于盘中，将南瓜稍整理成型即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9536/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

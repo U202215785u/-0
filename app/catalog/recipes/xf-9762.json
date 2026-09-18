@@ -1,0 +1,150 @@
+{
+  "id": "xf-9762",
+  "title": "提拉米苏",
+  "ingredients": [
+    {
+      "name": "马斯卡彭芝士",
+      "mergeKey": "mascarpone",
+      "amount": 250,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "+40毫升热水速溶黑咖啡",
+      "mergeKey": "instant-coffee",
+      "amount": 1,
+      "unit": "袋",
+      "category": "其他",
+      "pantry": true
+    },
+    {
+      "name": "动物性淡奶油",
+      "mergeKey": "cream",
+      "amount": 150,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 75,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 75,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "朗姆酒",
+      "mergeKey": "rum",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鱼胶粉",
+      "mergeKey": "gelatin",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "可可粉",
+      "mergeKey": "cocoa-powder",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "份手指饼干",
+      "mergeKey": "ladyfinger",
+      "amount": 1,
+      "category": "米面主食"
+    }
+  ],
+  "steps": [
+    {
+      "text": "75克水+75克糖一起倒入锅中加热煮成糖水，沸腾后关火,"
+    },
+    {
+      "text": "蛋黄用打蛋器打到浓稠的状态,"
+    },
+    {
+      "text": "将煮好的糖水，一边用打蛋器搅打，一边缓缓到入打发好的蛋黄,"
+    },
+    {
+      "text": "蛋黄到入完毕后，继续用打蛋器搅打5-10分钟。搅打完成后冷却备用,"
+    },
+    {
+      "text": "另取一个干净的碗，装入马斯卡彭芝士，用打蛋器打至顺滑,"
+    },
+    {
+      "text": "将打好的马斯卡彭芝士与蛋黄糊混合拌匀,"
+    },
+    {
+      "text": "鱼胶粉加少许水，隔热水融化,"
+    },
+    {
+      "text": "鱼胶水冷却后倒入第6步混合后的芝士糊中拌匀,"
+    },
+    {
+      "text": "淡奶油用打蛋器打至软性发泡，即刚刚出现纹路即可,"
+    },
+    {
+      "text": "将打发好的淡奶油与芝士糊混合拌匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "一包速溶咖啡加40毫升热水冲匀后，加入朗姆酒混合成咖啡酒,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "取一片手指饼干，在咖啡酒里迅速蘸一下，让手指饼干沾满咖啡酒，然后把手指饼干铺在蛋糕圆模底部,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "倒入一半的芝士糊，在芝士糊上继续铺一层蘸了咖啡酒的手指饼干,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "倒入剩下的一半芝士糊。将蛋糕模放入冰箱冷藏至芝士糊凝固。待凝固后脱模，表面撒上可可粉，并在周围围上手指饼干做装饰即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9762/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 317.4,
+    "proteinG": 7.4,
+    "carbsG": 62.5,
+    "fatG": 4.3
+  },
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 90,
+  "difficulty": "中等"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "xf-11441",
+  "title": "油爆河虾",
+  "ingredients": [
+    {
+      "name": "新鲜带籽的河虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜花",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 45,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "河虾清洗干净，剪去虾头及虾须；姜切丝，葱切葱花,"
+    },
+    {
+      "text": "锅中多放些油烧热，放入姜丝翻炒出香味，接着放入沥干水分的河虾大火翻炒，颜色变红后，依次调次1汤匙生抽，1汤匙老抽，3-4汤匙白糖，一点点的盐翻炒至汤汁略收干，撒上葱花装盘即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11441/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "xf-9909",
+  "title": "肉丝炒韭黄",
+  "ingredients": [
+    {
+      "name": "猪里脊肉",
+      "mergeKey": "pork-loin",
+      "amount": 100,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "韭黄",
+      "mergeKey": "chives",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 3,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 3,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 1.2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将猪里脊肉切细丝，加老抽、生抽、料酒、水淀粉抓匀，腌制十几分钟,"
+    },
+    {
+      "text": "韭黄切段,"
+    },
+    {
+      "text": "锅中油六七成热时，放入肉丝，翻炒至完全变色盛出,"
+    },
+    {
+      "text": "锅中放少许许，油热后放入韭黄段，炒至稍稍变软,"
+    },
+    {
+      "text": "放入炒好的肉丝，翻炒均匀，加盐调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9909/",
+  "author": "summer的家",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 155,
+    "proteinG": 13.6,
+    "carbsG": 12.3,
+    "fatG": 5.3
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

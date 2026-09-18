@@ -1,0 +1,113 @@
+{
+  "id": "xf-10020",
+  "title": "肉味马沙拿柚子虾沙律",
+  "ingredients": [
+    {
+      "name": "鲜橙",
+      "amount": 1,
+      "unit": "个",
+      "mergeKey": "orange",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鲜虾",
+      "amount": 250,
+      "unit": "克",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "柚子",
+      "amount": 100,
+      "unit": "克",
+      "mergeKey": "pomelo",
+      "category": "蔬菜"
+    },
+    {
+      "name": "肉味马沙拿",
+      "amount": 10,
+      "unit": "克",
+      "mergeKey": "masala",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鲜红辣椒",
+      "amount": 2,
+      "unit": "个",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "元葱",
+      "amount": 1,
+      "unit": "个",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑胡椒粉",
+      "quantityText": "少许",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "quantityText": "少许",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "amount": 5,
+      "unit": "克",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "青柠檬",
+      "amount": 1,
+      "unit": "个",
+      "mergeKey": "lime",
+      "category": "蔬菜"
+    },
+    {
+      "name": "薄荷叶",
+      "mergeKey": "mint",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将虾去头、去壳、去沙线，留尾；锅中水煮沸，放入1片青柠檬，煮熟,"
+    },
+    {
+      "text": "柚子和香橙去皮，取肉,"
+    },
+    {
+      "text": "鲜红辣椒去籽切成长条形，元葱切碎,"
+    },
+    {
+      "text": "将以上步骤全部与黑胡椒粉、盐、糖、肉味马沙拿拌在一起，搅拌均匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10020/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 244.9,
+    "proteinG": 33.7,
+    "carbsG": 17.4,
+    "fatG": 5.3
+  },
+  "tags": [
+    "凉拌",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "xf-11470",
+  "title": "蕃茄梭子蟹豆腐煲",
+  "ingredients": [
+    {
+      "name": "梭子蟹",
+      "mergeKey": "crab",
+      "amount": 2,
+      "unit": "只",
+      "category": "水产"
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "盒",
+      "category": "豆制品"
+    },
+    {
+      "name": "蕃茄",
+      "mergeKey": "tomato",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蕃茄酱",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将蕃茄洗净放入烧沸的开水中滚烫一下，捞出放冷水下过凉，即可轻易去皮；梭子蟹用牙刷清洗干净，切成块；蕃茄切滚刀块；豆腐切块,"
+    },
+    {
+      "text": "取少许生粉放入盘中，将切好的蟹块逐个沾上生粉；锅中放略多的油烧热，放入沾匀生粉的蟹块翻炒几下，盛出备用,"
+    },
+    {
+      "text": "锅中留底油，放入切好块的蕃茄煸炒至软烂出沙，加入适量蕃茄酱一同翻炒几下，倒入开水移至砂锅中，大火烧开后放入生姜片，葱，蟹块及豆腐一块煲10分钟左右，调入盐，鸡精，葱花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11470/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 125,
+    "proteinG": 24,
+    "carbsG": 1,
+    "fatG": 3
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "xf-10651",
+  "title": "玫瑰红枣茶",
+  "ingredients": [
+    {
+      "name": "大红枣",
+      "mergeKey": "jujube",
+      "amount": 1,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "、6粒玫瑰花干",
+      "mergeKey": "rose",
+      "amount": 5,
+      "unit": "粒",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "红枣去核后切成小粒,"
+    },
+    {
+      "text": "玫瑰花干和红枣粒一起放在容器中，用80度左右的热水泡开，即可饮用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10651/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "xf-10618",
+  "title": "酸菜炒粉丝",
+  "ingredients": [
+    {
+      "name": "东北酸菜",
+      "mergeKey": "suancai",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "龙口粉丝",
+      "mergeKey": "vermicelli",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "猪里脊肉",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪里脊切丝，放蚝油、料酒抓匀后，加一汤匙色拉油拌匀（原因见文后的碎碎念,"
+    },
+    {
+      "text": "龙口粉丝用温水泡软，沥干水份备用,"
+    },
+    {
+      "text": "锅子烧热，放油，温油时放入腌制好的肉丝煸炒至变色,"
+    },
+    {
+      "text": "放东北酸菜入锅翻炒一分钟,"
+    },
+    {
+      "text": "撒点葱花，放一汤匙生抽翻炒均匀,"
+    },
+    {
+      "text": "把粉丝放入锅中，加一点点盐，加点水翻炒均匀,"
+    },
+    {
+      "text": "盖上锅盖，煮两分钟,"
+    },
+    {
+      "text": "开盖，加适量鸡精快速翻炒均匀，关火，撒点葱花出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10618/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

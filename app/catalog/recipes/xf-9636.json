@@ -1,0 +1,143 @@
+{
+  "id": "xf-9636",
+  "title": "魔芋红烧肉",
+  "ingredients": [
+    {
+      "name": "魔芋丝",
+      "mergeKey": "konjac",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "带皮猪五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 8,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 8,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 6,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-pepper",
+      "amount": 6,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 6,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 3,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "带皮五花肉洗净（用刀把肉皮刮干净这样，做出的红烧肉会皮很亮很红）切块,"
+    },
+    {
+      "text": "锅中做凉水，焯带皮五花肉（一定是凉水才会让蛋白质慢慢凝固，血水都请出），焯水去血沫捞出待用,"
+    },
+    {
+      "text": "锅中放少许油炒白糖发泡变色时放入少许开水制成糖色，煸香葱姜蒜，放入五花肉煸炒出香味，放入花椒、大料、桂皮、干辣椒，烹入料酒稍微放入老抽调好颜色，烹入开水，大火烧开，小火炖约40分钟,"
+    },
+    {
+      "text": "待红烧肉快熟时放入魔芋丝，加少许盐、糖调味，大火收汁，出锅装盘即可，撒红椒丝、香葱末点缀"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9636/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 1362.8,
+    "proteinG": 26.2,
+    "carbsG": 10.2,
+    "fatG": 134
+  },
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

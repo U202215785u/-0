@@ -1,0 +1,52 @@
+{
+  "id": "xf-11437",
+  "title": "脆皮芝麻煎饺",
+  "ingredients": [
+    {
+      "name": "速冻水饺",
+      "mergeKey": "dumpling",
+      "category": "米面主食"
+    },
+    {
+      "name": "或白芝麻黑芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将平底锅开小火放少许油润锅，将速冻水饺依次排入,"
+    },
+    {
+      "text": "加入2-3碗的水（用手洒水的方式，让水饺全身都能润湿），中火烧至水收干,"
+    },
+    {
+      "text": "调半碗生粉水（也可省去此步骤，一样有脆皮），倒入煎饺中,"
+    },
+    {
+      "text": "转大火，洒入芝麻，一直煎到饺皮焦脆，洒葱花出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11437/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "煎"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "xf-9855",
+  "title": "凉拌包心菜",
+  "ingredients": [
+    {
+      "name": "包心菜",
+      "mergeKey": "cabbage",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱末",
+      "mergeKey": "scallion",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "包心菜切成小块，用手拨拨散，加适量的盐拌拌匀，腌上半个小时,"
+    },
+    {
+      "text": "腌好的包心菜加少许鸡精、糖，撒上葱花，浇上滚热的油（油要热得浇上去能听见呲的一声哈），然后淋少许香油，拌匀就可以吃了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9855/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 8.8,
+    "proteinG": 0.5,
+    "carbsG": 1.8,
+    "fatG": 0.1
+  },
+  "tags": [
+    "主食",
+    "凉拌"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

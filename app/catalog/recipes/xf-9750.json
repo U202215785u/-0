@@ -1,0 +1,92 @@
+{
+  "id": "xf-9750",
+  "title": "土豆烧鸡块",
+  "ingredients": [
+    {
+      "name": "仔鸡",
+      "mergeKey": "chicken",
+      "category": "肉类"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大料",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小红辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将仔鸡洗净剁块,"
+    },
+    {
+      "text": "热锅温油煸香葱、姜、蒜、花椒、大料、小茴香、小辣椒圈,"
+    },
+    {
+      "text": "放入仔鸡块煸炒出香味,"
+    },
+    {
+      "text": "烹入料酒、酱油，将鸡块的水分炒干,"
+    },
+    {
+      "text": "玻璃锅中加开水，烧开后撇去浮沫,"
+    },
+    {
+      "text": "大火烧开，改小火炖45分钟，加盐、糖、胡椒粉调味,"
+    },
+    {
+      "text": "土豆切滚刀块,"
+    },
+    {
+      "text": "千万不要把土豆直接放在鸡块中炖，土豆会非常烂，把土豆放在煎锅中，煎炸至两面金黄,"
+    },
+    {
+      "text": "放入鸡块锅中,"
+    },
+    {
+      "text": "炖10分钟后，大火收汁"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9750/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

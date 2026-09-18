@@ -1,0 +1,83 @@
+{
+  "id": "xf-11618",
+  "title": "茯苓炖鸭",
+  "ingredients": [
+    {
+      "name": "白扁豆",
+      "mergeKey": "white-bean",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "老鸭",
+      "mergeKey": "duck",
+      "category": "肉类"
+    },
+    {
+      "name": "茯苓",
+      "mergeKey": "fuling",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱姜",
+      "mergeKey": "scallion-ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "薏仁",
+      "mergeKey": "coix-seed",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "山药",
+      "mergeKey": "yam",
+      "category": "蔬菜"
+    },
+    {
+      "name": "茴香",
+      "mergeKey": "fennel",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "莲子",
+      "mergeKey": "lotus-seed",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "老鸭洗净斩小块，焯水,"
+    },
+    {
+      "text": "捞出鸭块，用流动的水冲洗干净,"
+    },
+    {
+      "text": "葱姜洗净，葱打葱结，姜切片。中药材冲洗下,"
+    },
+    {
+      "text": "全部材料和冷水一起入锅，再放点料酒，大火煮开，转小火慢煲"
+    },
+    {
+      "text": "5～2个小时，出锅前加盐调味就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11618/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

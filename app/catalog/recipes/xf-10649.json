@@ -1,0 +1,101 @@
+{
+  "id": "xf-10649",
+  "title": "蒜香酥炸排骨",
+  "ingredients": [
+    {
+      "name": "麻辣花生",
+      "mergeKey": "peanuts",
+      "amount": 1,
+      "unit": "袋",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "头大蒜",
+      "mergeKey": "garlic",
+      "amount": 1,
+      "unit": "头",
+      "category": "蔬菜"
+    },
+    {
+      "name": "30毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "汤匙15毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克糖",
+      "mergeKey": "sugar",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "30克淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将排骨斩成小块，洗净后充分沥干水分，放入盘中倒入料酒和生抽搅匀后，放入拍散的大蒜，用保鲜膜封好，腌制4个小时,"
+    },
+    {
+      "text": "倒入干淀粉，搅拌均匀，使每块排骨上都被均匀的裹上了一层淀粉即可,"
+    },
+    {
+      "text": "小奶锅中倒入油，大火加热，待油八成热时放入排骨，炸20秒钟后，改成中小火继续炸1分钟捞出沥干油,"
+    },
+    {
+      "text": "继续加热锅中的油，待油9成热时，放入排骨用大火炸20秒钟后捞出沥干油备用,"
+    },
+    {
+      "text": "炒锅中放入一点点油，放入腌制排骨用的大蒜，煸炒出香味后，放入排骨，盐和糖，再放入金飞红麻辣花生翻炒1分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10649/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炸"
+  ],
+  "nutrition": {
+    "kcal": 681.1,
+    "proteinG": 47.6,
+    "carbsG": 2.6,
+    "fatG": 52.3
+  },
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

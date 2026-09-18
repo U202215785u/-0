@@ -1,0 +1,56 @@
+{
+  "id": "xf-10166",
+  "title": "剁椒蒸豆腐",
+  "ingredients": [
+    {
+      "name": "盒子卤水豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "肉糜",
+      "mergeKey": "minced-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "剁椒",
+      "mergeKey": "duojiao",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将豆腐切厚片，放入开水中，加少许盐，焯下水,"
+    },
+    {
+      "text": "热锅热油，放入蒜末，炒出香味后，放入肉糜，加少许料酒、生抽翻炒均匀,"
+    },
+    {
+      "text": "倒入剁椒继续翻炒均匀后，盛出平铺在焯过水的豆腐上,"
+    },
+    {
+      "text": "入蒸锅，大火蒸5，6分钟，取出后淋少许香油，撒上葱花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10166/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "炸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

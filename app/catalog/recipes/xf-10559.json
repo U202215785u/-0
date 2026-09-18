@@ -1,0 +1,168 @@
+{
+  "id": "xf-10559",
+  "title": "焦糖苹果蛋糕",
+  "ingredients": [
+    {
+      "name": "中型苹果",
+      "mergeKey": "apple",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白砂糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 50,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 50,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 45,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "大匙朗姆酒",
+      "mergeKey": "rum",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 50,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "蛋白",
+      "mergeKey": "egg-white",
+      "amount": 100,
+      "unit": "克",
+      "category": "蛋类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "首先制作焦糖苹果馅,"
+    },
+    {
+      "text": "将苹果洗净去皮去核，切小丁，备用,"
+    },
+    {
+      "text": "锅内放入白砂糖，小火加热，稍加搅拌,"
+    },
+    {
+      "text": "加热至糖融化，呈现出浅琥珀色,"
+    },
+    {
+      "text": "加入水，快速搅拌,"
+    },
+    {
+      "text": "加入黄油，搅拌至黄油融化,"
+    },
+    {
+      "text": "倒入苹果丁和朗姆酒,"
+    },
+    {
+      "text": "转中火，不断翻炒锅内的苹果丁变软，均匀裹上糖浆,"
+    },
+    {
+      "text": "盛出苹果丁，铺在模具底部；汤汁也盛出备用,"
+    },
+    {
+      "text": "制作黄金海绵蛋糕：在干净的锅内放入黄油,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "小火加热，至黄油融化并稍稍沸腾,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "关火，筛入低筋面粉，搅拌成糊状,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入淡奶油，搅拌均匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入蛋黄,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "搅拌均匀，即为蛋黄面糊,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "蛋白分三次加入糖，搅打至九分发,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "分三次将蛋白加入蛋黄面糊中，搅拌均匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将面糊入模，放入预热190度的烤箱，烤制25~30分钟，倒扣脱模，趁热食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10559/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 190.6,
+    "proteinG": 4.8,
+    "carbsG": 36.5,
+    "fatG": 2.8
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

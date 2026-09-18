@@ -1,0 +1,122 @@
+{
+  "id": "xf-10383",
+  "title": "熊宝宝蛋糕",
+  "ingredients": [
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 125,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 130,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "flour",
+      "amount": 210,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "绵白糖",
+      "mergeKey": "sugar",
+      "amount": 140,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "无糖可可粉",
+      "mergeKey": "cocoa",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小匙无铝泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白巧克力",
+      "mergeKey": "white-chocolate",
+      "quantityText": "若干",
+      "category": "其他"
+    },
+    {
+      "name": "彩珠糖",
+      "mergeKey": "sprinkles",
+      "quantityText": "若干",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "巧克力豆",
+      "mergeKey": "chocolate-beads",
+      "quantityText": "若干",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油室温放软，加入绵白糖、盐,"
+    },
+    {
+      "text": "搅打至完全融合，呈现羽毛状,"
+    },
+    {
+      "text": "分2次加入蛋，搅拌均匀,"
+    },
+    {
+      "text": "分3次加入淡奶油,"
+    },
+    {
+      "text": "搅拌至均匀的糊状,"
+    },
+    {
+      "text": "低粉、泡打粉、可可粉混合过筛，加入5中,"
+    },
+    {
+      "text": "将面糊以不规则方式搅拌均匀，装入裱花袋中,"
+    },
+    {
+      "text": "入模具中七分满，放入预热180度的烤箱40分钟,"
+    },
+    {
+      "text": "取出，放凉后，用融化的白巧、彩珠糖、巧克力豆装饰即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10383/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 556.5,
+    "proteinG": 8.6,
+    "carbsG": 123.7,
+    "fatG": 4.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

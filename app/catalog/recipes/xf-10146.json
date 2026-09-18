@@ -1,0 +1,85 @@
+{
+  "id": "xf-10146",
+  "title": "珍宝鱼头",
+  "ingredients": [
+    {
+      "name": "鱼头",
+      "mergeKey": "fish-head",
+      "category": "水产"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆腐干",
+      "mergeKey": "dried-tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "肉泥",
+      "mergeKey": "ground-meat",
+      "category": "肉类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "．鱼头洗干净，用盐、料酒腌制一下,"
+    },
+    {
+      "text": "．胡萝卜、豆腐干、香菇、葱都切小丁备用,"
+    },
+    {
+      "text": "腌制好的鱼头用油锅两面煎黄后，加料酒、生抽、糖的等调料，用大火烧开后，用小火炖15-20分钟,"
+    },
+    {
+      "text": "把起油锅先爆下肉泥，再和切好的食材一起炒熟，调味后放在炖好的鱼头上面，就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10146/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

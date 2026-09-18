@@ -1,0 +1,67 @@
+{
+  "id": "xf-5205",
+  "title": "萝卜丝饼",
+  "ingredients": [
+    {
+      "name": "白萝卜",
+      "mergeKey": "radish",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "冬腌菜",
+      "mergeKey": "pickled-veg",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "category": "其他"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "白萝卜和土豆洗净去皮刨成丝，冬腌菜切小丁，葱洗净切葱花。所有处理好的材料全部放大碗里，加面粉、盐和鸡精，慢慢加入清水调和成面糊"
+    },
+    {
+      "text": "平底锅放少量油烧热，放入模具，兜一大勺调和好的萝卜丝面糊，一分钟后取走模具，翻面煎至两面金黄即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/5205/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

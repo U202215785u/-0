@@ -1,0 +1,59 @@
+{
+  "id": "xf-9557",
+  "title": "蜜汁芝麻牛蒡丝",
+  "ingredients": [
+    {
+      "name": "牛蒡",
+      "mergeKey": "burdock",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蓝莓酱",
+      "mergeKey": "blueberry-jam",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛蒡去皮切丝，用加了醋的水略泡"
+    },
+    {
+      "text": "芝麻放烤箱里120度烤出香味"
+    },
+    {
+      "text": "捞出牛蒡丝拍干淀粉，下油锅五六成油温，炸酥脆捞出，用吸油纸吸净油"
+    },
+    {
+      "text": "牛蒡丝装入盘中，淋蜂蜜、蓝莓酱、撒芝麻即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9557/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

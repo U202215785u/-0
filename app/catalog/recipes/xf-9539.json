@@ -1,0 +1,60 @@
+{
+  "id": "xf-9539",
+  "title": "香菇油菜烧豆腐",
+  "ingredients": [
+    {
+      "name": "北豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇"
+    },
+    {
+      "name": "油菜",
+      "mergeKey": "bok-choy",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "北豆腐切块，放入盐水中浸泡15分钟"
+    },
+    {
+      "text": "香菇洗净表面划十字刀便于入味，滚水焯半分钟、油菜洗净"
+    },
+    {
+      "text": "奶锅内放大量油，烧制七成热下豆腐炸，表面金黄表皮变硬时捞出备用"
+    },
+    {
+      "text": "另起锅放少量油，加葱花爆香，加香菇、豆腐、油菜翻炒，加生抽、蚝油、盐、鸡粉调味"
+    },
+    {
+      "text": "加适量清水焖烧2分钟，将出锅前加水淀粉勾芡即成"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9539/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

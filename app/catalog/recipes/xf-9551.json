@@ -1,0 +1,112 @@
+{
+  "id": "xf-9551",
+  "title": "土豆烧牛肉",
+  "ingredients": [
+    {
+      "name": "牛腩",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大枣",
+      "mergeKey": "red-dates",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花葱",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "熟芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛腩切大块洗净并控干，土豆、胡萝卜切滚刀块、洋葱切块备用"
+    },
+    {
+      "text": "锅中做凉水放入牛肉块，焯水，吐尽血沫，捞出冲净"
+    },
+    {
+      "text": "锅中油中火烧至六成热，放入葱、姜、八角爆锅，然后放入牛翻炒，片刻后加入，料酒和适量清水，大火烧开后转小火炖1小时后加白糖、盐、胡椒粉调味"
+    },
+    {
+      "text": "加入老抽调色、并放入大枣大火收汁"
+    },
+    {
+      "text": "锅中放少许油，烧热放入胡萝卜块、土豆块，洋葱块炒熟（千万不要放入牛肉锅一起炖，会很烂的）"
+    },
+    {
+      "text": "最后将土豆、胡萝卜、洋葱和牛肉放在一起炖5分钟即可出锅装盘。撒熟芝麻提香"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9551/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

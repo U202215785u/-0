@@ -1,0 +1,62 @@
+{
+  "id": "xf-10299",
+  "title": "桂花紫薯酒酿圆子",
+  "ingredients": [
+    {
+      "name": "甜酒酿",
+      "mergeKey": "fermented-rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "紫薯",
+      "mergeKey": "purple-sweet-potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "桂花",
+      "mergeKey": "osmanthus",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "糯米粉",
+      "mergeKey": "glutinous-rice-flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "category": "乳制品"
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "紫薯去皮成熟，趁热压成紫薯泥，加入少量蜂蜜、干桂花、牛奶搅拌均匀,"
+    },
+    {
+      "text": "将适量糯米粉加入紫薯泥种，合成光滑柔软的面团,"
+    },
+    {
+      "text": "将面团团成樱桃大小的圆子备用,"
+    },
+    {
+      "text": "锅内加适量水，沸腾后下汤圆，待浮起加入甜酒酿，再次沸腾后盛入碗中，撒干桂花装饰即成"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10299/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

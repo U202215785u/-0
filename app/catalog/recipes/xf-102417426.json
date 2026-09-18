@@ -1,0 +1,98 @@
+{
+  "id": "xf-102417426",
+  "title": "干煸四季豆",
+  "ingredients": [
+    {
+      "name": "四季豆",
+      "mergeKey": "green-bean",
+      "amount": 400,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "十几个干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "十几粒花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 8,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "很多耐心",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "首先搞清楚什么是四季豆，不是豇豆也不是扁豆"
+    },
+    {
+      "text": "摘掉两端，顺势撕掉筋。洗净，掰成5厘米左右长段。"
+    },
+    {
+      "text": "取一只锅，厚底最佳，锅中什么都不放，中火加热，把四季豆放入干炒，这一步骤目的是让四季豆表面残留水分蒸发，让四季豆熟的更快。很快有一些豆角已经变绿了，如图。"
+    },
+    {
+      "text": "继续翻炒，差不多都变绿了，这一步花了大概6分钟。这个时候转小火，往锅中倒油，稍微多一点，平时炒菜两倍的量，快速翻炒，如果火大了四季豆这个时候会容易糊。小火不断煸炒，四季豆表面皱了熟透了就可以了，如果做饭讲究点，又有耐心，可以把先熟的四季豆🏠出来，因为难免有粗细老嫩，肯定细的先熟。。。"
+    },
+    {
+      "text": "全部熟透表面变皱捞出，这一步花了大概10分钟，捞出豆角后锅内应该有少量余油"
+    },
+    {
+      "text": "蒜去皮切碎，辣椒剪成1厘米的圈，把籽倒出不用。继续用刚才煸炒四季豆的锅和油，小火快速把干辣椒炒至酥脆，辣椒很容易糊要注意火候，筷子接触辣椒是硬的就好了，捞出来待用。"
+    },
+    {
+      "text": "继续往锅中放蒜小火炒香，加入花椒同炒，蒜有一点金黄时，把四季豆倒入，然后把糖、盐、生抽倒入炒匀，关火把辣椒倒入拌匀即可。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102417426/",
+  "author": "小白素食记录",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 164.1,
+    "proteinG": 6.3,
+    "carbsG": 24.7,
+    "fatG": 4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

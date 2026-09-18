@@ -1,0 +1,86 @@
+{
+  "id": "xf-11567",
+  "title": "蚝油杏鲍菇",
+  "ingredients": [
+    {
+      "name": "杏鲍菇",
+      "mergeKey": "king-oyster-mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "quantityText": "一点点",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "一点",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "杏鲍菇洗净切成条,"
+    },
+    {
+      "text": "小碗里，放一汤匙蚝油、半汤匙生抽、一汤匙料酒、一点点白糖、一点鸡精搅拌均匀成蚝油汁备用,"
+    },
+    {
+      "text": "锅烧热，放油，入蒜末爆香,"
+    },
+    {
+      "text": "倒入杏鲍菇翻炒,"
+    },
+    {
+      "text": "保持中火不断翻炒，会发现杏鲍菇慢慢变软并且开,"
+    },
+    {
+      "text": "始出水了,"
+    },
+    {
+      "text": "耐心点，再不断翻炒几分钟，会发现水份开始慢慢收干了。此时倒入准备好的蚝油汁，翻炒均匀后撒上葱花就可以出锅了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11567/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

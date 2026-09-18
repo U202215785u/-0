@@ -1,0 +1,46 @@
+{
+  "id": "xf-11453",
+  "title": "糖糕",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "沸水",
+      "mergeKey": "water",
+      "category": "其他"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "面粉放在调理盘中，一边用筷子搅拌，一边淋入滚烫的沸水，边和面边加少许油和成软硬适中的面团，分成小剂,"
+    },
+    {
+      "text": "取1小剂面团捏开，放入适量白糖，包拢，沾少许油，在手心拍扁，放入热油锅中火炸至金黄酥脆即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11453/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

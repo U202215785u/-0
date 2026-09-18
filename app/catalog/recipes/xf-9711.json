@@ -1,0 +1,54 @@
+{
+  "id": "xf-9711",
+  "title": "绿茶土豆泥",
+  "ingredients": [
+    {
+      "name": "原味薯片",
+      "mergeKey": "potato-chips",
+      "category": "其他"
+    },
+    {
+      "name": "土豆绿茶粉",
+      "mergeKey": "green-tea-powder",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "category": "乳制品"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "土豆洗净削皮，切成片，上锅蒸至能轻松按压成泥,"
+    },
+    {
+      "text": "蒸好的土豆，取出用勺子按压成泥装，加入适量牛奶（或者淡奶油）调整土豆泥的稠度。加少量盐和胡椒粉，再加入一勺绿茶粉，充分搅拌均匀即可,"
+    },
+    {
+      "text": "把做好的绿茶土豆泥装入裱花袋（我用的是大号的花嘴），在薯片上挤出一朵花的样子即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9711/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

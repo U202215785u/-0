@@ -1,0 +1,84 @@
+{
+  "id": "xf-10172",
+  "title": "金勾皮蛋鲜蔬汤",
+  "ingredients": [
+    {
+      "name": "金勾",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "皮蛋",
+      "mergeKey": "century-egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆苗",
+      "mergeKey": "pea-shoots",
+      "category": "蔬菜"
+    },
+    {
+      "name": "高汤",
+      "mergeKey": "broth",
+      "category": "其他"
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "金勾用温水泡五分钟后加料酒和皮蛋隔水蒸五分钟，皮蛋晾凉剥壳，每个切成四瓣，黄瓜洗净后切成棱形片，豆苗洗净备用,"
+    },
+    {
+      "text": "在汤锅中放入高汤煮开（没有高汤的，可以放清水，但需要最后多调味）,"
+    },
+    {
+      "text": "汤开后下入皮蛋稍煮开后，放入黄瓜稍煮，汤再开后放入豆苗煮1分钟,"
+    },
+    {
+      "text": "放入金勾后煮1分钟，调入白糊椒粉、盐即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10172/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 17.5,
+    "proteinG": 1,
+    "carbsG": 3.5,
+    "fatG": 0.2
+  },
+  "tags": [
+    "煮",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

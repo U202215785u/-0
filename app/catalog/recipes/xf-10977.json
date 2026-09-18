@@ -1,0 +1,54 @@
+{
+  "id": "xf-10977",
+  "title": "西芹炒百合",
+  "ingredients": [
+    {
+      "name": "西芹",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "百合",
+      "mergeKey": "lily-bulb",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "西芹洗净，斜切成小段。锅里水煮开，放入西芹焯水一分钟左右，捞出冲凉水沥干。百合去掉黑色部分，掰成小片，洗净沥干,"
+    },
+    {
+      "text": "烧热锅，倒入油加热后，放焯过水的西芹，翻炒片刻,"
+    },
+    {
+      "text": "放入百合，加盐和鸡精调味，快速翻炒入味，看到百合边缘变透明马上关火出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10977/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "xf-9685",
+  "title": "猪肉脯",
+  "ingredients": [
+    {
+      "name": "瘦肉馅",
+      "mergeKey": "ground-pork",
+      "amount": 300,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺糖",
+      "mergeKey": "sugar",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪肉馅买回来以后要再次剁成肉糜，加入盐，糖，耗油，老抽搅匀，使劲儿搅打上劲儿，搅打的时候可能会很干，稍微浇一点儿水淀粉会好些，但是千万不要多,"
+    },
+    {
+      "text": "烤盘放上锡纸，倒入肉馅，盖上保鲜膜擀平，铺满烤盘,"
+    },
+    {
+      "text": "烤箱180度预热，正面刷蜂蜜，撒芝麻烤15分钟,"
+    },
+    {
+      "text": "反面，放烤网上，刷蜂蜜，撒芝麻继续烤15分钟,"
+    },
+    {
+      "text": "取出晾凉切块,"
+    },
+    {
+      "text": "切好的肉脯放烤网上，放入预热140度的烤箱，烘焙10分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9685/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 421.5,
+    "proteinG": 37.5,
+    "carbsG": 0.3,
+    "fatG": 30
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

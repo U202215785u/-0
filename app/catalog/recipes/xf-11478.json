@@ -1,0 +1,50 @@
+{
+  "id": "xf-11478",
+  "title": "自制草莓酱",
+  "ingredients": [
+    {
+      "name": "新鲜草莓",
+      "mergeKey": "strawberry",
+      "amount": 700,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白砂糖",
+      "mergeKey": "sugar",
+      "amount": 120,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/3个柠檬",
+      "mergeKey": "lemon",
+      "amount": 1,
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "草莓清洗干净，去蒂沥干，放入大且深的锅中，倒入白糖放置30分钟,"
+    },
+    {
+      "text": "待草莓有水分渗出时，入火上烧开转中小火慢慢熬至浓稠，挤入1/3颗柠檬汁进去，继续熬煮，不时搅拌以防粘锅，熬至粘稠即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11478/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 512.2,
+    "proteinG": 10.5,
+    "carbsG": 102,
+    "fatG": 7
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

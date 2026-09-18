@@ -1,0 +1,69 @@
+{
+  "id": "xf-10072",
+  "title": "排骨杏鲍菇浓汤",
+  "ingredients": [
+    {
+      "name": "杏鲍菇",
+      "mergeKey": "king-oyster-mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "category": "肉类"
+    },
+    {
+      "name": "葱姜",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel-seed",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将排骨剁成小块用清水洗净,"
+    },
+    {
+      "text": "排骨放入凉水焯透去血沫，捞出待用,"
+    },
+    {
+      "text": "杏鲍洗净菇切片焯水捞出待用,"
+    },
+    {
+      "text": "将焯过的排骨放入锅内一次加足水放入葱、姜、小茴香,"
+    },
+    {
+      "text": "大火煮开，烹入绍酒，捞出沫子，关小火炖1小时、加少许盐调味,"
+    },
+    {
+      "text": "放入焯好的杏鲍菇炖15分钟即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10072/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

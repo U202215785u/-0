@@ -1,0 +1,89 @@
+{
+  "id": "xf-10089",
+  "title": "梅香咸鱼蒸猪肉",
+  "ingredients": [
+    {
+      "name": "梅香马交咸鱼",
+      "mergeKey": "salted-fish",
+      "amount": 60,
+      "unit": "克",
+      "category": "水产",
+      "pantry": true
+    },
+    {
+      "name": "五花猪肉",
+      "mergeKey": "pork",
+      "amount": 120,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小片生姜",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2小匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪肉切薄片，咸鱼切成小块，大蒜和生姜切片,"
+    },
+    {
+      "text": "锅内热少许油，放入猪肉片，大蒜，姜片小火煸炒,"
+    },
+    {
+      "text": "煸炒至肉片转色有些微黄时，放入咸鱼块炒,"
+    },
+    {
+      "text": "炒至肉色全部转黄色，油脂逼出来，加入砂糖，料酒，生抽,"
+    },
+    {
+      "text": "将过程4全部放入盘内，放入电饭锅蒸笼，下面煮饭上面蒸菜。饭熟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10089/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 123.3,
+    "proteinG": 19.5,
+    "carbsG": 0.3,
+    "fatG": 4.8
+  },
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

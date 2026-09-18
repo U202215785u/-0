@@ -1,0 +1,83 @@
+{
+  "id": "xf-9736",
+  "title": "豉香海虾",
+  "ingredients": [
+    {
+      "name": "冰冻海虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "干豆豉",
+      "mergeKey": "douchi",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "海虾解冻后，洗净剪去须，用剪刀剪开背部，挑出肠泥,"
+    },
+    {
+      "text": "干豆豉压碎切成末，葱切葱花，姜蒜切成末,"
+    },
+    {
+      "text": "烧热油锅，倒入色拉油，用小火煸炒豆豉末，葱花和姜蒜末至出香味,"
+    },
+    {
+      "text": "转大火，把海虾倒进去翻炒，至完全变色后，加少许料酒盖锅盖焖几秒钟,"
+    },
+    {
+      "text": "开盖，放半汤匙老抽和半汤匙白糖，加半碗水，盖上盖子转中火煮三五分钟，开盖把汤汁收干即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9736/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

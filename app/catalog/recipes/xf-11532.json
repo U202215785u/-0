@@ -1,0 +1,78 @@
+{
+  "id": "xf-11532",
+  "title": "亚麻籽瓦片脆",
+  "ingredients": [
+    {
+      "name": "亚麻籽",
+      "mergeKey": "flaxseed",
+      "amount": 60,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "flour",
+      "amount": 30,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 10,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(1个)鸡蛋",
+      "mergeKey": "egg",
+      "amount": 50,
+      "unit": "克",
+      "category": "蛋类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油隔水加热融化成液态，和打散的鸡蛋混合在一起搅拌均匀，再加入糖粉搅拌均匀,"
+    },
+    {
+      "text": "倒入过筛后的低筋面粉,"
+    },
+    {
+      "text": "搅拌均匀（用打蛋器直接搅拌即可）,"
+    },
+    {
+      "text": "倒入亚麻籽,"
+    },
+    {
+      "text": "继续搅拌均匀成为面糊,"
+    },
+    {
+      "text": "烤盘上铺油纸。用小勺挖适量面糊铺在烤盘上。每块面糊间留出足够大的距离。再用勺子背把面糊推平，要摊得足够薄。将烤盘放入预热好175度的烤箱，烤10-15分钟，直到表面变为金黄色即可出炉"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11532/",
+  "author": "君之",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 132.8,
+    "proteinG": 5,
+    "carbsG": 21,
+    "fatG": 3.4
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

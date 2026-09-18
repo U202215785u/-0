@@ -1,0 +1,47 @@
+{
+  "id": "xf-11674",
+  "title": "姜汁番薯糖水",
+  "ingredients": [
+    {
+      "name": "黄心番薯",
+      "mergeKey": "sweet-potato",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一小把冰糖",
+      "mergeKey": "rock-sugar",
+      "quantityText": "一小把",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅中放水，放入姜片，烧开,"
+    },
+    {
+      "text": "水开后，番薯快速刨皮切块（动作慢了番薯接触空气会氧化变黑），放入锅中。煮开后立即转小火，煲15分钟左右至全熟,"
+    },
+    {
+      "text": "倒入冰糖，冰糖融化即可关火出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11674/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,254 @@
+{
+  "id": "xf-10220",
+  "title": "居家版麻辣香锅",
+  "ingredients": [
+    {
+      "name": "鲜虾",
+      "mergeKey": "shrimp",
+      "amount": 6,
+      "unit": "只",
+      "category": "水产"
+    },
+    {
+      "name": "鸡翅",
+      "mergeKey": "chicken",
+      "amount": 5,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "平菇",
+      "mergeKey": "oyster-mushroom",
+      "amount": 3,
+      "unit": "朵",
+      "category": "菌菇"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "莴笋",
+      "mergeKey": "celtuce",
+      "amount": 0.5,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆泡",
+      "mergeKey": "fried-tofu",
+      "amount": 10,
+      "unit": "个",
+      "category": "豆制品"
+    },
+    {
+      "name": "油菜",
+      "mergeKey": "bok-choy",
+      "amount": 4,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "amount": 4,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-pepper",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 15,
+      "unit": "根",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大料",
+      "mergeKey": "star-anise",
+      "amount": 1,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "山奈",
+      "mergeKey": "galangal",
+      "amount": 1,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 2,
+      "unit": "片",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "草果",
+      "mergeKey": "black-cardamom",
+      "amount": 1,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豆蔻",
+      "mergeKey": "cardamom",
+      "amount": 1,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "丁香",
+      "mergeKey": "clove",
+      "amount": 3,
+      "unit": "粒",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel-seed",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "amount": 5,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 4,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 25,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "10克盐",
+      "mergeKey": "salt",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "30克豆豉",
+      "mergeKey": "douchi",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "30克郫县辣酱",
+      "mergeKey": "doubanjiang",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克糖",
+      "mergeKey": "sugar",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "10克生粉",
+      "mergeKey": "cornstarch",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡翅洗净后沥干，用刀在鸡翅两侧，浅浅的切两刀，以便在炒制时更好入味,"
+    },
+    {
+      "text": "锅中放入水，3片葱，2片姜，盐（1茶匙），料酒，然后放入鸡翅，水开后煮3分钟左右，捞出后冲净浮沫备用，焯烫的水倒掉不要,"
+    },
+    {
+      "text": "土豆去皮，切成1㎝宽，5㎝长的条。莴笋去皮，也切成同样大小的条。锅中倒入清水，大火煮开后，放入土豆条焯烫3分钟，捞出后沥干备用。再继续用锅里的水，将平菇（1分钟），油菜（10秒），和豆泡（10秒）分别焯烫后捞出沥干水分备用,"
+    },
+    {
+      "text": "鲜虾洗净后沥干。锅中倒入油（比平时炒菜多放一点），大火加热，待油温至6成热时，放入虾煎炸成金黄色捞出备用。用剩余的油，将鸡翅也双面煎炸成金黄色,"
+    },
+    {
+      "text": "锅中再多倒入点油，待油温4成热时，依次下入30克花椒，7，8根干辣椒，大料，拍裂的山奈，香叶，草果，豆蔻，丁香和小茴香，几片葱和姜，用小火煸5分钟，使香料的香味充分溶于油中，然后连香料带油一起倒入碗中，备用,"
+    },
+    {
+      "text": "锅中重新倒入油，放入蒜片，郫县辣酱，豆豉，剩余的葱姜，花椒，干辣椒，小火煸炒出香味后，倒入文字步骤（5）中炒好的香料和油，下入炸好的虾和焯好的鸡翅，然后放入平菇，土豆，莴笋，油菜和豆泡，调入糖，生抽和老抽炒匀，继续炒4分钟左右，就可以出锅啦，随后撒上香菜"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10220/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 1169.1,
+    "proteinG": 123.2,
+    "carbsG": 108.3,
+    "fatG": 33.4
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

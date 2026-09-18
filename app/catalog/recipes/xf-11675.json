@@ -1,0 +1,86 @@
+{
+  "id": "xf-11675",
+  "title": "日式炸虾",
+  "ingredients": [
+    {
+      "name": "明虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "生菜",
+      "mergeKey": "lettuce",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "面包糠",
+      "mergeKey": "breadcrumbs",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蕃茄酱",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "沙拉酱",
+      "mergeKey": "salad-dressing",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "生菜切细丝备用；鸡蛋放入碗中打匀，生粉及面包糠放入盘中备用,"
+    },
+    {
+      "text": "这步很重要：虾去虾头及虾壳，留尾部不要去掉，再虾的腹部浅浅的划3刀（一定要轻轻的，只要把虾筋切断就可以了，这步是为了防止虾受热卷曲），再用刀在虾背部拍两下以保证虾筋全部断掉，处理好的虾身调入盐，少许鸡精，多一些的黑胡椒粉抓匀腌5分钟,"
+    },
+    {
+      "text": "取一个明虾，依次均匀沾一层生粉，裹一层蛋液，最后沾满面包糠（用手稍微压一下固定住面包糠）,"
+    },
+    {
+      "text": "抖掉虾身上多余的面包糠，锅中放油烧热后用筷子插入，中间有小汽泡后转中小火，轻轻投入虾炸至金黄捞出控油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11675/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

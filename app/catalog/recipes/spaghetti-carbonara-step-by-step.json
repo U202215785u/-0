@@ -1,0 +1,127 @@
+{
+  "id": "spaghetti-carbonara-step-by-step",
+  "title": "经典卡邦尼意面",
+  "ingredients": [
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "quantityText": "按口味",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "意式腌猪颊肉、意式培根或培根",
+      "mergeKey": "bacon",
+      "amount": 113,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "帕玛森或佩科里诺奶酪",
+      "mergeKey": "parmesan",
+      "amount": 57,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 3,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "quantityText": "现磨，按口味",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "特级初榨橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "意大利面",
+      "mergeKey": "spaghetti",
+      "amount": 340,
+      "unit": "克",
+      "category": "米面主食"
+    }
+  ],
+  "steps": [
+    {
+      "text": "大锅水开始冒蒸汽时加入足量食盐并盖盖煮沸。意式腌猪颊肉、意式培根或培根切成约2.5厘米乘0.6厘米条；奶酪磨碎，留四分之一备用。",
+      "ingredientNames": [
+        "食盐",
+        "意式腌猪颊肉、意式培根或培根",
+        "帕玛森或佩科里诺奶酪"
+      ]
+    },
+    {
+      "text": "鸡蛋和蛋黄打散，拌入大部分磨碎奶酪和黑胡椒。",
+      "ingredientNames": [
+        "鸡蛋",
+        "蛋黄",
+        "帕玛森或佩科里诺奶酪",
+        "黑胡椒"
+      ]
+    },
+    {
+      "text": "厚底锅中火加橄榄油，放入肉条，翻炒7至10分钟至边缘酥脆；捞出肉，锅中留约3汤匙油脂。",
+      "ingredientNames": [
+        "特级初榨橄榄油",
+        "意式腌猪颊肉、意式培根或培根"
+      ]
+    },
+    {
+      "text": "意面比包装时间少煮约2分钟；出锅前取约1.75杯面汤。厚底锅中加入1杯面汤煮沸，放入沥干的意面，大力翻拌约2分钟至水量减半。",
+      "ingredientNames": [
+        "意大利面"
+      ]
+    },
+    {
+      "text": "离火，蛋液中先拌入四分之一杯面汤，再极慢倒入锅中并持续搅拌，至奶酪融化、蛋液变稠成有光泽的酱汁；用剩余面汤调到浓稠奶油状。",
+      "ingredientNames": [
+        "鸡蛋",
+        "蛋黄",
+        "帕玛森或佩科里诺奶酪"
+      ]
+    },
+    {
+      "text": "拌回肉条，盛盘，撒黑胡椒和预留奶酪。",
+      "ingredientNames": [
+        "意式腌猪颊肉、意式培根或培根",
+        "黑胡椒",
+        "帕玛森或佩科里诺奶酪"
+      ]
+    }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 22,
+  "sourceUrl": "https://www.bonappetit.com/recipe/simple-spaghetti-carbonara",
+  "author": "Claire Saffitz / Bon Appetit",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、22分钟、7项配料和10段方法；准确保留 guanciale、pancetta 或 bacon 的原始选项及肉脂回锅、面汤分次加入、离火乳化顺序。",
+  "nutrition": {
+    "kcal": 219.5,
+    "proteinG": 10,
+    "carbsG": 11.9,
+    "fatG": 14.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "difficulty": "中等"
+}

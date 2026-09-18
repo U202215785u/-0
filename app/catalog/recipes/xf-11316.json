@@ -1,0 +1,83 @@
+{
+  "id": "xf-11316",
+  "title": "上汤油麦菜",
+  "ingredients": [
+    {
+      "name": "油麦菜",
+      "mergeKey": "youmaicai",
+      "amount": 1,
+      "unit": "把",
+      "category": "蔬菜"
+    },
+    {
+      "name": "数瓣蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "皮蛋",
+      "mergeKey": "century-egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "火腿",
+      "mergeKey": "ham",
+      "quantityText": "适量",
+      "category": "肉类"
+    },
+    {
+      "name": "干红椒",
+      "mergeKey": "dried-chili",
+      "amount": 2,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "干贝丁",
+      "mergeKey": "dried-scallop",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "材料：油麦菜一把，蒜数瓣，皮蛋一个，火腿适量，干红椒两个（可无），干贝丁10克（可无，我是刚好有，所以用了,"
+    },
+    {
+      "text": "油麦菜洗净切段，蒜、皮蛋、火腿、干红椒切小块，干贝丁用水泡软,"
+    },
+    {
+      "text": "热锅凉油，小火爆香干辣椒和蒜块,"
+    },
+    {
+      "text": "加入火腿、皮蛋和干贝丁翻炒一会,"
+    },
+    {
+      "text": "加入清水或高汤，大火煮开，转小火略煮至汤色发白，加盐和生抽调味,"
+    },
+    {
+      "text": "加入油麦菜，煮至再沸腾，即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11316/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 23.8,
+    "proteinG": 2.2,
+    "carbsG": 3.6,
+    "fatG": 0.4
+  },
+  "tags": [
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

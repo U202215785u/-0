@@ -1,0 +1,87 @@
+{
+  "id": "xf-11117",
+  "title": "红烧鸦片鱼",
+  "ingredients": [
+    {
+      "name": "鸦片鱼身",
+      "mergeKey": "fish",
+      "category": "水产"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白砂糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鱼身洗净，擦干表面水份。姜和蒜切片，葱切段,"
+    },
+    {
+      "text": "把炒菜锅完全烧热后，放色拉油烧热，把鸦片鱼身放入油锅，两面稍微煎下,"
+    },
+    {
+      "text": "放姜片蒜片和料酒,"
+    },
+    {
+      "text": "放一汤匙老抽，1/4汤匙白砂糖，再加一点点盐，倒入小半碗清水，撒上葱段，盖盖子焖烧五分钟左右，开盖加点鸡精把汤汁收浓即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11117/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "xf-9604",
+  "title": "毛豆肉末炒饭",
+  "ingredients": [
+    {
+      "name": "毛豆",
+      "mergeKey": "edamame",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "猪绞肉",
+      "mergeKey": "pork",
+      "amount": 30,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "白饭",
+      "mergeKey": "rice",
+      "amount": 2,
+      "unit": "碗",
+      "category": "米面主食"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "颗",
+      "category": "蛋类"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "水发香菇",
+      "mergeKey": "shiitake",
+      "amount": 3,
+      "unit": "朵",
+      "category": "菌菇"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2小匙盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/8小匙白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 0.625,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡蛋打散成蛋液。锅内烧热油，并将油趟锅一遍，让锅底布满油。将鸡蛋液倒入锅内，炒至7分熟捞起备用,"
+    },
+    {
+      "text": "将猪绞肉放入锅内煸炒至熟后，放入洋葱炒出香味。再加入毛豆、胡萝卜丁，细盐1/2小匙炒至熟,"
+    },
+    {
+      "text": "加入白饭翻炒均匀,"
+    },
+    {
+      "text": "最后加入鸡蛋炒散，加入生抽1/2大匙，白胡椒粉1/8小匙，翻炒至听到米粒爆裂的声音，水份完全收干即可起锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9604/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 114,
+    "proteinG": 8.3,
+    "carbsG": 7.4,
+    "fatG": 5.9
+  },
+  "tags": [
+    "主食",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

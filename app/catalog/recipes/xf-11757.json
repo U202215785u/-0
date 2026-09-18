@@ -1,0 +1,120 @@
+{
+  "id": "xf-11757",
+  "title": "韩式辣白菜",
+  "ingredients": [
+    {
+      "name": "韩国辣椒酱",
+      "mergeKey": "gochujang",
+      "amount": 500,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "梨汁",
+      "mergeKey": "pear-juice",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "白菜",
+      "mergeKey": "napa-cabbage",
+      "amount": 1500,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白萝卜",
+      "mergeKey": "daikon",
+      "amount": 500,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "amount": 45,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "勺姜末",
+      "mergeKey": "ginger",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/4杯辣椒粉",
+      "mergeKey": "chili-powder",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺鱼露",
+      "mergeKey": "fish-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺白糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "海盐",
+      "mergeKey": "salt",
+      "amount": 120,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "白菜用海盐腌6个小时,"
+    },
+    {
+      "text": "白萝卜、胡萝卜切丝，用海盐腌2小时,"
+    },
+    {
+      "text": "把腌好的白菜、萝卜丝用冲洗一下，挤干水分,"
+    },
+    {
+      "text": "白菜切成2厘米左右的段，再加入全部原料混合均匀,"
+    },
+    {
+      "text": "最后装入密封的盒子，放在阴凉的地方，2天后就可以吃了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11757/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 653,
+    "proteinG": 35.2,
+    "carbsG": 117.2,
+    "fatG": 4.9
+  },
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

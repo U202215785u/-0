@@ -1,0 +1,68 @@
+{
+  "id": "xf-10154",
+  "title": "黄金杏鲍菇",
+  "ingredients": [
+    {
+      "name": "杏鲍菇",
+      "mergeKey": "king-oyster",
+      "category": "菌菇"
+    },
+    {
+      "name": "咸蛋黄",
+      "mergeKey": "salted-egg-yolk",
+      "category": "蛋类"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "杏鲍菇洗净切条，咸蛋黄蒸熟捣碎备用,"
+    },
+    {
+      "text": "锅内加适量水和两勺盐，烧开后放杏鲍菇条煮5分钟左右，拿出沥干水分,"
+    },
+    {
+      "text": "倒入蛋液和杏鲍菇条搅拌均匀，每条杏鲍菇均匀蘸上一层生粉,"
+    },
+    {
+      "text": "锅内加油烧至八成热，放杏鲍菇条炸到金黄盛出,"
+    },
+    {
+      "text": "再起油锅，倒入咸蛋黄泥炒散，根据咸淡加盐,"
+    },
+    {
+      "text": "把炸好的杏鲍菇条倒入，均匀裹上一层蛋黄就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10154/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

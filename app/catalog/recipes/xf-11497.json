@@ -1,0 +1,126 @@
+{
+  "id": "xf-11497",
+  "title": "双色芒果布丁",
+  "ingredients": [
+    {
+      "name": "芒果泥",
+      "mergeKey": "mango",
+      "amount": 150,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 100,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "吉利丁片",
+      "mergeKey": "gelatin",
+      "amount": 1,
+      "unit": "片",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芒果泥",
+      "mergeKey": "mango",
+      "amount": 130,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "吉利丁片",
+      "mergeKey": "gelatin",
+      "amount": 1,
+      "unit": "片",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将芒果去皮去核，取出果肉，放入搅拌机内搅打成泥状,"
+    },
+    {
+      "text": "先制作底部的布丁层，在奶锅中倒入淡奶油，加入150克芒果泥和25克白糖,"
+    },
+    {
+      "text": "小火煮至白糖融化，并搅拌均匀,"
+    },
+    {
+      "text": "吉利丁放入冷水中泡软,"
+    },
+    {
+      "text": "奶锅中倒入50克牛奶，将泡软的吉利丁片沥干水分，加入牛奶中，小火煮至吉利丁融化,"
+    },
+    {
+      "text": "将步骤3与5混合，搅拌均匀,"
+    },
+    {
+      "text": "倒入布丁瓶中，5分满，放入冰箱冷藏至凝固,"
+    },
+    {
+      "text": "将剩余的130克芒果泥倒入锅中，加100克水，30克糖，煮至糖化，并搅拌均匀,"
+    },
+    {
+      "text": "吉利丁片放入冷水中泡软,"
+    },
+    {
+      "text": "泡软的吉利丁片沥干水分放入1中，小火煮至吉利丁融化,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "倒入布丁层已经凝固的瓶中至9分满，盖上盖子，继续放入冰箱待果冻层凝固即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11497/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 278.4,
+    "proteinG": 6.5,
+    "carbsG": 53.3,
+    "fatG": 4.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

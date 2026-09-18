@@ -1,0 +1,136 @@
+{
+  "id": "xf-11245",
+  "title": "芒果乳酪慕斯",
+  "ingredients": [
+    {
+      "name": "芒果泥",
+      "mergeKey": "mango",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大芒果",
+      "mergeKey": "mango",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "奶油奶酪",
+      "mergeKey": "cream-cheese",
+      "amount": 150,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 150,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺鱼胶粉",
+      "mergeKey": "gelatin",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "去芯奥利奥饼干",
+      "mergeKey": "oreo",
+      "amount": 80,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 30,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "切块芒果",
+      "mergeKey": "mango",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "可可戚风蛋糕片",
+      "mergeKey": "chiffon-cake",
+      "amount": 1,
+      "unit": "片",
+      "category": "米面主食"
+    }
+  ],
+  "steps": [
+    {
+      "text": "奥利奥饼干装保鲜袋，用擀面杖碾碎。加入融化黄油拌匀，铺在活底模具的底部，压平（用勺子或平底的瓶子），放冰箱冷藏备用,"
+    },
+    {
+      "text": "奶酪加60克砂糖，隔水加热，搅至顺滑无颗粒。（如果再加入50克左右牛奶更易搅拌,"
+    },
+    {
+      "text": "三小勺鱼胶粉，加入50毫升凉开水泡软。隔水加热至融化，倒入奶酪糊拌匀,"
+    },
+    {
+      "text": "加入芒果泥拌匀，为做好的芒果奶酪糊,"
+    },
+    {
+      "text": "淡奶油打至七分发，加入步骤4拌匀，为做好的芒果奶酪糊,"
+    },
+    {
+      "text": "把切块芒果粒铺在冻过的饼干底上,"
+    },
+    {
+      "text": "倒入一半芒果奶酪糊,"
+    },
+    {
+      "text": "中间放入可可蛋糕片，稍压,"
+    },
+    {
+      "text": "再倒入另一半芒果奶酪糊，入冰箱冷藏至少4小时,"
+    },
+    {
+      "text": "一个芒果打成泥。1/4小勺鱼胶粉，加入一小勺凉开水泡软，隔水融化，拌入芒果泥。（成品图为加了一勺鱼胶粉的效果，太硬了,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "把做法10倒入冷藏过的蛋糕表面,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "继续冷藏30分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11245/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 380.1,
+    "proteinG": 9.9,
+    "carbsG": 69.6,
+    "fatG": 6.6
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

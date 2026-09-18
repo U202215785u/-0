@@ -1,0 +1,114 @@
+{
+  "id": "xf-11379",
+  "title": "麻辣葱姜炒蛏子",
+  "ingredients": [
+    {
+      "name": "新鲜蛏子",
+      "mergeKey": "razor-clam",
+      "amount": 1000,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青小米椒",
+      "mergeKey": "green-chili",
+      "amount": 3,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红小米椒",
+      "mergeKey": "red-chili",
+      "amount": 3,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 50,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干红辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 20,
+      "unit": "根",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "15毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "45毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5毫升老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将买回的蛏子反复清洗干净后，放入大碗，倒入清水没过蛏子的表面，放些盐或香油，让蛏子浸泡20分钟左右，以便能更好的吐脏,"
+    },
+    {
+      "text": "把浸泡后的蛏子冲洗干净，沥干备用。大葱切片，姜去皮切成薄片,"
+    },
+    {
+      "text": "锅中倒入油，然后马上放入花椒，不用等油热。中火加热，待花椒的香味飘出来，花椒的颜色稍微变深就捞出来（不要等花椒变黑）,"
+    },
+    {
+      "text": "捞出花椒后，在锅中放入干红辣椒，炒出辣香味后放入葱姜片翻炒几下，然后放入蛏子,"
+    },
+    {
+      "text": "翻炒几下后，烹入料酒继续炒到蛏子出汤。然后倒入生抽，老抽调味调色后再翻炒几下，临出锅前淋入水淀粉勾芡即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11379/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 770.5,
+    "proteinG": 37.3,
+    "carbsG": 132,
+    "fatG": 14
+  },
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

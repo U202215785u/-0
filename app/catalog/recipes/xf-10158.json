@@ -1,0 +1,109 @@
+{
+  "id": "xf-10158",
+  "title": "麻辣双脆",
+  "ingredients": [
+    {
+      "name": "脆排骨",
+      "mergeKey": "ribs",
+      "category": "肉类"
+    },
+    {
+      "name": "小米锅巴",
+      "mergeKey": "crispy-rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红绿彩椒",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将脆排剁成小块,"
+    },
+    {
+      "text": "将剁好的脆排放上淀粉、鸡蛋盐、绍酒、胡椒粉和匀挂糊,"
+    },
+    {
+      "text": "将红绿彩椒切成菱形块、洋葱切块,"
+    },
+    {
+      "text": "煎锅内放少许油将排骨放入逐块煎炸,"
+    },
+    {
+      "text": "一面煎至金黄色翻面煎另一面，两面煎至金黄，出锅时油温高点，防止排骨吸入太多的油，将煎好的排骨放在吸油纸上吸一下,"
+    },
+    {
+      "text": "锅内做油煸香花椒,"
+    },
+    {
+      "text": "放入洋葱、辣椒煸出香味,"
+    },
+    {
+      "text": "放入煎好的排骨煸炒,"
+    },
+    {
+      "text": "放入青红椒块煸炒出香味加盐、白糖、生抽调味,"
+    },
+    {
+      "text": "最后，倒入小米锅巴一起煸炒出锅装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10158/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

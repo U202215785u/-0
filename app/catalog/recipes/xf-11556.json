@@ -1,0 +1,97 @@
+{
+  "id": "xf-11556",
+  "title": "咸味果仁曲奇",
+  "ingredients": [
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 100,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "low-gluten-flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "花生核桃坚果碎",
+      "mergeKey": "mixed-nuts",
+      "amount": 100,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺黑胡椒",
+      "mergeKey": "black-pepper",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋液",
+      "mergeKey": "egg",
+      "amount": 40,
+      "unit": "克",
+      "category": "蛋类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "花生、核桃先放入烤箱用150度烘烤10分钟左右备用,"
+    },
+    {
+      "text": "将低粉、盐、细砂糖、黑胡椒混合后，加入黄油（黄油不用软化，切成小方块即可），用手指将黄油和面粉搓成面包粉样的颗粒状,"
+    },
+    {
+      "text": "加入鸡蛋液，搅拌均匀,"
+    },
+    {
+      "text": "加入坚果混合成团,"
+    },
+    {
+      "text": "将面团整形成喜欢的形状，我借用装锡纸的盒子整成方形,"
+    },
+    {
+      "text": "将整形好的面团放入冰箱冷藏1小时以上，心急的可以放冷冻,"
+    },
+    {
+      "text": "冷藏好的面团切成7毫米左右的厚片，平铺在烤盘上，中间留出一点间隙，180度烘烤20分钟左右。（烤的时候可以在下层放一个烤盘做遮挡，这样底部就不容易焦了）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11556/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 194.1,
+    "proteinG": 5.1,
+    "carbsG": 35.4,
+    "fatG": 3.4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

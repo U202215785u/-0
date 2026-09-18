@@ -1,0 +1,81 @@
+{
+  "id": "xf-10367",
+  "title": "香炸鱿鱼圈",
+  "ingredients": [
+    {
+      "name": "鱿鱼",
+      "mergeKey": "squid",
+      "category": "水产"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "面包糠",
+      "mergeKey": "breadcrumbs",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "番茄沙司",
+      "mergeKey": "tomato-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鱿鱼去头，肚子不要剖开，洗净沥干水，将身体部分切成一公分宽的圈， 加少许盐、料酒、生姜、胡椒粉腌制一小时,"
+    },
+    {
+      "text": "锅中多放些油烧热，转中小火，将腌好的鱿鱼圈先沾上面粉，再蛋液，最后沾上面包糠，放入油锅中炸至两面金黄（2分钟左右），取出装盘淋上番茄沙司即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10367/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煎",
+    "炸",
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "xf-10805",
+  "title": "黑椒鸡肉卷",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken-thigh",
+      "amount": 3,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芦笋",
+      "mergeKey": "asparagus",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡腿肉用剪刀剪开，去骨,"
+    },
+    {
+      "text": "去骨的鸡腿肉，展开，用刀背拍松。放少许盐、料酒和白胡椒粉腌制15分钟,"
+    },
+    {
+      "text": "胡萝卜切成细条，芦笋削去根部老皮，把芦笋头部切下,"
+    },
+    {
+      "text": "锅中放水，放点盐，滴两滴食用油，煮开后放胡萝卜和芦笋煮两分钟捞出,"
+    },
+    {
+      "text": "准备一张保鲜膜，把鸡腿肉平铺在保鲜膜中间（鸡皮朝下），鸡腿肉上放焯过水的胡萝卜条和芦笋条，然后卷起来，用保鲜膜包紧,"
+    },
+    {
+      "text": "保鲜膜两头打个结。用牙签在保鲜膜上戳些小孔,"
+    },
+    {
+      "text": "再用锡纸包在鸡肉卷的最外面定型,"
+    },
+    {
+      "text": "入锅，大火蒸20分钟左右。出锅后打开锡纸放凉再去掉保鲜膜，切片装盘,"
+    },
+    {
+      "text": "用市售的黑椒汁加少许水调节下稠度，煮开，浇在鸡肉卷上"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10805/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 398.3,
+    "proteinG": 54,
+    "carbsG": 0,
+    "fatG": 18
+  },
+  "tags": [
+    "炒",
+    "炸",
+    "烤"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

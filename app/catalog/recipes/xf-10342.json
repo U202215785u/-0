@@ -1,0 +1,76 @@
+{
+  "id": "xf-10342",
+  "title": "咖喱翅根",
+  "ingredients": [
+    {
+      "name": "翅根",
+      "mergeKey": "chicken-wing",
+      "category": "肉类"
+    },
+    {
+      "name": "咖喱粉",
+      "mergeKey": "curry-powder",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先用刀将翅根划上几个口子，方便入味,"
+    },
+    {
+      "text": "锅底倒少许油，放入翅根，用小火煎,"
+    },
+    {
+      "text": "待一面变色后，翻动翅根，煎至表面金黄,"
+    },
+    {
+      "text": "加入2勺料酒、2勺生抽、1勺老抽、1勺咖喱粉，翻炒均匀,"
+    },
+    {
+      "text": "加入适量热水（没过翅根即可），大火烧开后，转中火炖至汤汁浓稠即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10342/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

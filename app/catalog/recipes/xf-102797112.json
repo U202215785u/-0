@@ -1,0 +1,110 @@
+{
+  "id": "xf-102797112",
+  "title": "一品锅",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 250,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "油豆腐",
+      "mergeKey": "fried-tofu",
+      "amount": 10,
+      "unit": "个",
+      "category": "豆制品"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 4,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "口蘑",
+      "mergeKey": "mushroom",
+      "amount": 200,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "笋干",
+      "mergeKey": "dried-bamboo-shoot",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "勺料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 3,
+      "unit": "勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐、鸡精",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "chicken-powder"
+    },
+    {
+      "name": "葱、姜",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 2,
+      "unit": "勺",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪肉分成2份一份剁成肉糜备用，一份切块冷水下锅加入姜和料酒焯水（水开后5分钟左右）"
+    },
+    {
+      "text": "肉糜塞入油豆腐备用"
+    },
+    {
+      "text": "鸡蛋搅拌后用铁勺制成蛋皮加入肉糜做成蛋饺"
+    },
+    {
+      "text": "焯过水的肉块下锅炒下，加入生抽、高汤，煮开后小火炖"
+    },
+    {
+      "text": "笋干、口蘑洗净备用"
+    },
+    {
+      "text": "萝卜切块冷水下锅焯一下"
+    },
+    {
+      "text": "萝卜焯好水后垫在最下层，依次放入笋干、油豆腐（塞肉的口向下围在锅边）、中间放入慢煮过的肉块、放上口蘑、最上面放上蛋饺。"
+    },
+    {
+      "text": "大火煮开后转小火慢煮15分钟，放入盐和基金调味，撒上葱花即可。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102797112/",
+  "author": "龙之忍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 517.5,
+    "proteinG": 41.6,
+    "carbsG": 11.5,
+    "fatG": 35.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

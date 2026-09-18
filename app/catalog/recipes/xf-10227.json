@@ -1,0 +1,92 @@
+{
+  "id": "xf-10227",
+  "title": "私房盐煎肉",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "红彩椒",
+      "mergeKey": "red-bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青蒜",
+      "mergeKey": "garlic-sprout",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆豉",
+      "mergeKey": "douchi",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将肉切成长薄片（肉稍冻一下再切，就比较好切了）,"
+    },
+    {
+      "text": "青蒜切段、红彩椒切段,"
+    },
+    {
+      "text": "炒锅内放油，七成热时下肉片煸炒,"
+    },
+    {
+      "text": "煸炒至肉片吐油四周微微焦黄，捞出备用,"
+    },
+    {
+      "text": "锅内做油放姜末葱花煸炒出香味，下豆瓣酱、豆豉炒香并上色再放酱油、糖炒匀,"
+    },
+    {
+      "text": "再放入刚才煸炒的肉片,"
+    },
+    {
+      "text": "下青蒜和红彩椒炒至断生,"
+    },
+    {
+      "text": "煸炒均匀即可起锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10227/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煎",
+    "炸",
+    "烤"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "xf-11612",
+  "title": "俱乐部三明治",
+  "ingredients": [
+    {
+      "name": "土司面包",
+      "mergeKey": "bread",
+      "amount": 3,
+      "unit": "片",
+      "category": "米面主食"
+    },
+    {
+      "name": "生鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "鸡胸",
+      "mergeKey": "chicken",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "火腿片",
+      "mergeKey": "ham",
+      "amount": 3,
+      "unit": "片",
+      "category": "肉类"
+    },
+    {
+      "name": "/2个西红柿",
+      "mergeKey": "tomato",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生菜",
+      "mergeKey": "lettuce",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 10,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "蛋黄酱",
+      "mergeKey": "mayonnaise",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙约3克盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙约1克白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把西红柿和生菜洗净沥干水分。将西红柿切成3毫米厚的片，生菜用手撕成和面包片大小一样的块。鸡胸肉洗净擦干水分后，片成3毫米厚的片儿备用,"
+    },
+    {
+      "text": "平底锅中倒入底油，油温四成热时磕入鸡蛋，撒入盐，用中小火双面煎熟（大约2分钟左右），再撒入白胡椒粉，盛出备用,"
+    },
+    {
+      "text": "继续用煎蛋的锅和剩余的油，加热至油温5成热时，放入鸡胸片，两面煎熟盛出（大约2分钟左右）备用,"
+    },
+    {
+      "text": "将面包片放在烤盘上，用180度，烤至两面金黄后取出（大约5分钟）,"
+    },
+    {
+      "text": "在烤好的面包片上依次抹上黄油，蛋黄酱，然后放上生菜，煎蛋，火腿片接着盖上一片面包片。再放上生菜，西红柿，鸡胸，最后盖上第三片面包片，并用四个牙签沿面包的对角线平行插入，用锯齿刀将三明治沿对角线切成三角即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11612/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 159.5,
+    "proteinG": 17.5,
+    "carbsG": 8.7,
+    "fatG": 6.6
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

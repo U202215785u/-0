@@ -1,0 +1,97 @@
+{
+  "id": "xf-11176",
+  "title": "芝士焗蟹盒",
+  "ingredients": [
+    {
+      "name": "梭子蟹",
+      "mergeKey": "crab",
+      "amount": 4,
+      "unit": "只",
+      "category": "水产"
+    },
+    {
+      "name": "芝士粉",
+      "mergeKey": "cheese-powder",
+      "quantityText": "少许",
+      "category": "乳制品"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "淡奶油盒的雀巢的奶油",
+      "mergeKey": "cream",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面包糠",
+      "mergeKey": "breadcrumbs",
+      "quantityText": "少许",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "quantityText": "少许",
+      "category": "乳制品"
+    },
+    {
+      "name": "白酒",
+      "mergeKey": "baijiu",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红甜椒",
+      "mergeKey": "red-bell-pepper",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "先将螃蟹用微波炉高火3分钟蒸熟。将洋葱切丝，辣椒切碎,"
+    },
+    {
+      "text": "用工具取蟹肉，先用黄油将洋葱炒香，再放入蟹肉，牛肉馅，略煮,"
+    },
+    {
+      "text": "加入白酒、奶油、及水，煮至糊状,"
+    },
+    {
+      "text": "将煮好的材料酿入蟹盖内,"
+    },
+    {
+      "text": "在已蘸好的蟹盖上洒芝士粉及面包糠加点红椒丝，放入微波炉光波5-8分钟，呈金黄色即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11176/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 296,
+    "proteinG": 49.7,
+    "carbsG": 8.9,
+    "fatG": 7.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

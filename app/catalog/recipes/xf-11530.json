@@ -1,0 +1,126 @@
+{
+  "id": "xf-11530",
+  "title": "美式炸鸡",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken-leg",
+      "amount": 1,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "鸡翅",
+      "mergeKey": "chicken-wings",
+      "amount": 1,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "/4个洋葱",
+      "mergeKey": "onion",
+      "amount": 1,
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 100,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "5克白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克红甜椒粉",
+      "mergeKey": "paprika",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "10克盐",
+      "mergeKey": "salt",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "百里香",
+      "mergeKey": "thyme",
+      "amount": 2,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡腿洗净后，用刀从关节部位切断。将鸡翅洗净，用刀从翅中与翅膀根，翅中与翅尖的关节连接部位切断，备用,"
+    },
+    {
+      "text": "洋葱和蒜去皮切成碎末，百里香洗净后，将叶子留下（不要脉络），切成碎末。把面粉和玉米淀粉混合放入一个容器中，拌匀备用,"
+    },
+    {
+      "text": "将分割好的鸡肉放入容器中，加入盐，百里香，白胡椒粉，红甜椒粉，洋葱碎，蒜碎，油，然后抓匀，腌制6小时以上,"
+    },
+    {
+      "text": "取出腌好的鸡肉，将每一块肉都先均匀的蘸好混合面粉，然后再沾牛奶，接着再把鸡肉蘸满混合面粉,"
+    },
+    {
+      "text": "锅中倒入油，油的量要可以没过鸡肉。当油温6成热时，将鸡肉一块一块的放入锅中，炸制8分钟左右，变成金黄色即可捞出，沥干油份后食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11530/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 512.8,
+    "proteinG": 26.9,
+    "carbsG": 22.7,
+    "fatG": 34.6
+  },
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

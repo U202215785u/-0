@@ -1,0 +1,69 @@
+{
+  "id": "xf-10446",
+  "title": "马卡龙",
+  "ingredients": [
+    {
+      "name": "大杏仁粉",
+      "mergeKey": "almond-flour",
+      "amount": 45,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蛋清",
+      "mergeKey": "egg-white",
+      "amount": 40,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 35,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "powdered-sugar",
+      "amount": 65,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "杏仁粉与糖粉分别过筛一次， 再两粉混合再过筛一次,"
+    },
+    {
+      "text": "打发蛋白，细砂糖分两次加入，打发至中性偏干，加入过筛好的混合粉， 翻拌均匀,"
+    },
+    {
+      "text": "烤盘垫上高温油布，将糊装入挤花袋（装有平口圆花嘴）挤出均匀圆糊，放置一小时左右等面糊表面结皮,"
+    },
+    {
+      "text": "烤箱预热160度，先中层160度7分钟， 再换至下层调温至140度5分钟， 最后125度再5-10分钟，温度时间根据自己烤箱调整,"
+    },
+    {
+      "text": "取出后连油布一起取出烤盘放在厨房台面上， 让马卡龙降温，就很容易取下了，底部会非常光滑"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10446/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 227.5,
+    "proteinG": 1.3,
+    "carbsG": 55.1,
+    "fatG": 0.9
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

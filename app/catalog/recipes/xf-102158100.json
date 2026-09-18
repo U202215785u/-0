@@ -1,0 +1,151 @@
+{
+  "id": "xf-102158100",
+  "title": "佛跳墙",
+  "ingredients": [
+    {
+      "name": "鲍鱼",
+      "mergeKey": "abalone",
+      "amount": 5,
+      "unit": "个",
+      "category": "水产"
+    },
+    {
+      "name": "海参",
+      "mergeKey": "sea-cucumber",
+      "amount": 2,
+      "unit": "个",
+      "category": "水产"
+    },
+    {
+      "name": "花胶",
+      "mergeKey": "fish-maw",
+      "amount": 5,
+      "unit": "个",
+      "category": "水产"
+    },
+    {
+      "name": "鱼翅",
+      "mergeKey": "shark-fin",
+      "amount": 1,
+      "unit": "个",
+      "category": "水产"
+    },
+    {
+      "name": "鹌鹑蛋",
+      "mergeKey": "quail-egg",
+      "amount": 5,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken",
+      "amount": 1,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "发菜丸子",
+      "mergeKey": "fat-choy",
+      "amount": 5,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "amount": 5,
+      "unit": "个",
+      "category": "菌菇"
+    },
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "amount": 2,
+      "unit": "小块",
+      "category": "肉类"
+    },
+    {
+      "name": "西兰花",
+      "mergeKey": "broccoli",
+      "amount": 1,
+      "unit": "棵",
+      "category": "蔬菜"
+    },
+    {
+      "name": "笋",
+      "mergeKey": "bamboo-shoot",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "虾",
+      "mergeKey": "shrimp",
+      "amount": 5,
+      "unit": "只",
+      "category": "水产"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "amount": 0.5,
+      "unit": "碗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "小勺",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡腿鸡脚和排骨焯水去血沫后，放入高压锅，加入一砂锅的水，煮沸20分钟。"
+    },
+    {
+      "text": "鱼翅加姜汁焯水"
+    },
+    {
+      "text": "小白花胶加姜片煮沸捞起，换冷水泡发20分钟左右，剖片清洗花胶、洗净鱼油鱼血。"
+    },
+    {
+      "text": "香菇泡发，鹌鹑蛋煮熟剥皮，海参切段"
+    },
+    {
+      "text": "锅底依次铺上笋片、姜片，鲍鱼壳（鲍鱼干做的话可以省略），发菜丸子"
+    },
+    {
+      "text": "依次放入西兰花，鲍鱼，扇贝，花胶，粉丝，海参，鹌鹑蛋，鲜虾，香菇"
+    },
+    {
+      "text": "加入高压锅煮出来的高汤、半碗绍兴黄酒，小火炖半小时，起锅前加少许盐。不要盖锅盖。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102158100/",
+  "author": "下厨房用户-2207",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 1224,
+    "proteinG": 175.6,
+    "carbsG": 44,
+    "fatG": 41.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

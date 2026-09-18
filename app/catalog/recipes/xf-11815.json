@@ -1,0 +1,94 @@
+{
+  "id": "xf-11815",
+  "title": "巧克力大土司",
+  "ingredients": [
+    {
+      "name": "巧克力",
+      "mergeKey": "chocolate",
+      "amount": 80,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "高粉",
+      "mergeKey": "bread-flour",
+      "amount": 500,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 370,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "快速酵母粉",
+      "mergeKey": "yeast",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 20,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先做烫种：将80克巧克力压碎溶于250克沸水中（可以再加热1分钟），再拌入40克高粉，混合均匀后放凉,"
+    },
+    {
+      "text": "再加进460克高粉、120克水、5克快速酵母粉、20克白糖、20克无盐黄油、5克盐，揉成光滑可以拉成薄膜的面团；基本发酵到2倍大,"
+    },
+    {
+      "text": "分成4块面团，滚圆松弛15分钟,"
+    },
+    {
+      "text": "再整形放进土司盒，放在温暖的地方，进行第二次发酵,"
+    },
+    {
+      "text": "发到八分满就可以了,"
+    },
+    {
+      "text": "烤箱预热220度，盖上土司盖，上下火烘焙40~45分钟。时间到，出炉脱模放凉"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11815/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 280.7,
+    "proteinG": 9.1,
+    "carbsG": 46.3,
+    "fatG": 6.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "xf-11448",
+  "title": "芒果西米露",
+  "ingredients": [
+    {
+      "name": "-2个芒果",
+      "mergeKey": "mango",
+      "amount": 2,
+      "unit": "个",
+      "category": "其他"
+    },
+    {
+      "name": "西米",
+      "mergeKey": "sago",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "category": "乳制品"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅中放水烧开，投入西米及冰糖转小火耐心的煮约30分钟左右（期间需多次搅拌，以防粘锅），煮到还有少许白点的时候，关火焖至透明,"
+    },
+    {
+      "text": "芒果削下果肉，与牛奶放入榨汁机中榨成牛奶芒果汁,"
+    },
+    {
+      "text": "将煮好的西米冲凉沥干水，与牛奶芒果汁混合，调入少许蜂蜜，放冰箱冷藏,"
+    },
+    {
+      "text": "将冷藏好的西米露取出，放入切成粒的芒果丁即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11448/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,185 @@
+{
+  "id": "xf-10829",
+  "title": "简易版芝士纸杯蛋糕",
+  "ingredients": [
+    {
+      "name": "奶油芝士",
+      "mergeKey": "cream-cheese",
+      "amount": 60,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 60,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 80,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 150,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "奶粉",
+      "mergeKey": "milk-powder",
+      "amount": 8,
+      "unit": "克",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "蛋液",
+      "mergeKey": "egg",
+      "amount": 50,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "小匙泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小匙朗姆酒",
+      "mergeKey": "rum",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙细沙糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙热水",
+      "mergeKey": "water",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "滴天然食用色素",
+      "mergeKey": "food-coloring",
+      "quantityText": "若干",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "奶油芝士、鸡蛋、黄油、牛奶提前从冰箱拿出褪冰，放至室温备用，称量好所需材料，低粉、奶粉、泡打粉混合好过筛,"
+    },
+    {
+      "text": "黄油加糖，搅打成羽毛状，加入奶油芝士，搅打至完全融合,"
+    },
+    {
+      "text": "分3次加入蛋液，搅打均匀,"
+    },
+    {
+      "text": "加入1/2的过筛后的混合面粉，切拌至无干粉粒,"
+    },
+    {
+      "text": "加入一半淡奶油，拌匀,"
+    },
+    {
+      "text": "继续加入剩下的混合面粉，切拌均匀,"
+    },
+    {
+      "text": "倒入剩下的淡奶油，切拌均匀即为芝士面糊,"
+    },
+    {
+      "text": "将面糊装入裱花袋,"
+    },
+    {
+      "text": "纸杯放入模具中，注入面糊七八分满，185度烤20~25分钟,"
+    },
+    {
+      "text": "出炉后晾凉,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "制作糖酒液：碗内放入一大匙白砂糖,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入4小匙热水，搅拌至糖融化,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入1小匙朗姆酒，搅拌均匀即为糖酒液,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将糖酒液均匀地刷在小蛋糕表面,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "碗内放入适量淡奶油，搅打至八九分发,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "淡奶油分成2份，分别加入2滴天然色素，拌匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "装入裱花袋中，在蛋糕上挤花装饰即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10829/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 283.2,
+    "proteinG": 6.7,
+    "carbsG": 55.5,
+    "fatG": 3.9
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

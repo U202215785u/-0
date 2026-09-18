@@ -1,0 +1,174 @@
+{
+  "id": "xf-117259",
+  "title": "毛氏红烧肉",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 750,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 3,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 3,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 3,
+      "unit": "片",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "草果",
+      "mergeKey": "caoguo",
+      "amount": 1,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 3,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "五花肉用冷水反复冲洗，至没有血水，放入加了葱姜料酒的冷水锅中焯水，水开后，大火煮10分钟，中途要把煮出的血沫子捞出。捞出的肉沥干水分"
+    },
+    {
+      "text": "焯好的肉切成"
+    },
+    {
+      "text": "5厘米见方的块儿，用厨房纸巾再次擦干水分"
+    },
+    {
+      "text": "热锅中放入少许油，接着放入肉翻炒，待肉炒成金黄色，锅中有油渗出，即可捞出肉备用"
+    },
+    {
+      "text": "香葱洗净每五根打成结儿，并将其他调料备齐"
+    },
+    {
+      "text": "热锅中放少量的油，加入白糖"
+    },
+    {
+      "text": "中小火慢慢加热，待锅中的糖由大泡转成小气泡，糖色从浅慢慢变成深褐色即可"
+    },
+    {
+      "text": "放入煎好的五花肉翻炒，是每块儿肉都均匀的沾上糖色后，在锅边烹入料酒"
+    },
+    {
+      "text": "料酒出香味儿后，加入香醋、香葱、八角、干辣椒、香叶、草果、冰糖、姜和10瓣大蒜（其余大蒜备用）老抽、生抽。翻炒2分钟"
+    },
+    {
+      "text": "将炒了2分钟的肉连同所有调料一同倒入已经提前加热的砂锅中，倒入适量开水。大火烧开后，用小火加热1个小时，然后放上盐，继续加热20分钟"
+    },
+    {
+      "text": "20分钟后，放入剩下的大蒜，开大火加热收汁，至汤汁浓稠即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/117259/",
+  "author": "萍凡美食",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 2145.2,
+    "proteinG": 38.9,
+    "carbsG": 46.1,
+    "fatG": 199.6
+  },
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 55,
+  "difficulty": "中等"
+}

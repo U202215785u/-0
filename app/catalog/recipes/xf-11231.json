@@ -1,0 +1,80 @@
+{
+  "id": "xf-11231",
+  "title": "椒粒炒嫩蛋",
+  "ingredients": [
+    {
+      "name": "绿尖椒",
+      "mergeKey": "green-chili",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 4,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "红尖椒",
+      "mergeKey": "red-chili",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备鸡蛋4个，红绿尖椒（细细的那种）各两个,"
+    },
+    {
+      "text": "把鸡蛋液加盐2克、米酒一小勺，打散。红绿尖椒切片,"
+    },
+    {
+      "text": "锅烧油至五分热，倒入打好的蛋液。用筷子拌炒。筷子炒蛋会比较嫩哦,"
+    },
+    {
+      "text": "蛋液炒到半凝固时，倒入辣椒片翻炒，炒至蛋液凝固。喜欢辣椒比较熟一点的话，可以早些放入，或和蛋液一同下锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11231/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 144.8,
+    "proteinG": 13,
+    "carbsG": 1.2,
+    "fatG": 10
+  },
+  "tags": [
+    "炸",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "xf-10195",
+  "title": "腐竹鱼头煲",
+  "ingredients": [
+    {
+      "name": "胖头鱼头",
+      "mergeKey": "fish-head",
+      "amount": 1,
+      "unit": "个",
+      "category": "水产"
+    },
+    {
+      "name": "枝腐竹",
+      "mergeKey": "dried-tofu-skin",
+      "amount": 2,
+      "unit": "枝",
+      "category": "豆制品",
+      "pantry": true
+    },
+    {
+      "name": "各1个新鲜青红椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/3个洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 4,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙海鲜酱",
+      "mergeKey": "hoisin-sauce",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先将鱼头斩开成4件，用少许盐，料酒涂遍，腌制10分钟,"
+    },
+    {
+      "text": "先用冷水将腐竹泡发。洋葱切小方块，青红椒切小块，姜切片，蒜切片,"
+    },
+    {
+      "text": "锅内烧热油，在鱼头表面粘上少许玉米淀粉,"
+    },
+    {
+      "text": "将鱼头放入锅内煎至两面金黄色，捞起备用,"
+    },
+    {
+      "text": "再将腐竹放入，转大火快速将两面煎至微黄,"
+    },
+    {
+      "text": "将调味料在碗内调匀后，加入半碗热开水，让砂糖溶化,"
+    },
+    {
+      "text": "锅内再放入姜，蒜爆出香味,"
+    },
+    {
+      "text": "加入煎好的鱼头和腐竹，加入调好的调味汁和水,"
+    },
+    {
+      "text": "水量不要太多，略煮一下就要收汁了。放入青红椒翻炒至上色,"
+    },
+    {
+      "text": "砂锅放少许油，烧热放入洋葱块和香菜垫底,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "再将腐竹和鱼头放入锅内，加盖小火焖上2分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10195/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

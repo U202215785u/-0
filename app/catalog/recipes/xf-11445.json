@@ -1,0 +1,86 @@
+{
+  "id": "xf-11445",
+  "title": "茄丁香肠蛋炒饭",
+  "ingredients": [
+    {
+      "name": "茄子",
+      "mergeKey": "eggplant",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "火腿肠",
+      "mergeKey": "ham-sausage",
+      "amount": 1,
+      "unit": "根",
+      "category": "肉类"
+    },
+    {
+      "name": "剩米饭",
+      "mergeKey": "rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 75,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将胡萝卜削皮切丁，茄子火腿肠切丁，葱切末，鸡蛋放入碗中调入盐打散,"
+    },
+    {
+      "text": "将剩米饭放入略大的盘子里，洒少许手用手抓散，颗颗分明,"
+    },
+    {
+      "text": "锅中放少许油烧热，倒入鸡蛋液，用筷子拨散成蛋块盛用备用,"
+    },
+    {
+      "text": "锅中放少许油烧热，入胡萝卜丁炒软，接着放入茄丁翻炒几下，放入米饭和火腿肠，调入盐，美极鲜酱油少许不停的翻炒，直至水分炒干，放入蛋块及葱花，调入鸡精炒匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11445/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

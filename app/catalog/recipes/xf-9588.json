@@ -1,0 +1,64 @@
+{
+  "id": "xf-9588",
+  "title": "木瓜莲子百合汤",
+  "ingredients": [
+    {
+      "name": "木瓜",
+      "mergeKey": "papaya",
+      "category": "其他"
+    },
+    {
+      "name": "莲子",
+      "mergeKey": "lotus-seed",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "百合",
+      "mergeKey": "lily-bulb",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "红枣",
+      "mergeKey": "red-date",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "银耳",
+      "mergeKey": "white-fungus",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "category": "乳制品"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将原料洗净切小块，莲子泡发蒸熟，银耳泡发撕小块,"
+    },
+    {
+      "text": "将原料放入开水中煮半小时，放入牛奶和木瓜最后放入百合即可，装入汤盘用薄荷叶点缀"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9588/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

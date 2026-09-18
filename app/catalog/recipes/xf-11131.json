@@ -1,0 +1,68 @@
+{
+  "id": "xf-11131",
+  "title": "抹茶风暴冰咖啡",
+  "ingredients": [
+    {
+      "name": "咖啡豆",
+      "mergeKey": "coffee-bean",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "抹茶粉",
+      "mergeKey": "matcha",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "方糖",
+      "mergeKey": "sugar",
+      "amount": 2,
+      "unit": "块",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "随意喷射奶油",
+      "mergeKey": "whipped-cream",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将咖啡豆放在研磨器中打碎后，放入飞利浦咖啡机中，倒入清水后，按下开关,"
+    },
+    {
+      "text": "杯中倒入抹茶粉，牛奶和方糖，再倒入煮好的咖啡搅匀，冷却后放入冰块,"
+    },
+    {
+      "text": "将喷射奶油挤在咖啡上，最后筛上一层抹茶粉装饰"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11131/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 25.2,
+    "proteinG": 0.9,
+    "carbsG": 3.8,
+    "fatG": 0.6
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

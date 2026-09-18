@@ -1,0 +1,101 @@
+{
+  "id": "xf-4718",
+  "title": "奶油玉米浓汤",
+  "ingredients": [
+    {
+      "name": "(半瓶)玉米粒罐头",
+      "mergeKey": "corn",
+      "amount": 225,
+      "unit": "克",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "火腿",
+      "mergeKey": "ham",
+      "amount": 80,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 15,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 15,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蛋类"
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 400,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙如果罐头够甜可免糖",
+      "mergeKey": "sugar",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备黄油，面粉，鸡蛋打散，火腿切小丁"
+    },
+    {
+      "text": "小火将黄油溶化，加入面粉炒至微黄（不要炒焦了）"
+    },
+    {
+      "text": "锅内加入玉米酱，玉米粒，火腿及清水"
+    },
+    {
+      "text": "煮开后，汤会变的浓稠，开大火加入蛋液"
+    },
+    {
+      "text": "熄火加入调味料即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/4718/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 185.4,
+    "proteinG": 7.3,
+    "carbsG": 30.5,
+    "fatG": 3.9
+  },
+  "tags": [
+    "汤羹",
+    "蒸",
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

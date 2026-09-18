@@ -1,0 +1,58 @@
+{
+  "id": "xf-10374",
+  "title": "酱鸭菜泡饭",
+  "ingredients": [
+    {
+      "name": "熟酱鸭",
+      "mergeKey": "duck",
+      "category": "肉类"
+    },
+    {
+      "name": "冷饭",
+      "mergeKey": "rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "青菜",
+      "mergeKey": "greens",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "熟酱鸭切成小块。烧热锅，不要放油，直接把酱鸭块放入锅中以中小火煸炒出油出香,"
+    },
+    {
+      "text": "加一大碗清水，滚后小火焖煮"
+    },
+    {
+      "text": "6分钟,"
+    },
+    {
+      "text": "加入切碎的小青菜和一小碗冷饭，把米饭用锅铲打散，加少量盐和鸡精，稍煮一会儿即可出锅食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10374/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

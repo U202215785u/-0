@@ -1,0 +1,88 @@
+{
+  "id": "xf-860",
+  "title": "麻辣豆腐",
+  "ingredients": [
+    {
+      "name": "盒装豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "或猪肉末牛肉末",
+      "mergeKey": "minced-meat",
+      "category": "肉类"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "老干妈辣豆豉酱",
+      "mergeKey": "chili-bean-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "湿淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛肉剁成末，调入少许生粉及盐腌制"
+    },
+    {
+      "text": "豆腐切成丁，姜蒜切成末，葱切葱花"
+    },
+    {
+      "text": "锅中放油烧热，爆香姜蒜末"
+    },
+    {
+      "text": "爆香姜蒜后，接着放入肉末打散翻少，调入适量的辣豆豉酱继续翻炒，稍后加入豆腐小心的推翻"
+    },
+    {
+      "text": "加半碗水没过豆腐烧煮一会，调入盐，鸡精，汤汁略干时倒入湿淀粉勾芡，撒上葱花及胡椒粉即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/860/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

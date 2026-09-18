@@ -1,0 +1,131 @@
+{
+  "id": "xf-11207",
+  "title": "酸辣炒鸡胗",
+  "ingredients": [
+    {
+      "name": "(200克)鸡胗",
+      "mergeKey": "chicken-gizzard",
+      "amount": 10,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "酸豆角",
+      "mergeKey": "pickled-long-beans",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "新鲜红椒",
+      "mergeKey": "red-chili",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜蓉",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜蓉",
+      "mergeKey": "garlic",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大葱碎",
+      "mergeKey": "scallion",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2大匙米酒",
+      "mergeKey": "cooking-wine",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙芝麻香油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡胗切成厚片，酸豆角切小段，红椒切成小块，生姜，大蒜，葱白剁成蓉,"
+    },
+    {
+      "text": "锅内烧热1/2大匙油，放入鸡胗片，盐，米酒，大火翻炒至变色，连汤汁盛出备用,"
+    },
+    {
+      "text": "锅内放入1大匙油，冷油放入姜，葱，蒜蓉炒出香味,"
+    },
+    {
+      "text": "加入酸豆角碎，砂糖1小匙，中火炒至出香味,"
+    },
+    {
+      "text": "最后加入炒好的鸡胗，生抽，老抽，转大火再翻炒约1分钟,"
+    },
+    {
+      "text": "最后加入新鲜红椒，芝麻香油，翻炒约1分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11207/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 498.5,
+    "proteinG": 80.7,
+    "carbsG": 12.9,
+    "fatG": 11.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "xf-10430",
+  "title": "豆干腊肉煲",
+  "ingredients": [
+    {
+      "name": "茶干",
+      "mergeKey": "dried-tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "风肉",
+      "mergeKey": "cured-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇"
+    },
+    {
+      "name": "红椒葱",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "茶干、风肉切片，芹菜切段，黑木耳切小，红椒和葱切细备用,"
+    },
+    {
+      "text": "砂锅里面放上大部分芹菜,"
+    },
+    {
+      "text": "起油锅把风肉煸炒一下倒入茶干和木耳翻炒一下，一起倒入砂锅,"
+    },
+    {
+      "text": "砂锅里面放上酱油、糖和少量的耗油一起大火开后转小火焖10-15分钟，加入红椒和葱和一点味精就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10430/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

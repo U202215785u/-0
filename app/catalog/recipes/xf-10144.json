@@ -1,0 +1,65 @@
+{
+  "id": "xf-10144",
+  "title": "清脆爽口小炒",
+  "ingredients": [
+    {
+      "name": "虾丸",
+      "mergeKey": "shrimp-ball",
+      "category": "水产"
+    },
+    {
+      "name": "芥兰菜",
+      "mergeKey": "kai-lan",
+      "category": "蔬菜"
+    },
+    {
+      "name": "马蹄",
+      "mergeKey": "water-chestnut",
+      "category": "蔬菜"
+    },
+    {
+      "name": "油条",
+      "mergeKey": "youtiao",
+      "category": "米面主食"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "火腿肠",
+      "mergeKey": "ham-sausage",
+      "category": "肉类"
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "调料",
+      "mergeKey": "seasoning",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "芥兰菜去皮后切滚刀块，虾丸用滚水焯熟后切块，马蹄、红椒、火腿肠、油条也分别切块,"
+    },
+    {
+      "text": "起油锅少放点油，放芥兰、火腿肠、油条、虾丸翻炒一下后，最后放马蹄和红椒后，加一点水和调料，用生粉勾芡就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10144/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

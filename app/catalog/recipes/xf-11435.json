@@ -1,0 +1,76 @@
+{
+  "id": "xf-11435",
+  "title": "蒜蓉粉丝小鲍鱼",
+  "ingredients": [
+    {
+      "name": "龙口粉丝",
+      "mergeKey": "vermicelli",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小鲍鱼",
+      "mergeKey": "abalone",
+      "quantityText": "若干",
+      "category": "水产"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "粉丝用热水泡软待用；小鲍鱼沿壳挖出，用牙刷仔细清洗刷去黑色污渍,"
+    },
+    {
+      "text": "洗干净的小鲍鱼用刀切成两至三片（也可以不切），最上面划十字花刀,"
+    },
+    {
+      "text": "泡软的粉丝卷成团放在小鲍鱼壳上,"
+    },
+    {
+      "text": "瓣蒜切成末，一半油锅里炒一下，和另外一半蒜末调入蚝油，少许美极鲜酱油，黄酒一起拌匀,"
+    },
+    {
+      "text": "将调好的蚝油汁少许淋在粉丝上，再少许淋在小鲍鱼的表面，入开水锅中蒸5分钟,"
+    },
+    {
+      "text": "蒸好的小鲍鱼取出，铺上葱花，烧滚热的油浇上去即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11435/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

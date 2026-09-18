@@ -1,0 +1,74 @@
+{
+  "id": "xf-11693",
+  "title": "白菜粉丝羊肉汤",
+  "ingredients": [
+    {
+      "name": "粉丝",
+      "mergeKey": "vermicelli",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白菜",
+      "mergeKey": "cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "羊肉片",
+      "mergeKey": "lamb",
+      "category": "肉类"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精或味精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "粉丝用温水泡软待用，白菜洗净切成段备用,"
+    },
+    {
+      "text": "锅中放水及两片生姜烧开后放入泡软的粉丝烧开后加入白菜，再次煮沸后，加入羊肉片，调入盐，鸡精，煮开后调入多一些的白胡椒粉及香油，洒上葱花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11693/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煮",
+    "烤"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

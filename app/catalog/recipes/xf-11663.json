@@ -1,0 +1,66 @@
+{
+  "id": "xf-11663",
+  "title": "粽香蚝油蒸排骨",
+  "ingredients": [
+    {
+      "name": "肋排",
+      "mergeKey": "pork-ribs",
+      "category": "肉类"
+    },
+    {
+      "name": "棕叶",
+      "mergeKey": "zongzi-leaf",
+      "category": "其他"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "肋排洗净沥干水份，用一小勺料酒和一大勺蚝油和少许姜丝拌匀,"
+    },
+    {
+      "text": "再加入少许淀粉拌匀，量以能薄薄的包裹在排骨表面为宜（这里我加了平平的一汤匙）,"
+    },
+    {
+      "text": "充分拌匀后，用棕叶垫底，把排骨铺在棕叶上,"
+    },
+    {
+      "text": "包起来，用牙签固定,"
+    },
+    {
+      "text": "上锅大火蒸20分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11663/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

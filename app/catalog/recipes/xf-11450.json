@@ -1,0 +1,52 @@
+{
+  "id": "xf-11450",
+  "title": "鸡蛋手擀面",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "面粉加少许水搅成碎屑状，打入一个鸡蛋，少许盐揉匀，放置30分钟以上（时间越久，面条越筋道）,"
+    },
+    {
+      "text": "案板洒少许面粉，取1小块面团，压扁后用擀面杖擀成圆形长面片,"
+    },
+    {
+      "text": "将擀好的面片正反面都洒干面粉（防粘），对折，用刀切成细丝，再洒少许面粉抖开（防止粘连）即可,"
+    },
+    {
+      "text": "做好的手擀面不仅可以做成各种口味的汤面，也可以做成拌面凉面哦~"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11450/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

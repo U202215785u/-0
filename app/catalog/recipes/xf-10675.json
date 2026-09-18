@@ -1,0 +1,85 @@
+{
+  "id": "xf-10675",
+  "title": "奶酪小蛋糕",
+  "ingredients": [
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 60,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "奶油奶酪",
+      "mergeKey": "cream-cheese",
+      "amount": 60,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 60,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "flour",
+      "amount": 80,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋",
+      "mergeKey": "egg",
+      "amount": 50,
+      "unit": "克",
+      "category": "蛋类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油室温软化后加入糖搅打至颜色变浅，体积变大,"
+    },
+    {
+      "text": "加入室温软化的奶油奶酪搅打均匀,"
+    },
+    {
+      "text": "分次加入蛋液搅打均匀,"
+    },
+    {
+      "text": "筛入一半的低粉，略微拌一下，然后倒入一半的淡奶油，搅拌均匀,"
+    },
+    {
+      "text": "再筛入剩余一半的低粉，略微拌过之后，倒入剩余一半的淡奶油，搅拌均匀,"
+    },
+    {
+      "text": "装入裱花袋中，挤入纸模8分满，烤箱180度预热，中层烘烤25分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10675/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 220.8,
+    "proteinG": 4.7,
+    "carbsG": 43.6,
+    "fatG": 3.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

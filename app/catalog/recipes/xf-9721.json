@@ -1,0 +1,66 @@
+{
+  "id": "xf-9721",
+  "title": "多芒小丸子",
+  "ingredients": [
+    {
+      "name": "中型芒果",
+      "mergeKey": "mango",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一小包速冻小圆子",
+      "mergeKey": "tangyuan",
+      "category": "米面主食"
+    },
+    {
+      "name": "半量杯白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "半量杯水",
+      "mergeKey": "water",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅里水煮开，把速冻小圆子放进去，用勺子搅拌下防止粘锅，中小火煮至小圆子浮起即可,"
+    },
+    {
+      "text": "把小圆子捞起，放入冷开水中待用,"
+    },
+    {
+      "text": "取半杯白糖和半杯水，放入锅中煮到白糖全部融化,"
+    },
+    {
+      "text": "糖水晾凉备用,"
+    },
+    {
+      "text": "芒果去皮切成丁,"
+    },
+    {
+      "text": "留一部分形状好看的芒果丁备用，另外的芒果丁倒入搅拌机中，把晾凉的糖水一起倒入,"
+    },
+    {
+      "text": "搅拌成芒果泥,"
+    },
+    {
+      "text": "把芒果泥倒出装在容器中，撒上芒果粒，再把煮好的小圆子捞出沥干放在上面即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9721/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "xf-9582",
+  "title": "香嫩肉丁",
+  "ingredients": [
+    {
+      "name": "牛里脊肉",
+      "amount": 300,
+      "unit": "克",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "西兰花",
+      "amount": 0.5,
+      "unit": "棵",
+      "mergeKey": "broccoli",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "amount": 25,
+      "unit": "克",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "泡椒",
+      "amount": 2,
+      "unit": "个",
+      "mergeKey": "pickled-chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生姜",
+      "quantityText": "适量",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "quantityText": "适量",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "quantityText": "适量",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "孜然粉",
+      "mergeKey": "cumin",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒粉",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花生油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "蔬菜洗净，西兰花弄成小朵，与切成小块的绿杆部分一起过沸水焯熟，同时蒜和姜剁碎，泡椒切圈,"
+    },
+    {
+      "text": "冷冻牛肉拿出来冲净，自然化冻至中度变软，切方丁，完全化冻后拌入腌肉料，抓匀，盖上保鲜膜腌上至少半个小时,"
+    },
+    {
+      "text": "炒锅放油，油热之后下腌好的牛肉丁，滑炒至变色紧实，盛出待用,"
+    },
+    {
+      "text": "炒锅放底油，下蒜姜末和泡椒圈炒香，放入炒好的肉丁和西兰花，加入少量热水，大火翻炒，至香至熟，最后撒上盐和鸡精，混合入味，即可装盘食用了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9582/",
+  "author": "线球",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 128.8,
+    "proteinG": 5,
+    "carbsG": 19.8,
+    "fatG": 3.1
+  },
+  "tags": [
+    "炒",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

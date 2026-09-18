@@ -1,0 +1,99 @@
+{
+  "id": "xf-10226",
+  "title": "榨菜头炒肉片",
+  "ingredients": [
+    {
+      "name": "榨菜头",
+      "mergeKey": "zha-cai",
+      "amount": 300,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "里脊肉",
+      "mergeKey": "pork",
+      "amount": 150,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "/2小勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺生粉",
+      "mergeKey": "cornstarch",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "water-starch",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "榨菜头去老皮，洗净切片；里脊肉切片用生粉，一半盐，生抽，胡椒粉拌匀腌制10分钟,"
+    },
+    {
+      "text": "锅内少许油烧热煸香葱姜，下肉片炒熟盛出,"
+    },
+    {
+      "text": "锅再次烧热少许油，下榨菜片炒八成熟,"
+    },
+    {
+      "text": "倒入肉片翻炒均匀，加水淀粉勾芡，出锅前加剩下的炒匀盐即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10226/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 112.5,
+    "proteinG": 5.3,
+    "carbsG": 19.5,
+    "fatG": 2.1
+  },
+  "tags": [
+    "主食",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

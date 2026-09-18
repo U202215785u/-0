@@ -1,0 +1,77 @@
+{
+  "id": "xf-10069",
+  "title": "油面筋塞肉",
+  "ingredients": [
+    {
+      "name": "油面筋",
+      "mergeKey": "gluten-puff",
+      "category": "米面主食"
+    },
+    {
+      "name": "肉馅",
+      "mergeKey": "minced-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱末",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "肉馅里加少许料酒、生抽、糖、鸡精、葱末调匀,"
+    },
+    {
+      "text": "在油面筋里塞上满满的肉馅,"
+    },
+    {
+      "text": "锅中倒入适量的热水（没过油面筋即可），逐一放入塞好肉馅的油面筋,"
+    },
+    {
+      "text": "加料酒、老抽、糖煮沸后，转小火煮10分钟左右，待汤汁浓稠即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10069/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

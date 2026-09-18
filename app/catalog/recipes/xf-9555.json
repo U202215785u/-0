@@ -1,0 +1,155 @@
+{
+  "id": "xf-9555",
+  "title": "俄式红菜汤",
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "mergeKey": "beef",
+      "amount": 250,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "小白菜",
+      "mergeKey": "bok-choy",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "紫菜头",
+      "mergeKey": "beet",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "番茄酱",
+      "mergeKey": "tomato-paste",
+      "amount": 75,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鲜番茄",
+      "mergeKey": "tomato",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 50,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酸奶油",
+      "mergeKey": "sour-cream",
+      "amount": 25,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "迷迭香",
+      "mergeKey": "rosemary",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "精盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛肉洗净切块，胡萝卜、红菜头、洋葱切块"
+    },
+    {
+      "text": "西红柿切块、小白菜洗净切块"
+    },
+    {
+      "text": "牛肉块入冷水锅，置旺火上烧沸，撇尽浮沫。改小火保持微沸状态，直至牛肉熟软"
+    },
+    {
+      "text": "炒锅烧热下黄油，放入洋葱块，一半蒜末煸炒至变色"
+    },
+    {
+      "text": "放入煮熟的牛肉翻炒均匀"
+    },
+    {
+      "text": "加入紫菜头、胡萝卜块加入牛肉汤略煮"
+    },
+    {
+      "text": "下番茄酱、香叶、迷迭香炒透至呈红色时，加入清水250毫升，烧开后改小火焖煮至菜熟"
+    },
+    {
+      "text": "最后加入白糖、盐、胡椒粉调味，最后放入番茄块。小白菜，加入、大蒜末即可最后放酸奶油"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9555/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 485.4,
+    "proteinG": 38.9,
+    "carbsG": 36.2,
+    "fatG": 20.4
+  },
+  "tags": [
+    "汤羹",
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

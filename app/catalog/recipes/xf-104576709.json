@@ -1,0 +1,155 @@
+{
+  "id": "xf-104576709",
+  "title": "糖醋排骨",
+  "ingredients": [
+    {
+      "name": "仔排",
+      "mergeKey": "pork-ribs",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "~20克冰糖①",
+      "mergeKey": "rock-sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(约45克)冰糖②",
+      "mergeKey": "rock-sugar",
+      "amount": 45,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白醋",
+      "mergeKey": "vinegar",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 1,
+      "unit": "粒",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 2,
+      "unit": "小片",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "结小香葱",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "category": "蔬菜"
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "2025年啦，我来更新个简朴的制作视频！"
+    },
+    {
+      "text": "排骨洗净～"
+    },
+    {
+      "text": "锅中倒入冷水，放排骨煮开后捞出，温水洗净沥干备用。"
+    },
+    {
+      "text": "锅内倒入适量的油和冰糖①"
+    },
+    {
+      "text": "中火加热至变成焦糖色，转小火。千万不要炒过头，不然发黑发苦。（换锅子不为啥，就是铁锅操作的时候，忘记拍照片了。过程和做法是一样，展示一下而已。）"
+    },
+    {
+      "text": "倒入排骨快速翻炒上色。（此步骤为炒糖色儿，为了上色更好看。）倒入排骨的时候，可以用锅盖挡一挡，防止油迸到身上。"
+    },
+    {
+      "text": "转中大火，依次倒入料酒，生抽，老抽，冰糖②，白醋 和生姜片翻炒出香气。    \n\n       \n很多人问醋呢？醋在这一步啊！！\n醋在这里！醋在这里！醋在这里啊！！\n\n还看不到吗？醋在这里！\n\n这下应该看到了吧？！醋在这里！！\n\n麻烦仔细看步骤啊！！！"
+    },
+    {
+      "text": "准备好八角香叶 （你要是不想放，那就不放。看个人喜好，真不用太纠结。家里做菜灵活操作嘛(๑°⌓°๑)不用照搬，也没人逼你。）"
+    },
+    {
+      "text": "倒入适量的热水没过排骨，放入八角香叶和香葱结，煮开后转小火焖30分钟。"
+    },
+    {
+      "text": "半小时后，大火收汁。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "收汁完成，色泽美美哒。"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "香喷喷哒。根据个人喜好收汁，有人喜欢干一点的，有人喜欢汤汁多点的。\n\n再尝下咸淡，毕竟品牌不同，生抽啊酱油啊什么的含盐量不一样，淡了就加盐。随意点，不用照搬。\n\n加不加盐，盐，盐，看这里！这里！！\n\n❗再说一遍：每个品牌的生抽、酱油之类的含盐量不同，淡了就加盐！！菜做好前，自己尝尝就知道了。根据自家情况调整！"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "出炉后撒炒熟的白芝麻和葱花点缀。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/104576709/",
+  "author": "是_煩",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 327,
+    "proteinG": 10,
+    "carbsG": 57.7,
+    "fatG": 5.6
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 80,
+  "difficulty": "中等"
+}

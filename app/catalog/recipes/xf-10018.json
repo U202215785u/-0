@@ -1,0 +1,111 @@
+{
+  "id": "xf-10018",
+  "title": "芝士焗番茄肉酱意面",
+  "ingredients": [
+    {
+      "name": "马苏里拉芝士",
+      "mergeKey": "mozzarella",
+      "category": "乳制品"
+    },
+    {
+      "name": "意大利面",
+      "mergeKey": "pasta",
+      "category": "米面主食"
+    },
+    {
+      "name": "番茄",
+      "mergeKey": "tomato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "牛肉末",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "橄榄油",
+      "mergeKey": "olive-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "番茄酱",
+      "mergeKey": "tomato-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "我买的是这种字母和数字的意大利面，颗粒很小的哦。在意面的包装右下角的地方有两个数字，5和7，是表示这种意面需要煮的时间，煮5分钟是口感稍微弹牙有嚼劲；煮7分钟口感稍软点的。根据各人喜好来哈,"
+    },
+    {
+      "text": "锅里水煮开后，放一勺盐，然后把意面倒进去，煮7分钟。煮意面的空档，把番茄用开水烫下去皮切成小丁，洋葱切小丁备用,"
+    },
+    {
+      "text": "意面煮好捞出，沥干水分后，倒点橄榄油拌匀打散，这样意面不会粘连在一起,"
+    },
+    {
+      "text": "锅里放橄榄油，烧热后，把牛肉末煸炒至变色，盛出备用,"
+    },
+    {
+      "text": "用余油煸炒洋葱丁至身软，色透明，盛出备用,"
+    },
+    {
+      "text": "倒入番茄丁，加一小勺白糖煸炒至出沙（加白糖一起煸炒可以让番茄味道更浓厚）,"
+    },
+    {
+      "text": "加一大勺番茄酱进去一起翻炒,"
+    },
+    {
+      "text": "把炒好的牛肉末和洋葱倒入，加盐，黑胡椒粉和鸡精翻炒均匀,"
+    },
+    {
+      "text": "把煮熟的意面倒入和番茄肉酱一起翻匀,"
+    },
+    {
+      "text": "装盘，马苏里拉芝士刨成丝，均匀撒在表面，入预热好的烤箱，200度烤15分钟左右，芝士上色即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10018/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒",
+    "烤",
+    "烧焖"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

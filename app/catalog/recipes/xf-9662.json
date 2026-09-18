@@ -1,0 +1,122 @@
+{
+  "id": "xf-9662",
+  "title": "酸菜白肉",
+  "ingredients": [
+    {
+      "name": "猪五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "酸菜",
+      "mergeKey": "pickled-cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒段",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜蒜",
+      "mergeKey": "ginger-garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将猪五花肉洗净，用刀刮净皮上的脏东西放入葱姜蒜、八角茴香、花椒，凉水下锅,"
+    },
+    {
+      "text": "将五花肉大火煮熟，烹入料酒加盐、胡椒粉调味。大火汤汁才可以奶白,"
+    },
+    {
+      "text": "酸菜洗净用手挤压掉水，切细丝，红椒切细丝,"
+    },
+    {
+      "text": "将五花肉煮熟，用筷子可以轻松穿过，即可捞出放在凉处晾凉，待用,"
+    },
+    {
+      "text": "炒锅烧热，锅中放少许油，煸香，干辣椒段、葱花放入酸菜煸炒，这样可以使酸菜的味道更香,"
+    },
+    {
+      "text": "将炒好的酸菜加上刚才的肉汤一起放入炖锅中，大火炖熟,"
+    },
+    {
+      "text": "将晾凉的五花肉切成片,"
+    },
+    {
+      "text": "放入肉片，加鸡精、胡椒粉调味，大火收汁，出锅前淋少许香油即可。我为了怕凉，专门提前烧好了石锅，倒进去，吃到最后锅还是热热乎乎的"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9662/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "煮",
+    "烤"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

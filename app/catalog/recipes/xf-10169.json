@@ -1,0 +1,91 @@
+{
+  "id": "xf-10169",
+  "title": "腐乳鸡翅",
+  "ingredients": [
+    {
+      "name": "鸡翅",
+      "mergeKey": "chicken-wings",
+      "category": "肉类"
+    },
+    {
+      "name": "葱段",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "腐乳汁",
+      "mergeKey": "fermented-tofu-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "在鸡翅两面各划上两刀，葱段切片、姜切片、辣椒切小段,"
+    },
+    {
+      "text": "将图1中所有材料放入碗中，倒入料酒、蚝油、生抽搅拌均匀,"
+    },
+    {
+      "text": "腌制两小时让其入味,"
+    },
+    {
+      "text": "将腐乳汁中的大点的腐乳块压碎，并加入少许老抽、生抽调成汁,"
+    },
+    {
+      "text": "锅中倒油烧热，将腌好的鸡翅连同葱、姜、辣椒放入锅中煎,"
+    },
+    {
+      "text": "当鸡翅煎到肉发紧，颜色金黄时，将葱、姜、辣椒段捞出,"
+    },
+    {
+      "text": "加入少许冰糖和腐乳汁，和没过鸡翅一半的水，烧开,"
+    },
+    {
+      "text": "烧开后，开中火烧十五钟左右，当汤汁快收干，汁发粘时关火装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10169/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

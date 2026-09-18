@@ -1,0 +1,62 @@
+{
+  "id": "xf-11619",
+  "title": "糖不甩",
+  "ingredients": [
+    {
+      "name": "一小杯糯米粉",
+      "mergeKey": "glutinous-rice-flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "quantityText": "适量",
+      "category": "其他"
+    },
+    {
+      "name": "两勺红糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "熟花生碎末",
+      "mergeKey": "peanut",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "一小杯糯米粉中，一点点加清水，边加边搅，呈雪片状时，用手揉成软硬适中的光滑面团,"
+    },
+    {
+      "text": "把面团搓长，分成小剂子。每个小剂子搓圆成比汤圆略小的糯米圆子,"
+    },
+    {
+      "text": "锅中水煮开，把搓好的糯米圆子放入煮至浮起，捞出备用,"
+    },
+    {
+      "text": "锅中放两勺红糖加少量水煮成稍有稠度的糖汁，把煮熟的糯米圆子放入糖汁中，让每个糯米圆子外表都滚上糖汁,"
+    },
+    {
+      "text": "装盘，浇上用少量水调匀的蜂蜜，再撒上熟花生碎末"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11619/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

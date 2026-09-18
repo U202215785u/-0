@@ -1,0 +1,171 @@
+{
+  "id": "steamed-stuffed-tofu",
+  "title": "蒸酿豆腐",
+  "ingredients": [
+    {
+      "name": "嫩豆腐",
+      "mergeKey": "tofu",
+      "quantityText": "1盒",
+      "category": "豆制品"
+    },
+    {
+      "name": "虾",
+      "mergeKey": "shrimp",
+      "amount": 283,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "鲶鱼柳",
+      "mergeKey": "catfish",
+      "amount": 283,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 60,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 45,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 90,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "鱼露",
+      "mergeKey": "fish-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "虾去壳去虾线，鱼柳擦干，分别拍剁成泥后拌匀。",
+      "ingredientNames": [
+        "虾",
+        "鲶鱼柳"
+      ]
+    },
+    {
+      "text": "鱼虾泥加入食盐、白糖、白胡椒粉、玉米淀粉和清水，充分搅拌至黏稠，冷藏。",
+      "ingredientNames": [
+        "食盐",
+        "白糖",
+        "白胡椒粉",
+        "玉米淀粉",
+        "清水"
+      ]
+    },
+    {
+      "text": "嫩豆腐倒掉包装水，切成十块，擦干；表面撒少量玉米淀粉，葱切末。",
+      "ingredientNames": [
+        "嫩豆腐",
+        "玉米淀粉",
+        "葱"
+      ]
+    },
+    {
+      "text": "每块豆腐放约一汤匙鱼虾馅，表面抹食用油；鱼露、蚝油、白糖、清水和玉米淀粉调成酱汁。",
+      "ingredientNames": [
+        "嫩豆腐",
+        "虾",
+        "鲶鱼柳",
+        "食用油",
+        "鱼露",
+        "蚝油",
+        "白糖",
+        "清水",
+        "玉米淀粉"
+      ]
+    },
+    {
+      "text": "水沸后放入蒸盘，盖盖蒸8至10分钟至馅心凝固，撒葱。",
+      "ingredientNames": [
+        "嫩豆腐",
+        "葱"
+      ]
+    },
+    {
+      "text": "清锅后倒入酱汁，加少量食用油煮沸并调至顺滑，浇在蒸酿豆腐上。",
+      "ingredientNames": [
+        "鱼露",
+        "蚝油",
+        "白糖",
+        "清水",
+        "玉米淀粉",
+        "食用油"
+      ]
+    }
+  ],
+  "baseServings": 4,
+  "sourceUrl": "https://www.madewithlau.com/recipes/steamed-stuffed-tofu",
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、准备30分钟、烹调15分钟、总时长45分钟、7步方法、鱼虾泥调制、豆腐切块、8至10分钟蒸制和酱汁收尾。",
+  "nutrition": {
+    "kcal": 209.5,
+    "proteinG": 35.2,
+    "carbsG": 5.5,
+    "fatG": 5.6
+  },
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "xf-107085389",
+  "title": "蒜薹炒肉",
+  "ingredients": [
+    {
+      "name": "蒜苔",
+      "mergeKey": "garlic-scape",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "腌制肉🥩",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 150,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "勺蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "半勺老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺花雕",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "半勺五香粉",
+      "mergeKey": "five-spice",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "蒜薹撒1克盐抓拌腌制10分钟"
+    },
+    {
+      "text": "腌制肉:\n1勺花雕+1勺生抽+1勺蚝油+半勺老抽+半勺五香粉\n肉抓拌均匀腌制10分钟"
+    },
+    {
+      "text": "姜蒜小米辣备好"
+    },
+    {
+      "text": "肉大火快速翻炒至断生"
+    },
+    {
+      "text": "放姜、蒜、小米辣翻炒"
+    },
+    {
+      "text": "放蒜薹大火翻炒1分钟多"
+    },
+    {
+      "text": "+1勺生抽+1勺蚝油+1大勺水+少量鸡精\n快速翻炒收汁"
+    },
+    {
+      "text": "美味可口 鲜香下饭"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107085389/",
+  "author": "爱吃螺蛳粉的榴莲",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 423.5,
+    "proteinG": 9,
+    "carbsG": 7,
+    "fatG": 40.2
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

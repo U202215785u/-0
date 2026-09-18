@@ -1,0 +1,84 @@
+{
+  "id": "xf-106993893",
+  "title": "蚂蚁上树——肉沫粉条",
+  "ingredients": [
+    {
+      "name": "约小拳头大肉沫",
+      "mergeKey": "ground-pork",
+      "amount": 150,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "约你的手腕粗红薯粉条",
+      "mergeKey": "vermicelli",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "能吃辣建议换线椒和小米辣青红椒/适量",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "勺豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "各半勺老抽/蚝油",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "各小半勺盐/鸡精",
+      "category": "调味料",
+      "pantry": true,
+      "mergeKey": "chicken-powder"
+    },
+    {
+      "name": "-5个切末蒜",
+      "mergeKey": "garlic",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "红薯粉条提前半天冷水泡软，或者温水泡15-20分钟。\n\n青红椒切丁，能吃辣就换线椒和小米辣切圈。\n\n准备肉馅，蒜切末。"
+    },
+    {
+      "text": "锅中热油下入肉沫炒散，随后加入蒜末和两勺豆瓣酱炒香，加入一大碗清水；"
+    },
+    {
+      "text": "先调味，放一勺生抽、老抽耗油各半勺，调匀后加入泡软的粉丝"
+    },
+    {
+      "text": "转小火焖3-5分钟，至粉条变得透明无硬芯；\n\n调入少许盐、鸡精，撒入辣椒粒，转大火收汁即可；"
+    },
+    {
+      "text": "最后一个盐的步骤，如果口味较淡可先尝一下，根据自己口味决定加不加盐。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/106993893/",
+  "author": "吃饱再减肥啊77",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

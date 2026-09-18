@@ -1,0 +1,126 @@
+{
+  "id": "xf-11214",
+  "title": "奶油芒果可丽饼",
+  "ingredients": [
+    {
+      "name": "15毫升鲜奶油",
+      "mergeKey": "cream",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 300,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 125,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "芒果",
+      "mergeKey": "mango",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/4茶匙1克盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 30,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "5毫升朗姆酒",
+      "mergeKey": "rum",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙1毫升香草精",
+      "mergeKey": "vanilla-extract",
+      "amount": 1,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "可丽饼面糊的做法,"
+    },
+    {
+      "text": "将盐，牛奶放入大碗中搅拌均匀，筛入低筋面粉翻拌均匀，倒入鸡蛋液,"
+    },
+    {
+      "text": "将黄油隔热水溶化，或者放入微波炉中加热10秒钟，稍微冷却后加入面糊中均匀,"
+    },
+    {
+      "text": "然后加入朗姆酒，接着加入鲜奶油，最后加入香草精搅拌均匀，将面糊过滤一遍，使其更顺滑,"
+    },
+    {
+      "text": "奶油芒果馅的做法,"
+    },
+    {
+      "text": "将鲜奶油倒入容器中，用电动打蛋器搅打至膨发,"
+    },
+    {
+      "text": "芒果去皮切成1厘米见方的小块备用，放入打发的奶油中搅匀即可,"
+    },
+    {
+      "text": "奶油芒果可丽饼的做法,"
+    },
+    {
+      "text": "在不粘锅上薄薄的涂一层黄油，加热至手距离锅15厘米左右能明显感觉到热度，然后将锅暂时离开火，舀入适,"
+    },
+    {
+      "text": "量面糊，双面烙成金黄色即可,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将可丽饼平摊，放入奶油芒果馅儿，然后将可丽饼的口像捏烧卖一样捏紧即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11214/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 297.8,
+    "proteinG": 14.6,
+    "carbsG": 38.4,
+    "fatG": 9.4
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

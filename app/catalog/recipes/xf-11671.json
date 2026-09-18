@@ -1,0 +1,110 @@
+{
+  "id": "xf-11671",
+  "title": "肉松海苔蛋糕卷",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 40,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "融化黄油",
+      "mergeKey": "butter",
+      "amount": 40,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "肉松",
+      "mergeKey": "pork-floss",
+      "amount": 80,
+      "unit": "克",
+      "category": "肉类",
+      "pantry": true
+    },
+    {
+      "name": "海苔",
+      "mergeKey": "nori",
+      "amount": 2,
+      "unit": "片",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 5,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋白",
+      "mergeKey": "egg-white",
+      "amount": 4,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "大3勺蛋黄酱",
+      "mergeKey": "mayonnaise",
+      "amount": 45,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将蛋黄中加入20克的细砂糖，用打蛋器打至粘稠，发白，体积略膨胀的程度,"
+    },
+    {
+      "text": "然后将50克的细砂糖分3次加入蛋白中，打到用打蛋器捞起蛋白时，蛋白能够缓缓的滴落在盆中，盆中形成的纹路清晰不回落,"
+    },
+    {
+      "text": "把打好的蛋黄糊倒入蛋白糊中，用手动打蛋器搅拌均匀，然后将低筋面粉筛入，用橡皮刮刀从下往上翻拌均匀,"
+    },
+    {
+      "text": "将隔水融化的黄油倒在橡皮刮刀上，快速的和面糊翻拌均匀,"
+    },
+    {
+      "text": "面糊拌好后，倒入铺有不沾布或烘焙纸的烤盘中。放入预热好的200度烤箱，烤约10-12分钟，至表面金黄有弹性即可出炉,"
+    },
+    {
+      "text": "出炉后稍放凉一会，然后从烤盘中取出，倒扣过来，撕去不沾布,"
+    },
+    {
+      "text": "待蛋糕片恢复至常温时，在蛋糕片背面涂抹上一层蛋黄酱，均匀地撒上肉松和海苔,"
+    },
+    {
+      "text": "将蛋糕片卷起，用烘焙纸包住定型，边卷边轻轻挤压蛋糕体，卷好后放入冰箱冷藏20分钟后切块"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11671/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 172.4,
+    "proteinG": 2.7,
+    "carbsG": 37.6,
+    "fatG": 1.5
+  },
+  "tags": [
+    "炸",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "xf-10021",
+  "title": "枫浆苹果肉桂松饼",
+  "ingredients": [
+    {
+      "name": "青苹果",
+      "amount": 2,
+      "unit": "个",
+      "mergeKey": "apple",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄油",
+      "amount": 50,
+      "unit": "克",
+      "mergeKey": "butter",
+      "category": "乳制品"
+    },
+    {
+      "name": "低筋面粉",
+      "amount": 100,
+      "unit": "克",
+      "mergeKey": "flour",
+      "category": "米面主食"
+    },
+    {
+      "name": "肉桂粉",
+      "amount": 2.5,
+      "unit": "克",
+      "mergeKey": "cinnamon",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "幼砂糖",
+      "amount": 40,
+      "unit": "克",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "泡打粉",
+      "amount": 7.5,
+      "unit": "克",
+      "mergeKey": "baking-powder",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "quantityText": "少许",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白兰地",
+      "amount": 5,
+      "unit": "毫升",
+      "mergeKey": "brandy",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将黄油融化，倒入幼砂糖搅拌均匀，在室温中待冷却,"
+    },
+    {
+      "text": "将其中1苹果切薄片，进入糖水中略腌制；另一个苹果切碎加入糖、白兰地和肉桂粉拌匀,"
+    },
+    {
+      "text": "另取锅将全蛋打散,"
+    },
+    {
+      "text": "面粉过筛，与泡打粉一起加入鸡蛋中拌匀，再加入步骤1和2拌匀成面糊,"
+    },
+    {
+      "text": "将步骤4全部倒入模具中在，把苹果片均匀铺装在面糊表面,"
+    },
+    {
+      "text": "将搅拌好的面粉糊，用180度烤15分钟后（如果是杯型的模具须20分钟左右），用牙签插入蛋糕内，测试熟度,"
+    },
+    {
+      "text": "取出放在烤架上放凉，即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10021/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 243.9,
+    "proteinG": 9.7,
+    "carbsG": 37.9,
+    "fatG": 6.4
+  },
+  "tags": [
+    "主食",
+    "烤"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

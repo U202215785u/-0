@@ -1,0 +1,184 @@
+{
+  "id": "xf-10239",
+  "title": "自制麻辣牛肉干",
+  "ingredients": [
+    {
+      "name": "新鲜牛肉腿肉",
+      "mergeKey": "beef",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 5,
+      "unit": "片",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 4,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel-seed",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 4,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙细盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙白芝麻",
+      "mergeKey": "sesame",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "又1/2大匙特细辣椒粉",
+      "mergeKey": "chili-powder",
+      "amount": 22.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙花椒粉",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙五香粉",
+      "mergeKey": "five-spice-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "又1/2小匙细砂糖",
+      "mergeKey": "sugar",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将卤水材料加入清水1300毫升，大火煮开后转小火煮20分钟,"
+    },
+    {
+      "text": "将牛肉顺纹理切成1厘米厚度大片,"
+    },
+    {
+      "text": "锅内烧开水，放入牛肉片煮至起泡，捞起冲净，沥干水份,"
+    },
+    {
+      "text": "将氽烫过的牛肉片放入卤肉锅内，大火煮开后，加盖小火煮约60分钟,"
+    },
+    {
+      "text": "至水份差不多收干，用筷子大力可以插入肉块中,"
+    },
+    {
+      "text": "捞起肉块，切成5厘米长条状,"
+    },
+    {
+      "text": "锅子烧热，放入白芝麻，小火炒至表面微黄,"
+    },
+    {
+      "text": "加入辣椒粉，花椒粉，五香粉小火炒出香味，盛出备用,"
+    },
+    {
+      "text": "将生抽，砂糖，鸡精在碗内混合均匀,"
+    },
+    {
+      "text": "锅内放2大匙，加入牛肉片小火炒至表面微干,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "倒出里面的油，加入调好的酱汁，继续炒至水份干燥,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入炒好的白芝麻，辣椒粉，花椒粉混合均匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10239/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 631,
+    "proteinG": 65.2,
+    "carbsG": 0.9,
+    "fatG": 37.7
+  },
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

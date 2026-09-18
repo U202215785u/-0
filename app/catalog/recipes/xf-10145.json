@@ -1,0 +1,63 @@
+{
+  "id": "xf-10145",
+  "title": "腰花木耳番茄汤",
+  "ingredients": [
+    {
+      "name": "腰花",
+      "mergeKey": "pork-kidney",
+      "category": "肉类"
+    },
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "番茄",
+      "mergeKey": "tomato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "腰花买一破二，把中间白色的地方去掉，外面的一层膜去掉。用花刀切好，用盐腌制一下,"
+    },
+    {
+      "text": "木耳发好，番茄切片,"
+    },
+    {
+      "text": "把腰花焯水去味,"
+    },
+    {
+      "text": "起油锅把木耳番茄炒一下加鸡汤烧开后，小火炖10分钟，放腰花后炖5分钟，打一个鸡蛋进去就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10145/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

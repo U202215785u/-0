@@ -1,0 +1,126 @@
+{
+  "id": "xf-11294",
+  "title": "胡萝卜羊肉包子",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 1000,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "（中等大小）胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "羊肉",
+      "mergeKey": "lamb",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "温水",
+      "mergeKey": "water",
+      "amount": 500,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "5克盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "皮和馅料的配比基本均衡，揉面中如需加入南瓜泥或紫薯泥之类，要减少水的用量，并分次酌量添加,"
+    },
+    {
+      "text": "胡萝卜、羊肉、大葱和姜,"
+    },
+    {
+      "text": "剁好的羊肉馅，加入姜末和葱花、花椒粉、鸡精、米酒、生抽、盐拌匀,"
+    },
+    {
+      "text": "把一小把花椒，泡入约250克热开水，放凉。捞出花椒不用，把水分次加入肉馅中，向一个方向搅打均匀，做成水打馅。放冰箱冷藏1小时。（如果馅料里的蔬菜比较干，水可再适量增加。这里胡萝卜水份比较大，所以肉馅里没有加更多的水,"
+    },
+    {
+      "text": "胡萝卜用擦板擦成短丝,"
+    },
+    {
+      "text": "稍切，不用太小,"
+    },
+    {
+      "text": "取出冷藏后的肉馅，加入色拉油适量，倒入胡萝卜，拌匀。（油最好待馅料拌入花椒水之后再加入，否则油会包裹住肉馅，影响水份吸收。若想加入蛋清也一样,"
+    },
+    {
+      "text": "把面粉、盐、糖、酵母、温水放在一起，揉成光滑面团，盖上保鲜膜松弛30分钟。（低筋粉不易揉光滑，但做成包子很松软。高筋粉面团比较光滑，但成品有韧性，不够松软。图上白面团用的低粉，黄面团用的南瓜泥和高粉,"
+    },
+    {
+      "text": "面团揪成剂子，擀成皮，包成包子,"
+    },
+    {
+      "text": "包子排在涂了油的蒸帘上，放在装有温水的蒸锅内，盖上盖子发酵至约两倍大,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "大火蒸15分钟，关火后虚蒸5分钟，出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11294/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 841.6,
+    "proteinG": 27.7,
+    "carbsG": 168.4,
+    "fatG": 8.7
+  },
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

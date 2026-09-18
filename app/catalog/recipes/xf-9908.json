@@ -1,0 +1,134 @@
+{
+  "id": "xf-9908",
+  "title": "干锅茶树菇",
+  "ingredients": [
+    {
+      "name": "鲜茶树菇",
+      "mergeKey": "chashugu",
+      "amount": 250,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 50,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 6,
+      "unit": "根",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 15,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "15克郫县豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3毫升老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 3,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克糖",
+      "mergeKey": "sugar",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升水淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙毫升香油",
+      "mergeKey": "sesame-oil",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鲜的茶树菇放入淡盐水中浸泡10分钟后，用清水洗净后沥干，切成6㎝长的段。葱，姜，蒜切成薄片备用,"
+    },
+    {
+      "text": "把五花肉切成4厘米长，3毫米厚的薄片。郫县豆瓣酱用刀剁得细碎一些。再把干辣椒掰成2半，里面的辣椒籽不要扔,"
+    },
+    {
+      "text": "锅中倒入清水大火加热，水开后放入茶树菇，当水再次烧开时，将茶树菇捞出，沥干水分,"
+    },
+    {
+      "text": "锅中倒入油，小火加热，放入剁碎的郫县豆瓣酱，炒出香味后改成中火，放入五花肉片，葱姜蒜片，煸炒至肉的颜色变白后，再依次放入干辣椒，花椒，茶树菇，继续煸炒5分钟后，放盐，老抽，糖，翻炒均匀，最后淋入水淀粉，倒入香油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9908/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 343.1,
+    "proteinG": 12.5,
+    "carbsG": 37.3,
+    "fatG": 17
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "xf-11479",
+  "title": "韭菜银芽炒鳝丝",
+  "ingredients": [
+    {
+      "name": "中等黄鳝",
+      "mergeKey": "eel",
+      "amount": 1,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "绿豆芽",
+      "mergeKey": "bean-sprout",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "韭菜",
+      "mergeKey": "chives",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "湿淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "太太乐鲜贝露酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有材料清洗干净，胡萝卜切丝，韭菜切段，绿豆芽挑去头尾清洗干净，黄鳝买时要店家宰杀去骨，回来后，用热水烫一下去除表面粘液，切成丝，加入料酒，白胡椒粉，盐，鸡精，湿淀粉抓匀腌制10分钟以上,"
+    },
+    {
+      "text": "锅里入油烧热，放入腌过的鳝丝滑炒片刻，盛出备用；锅里留底油依次炒胡萝卜丝，接着倒入滑好的鳝丝，炒至8成熟时倒入韭菜绿豆芽翻炒，调入盐，料酒，鲜贝露酱油，少许糖，鸡精翻炒均匀即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11479/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

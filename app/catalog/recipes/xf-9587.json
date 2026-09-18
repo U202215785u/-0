@@ -1,0 +1,67 @@
+{
+  "id": "xf-9587",
+  "title": "番茄鲜藕橙杯",
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "mergeKey": "tomato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "藕",
+      "mergeKey": "lotus-root",
+      "category": "蔬菜"
+    },
+    {
+      "name": "橙子",
+      "mergeKey": "orange",
+      "category": "其他"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大杏仁",
+      "mergeKey": "almond",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "西红柿用小刀开盖，挖出里面的果肉，变成西红柿碗,"
+    },
+    {
+      "text": "将藕去皮切小丁，泡在淡盐水中（藕直接裸露在空气中容易变黑，泡在淡盐水中会保持雪白）取出在开水里烫熟捞出,"
+    },
+    {
+      "text": "橙子切成小粒，另一半橙子做鲜榨橙汁,"
+    },
+    {
+      "text": "将橙子丁、藕丁加蜂蜜拌匀。将拌好的水果粒放入西红柿盅内，倒上鲜橙汁撒上黑芝麻，挤上蛋黄酱，黄瓜切成薄片垫底即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9587/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "xf-11166",
+  "title": "咖喱鸡饭",
+  "ingredients": [
+    {
+      "name": "咖喱粉",
+      "mergeKey": "curry-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡翅根",
+      "mergeKey": "chicken-wing",
+      "category": "肉类"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡翅根洗净，沥干水分备用,"
+    },
+    {
+      "text": "土豆和胡萝卜切滚刀块，洋葱切片备用,"
+    },
+    {
+      "text": "热锅冷油，油热后下入洋葱炒香,"
+    },
+    {
+      "text": "炒至洋葱变至透明状，下入鸡翅根大火翻炒,"
+    },
+    {
+      "text": "炒至鸡翅根水分收干，表面微黄，下入土豆和胡萝卜大火翻炒,"
+    },
+    {
+      "text": "添加没过食材的热水，大火煮开转中火炖煮,"
+    },
+    {
+      "text": "锅内食材煮透时，添加适量盐继续炖煮5分钟,"
+    },
+    {
+      "text": "将咖喱粉用少量冷水拌匀（咖喱粉的用量可根据自己的口味），然后倒入锅中搅匀,"
+    },
+    {
+      "text": "继续小火炖煮5分钟，一边煮一边搅拌,"
+    },
+    {
+      "text": "至锅内汤汁浓稠，即可出锅，拌米饭食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11166/",
+  "author": "灯芯绒",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

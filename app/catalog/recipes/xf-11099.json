@@ -1,0 +1,94 @@
+{
+  "id": "xf-11099",
+  "title": "脆底金枪鱼披萨",
+  "ingredients": [
+    {
+      "name": "马苏里拉芝士",
+      "mergeKey": "mozzarella",
+      "category": "乳制品"
+    },
+    {
+      "name": "高粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "金枪鱼",
+      "mergeKey": "tuna",
+      "category": "水产"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 2,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小勺橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "番茄酱",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑橄榄",
+      "mergeKey": "olive",
+      "category": "蔬菜",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将高粉、水、酵母、盐、橄榄油混合均匀，揉成光滑的面团。室温醒发40分钟,"
+    },
+    {
+      "text": "醒发后的面团排气后，分割成2等分。中间发酵15分钟后，擀成圆形的薄片状,"
+    },
+    {
+      "text": "披萨盘低刷上一层厚厚的橄榄油，将饼底铺入披萨盘，在饼的一圈也刷上橄榄油，用叉子在饼的表面叉些小孔,"
+    },
+    {
+      "text": "刷上番茄酱，铺入金枪鱼和黑橄榄,"
+    },
+    {
+      "text": "烤箱185度预热，中下层烘烤15分钟后，取出披萨撒上马苏里拉芝士，再次放入烤箱的上层，烘烤5分钟，待马苏里拉芝士全部融化即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11099/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

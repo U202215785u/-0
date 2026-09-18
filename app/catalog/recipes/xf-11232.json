@@ -1,0 +1,106 @@
+{
+  "id": "xf-11232",
+  "title": "辣皮丝炒榄菜",
+  "ingredients": [
+    {
+      "name": "豆腐皮",
+      "mergeKey": "tofu-skin",
+      "amount": 2,
+      "unit": "张",
+      "category": "豆制品"
+    },
+    {
+      "name": "橄榄菜",
+      "mergeKey": "olive-vegetable",
+      "amount": 45,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红尖椒",
+      "mergeKey": "red-chili",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一小把青豆",
+      "mergeKey": "green-peas",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-pepper",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "材料：豆腐皮两张，红尖椒一个，姜一小块，青豆一小把，瓶装橄榄菜,"
+    },
+    {
+      "text": "豆腐皮、红尖椒、姜切细丝。我这初级改刀水平，再配上我家那把超级后起之锈，操作起来真有点难度,"
+    },
+    {
+      "text": "把青豆粒和豆腐皮丝入开水焯一下，焯至水再沸腾即可,"
+    },
+    {
+      "text": "热锅凉油，小火爆香姜丝,"
+    },
+    {
+      "text": "切红尖椒的时候，发现很辣，所以没有再放干辣椒,"
+    },
+    {
+      "text": "加入三汤匙橄榄菜同炒一会,"
+    },
+    {
+      "text": "再加入豆腐皮丝炒一下，同时调入盐和花椒粉,"
+    },
+    {
+      "text": "因为橄榄菜是咸的，盐量不要加多了哦,"
+    },
+    {
+      "text": "加入青豆和红椒丝，炒至椒丝断生，调入鸡精，出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11232/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

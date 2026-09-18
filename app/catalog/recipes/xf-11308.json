@@ -1,0 +1,147 @@
+{
+  "id": "xf-11308",
+  "title": "香辣锅蹋豆腐",
+  "ingredients": [
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "大块",
+      "category": "豆制品"
+    },
+    {
+      "name": "猪肉馅",
+      "mergeKey": "pork",
+      "amount": 70,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "新鲜香菇",
+      "mergeKey": "shiitake",
+      "amount": 100,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "干红辣椒",
+      "mergeKey": "dried-chili",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "豆腐切一厘米厚片。鸡蛋加盐打散。姜、蒜切末。红椒切段。葱切花。香菇切厚片,"
+    },
+    {
+      "text": "把豆腐块在玉米淀粉里滚一下，使均匀沾上干粉,"
+    },
+    {
+      "text": "再把裹好干粉的豆腐放蛋液里沾一下,"
+    },
+    {
+      "text": "放入锅中，小火煎至两面金黄取出待用,"
+    },
+    {
+      "text": "热锅凉油，小火爆香干椒段，姜、蒜末,"
+    },
+    {
+      "text": "倒入猪肉馅炒散，至变色,"
+    },
+    {
+      "text": "倒入香菇片，炒软,"
+    },
+    {
+      "text": "倒入煎好的豆腐块，轻手略炒,"
+    },
+    {
+      "text": "加入一小碗高汤或水，加入生抽、蚝油和盐适量，白糖一小勺，烧开改小火略煮,"
+    },
+    {
+      "text": "煮至汤汁快收干时，调入鸡精，再以少量水淀粉勾芡，撒上葱花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11308/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 109.9,
+    "proteinG": 12.4,
+    "carbsG": 4.7,
+    "fatG": 5
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

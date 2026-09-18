@@ -1,0 +1,83 @@
+{
+  "id": "xf-10291",
+  "title": "秘制肥叉烧",
+  "ingredients": [
+    {
+      "name": "五花肥腩",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "叉烧酱",
+      "mergeKey": "char-siu-sauce",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "海鲜酱",
+      "mergeKey": "hoisin-sauce",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜蓉",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 1,
+      "unit": "大块",
+      "category": "蔬菜"
+    },
+    {
+      "name": "、4只指天椒",
+      "mergeKey": "chili",
+      "amount": 3,
+      "unit": "只",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "带皮五花肉买回来后，洗净，把猪毛刮干净，加入除蜂蜜外的所有配料，拌匀后放入冰箱冷藏腌制一个晚上,"
+    },
+    {
+      "text": "取出放在铺有锡纸的烤盘上，刷上蜂蜜，倒入腌制的酱汁，然后用锡纸把五花肉包起来，放入预热200度的烤箱，开热风循环烤30分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10291/",
+  "author": "老鱼家的戏",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

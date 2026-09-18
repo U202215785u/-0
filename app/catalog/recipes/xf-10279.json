@@ -1,0 +1,119 @@
+{
+  "id": "xf-10279",
+  "title": "凉拌桂林米粉",
+  "ingredients": [
+    {
+      "name": "油炸花生米",
+      "mergeKey": "peanut",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鲜榨桂林米粉",
+      "mergeKey": "rice-noodle",
+      "amount": 1,
+      "unit": "碗",
+      "category": "米面主食"
+    },
+    {
+      "name": "瘦叉烧",
+      "mergeKey": "char-siu",
+      "amount": 100,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "酸豆角",
+      "mergeKey": "pickled-bean",
+      "amount": 2,
+      "unit": "条",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2大匙卤肉的卤水汁",
+      "mergeKey": "braising-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2大匙油辣椒",
+      "mergeKey": "chili-oil",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鲜榨桂林米粉洗净，沥干水份备用,"
+    },
+    {
+      "text": "准备好，油辣椒，瘦叉烧切片，油炸花生米，香葱，香菜切碎备用,"
+    },
+    {
+      "text": "锅内烧开水，放入桂林米粉煮至熟。（干拌粉就可以直接放配料吃了）,"
+    },
+    {
+      "text": "捞起煮好的米粉，放入冰水中浸泡二十分钟。取出沥干水份，放入大碗内，调入卤汁，盐，香醋，香麻油，鸡精，再摆上油辣椒，瘦叉烧切片，油炸花生米，香葱，香菜即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10279/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 395,
+    "proteinG": 28,
+    "carbsG": 24.5,
+    "fatG": 20.4
+  },
+  "tags": [
+    "凉拌",
+    "蒸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

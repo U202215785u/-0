@@ -1,0 +1,140 @@
+{
+  "id": "xf-10268",
+  "title": "茴香苗小菜饼",
+  "ingredients": [
+    {
+      "name": "茴香苗",
+      "mergeKey": "fennel",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "普通面粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 3,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "category": "其他"
+    },
+    {
+      "name": "虾皮",
+      "mergeKey": "dried-shrimp",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "amount": 60,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花生油",
+      "mergeKey": "cooking-oil",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 7,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "盆里倒面粉，加一点点盐，慢慢加入清水和成光滑的面团，用拧干的湿沙布或保鲜膜盖好饧30分钟,"
+    },
+    {
+      "text": "茴香苗洗净控干水分，姜剁成细末、木耳剁碎、虾皮洗一下攥出水、鸡蛋洗一下,"
+    },
+    {
+      "text": "锅里倒入25克花生油，鸡蛋打匀，慢慢倒入5成热的油中（随倒随用铲子不停地搅拌），不要炒老，最好炒成絮状，不要再用刀剁,"
+    },
+    {
+      "text": "茴香苗切的细碎一点，为了锁住茴香里的水分，要先用15克香油搅拌均匀，再放其他配料,"
+    },
+    {
+      "text": "依次放入，虾皮、炒好放凉的鸡蛋、木耳、姜末、盐等配料拌匀,"
+    },
+    {
+      "text": "在准备包的时候，为中和一下馅的干湿度，再放入另一鸡蛋拌匀，美味可口的素馅就完成了,"
+    },
+    {
+      "text": "把面团揉成长条状，切成均匀的10克一个的剂子,"
+    },
+    {
+      "text": "擀成厚薄均匀的面皮,"
+    },
+    {
+      "text": "把馅均匀地摊在面皮上,"
+    },
+    {
+      "text": "饼的边缘按的小一点，再掐上小花边,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "大小一定要均匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "放电饼铛烙熟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10268/",
+  "author": "咕咚姥姥",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 556.8,
+    "proteinG": 22.2,
+    "carbsG": 45.3,
+    "fatG": 32.3
+  },
+  "tags": [
+    "主食",
+    "烧焖"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

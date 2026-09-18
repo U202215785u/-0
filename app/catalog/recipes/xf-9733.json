@@ -1,0 +1,76 @@
+{
+  "id": "xf-9733",
+  "title": "折耳菜炒肉片",
+  "ingredients": [
+    {
+      "name": "折耳菜",
+      "mergeKey": "fish-mint",
+      "category": "蔬菜"
+    },
+    {
+      "name": "猪里脊肉",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "里脊肉洗净，顺丝切成肉片，用一小勺生粉和一小勺蚝油拌匀腌制至少十五分钟,"
+    },
+    {
+      "text": "折耳菜洗净，摘去老根，折成小段,"
+    },
+    {
+      "text": "腌制好的肉片里加点色拉油拌匀（可以防止肉片炒制时粘连）,"
+    },
+    {
+      "text": "锅烧热，放油，油热后放腌制好的肉片滑炒至肉片变色马上盛出备用,"
+    },
+    {
+      "text": "用炒肉片的余油煸炒折耳菜，一两分钟即可,"
+    },
+    {
+      "text": "倒入刚才事先炒好的肉片一起翻炒几下，加一点盐和鸡精调好味即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9733/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

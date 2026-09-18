@@ -1,0 +1,113 @@
+{
+  "id": "xf-11106",
+  "title": "梨汁烤牛肉",
+  "ingredients": [
+    {
+      "name": "牛里脊",
+      "mergeKey": "beef",
+      "amount": 300,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "75毫升鲜梨汁",
+      "mergeKey": "pear-juice",
+      "amount": 75,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "10克大葱末",
+      "mergeKey": "scallion",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "5克大蒜末",
+      "mergeKey": "garlic",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "5克姜末",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "45毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15克白糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升蜂蜜",
+      "mergeKey": "honey",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "10毫升香油",
+      "mergeKey": "sesame-oil",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将梨去皮，榨汁备用。把生抽，白糖，蜂蜜，葱姜蒜末，盐，香油放入碗中，拌匀。最后加入鲜梨汁搅拌，这是腌肉用的酱汁,"
+    },
+    {
+      "text": "把牛里脊切成约"
+    },
+    {
+      "text": "5厘米厚的片，放入腌肉酱汁的碗中，放冰箱冷藏1个小时，使牛肉能更加入味,"
+    },
+    {
+      "text": "烤盘上铺上锡纸，然后将肉一片一片的均匀码放在烤盘上，然后倒入少许剩余酱汁，放入预热好的烤箱中，用200度的温度烤约8分钟，拿出翻面一次,"
+    },
+    {
+      "text": "也可以把肉从烤盘中移到烤架上翻面，再烤2分钟，使肉变得微干一些"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11106/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 251.1,
+    "proteinG": 8,
+    "carbsG": 35,
+    "fatG": 8.6
+  },
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

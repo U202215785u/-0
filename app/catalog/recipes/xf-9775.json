@@ -1,0 +1,92 @@
+{
+  "id": "xf-9775",
+  "title": "东北酱骨架",
+  "ingredients": [
+    {
+      "name": "骨头",
+      "mergeKey": "pork-bone",
+      "category": "肉类"
+    },
+    {
+      "name": "黄豆酱",
+      "mergeKey": "soybean-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "茴香",
+      "mergeKey": "fennel",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将骨头洗净放在清水里浸2个小时以上，中途换几次水，泡出血水,"
+    },
+    {
+      "text": "泡好的骨头放入冷水中，大火煮开后略滚一会，捞出洗净备用,"
+    },
+    {
+      "text": "另烧一锅水，待水开后放入焯过水的骨头，一同加入料酒、生抽、老抽、白糖、黄豆酱、八角、桂皮、香叶、茴香、干辣椒等调料，大火煮开后转小火炖1个钟头后，转中火或大火再继续煮半个小时收汁"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9775/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

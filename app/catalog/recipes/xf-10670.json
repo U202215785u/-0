@@ -1,0 +1,62 @@
+{
+  "id": "xf-10670",
+  "title": "糖醋藕片",
+  "ingredients": [
+    {
+      "name": "莲藕",
+      "mergeKey": "lotus-root",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白砂糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "藕洗净刮去皮，切薄片，迅速放入滴了几滴白醋的清水中，浸泡一会儿，防止发黑,"
+    },
+    {
+      "text": "把藕片放入沸水中汆水,"
+    },
+    {
+      "text": "迅速捞出，冲凉后浸泡在凉开水中,"
+    },
+    {
+      "text": "把藕片捞出沥干水分，放大碗中，加2大勺白砂糖,"
+    },
+    {
+      "text": "大勺香醋、少许鸡精拌匀后淋上香麻油装盘即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10670/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

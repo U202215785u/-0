@@ -1,0 +1,60 @@
+{
+  "id": "xf-102123358",
+  "title": "松鼠桂鱼",
+  "sourceUrl": "https://m.xiachufang.com/recipe/102123358/",
+  "author": "失控゛",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "ingredients": [
+    {
+      "name": "用的普通鲤鱼，主要是练手！，",
+      "mergeKey": "carp",
+      "category": "水产"
+    },
+    {
+      "name": "白糖，白醋，番茄酱，",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白芝麻，",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把鱼肉片出两片！"
+    },
+    {
+      "text": "45度角斜45度角切第一步，不要把鱼皮切断了噢！"
+    },
+    {
+      "text": "平行竖切第二步！"
+    },
+    {
+      "text": "切好放水里洗一下！"
+    },
+    {
+      "text": "鱼肉洗过自然分开！"
+    },
+    {
+      "text": "把面粉和鱼放塑料袋中。摇晃几下，面粉就比较均匀！"
+    },
+    {
+      "text": "鱼肉油炸两遍！这样酥脆，炸的时候鱼皮在上炸，"
+    },
+    {
+      "text": "熬汤汁，放糖两大勺，白醋一大勺，番茄酱三大勺，加水两勺。熬煮起泡时起锅！"
+    },
+    {
+      "text": "把汤汁浇到炸好的鱼上面。嘿嘿，开吃了！！！"
+    }
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

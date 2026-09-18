@@ -1,0 +1,131 @@
+{
+  "id": "xf-10831",
+  "title": "香煎龙利鱼佐牛油汁",
+  "ingredients": [
+    {
+      "name": "急冻龙利鱼",
+      "mergeKey": "basa",
+      "amount": 150,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "牛油",
+      "mergeKey": "butter",
+      "amount": 10,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "白葡萄酒",
+      "mergeKey": "white-wine",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "柠檬汁",
+      "mergeKey": "lemon-juice",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鲜番茄",
+      "mergeKey": "tomato",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芫荽",
+      "mergeKey": "cilantro",
+      "amount": 1,
+      "unit": "棵",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 10,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "苦细叶生菜",
+      "mergeKey": "lettuce",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蘑菇",
+      "mergeKey": "mushroom",
+      "amount": 80,
+      "unit": "克",
+      "category": "菌菇"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将蘑菇切片，汆烫至6成熟，待冷却,"
+    },
+    {
+      "text": "将蘑菇与苦细叶生菜用少许黑胡椒、盐和橄榄油搅拌均匀，成配菜,"
+    },
+    {
+      "text": "在锅中放入30克牛油，用小火煮1～2分钟左右，至金黄色,"
+    },
+    {
+      "text": "倒入白酒、柠檬汁、糖、盐煮沸后加入番茄和芫荽再煮10秒，离火备用,"
+    },
+    {
+      "text": "在龙利鱼上撒少许盐和黑胡椒，在鱼的两面拍上面粉,"
+    },
+    {
+      "text": "取平底锅，放入10克牛油，煮容后放入龙利鱼，用小火两面各煎2分钟，取出排放在盘中，淋上牛油汁，并在鱼柳旁放一些配菜，即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10831/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 142.2,
+    "proteinG": 20.3,
+    "carbsG": 9.9,
+    "fatG": 2.9
+  },
+  "tags": [
+    "汤羹",
+    "烧焖",
+    "煎"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

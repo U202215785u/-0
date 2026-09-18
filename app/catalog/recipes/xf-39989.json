@@ -1,0 +1,106 @@
+{
+  "id": "xf-39989",
+  "title": "四川回锅肉",
+  "ingredients": [
+    {
+      "name": "又1/2大匙郫县红油豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "amount": 22.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "连皮五花猪肉",
+      "mergeKey": "pork-belly",
+      "amount": 400,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "青蒜",
+      "mergeKey": "garlic-sprout",
+      "amount": 2,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "连皮猪肉，去毛洗净，放入冷水锅内煮至熟，变硬身"
+    },
+    {
+      "text": "将煮好的猪肉冲洗干净放凉，切成薄而大的肉片"
+    },
+    {
+      "text": "锅内仅放一茶匙油，放入肉片和姜片，用小火慢慢煎炒至出油，表面色泽变金黄色"
+    },
+    {
+      "text": "加入1又1/2大匙红油豆瓣酱"
+    },
+    {
+      "text": "翻炒至出红油后，再放入一匙生抽，料酒翻炒片刻。（如豆瓣酱放的多，也可免放生抽，不然会太咸）"
+    },
+    {
+      "text": "投入青蒜白及红，青椒"
+    },
+    {
+      "text": "翻炒至青蒜白及红，青椒断生即可"
+    },
+    {
+      "text": "最后放入青蒜叶，翻炒片刻即可出锅"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/39989/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 321,
+    "proteinG": 43,
+    "carbsG": 7,
+    "fatG": 13.4
+  },
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "xf-107220798",
+  "title": "徽州毛豆腐",
+  "ingredients": [
+    {
+      "name": "毛豆腐",
+      "mergeKey": "fermented-tofu",
+      "amount": 6,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "早市的毛豆腐，小贩说，煎的时候一定要长毛的那面先煎 。"
+    },
+    {
+      "text": "一面煎至金黄，翻面，倒入鸡蛋液，打散鸡蛋的时候加点点盐。"
+    },
+    {
+      "text": "转小火慢煎，大概定型了，翻面。"
+    },
+    {
+      "text": "吃的时候可以散点干蘸辣椒粉。"
+    },
+    {
+      "text": "这个毛豆腐，发酵充分，入口即化，非常嫩滑。"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107220798/",
+  "author": "梅浩厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 218.5,
+    "proteinG": 22.3,
+    "carbsG": 6.8,
+    "fatG": 12.4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

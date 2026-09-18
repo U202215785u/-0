@@ -1,0 +1,117 @@
+{
+  "id": "xf-11589",
+  "title": "鲜蔬剪刀面",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "里脊肉",
+      "mergeKey": "pork-tenderloin",
+      "category": "肉类"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "茭白",
+      "mergeKey": "jiaobai",
+      "category": "蔬菜"
+    },
+    {
+      "name": "莴笋",
+      "mergeKey": "celtuce",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑木耳",
+      "mergeKey": "wood-ear",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "水加入面粉中，一点点加，边加边用筷子搅拌成雪片状，用手揉成面团。放容器里蒙保鲜膜醒30分钟,"
+    },
+    {
+      "text": "醒好的面团，再次揉和成光滑圆锥型面团,"
+    },
+    {
+      "text": "锅中水烧开，放一小勺盐,"
+    },
+    {
+      "text": "用剪刀边剪边转动面团，全部剪到锅中,"
+    },
+    {
+      "text": "煮至剪刀面全部浮起,"
+    },
+    {
+      "text": "把煮熟的剪刀面捞出用凉水冲凉沥干,"
+    },
+    {
+      "text": "里脊肉切丁用一点点料酒和一勺蚝油拌匀腌制。胡萝卜、茭白、莴笋去皮切丁，泡发好的黑木耳切丝,"
+    },
+    {
+      "text": "锅中放油烧热，入腌制好的里脊肉丁煸炒至变色，表面变白立即捞出装盘备用,"
+    },
+    {
+      "text": "用锅中余油煸炒胡萝卜丁至身软,"
+    },
+    {
+      "text": "入茭白丁煸炒至软,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "倒入莴笋丁和黑木耳同炒，放盐和鸡精调味，在放一点点清水,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "倒入熟的剪刀面条，翻炒片刻入味即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11589/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 138,
+    "proteinG": 4.5,
+    "carbsG": 27,
+    "fatG": 1.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

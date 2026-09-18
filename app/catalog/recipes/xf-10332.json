@@ -1,0 +1,53 @@
+{
+  "id": "xf-10332",
+  "title": "香芒春卷",
+  "ingredients": [
+    {
+      "name": "春卷皮",
+      "mergeKey": "spring-roll-wrapper",
+      "category": "米面主食"
+    },
+    {
+      "name": "芒果",
+      "mergeKey": "mango",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "芒果去皮切成条状,"
+    },
+    {
+      "text": "春卷皮摊开，把芒果条排在靠近自己身边的位置，把靠近身边的春卷皮盖上去,"
+    },
+    {
+      "text": "把两边往当中折,"
+    },
+    {
+      "text": "往上卷起，把接口朝下放，这样不会散开,"
+    },
+    {
+      "text": "锅中倒入稍多的油，烧到六成热，放春卷下去两面炸至微微发黄即可,"
+    },
+    {
+      "text": "捞出用厨房纸吸取多余油份，即可食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10332/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

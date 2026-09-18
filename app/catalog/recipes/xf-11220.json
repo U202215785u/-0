@@ -1,0 +1,65 @@
+{
+  "id": "xf-11220",
+  "title": "盐水花生",
+  "ingredients": [
+    {
+      "name": "新鲜花生",
+      "mergeKey": "peanut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "新鲜花生用水反复冲洗，将表面的泥沙冲洗干净,"
+    },
+    {
+      "text": "洗净的花生，放入高压锅中，加入足量的水，放入所有调料（盐也在这个时候一起放进,"
+    },
+    {
+      "text": "高压锅大火上气后，转小火煮15分钟（喜欢有嚼头一点的适当缩短时间,"
+    },
+    {
+      "text": "关火后闷3个小时以上，沥干水分即可食用。放入冰箱冷藏后食用口感更好"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11220/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

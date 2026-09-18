@@ -1,0 +1,181 @@
+{
+  "id": "xf-100556139",
+  "title": "孜然羊肉",
+  "ingredients": [
+    {
+      "name": "羊肉",
+      "mergeKey": "lamb",
+      "amount": 300,
+      "category": "肉类"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "五香粉",
+      "mergeKey": "five-spice-powder",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 10,
+      "unit": "粒",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大料",
+      "mergeKey": "star-anise",
+      "amount": 1,
+      "unit": "瓣",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "amount": 5,
+      "unit": "棵",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一小把孜然粒",
+      "mergeKey": "cumin",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一小把辣椒面",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一小把芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将肉切片，放入少量五香粉，料酒，腌一会儿"
+    },
+    {
+      "text": "将材料备齐"
+    },
+    {
+      "text": "热油，加入花椒大料粒，出香味后捞出扔掉"
+    },
+    {
+      "text": "放入姜丝，葱花，炒香"
+    },
+    {
+      "text": "加入淹好的羊肉，翻炒到变色"
+    },
+    {
+      "text": "加糖适量"
+    },
+    {
+      "text": "酱油，适量"
+    },
+    {
+      "text": "白酒适量"
+    },
+    {
+      "text": "在锅里还有汤的时候加入孜然，为了更好入味"
+    },
+    {
+      "text": "加芝麻"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加辣椒面"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "汤没有时，加一小勺盐"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入蒜片"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "关火，加香菜"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "出锅"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100556139/",
+  "author": "--漪涟",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 100,
+  "difficulty": "中等"
+}

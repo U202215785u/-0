@@ -1,0 +1,86 @@
+{
+  "id": "xf-100435712",
+  "title": "陕西油泼面",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 300,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 160,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱蒜末",
+      "mergeKey": "aromatics",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽，醋",
+      "mergeKey": "soy-vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒粉",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "和面，水加入少许盐化开。保鲜膜包裹醒半小时"
+    },
+    {
+      "text": "然后分成大约30克的小条，涂层油静置20分钟"
+    },
+    {
+      "text": "用擀面杖将中间按下"
+    },
+    {
+      "text": "小心均匀的扯开"
+    },
+    {
+      "text": "锅内水开，下面时从中间撕开"
+    },
+    {
+      "text": "碗内调配少许的生抽和醋"
+    },
+    {
+      "text": "面煮好倒入碗中，面上放置葱蒜末，辣椒粉，少量盐。将油烧至80度浇到辣椒上"
+    },
+    {
+      "text": "搅拌均匀"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/100435712/",
+  "author": "汤豆",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 207,
+    "proteinG": 6.8,
+    "carbsG": 40.5,
+    "fatG": 2.3
+  },
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

@@ -1,0 +1,130 @@
+{
+  "id": "xf-10159",
+  "title": "酸笋炒肉",
+  "ingredients": [
+    {
+      "name": "酸笋",
+      "mergeKey": "bamboo-shoot",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "猪瘦肉",
+      "mergeKey": "pork",
+      "amount": 120,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "各一个青红椒",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜蓉",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜蓉",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/8小匙盐",
+      "mergeKey": "salt",
+      "amount": 0.625,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大匙清水",
+      "mergeKey": "water",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "大匙沙拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "青红椒，酸笋切丝，瘦肉切丝用腌肉料腌制10分钟,"
+    },
+    {
+      "text": "锅内放一大匙油，3成熟时放入瘦肉炒至变色，捞起备用,"
+    },
+    {
+      "text": "剩下的油，放入姜、蒜蓉爆香,"
+    },
+    {
+      "text": "将青红椒丝，酸笋丝炒入炒至断生,"
+    },
+    {
+      "text": "加入炒好的肉丝翻炒均匀,"
+    },
+    {
+      "text": "临出锅前加入少许鸡精炒匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10159/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "nutrition": {
+    "kcal": 153.8,
+    "proteinG": 14.9,
+    "carbsG": 10.2,
+    "fatG": 5.6
+  },
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

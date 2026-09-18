@@ -1,0 +1,68 @@
+{
+  "id": "xf-9777",
+  "title": "酸菜炖牛腩",
+  "ingredients": [
+    {
+      "name": "牛腩",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "酸菜",
+      "mergeKey": "pickled-cabbage",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛腩洗净切小块放入冷水中煮沸后，撇去浮沫，捞出备用,"
+    },
+    {
+      "text": "焯过水的牛腩放入高压锅中，加少许料酒、一颗八角，适量水大火上气后转小火煮20分钟,"
+    },
+    {
+      "text": "起油锅，油热后，放入酸菜翻炒均匀，倒入压好的牛腩（连汤倒入），大火煮开后，转小火炖30分钟，出锅前加少许糖、盐、鸡精调味"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9777/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

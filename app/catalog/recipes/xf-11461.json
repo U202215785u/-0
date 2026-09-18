@@ -1,0 +1,72 @@
+{
+  "id": "xf-11461",
+  "title": "培根冬瓜",
+  "ingredients": [
+    {
+      "name": "小冬瓜",
+      "mergeKey": "winter-melon",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "amount": 0.5,
+      "unit": "包",
+      "category": "肉类"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一点点糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "培根切成丁，冬瓜削去外皮切成丁，蒜切蒜末，葱切葱花,"
+    },
+    {
+      "text": "锅中放少一些的油（培根会出油），将蒜末及培根一同放少，中火煸炒出香味，放入冬瓜丁一同翻炒，调入盐，少许糖，美极鲜酱油上色，炒至冬瓜软烂，出锅前撒少许鸡精及葱花拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11461/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

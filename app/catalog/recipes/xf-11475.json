@@ -1,0 +1,102 @@
+{
+  "id": "xf-11475",
+  "title": "雪菜毛豆炒千张",
+  "ingredients": [
+    {
+      "name": "新鲜雪里蕻",
+      "mergeKey": "mustard-green",
+      "category": "蔬菜"
+    },
+    {
+      "name": "毛豆",
+      "mergeKey": "edamame",
+      "category": "蔬菜"
+    },
+    {
+      "name": "千张",
+      "mergeKey": "tofu-skin",
+      "category": "豆制品"
+    },
+    {
+      "name": "猪肉",
+      "mergeKey": "pork",
+      "amount": 1,
+      "unit": "小块",
+      "category": "肉类"
+    },
+    {
+      "name": "小葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有材料清洗干净，肉和千张切成丝，肉用少许生粉，盐，鸡精，白胡椒粉抓匀腌10分钟,"
+    },
+    {
+      "text": "锅里放油烧热，放入腌好的肉丝滑炒至颜色变白即关火烫熟，捞出备用,"
+    },
+    {
+      "text": "锅里留底油烧热，放入雪里蕻略微翻炒，接着加入毛豆翻炒至5成熟，加入少许开水，使食材湿润，接着加入千张丝拌开，调入盐，美极鲜酱油少许，糖少许，鸡精，最后倒入翻炒好的肉丝及葱段，淋入香油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11475/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 71.5,
+    "proteinG": 10.3,
+    "carbsG": 0,
+    "fatG": 3.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

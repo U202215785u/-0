@@ -1,0 +1,121 @@
+{
+  "id": "xf-107386884",
+  "title": "辣椒炒肉",
+  "ingredients": [
+    {
+      "name": "猪五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 0.5,
+      "unit": "斤",
+      "category": "肉类"
+    },
+    {
+      "name": "勺淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "半勺盐",
+      "mergeKey": "salt",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "半勺白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "半勺白糖",
+      "mergeKey": "sugar",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "螺丝椒",
+      "mergeKey": "chili-pepper",
+      "amount": 4,
+      "unit": "根",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪五花肉切成薄片。"
+    },
+    {
+      "text": "切好的猪五花肉，加入三片姜，倒半勺生抽、半勺蚝油、两勺生粉抓匀，最后用食用油封锁水分，腌制半个钟头"
+    },
+    {
+      "text": "把切好的螺丝椒放半勺盐炒到这种表面起焦了（不用放油）"
+    },
+    {
+      "text": "另起锅用小火，锅中放油，把腌好的猪五花炒到这种表面焦焦的，一定要小火，再放蒜小米辣提味"
+    },
+    {
+      "text": "多半勺老抽上色，把提前调好的料汁给倒进去：鸡精1勺、生抽2勺、白胡椒粉、白糖少许、适量料酒"
+    },
+    {
+      "text": "这时候就用大火翻炒出锅。\n香的嘞～"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107386884/",
+  "author": "我不挑食了",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 129.5,
+    "proteinG": 2.3,
+    "carbsG": 0,
+    "fatG": 13.3
+  },
+  "tags": [
+    "炸",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

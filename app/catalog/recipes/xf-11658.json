@@ -1,0 +1,130 @@
+{
+  "id": "xf-11658",
+  "title": "香煎蘑菇牛肉串",
+  "ingredients": [
+    {
+      "name": "牛里脊",
+      "mergeKey": "beef",
+      "amount": 150,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "秀珍菇",
+      "mergeKey": "mushroom",
+      "amount": 8,
+      "unit": "只",
+      "category": "菌菇"
+    },
+    {
+      "name": "葱白",
+      "mergeKey": "scallion",
+      "amount": 40,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "10克蒜末",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "5克葱花",
+      "mergeKey": "scallion",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一小把干红辣椒丝",
+      "mergeKey": "chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "15毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "10毫升香油",
+      "mergeKey": "sesame-oil",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙约3克黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "随意白芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将蘑菇洗净后放入开水锅中，焯烫20秒钟后捞出，充分沥干水分后放凉，用厨房纸巾（或用手攥的方式）轻轻的挤压掉蘑菇表面的水份,"
+    },
+    {
+      "text": "牛肉洗净后去掉白色筋膜，切成约4厘米长，2厘米宽，7毫米厚的薄片。葱白洗净后切成4厘米长的段，蘑菇用手撕成两半，备用,"
+    },
+    {
+      "text": "在蘑菇中放入蒜末（5克），盐（2克），香油（5毫升），拌匀，备用,"
+    },
+    {
+      "text": "将牛肉片同蒜末（5克），盐（3克），香油（5毫升），糖，生抽，黑胡椒粉，葱花，拌匀备用,"
+    },
+    {
+      "text": "将腌好的牛肉，蘑菇，葱段，依次串成串,"
+    },
+    {
+      "text": "锅中倒入油大火加热，待油7成热时，将肉串放入，改成中小火慢慢将牛肉煎熟，葱段略微有些发黄（大约需要3分钟左右），撒上辣椒丝，芝麻，即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11658/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 138.9,
+    "proteinG": 3.8,
+    "carbsG": 15.5,
+    "fatG": 6.7
+  },
+  "tags": [
+    "烧焖",
+    "煎",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "xf-106124443",
+  "title": "芹菜炒肉",
+  "ingredients": [
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "amount": 4,
+      "unit": "棵",
+      "category": "蔬菜"
+    },
+    {
+      "name": "猪肉",
+      "mergeKey": "pork",
+      "quantityText": "适量",
+      "category": "肉类"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "肉切丝备用"
+    },
+    {
+      "text": "芹菜洗干净切段备用，姜切末"
+    },
+    {
+      "text": "锅里倒入适量油，放姜爆香"
+    },
+    {
+      "text": "加入肉丝翻炒加点料酒去腥"
+    },
+    {
+      "text": "炒到有点微黄下芹菜"
+    },
+    {
+      "text": "翻炒一分钟左右"
+    },
+    {
+      "text": "加入耗油生抽和盐调味"
+    },
+    {
+      "text": "翻炒均匀即可出锅"
+    },
+    {
+      "text": "装盘"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/106124443/",
+  "author": "盈盈愛下厨",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

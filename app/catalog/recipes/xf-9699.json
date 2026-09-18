@@ -1,0 +1,65 @@
+{
+  "id": "xf-9699",
+  "title": "咖喱土豆泥",
+  "ingredients": [
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "category": "乳制品"
+    },
+    {
+      "name": "咖哩块",
+      "mergeKey": "curry",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "土豆洗干净，趁表面湿的时候，用保鲜膜包起来，放微波炉叮大概5分钟，取出，用筷子试下，能轻松穿透即是熟透了,"
+    },
+    {
+      "text": "胡萝卜切片，放在盘子里，撒少量水，入微波炉叮一分钟左右至熟,"
+    },
+    {
+      "text": "土豆撕去皮，用勺子按压成泥，叮熟的胡萝卜切成末加入土豆泥中，加少量盐和黑胡椒粉，边用勺子搅拌，边加入适量牛奶，调整到合适的稀稠度即可,"
+    },
+    {
+      "text": "取一个模具，放在容器中，把土豆泥填进去，轻轻按压成型后，提起模具，土豆泥就在容器中形成一个漂亮的形状。（没有模具不用拗造型了，省掉这步，直接放盘子或者碗里）,"
+    },
+    {
+      "text": "取其中一小块咖哩块，放在平底锅中，加适量清水（或者高汤），加热搅拌至咖哩块融化，浇在土豆泥上即可。吃的时候搅拌开"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9699/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

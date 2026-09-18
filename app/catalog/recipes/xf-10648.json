@@ -1,0 +1,89 @@
+{
+  "id": "xf-10648",
+  "title": "凤梨泡菜",
+  "ingredients": [
+    {
+      "name": "凤梨",
+      "mergeKey": "pineapple",
+      "amount": 500,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "甘蓝",
+      "mergeKey": "cabbage",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙白醋",
+      "mergeKey": "vinegar",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙黑胡椒",
+      "mergeKey": "black-pepper",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "甘蓝洗净、剥片状，芹菜切段，胡萝卜切片，一起放入盆里，加一些盐腌10分钟（使之软化），然后捞起来，用冷开水冲洗一遍，沥干水分,"
+    },
+    {
+      "text": "凤梨切片，与做法步骤1和糖、醋、黑胡椒拌匀，装进容器中，密封，置冰箱冷藏1小时即可食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10648/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "nutrition": {
+    "kcal": 390.3,
+    "proteinG": 14.8,
+    "carbsG": 64.8,
+    "fatG": 8.2
+  },
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

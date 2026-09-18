@@ -1,0 +1,108 @@
+{
+  "id": "xf-11128",
+  "title": "粉红兔子蛋糕",
+  "ingredients": [
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 200,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "寸烤好海绵蛋糕",
+      "mergeKey": "sponge-cake",
+      "amount": 8,
+      "category": "米面主食"
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 65,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "黑巧克力",
+      "mergeKey": "chocolate",
+      "amount": 100,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "滴云尼拿香精油",
+      "mergeKey": "vanilla-extract",
+      "amount": 2,
+      "unit": "滴",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "椰蓉",
+      "mergeKey": "coconut-flakes",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "草莓巧克力",
+      "mergeKey": "strawberry-chocolate",
+      "quantityText": "适量",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "烤好的海绵蛋糕横切成2厘米的厚片，取2片重叠，备用,"
+    },
+    {
+      "text": "用4寸慕思圈压出圆形作为小兔子的脸部；其余部分裁成树叶形状，作为耳朵；组合成兔子头部的形状,"
+    },
+    {
+      "text": "黄油、黑巧隔热水，搅拌至融化,"
+    },
+    {
+      "text": "盛出，稍稍晾凉，即为巧克力酱,"
+    },
+    {
+      "text": "将巧克力酱均匀地涂抹在底层的蛋糕片上,"
+    },
+    {
+      "text": "放上表层的蛋糕片，压紧，冷藏备用,"
+    },
+    {
+      "text": "取200毫升淡奶油,"
+    },
+    {
+      "text": "隔冰水搅打至八九分发，加入云尼拿香精油，拌匀,"
+    },
+    {
+      "text": "将淡奶油均匀涂抹在蛋糕表面,"
+    },
+    {
+      "text": "均匀地沾上椰蓉，草莓巧克力刨薄片，装饰在耳朵中心和腮红的位置,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "用剩余的黑巧克力酱画出眼睛、嘴巴，即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11128/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 146,
+    "proteinG": 5.5,
+    "carbsG": 21.9,
+    "fatG": 3.7
+  },
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "xf-9575",
+  "title": "腊肠西蓝花小炒",
+  "ingredients": [
+    {
+      "name": "广式腊肠",
+      "mergeKey": "chinese-sausage",
+      "category": "肉类"
+    },
+    {
+      "name": "西蓝花",
+      "mergeKey": "broccoli",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "西蓝花洗净摘成小朵，焯半分钟，沥水备用、胡萝卜去皮切菱形片,"
+    },
+    {
+      "text": "腊肠斜切薄片、姜切细丝、蒜切小粒,"
+    },
+    {
+      "text": "锅内放少许色拉油，下葱丝蒜粒爆香,"
+    },
+    {
+      "text": "下胡萝卜、腊肠稍稍煸炒,"
+    },
+    {
+      "text": "下西蓝花，加蚝油、盐、鸡粉调味，快速翻炒即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9575/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

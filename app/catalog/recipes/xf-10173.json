@@ -1,0 +1,135 @@
+{
+  "id": "xf-10173",
+  "title": "棒捶鸡翅",
+  "ingredients": [
+    {
+      "name": "鸡翅根",
+      "mergeKey": "chicken-drumettes",
+      "category": "肉类"
+    },
+    {
+      "name": "各1/2个青红椒",
+      "mergeKey": "pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大葱段",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "十三香粉",
+      "mergeKey": "thirteen-spices",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒段",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大葱段切片",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "孜然粉",
+      "mergeKey": "cumin",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒粉",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "用刀贴着翅根没肉的那头把肉皮往肉多的那头刮，露出骨头棒，形成捶子样，并用牙签在肉上扎些小洞，让腌料渗进去,"
+    },
+    {
+      "text": "将腌料汁和鸡翅根放入碗中，搅抖均匀腌制2小时，中途给它们按摩、翻动，青红椒切粒备用,"
+    },
+    {
+      "text": "将腌好的翅根上的干辣椒段，大葱片，姜片摘下，均匀地给翅根拍上一层簿生粉,"
+    },
+    {
+      "text": "锅中倒油，烧热，开中小火，放入翅根炸,"
+    },
+    {
+      "text": "炸至呈金黄色时，捞出鸡翅，将锅中的油倒出,"
+    },
+    {
+      "text": "锅中放少许油，放入放鸡翅根,"
+    },
+    {
+      "text": "撒上孜然粉、花椒粉、辣椒粉、白芝麻翻炒均匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10173/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "xf-1043791",
+  "title": "清炖狮子头",
+  "ingredients": [
+    {
+      "name": "鸡汤",
+      "mergeKey": "chicken-stock",
+      "category": "其他"
+    },
+    {
+      "name": "青菜心",
+      "mergeKey": "bok-choy",
+      "category": "蔬菜"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "白菜叶",
+      "mergeKey": "napa-cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱姜",
+      "mergeKey": "scallion-ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "五花肉去皮，按顺序切成云片糕（片）→火柴棍（丝）→石榴米（粒），最好事先将肉块冻至5～6分硬；刀具要比较锐利，这样处理起来会比较轻松"
+    },
+    {
+      "text": "将处理好的肉末放入盆里，加入葱姜水（葱姜切碎挤出汁水），盐、料酒和胡椒粉，用手边拌边摔打至肉末上劲"
+    },
+    {
+      "text": "准备好炖/砂锅，锅底铺上白菜/娃娃菜叶，加入鸡汤（浓缩鸡汁兑水）；取适量肉末，两手轮换滚成肉圆，放在白菜叶上；大火将鸡汤煮沸，转小火焖煮2小时；离火前调味并放入青菜心即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/1043791/",
+  "author": "呤儿",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "xf-10386",
+  "title": "蔓越莓玫瑰奶糕",
+  "ingredients": [
+    {
+      "name": "玫瑰花瓣",
+      "mergeKey": "rose",
+      "quantityText": "若干",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "吉列丁片",
+      "mergeKey": "gelatin",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蔓越莓",
+      "mergeKey": "cranberry",
+      "amount": 100,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 200,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "绵白糖",
+      "mergeKey": "sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "朗姆酒",
+      "mergeKey": "rum",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰水",
+      "mergeKey": "water",
+      "quantityText": "适量",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "提前一夜将朗姆酒倒入蔓越莓中，分量为能覆盖蔓越莓表面即可,"
+    },
+    {
+      "text": "制作前将蔓越莓沥出，切成小丁，浸泡后的朗姆酒汁过滤后备用,"
+    },
+    {
+      "text": "吉列丁片用冰水浸泡5分钟左右至软，取出挤干水分备用,"
+    },
+    {
+      "text": "锅内加入淡奶油,"
+    },
+    {
+      "text": "加入滤出的朗姆酒蔓越莓汁,"
+    },
+    {
+      "text": "加入糖，小火加热，并不断搅拌至沸腾，离火,"
+    },
+    {
+      "text": "加入泡软的吉列丁片，搅拌至完全融化后，开小火继续加热,"
+    },
+    {
+      "text": "加入蔓越莓果丁，搅拌均匀后继续小火加热3~5分钟,"
+    },
+    {
+      "text": "倒入模具中，待凉后放入冰箱冷藏至凝固，食用前撒上泡软的玫瑰花茶花瓣，即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10386/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 141.4,
+    "proteinG": 4.6,
+    "carbsG": 23.3,
+    "fatG": 3.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

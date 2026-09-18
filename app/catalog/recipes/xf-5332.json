@@ -1,0 +1,72 @@
+{
+  "id": "xf-5332",
+  "title": "糖醋花生米",
+  "ingredients": [
+    {
+      "name": "红皮花生米",
+      "mergeKey": "peanut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白砂糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅中放色拉油，烧至油温稍稍有点温热的时候，把花生米倒入油锅，转中小火炸至花生米外皮颜色稍有变深即可捞出沥油，摊在大盘子里晾凉"
+    },
+    {
+      "text": "调糖醋汁：另取个炒锅，在锅中倒入2汤匙白砂糖，5汤匙香醋，1汤匙蚝油，煮开"
+    },
+    {
+      "text": "在糖醋汁中倒入少许水淀粉，烧开，勾成薄薄的芡汁出锅"
+    },
+    {
+      "text": "待花生米凉透，糖醋汁也凉透后，在花生米上撒切碎的香菜，然后把糖醋汁倒入，拌开即可食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/5332/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

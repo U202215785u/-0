@@ -1,0 +1,72 @@
+{
+  "id": "xf-10368",
+  "title": "鱿鱼头须炒西芹",
+  "ingredients": [
+    {
+      "name": "鱿鱼",
+      "mergeKey": "squid",
+      "category": "水产"
+    },
+    {
+      "name": "西芹",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "头须洗净沥干， 加料酒、生姜、胡椒粉腌制15分钟，锅中多放些水再放两片生姜烧开， 倒入腌好的头须炒一下水（20秒钟就可以了），捞出在冷水中浸泡一下沥干,"
+    },
+    {
+      "text": "西芹切斜刀，红椒切条， 也滚水焯一下（半分钟就可以了），捞出在冷水中浸泡一下沥干,"
+    },
+    {
+      "text": "锅中放少许油烧热，放入焯过水的头须和西芹翻炒，加少许鸡精调味，勾上薄欠就可以出锅装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10368/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

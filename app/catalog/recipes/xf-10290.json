@@ -1,0 +1,236 @@
+{
+  "id": "xf-10290",
+  "title": "四喜饺子",
+  "ingredients": [
+    {
+      "name": "豆角",
+      "mergeKey": "green-bean",
+      "category": "蔬菜"
+    },
+    {
+      "name": "中筋面粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "猪绞肉",
+      "mergeKey": "pork-mince",
+      "amount": 250,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "水发木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "-110克热开水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "十三香粉",
+      "mergeKey": "thirteen-spice",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "生姜和香葱先用清水浸泡，抓捏成葱姜水。一边用筷子顺时间方向搅动绞肉，一边慢慢加入葱姜水。 1斤肉约加入3两的葱姜水,"
+    },
+    {
+      "text": "加入生抽，盐，料酒，芹菜碎，糖，十三香粉，香油，白胡椒粉，顺时针方向搅至肉馅起胶质,"
+    },
+    {
+      "text": "中筋面粉用热开水搅至成成团,"
+    },
+    {
+      "text": "待略凉后，用手和成团，盖上保鲜膜松弛15分钟,"
+    },
+    {
+      "text": "鸡蛋加少许盐，入锅内煎成蛋皮,"
+    },
+    {
+      "text": "豆角，水发木耳、胡萝卜，蛋皮分别切成碎,"
+    },
+    {
+      "text": "将松弛好的面团搓成长条状，切成小份,"
+    },
+    {
+      "text": "案板上洒干粉，将面团擀成圆饼状,"
+    },
+    {
+      "text": "包上内馅。（不要太多）,"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将饺子皮向中间捏紧,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "再对角捏紧,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "用双手将对角处撑开，并捏紧,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "将饺子放在蒸架上，再用小匙分别将四色馅料填入,"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "锅内烧开水，放上蒸架，加盖大火蒸10分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10290/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 238,
+    "proteinG": 8.3,
+    "carbsG": 42,
+    "fatG": 4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

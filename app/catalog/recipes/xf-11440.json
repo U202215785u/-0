@@ -1,0 +1,101 @@
+{
+  "id": "xf-11440",
+  "title": "素三鲜猪肉水饺",
+  "ingredients": [
+    {
+      "name": "猪肉馅",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑木耳",
+      "mergeKey": "muer",
+      "category": "菌菇"
+    },
+    {
+      "name": "大白菜",
+      "mergeKey": "cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将泡发的黑木耳，胡萝卜，白菜根切成细丝，入油锅加盐鸡精炒至5成熟；白菜叶切成丝,"
+    },
+    {
+      "text": "猪肉馅里调入盐，鸡精，胡椒粉，美极鲜酱油及香油搅匀,"
+    },
+    {
+      "text": "将猪肉馅与炒好的素三鲜丝及白菜叶混合均匀,"
+    },
+    {
+      "text": "买来的饺子皮中间放入适量肉馅，手蘸水将边抹湿，对折,"
+    },
+    {
+      "text": "先从右边往里捏，捏出褶皱，再从左边往右捏~,"
+    },
+    {
+      "text": "入开水锅中煮熟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11440/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

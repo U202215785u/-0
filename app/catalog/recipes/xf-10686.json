@@ -1,0 +1,79 @@
+{
+  "id": "xf-10686",
+  "title": "虾仁蛋炒饭",
+  "ingredients": [
+    {
+      "name": "隔夜米饭",
+      "mergeKey": "rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "虾仁",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "西芹",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "虾去头剥壳，背上剪开抽出肠泥。西芹洗净切成小粒,"
+    },
+    {
+      "text": "鸡蛋充分打散后加一点盐搅匀，在蛋液中加一点食用油搅匀。把冷饭倒入蛋液，用筷子把米饭拨散搅拌均匀，让每颗米饭都均匀裹上蛋液,"
+    },
+    {
+      "text": "锅烧热，放油（比平时烧菜稍微多点），油温上来后把虾仁倒入翻炒至表面变色，捞出备用,"
+    },
+    {
+      "text": "把步骤2倒入锅中，不停翻炒，至饭粒干爽，颗颗分明,"
+    },
+    {
+      "text": "把西芹粒倒入翻炒片刻,"
+    },
+    {
+      "text": "倒入事先炒好的虾仁，放少量盐和鸡精调味，翻匀后撒点葱花即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10686/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

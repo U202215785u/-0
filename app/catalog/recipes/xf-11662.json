@@ -1,0 +1,94 @@
+{
+  "id": "xf-11662",
+  "title": "沙茶鱼头煲",
+  "ingredients": [
+    {
+      "name": "鱼头",
+      "mergeKey": "fish-head",
+      "category": "水产"
+    },
+    {
+      "name": "金针菇",
+      "mergeKey": "enoki",
+      "category": "菌菇"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇"
+    },
+    {
+      "name": "杏鲍菇",
+      "mergeKey": "king-oyster",
+      "category": "菌菇"
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "沙茶酱",
+      "mergeKey": "satay-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鱼头洗净剖开，用盐和料酒腌制片刻。所有菇类洗净，香菇杏鲍菇切片，金针菇撕开成小束，豆腐切块。葱姜洗净，处理成葱段姜片,"
+    },
+    {
+      "text": "腌制好的鱼头，擦干表面水份。平底锅烧热（尽量烧的很热，这样煎鱼头不容易粘锅），放油，鱼头两面煎透,"
+    },
+    {
+      "text": "另取一锅烧热，放少量油，爆香葱姜,"
+    },
+    {
+      "text": "放入三种菇类翻炒片刻至软,"
+    },
+    {
+      "text": "放一大勺沙茶酱，一小碗水炒匀,"
+    },
+    {
+      "text": "煎好的鱼头放入，豆腐块放入。倒一点点料酒。煮开后，转小火炖20分钟左右，调味出锅即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11662/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

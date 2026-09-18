@@ -1,0 +1,94 @@
+{
+  "id": "xf-9776",
+  "title": "芒果冰淇淋",
+  "ingredients": [
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 4,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 250,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "芒果",
+      "mergeKey": "mango",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 300,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 40,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "淡奶油加糖隔冰水打至6-7分发，然后放进冰箱冷藏备用,"
+    },
+    {
+      "text": "蛋黄打散，加糖打至糖化，筛入玉米淀粉（我漏拍了这一步），搅拌均匀,"
+    },
+    {
+      "text": "牛奶加热至边缘冒泡,"
+    },
+    {
+      "text": "将加热好的牛奶慢慢倒入2中，边倒边搅拌，搅拌均匀后，重新倒回锅中,"
+    },
+    {
+      "text": "用中火继续加热至浓稠状，然后隔冷水降温,"
+    },
+    {
+      "text": "将芒果去皮切块，放入搅拌机中搅拌成泥,"
+    },
+    {
+      "text": "将降温后的浓稠蛋液与打发好的奶油混合均匀,"
+    },
+    {
+      "text": "将芒果泥倒入7中，搅拌均匀,"
+    },
+    {
+      "text": "倒入合适的容器中，放入冰箱冷冻室，每隔1小时取出翻拌一次，翻拌3-4次即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9776/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 299.7,
+    "proteinG": 8.3,
+    "carbsG": 53.5,
+    "fatG": 5.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "xf-10561",
+  "title": "小熊三明治",
+  "ingredients": [
+    {
+      "name": "白吐司",
+      "mergeKey": "bread",
+      "amount": 6,
+      "unit": "片",
+      "category": "米面主食"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "只",
+      "category": "蛋类"
+    },
+    {
+      "name": "火腿丁",
+      "mergeKey": "ham",
+      "category": "肉类"
+    },
+    {
+      "name": "生菜",
+      "mergeKey": "lettuce",
+      "category": "蔬菜"
+    },
+    {
+      "name": "植物油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑巧克力",
+      "mergeKey": "dark-chocolate",
+      "category": "其他",
+      "pantry": true
+    },
+    {
+      "name": "白巧克力",
+      "mergeKey": "white-chocolate",
+      "category": "其他",
+      "pantry": true
+    },
+    {
+      "name": "番茄沙司",
+      "mergeKey": "ketchup",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备好所需材料,"
+    },
+    {
+      "text": "蛋液打散，加入一大匙温水，搅拌均匀,"
+    },
+    {
+      "text": "加入白芝麻、火腿丁，搅拌均匀,"
+    },
+    {
+      "text": "锅内放入植物油,"
+    },
+    {
+      "text": "油热后，倒入蛋液，加少量盐,"
+    },
+    {
+      "text": "用筷子搅拌成蛋碎，盛出备用,"
+    },
+    {
+      "text": "在一片土司上放上生菜,"
+    },
+    {
+      "text": "加入一大匙火腿蛋碎,"
+    },
+    {
+      "text": "盖上另一片土司，轻压,"
+    },
+    {
+      "text": "压上土司模,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "除去边角，取出压好的三文治胚,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "用融化的黑巧、白巧、番茄沙司装饰即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10561/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

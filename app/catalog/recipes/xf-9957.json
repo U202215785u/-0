@@ -1,0 +1,79 @@
+{
+  "id": "xf-9957",
+  "title": "炸糕",
+  "ingredients": [
+    {
+      "name": "糯米粉",
+      "mergeKey": "glutinous-rice-flour",
+      "amount": 50,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "普通面粉",
+      "mergeKey": "flour",
+      "amount": 100,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "红糖",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "开水",
+      "mergeKey": "water",
+      "amount": 150,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将糯米粉和面粉混合均匀，一边倒入开水一边用筷子搅拌，直到面粉结块后改用手搓揉，揉至面团光滑后备用,"
+    },
+    {
+      "text": "将红糖和白糖混合均匀，双手抹上一层薄油，将面团取出在案板上揉匀，平均分成4-5厘米长的剂子，用手按扁捏成面皮，包上糖，封口处捏拢收紧，轻轻按压成小饼状,"
+    },
+    {
+      "text": "锅中加入油烧到3成热，放入饼胚用中火慢慢炸至金黄，炸糕浮起来即可捞出"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9957/",
+  "author": "豆牛",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 237,
+    "proteinG": 2.9,
+    "carbsG": 55.5,
+    "fatG": 0.8
+  },
+  "tags": [
+    "煎",
+    "炸"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

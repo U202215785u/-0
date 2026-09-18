@@ -1,0 +1,113 @@
+{
+  "id": "xf-10049",
+  "title": "罗宋汤",
+  "ingredients": [
+    {
+      "name": "半新鲜牛肉",
+      "mergeKey": "beef",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "包心菜",
+      "mergeKey": "cabbage",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "amount": 1,
+      "unit": "只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 1,
+      "unit": "只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "西红柿",
+      "mergeKey": "tomato",
+      "amount": 1,
+      "unit": "只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "番茄沙司",
+      "mergeKey": "tomato-sauce",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "quantityText": "适量",
+      "category": "乳制品"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "quantityText": "适量",
+      "category": "乳制品"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "quantityText": "适量",
+      "category": "米面主食",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "新鲜牛肉剁成小块，滚水焯一下水去掉血腥味，再放锅中加足水加生姜片烧酥成清汤牛肉待用,"
+    },
+    {
+      "text": "洋葱、包心菜切丝，土豆切小块， 胡萝卜切丁， 西红柿去皮切丁待用,"
+    },
+    {
+      "text": "取烧锅加入已煮熟的牛肉和汤（适量），加够水烧开,"
+    },
+    {
+      "text": "另取一炒锅放一块黄油， 先放进洋葱煸出香味，再加入包心菜、土豆、胡萝卜翻炒一下后加到牛肉汤中一起煮,"
+    },
+    {
+      "text": "炒锅洗净重新烧热加入黄油，先加入番茄煸炒，再加入番茄沙司一起煸炒2分钟后倒入牛肉汤中一起熬制,"
+    },
+    {
+      "text": "第三次起油锅，放入一块黄油， 加进一勺面粉，翻炒一分钟做成面酱后，也加进汤锅中，加点盐调味， 所有材料一起焖煮15分钟左右即可,"
+    },
+    {
+      "text": "最后加进牛奶增加奶香味，再煮开就可以关火了， 我加了半盒，约100毫升，可自己调节"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10049/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 241,
+    "proteinG": 17.2,
+    "carbsG": 24.9,
+    "fatG": 8.1
+  },
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

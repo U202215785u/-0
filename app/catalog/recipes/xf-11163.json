@@ -1,0 +1,100 @@
+{
+  "id": "xf-11163",
+  "title": "辣拌鸡肉",
+  "ingredients": [
+    {
+      "name": "洋葱丝",
+      "mergeKey": "onion",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡胸肉",
+      "mergeKey": "chicken",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "大勺柠檬汁",
+      "mergeKey": "lemon-juice",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大勺鱼露",
+      "mergeKey": "fish-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小勺糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大勺蒜油",
+      "mergeKey": "garlic-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒粉",
+      "mergeKey": "chili-powder",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡胸肉切成小块放入料理机制成肉泥，洋葱，香菜切丝备用,"
+    },
+    {
+      "text": "锅中加入适量的水，用小火烧热，加入肉泥，用小火慢慢的温熟放入冰箱冷却,"
+    },
+    {
+      "text": "找一个大碗，加入柠檬汁，鱼露，糖，葱花，洋葱丝，蒜油和少许辣椒粉拌均匀制成调味汁,"
+    },
+    {
+      "text": "将温熟的鸡肉加入调味料中拌匀（这里的拌匀一定是要用手抓均匀，抓的过程相当于给菜肴做按摩，这样的凉拌菜才够入味）撒上香菜即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11163/",
+  "author": "百事小熊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 300,
+    "proteinG": 57.8,
+    "carbsG": 0,
+    "fatG": 6.5
+  },
+  "tags": [
+    "凉拌",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

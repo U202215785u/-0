@@ -1,0 +1,72 @@
+{
+  "id": "xf-11447",
+  "title": "糖醋瓜条",
+  "ingredients": [
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将黄瓜胡萝卜洗净削皮，切成长条；胡萝卜沸水中氽烫1分钟沥干水份,"
+    },
+    {
+      "text": "取一个保鲜盒，放入胡萝卜及黄瓜条，调入蜂蜜少许，白糖多一些，白醋多一些，少许味道拌匀腌制，入冰箱冷藏12小时以上,"
+    },
+    {
+      "text": "将腌好的瓜条摆盘，锅中放油烧至滚热，浇到花椒上，然后将花椒油浇在黄瓜上即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11447/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

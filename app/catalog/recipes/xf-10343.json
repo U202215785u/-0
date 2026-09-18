@@ -1,0 +1,100 @@
+{
+  "id": "xf-10343",
+  "title": "椰丝乳酪球",
+  "ingredients": [
+    {
+      "name": "奶油奶酪",
+      "mergeKey": "cream-cheese",
+      "amount": 150,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "椰蓉",
+      "mergeKey": "coconut",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大勺糖粉",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大勺牛奶",
+      "mergeKey": "milk",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "葡萄干",
+      "mergeKey": "raisin",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "朗姆酒",
+      "mergeKey": "rum",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "核桃仁",
+      "mergeKey": "walnut",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "葡萄干事先用朗姆酒浸泡过夜,"
+    },
+    {
+      "text": "奶油奶酪室温软化后，搅拌成顺滑无颗粒状,"
+    },
+    {
+      "text": "加入糖粉搅拌均匀,"
+    },
+    {
+      "text": "加入牛奶搅拌均匀,"
+    },
+    {
+      "text": "加入葡萄干和核桃仁搅拌均匀,"
+    },
+    {
+      "text": "将奶酪糊用勺子舀成小球状平铺在保鲜膜上，入冰箱冷藏30分钟,"
+    },
+    {
+      "text": "冷藏取出后，将奶酪球搓成圆形，放入装有椰丝的碗中，让表面均匀的裹满椰丝,"
+    },
+    {
+      "text": "全部粘好以后，再次冷藏30分钟就可以吃了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10343/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 88,
+    "proteinG": 3.3,
+    "carbsG": 13.2,
+    "fatG": 2.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

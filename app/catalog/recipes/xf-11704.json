@@ -1,0 +1,77 @@
+{
+  "id": "xf-11704",
+  "title": "芥末金针菇",
+  "ingredients": [
+    {
+      "name": "2人量，人多需要加量金针菇",
+      "mergeKey": "enoki",
+      "amount": 1,
+      "unit": "包",
+      "category": "菌菇"
+    },
+    {
+      "name": "绿芥末",
+      "mergeKey": "wasabi",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "多一些糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白醋",
+      "mergeKey": "vinegar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "金针菇清洗干净后剪去根部，撕开；葱切葱花，锅中水烧开后，放入金针菇段煮约1分钟至熟,"
+    },
+    {
+      "text": "取1个碗，调入适量的芥末酱，盐，少许鸡粉，多一些的糖，少许白醋，麻油搅拌均匀（量的多少可以根据自己的口味，随时增减，比如喜欢芥末的口感，就可以多放点）,"
+    },
+    {
+      "text": "将氽熟的金针菇过冷水冲凉后挤开水分，倒入调好的汁和葱花拌匀，放入一个杯子里或碗里压结实定型后，倒扣在盘子里点缀红椒丝即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11704/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

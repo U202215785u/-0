@@ -1,0 +1,89 @@
+{
+  "id": "xf-9827",
+  "title": "香辣花生",
+  "ingredients": [
+    {
+      "name": "花生米",
+      "mergeKey": "peanut",
+      "amount": 150,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小勺盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺糖",
+      "mergeKey": "sugar",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "几个干辣椒，一小勺花椒放锅内加水烧开，关火,"
+    },
+    {
+      "text": "把花生米倒入花椒水内泡半小时,"
+    },
+    {
+      "text": "捞出花生米，去皮（工作量比较大，一边儿干一边儿看个电视吧）,"
+    },
+    {
+      "text": "剥好的花生米，用厨房纸巾擦净表面水分，装入保鲜袋封好，放冷冻室冷冻,"
+    },
+    {
+      "text": "………………等想吃的时候取出…………,"
+    },
+    {
+      "text": "干辣椒去籽剪碎，花椒备好,"
+    },
+    {
+      "text": "锅内把油烧温热，倒入冷冻的花生米，中小火慢慢炸至花生米向上漂，锅内有哗哗的响动捞出；油再次烧热，倒入花生米复炸至金黄，立刻捞出沥去油,"
+    },
+    {
+      "text": "炒锅内少许油，烧热，倒入花椒，辣椒小火慢慢炒香,"
+    },
+    {
+      "text": "倒入炸好的花生米翻炒均匀，出锅前撒入盐"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9827/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 60,
+    "proteinG": 2.3,
+    "carbsG": 9,
+    "fatG": 1.5
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

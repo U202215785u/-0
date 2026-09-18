@@ -1,0 +1,68 @@
+{
+  "id": "xf-9780",
+  "title": "茶树菇烧肉",
+  "ingredients": [
+    {
+      "name": "茶树菇",
+      "mergeKey": "chashugu",
+      "category": "菌菇"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "新鲜的茶树菇洗净，摘成小段,"
+    },
+    {
+      "text": "五花肉切小块，焯水后洗净备用,"
+    },
+    {
+      "text": "将焯水后洗净的五花肉重新放入锅中，加一颗八角，少许料酒，老抽、生抽，放适量水（没过肉即可），煮开后放入茶树菇，转小火炖40分钟左右，最后加少许糖，转大火将汤汁收干即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9780/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

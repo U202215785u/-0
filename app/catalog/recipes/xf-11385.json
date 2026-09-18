@@ -1,0 +1,133 @@
+{
+  "id": "xf-11385",
+  "title": "锡纸包鲈鱼",
+  "ingredients": [
+    {
+      "name": "鲈鱼",
+      "mergeKey": "bass",
+      "amount": 0.5,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "/4个洋葱",
+      "mergeKey": "onion",
+      "amount": 1,
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 75,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "amount": 2,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白蘑菇",
+      "mergeKey": "mushroom",
+      "amount": 1,
+      "unit": "个",
+      "category": "菌菇"
+    },
+    {
+      "name": "15毫升白葡萄酒",
+      "mergeKey": "white-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鲜百里香",
+      "mergeKey": "thyme",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2茶匙3克白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5毫升柠檬汁",
+      "mergeKey": "lemon-juice",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大张锡纸",
+      "mergeKey": "aluminum-foil",
+      "amount": 1,
+      "category": "其他"
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 1,
+      "unit": "片",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把洋葱，芹菜，胡萝卜，蘑菇分别洗净。先把蘑菇切薄片，再把洋葱，芹菜和胡萝卜分别切成火柴棍粗细的丝备用,"
+    },
+    {
+      "text": "鲈鱼清理干净后洗净切片，用厨房纸擦干表面水分，均匀的撒上一层薄盐，白胡椒粉抹匀，然后挤上柠檬汁，腌制10分钟,"
+    },
+    {
+      "text": "在锡纸上均匀的涂上一层橄榄油，然后把腌制好的鱼放在涂好橄榄油的锡纸上，依次码放蔬菜丝，香叶，百里香,"
+    },
+    {
+      "text": "在鱼上倒入橄榄油和白葡萄酒，然后将锡纸按照鱼片的大小包裹好，四边收紧，放在烤盘上,"
+    },
+    {
+      "text": "烤箱提前预热，180度，放入烤箱中层，烤25分钟，锡纸中间鼓起即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11385/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 163.5,
+    "proteinG": 9.9,
+    "carbsG": 14,
+    "fatG": 8.6
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

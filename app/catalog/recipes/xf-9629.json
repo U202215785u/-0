@@ -1,0 +1,109 @@
+{
+  "id": "xf-9629",
+  "title": "西芹鸡柳",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken-leg",
+      "amount": 2,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "西芹",
+      "mergeKey": "celery",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙植物油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2大匙蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡腿去骨，将肉切成粗条，用腌料腌制15分钟。西芹切丝，胡萝卜切丝,"
+    },
+    {
+      "text": "油内烧油至四成熟，放入鸡柳，蚝油滑熟,"
+    },
+    {
+      "text": "鸡肉变色即可，捞起沥净油备用,"
+    },
+    {
+      "text": "剩下的油，放入西芹和胡萝卜，盐1/4小匙炒至断生,"
+    },
+    {
+      "text": "再把炒好的鸡柳放入翻炒均匀即可,"
+    },
+    {
+      "text": "最后加点香葱段点缀（可有可无）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9629/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 358.3,
+    "proteinG": 39.7,
+    "carbsG": 14.4,
+    "fatG": 14.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

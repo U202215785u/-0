@@ -1,0 +1,52 @@
+{
+  "id": "xf-11735",
+  "title": "润肤银耳羹",
+  "ingredients": [
+    {
+      "name": "银耳",
+      "mergeKey": "tremella",
+      "amount": 3,
+      "unit": "朵",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "勺鼠尾草籽",
+      "mergeKey": "chia-seed",
+      "amount": 7,
+      "unit": "勺",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "山楂",
+      "mergeKey": "hawthorn",
+      "amount": 0.5,
+      "unit": "碗",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "银耳3朵、鼠尾草籽7勺、山楂半碗,"
+    },
+    {
+      "text": "银耳泡发好后，煮到汤汁浓稠就可以放冰箱冷藏保存了,"
+    },
+    {
+      "text": "每次食用时，取一碗银耳、加一勺鼠尾草籽放入食物料理机,"
+    },
+    {
+      "text": "搅打10秒就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11735/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

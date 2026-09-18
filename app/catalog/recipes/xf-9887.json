@@ -1,0 +1,95 @@
+{
+  "id": "xf-9887",
+  "title": "酸汤牛肉",
+  "ingredients": [
+    {
+      "name": "香椿芽",
+      "mergeKey": "toona-sprout",
+      "category": "蔬菜"
+    },
+    {
+      "name": "肥牛肉片",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "贵州酸汤",
+      "mergeKey": "suan-tang",
+      "category": "其他"
+    },
+    {
+      "name": "金针菇",
+      "mergeKey": "enoki",
+      "category": "菌菇"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "海尔斯茶油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "胡萝卜切丝，金针菇切段，香葱切段，姜蒜切末,"
+    },
+    {
+      "text": "用肥牛片将金针菇、胡萝卜卷好成卷,"
+    },
+    {
+      "text": "锅中做茶油煸香葱姜蒜，放入贵州酸汤，炒出香味，将肥牛卷码放在锅中,"
+    },
+    {
+      "text": "加盐、胡椒粉、绍酒调味，将肥牛卷煮透，即可出锅，装盘时撒香椿芽提味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9887/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

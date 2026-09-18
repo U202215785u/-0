@@ -1,0 +1,129 @@
+{
+  "id": "xf-9998",
+  "title": "咖喱鱼头",
+  "ingredients": [
+    {
+      "name": "三花淡奶",
+      "mergeKey": "evaporated-milk",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "鱼头",
+      "mergeKey": "fish-head",
+      "category": "水产"
+    },
+    {
+      "name": "咖喱酱",
+      "mergeKey": "curry-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小西红柿",
+      "mergeKey": "cherry-tomato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青红椒",
+      "mergeKey": "pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "西红柿",
+      "mergeKey": "tomato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "椰浆",
+      "mergeKey": "coconut-milk",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "姜黄粉",
+      "mergeKey": "turmeric",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红辣椒粉",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芫荽粉",
+      "mergeKey": "coriander-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鱼头放上柠檬片去腥，锅上气后蒸5分钟,"
+    },
+    {
+      "text": "坐锅点火放入黄油变化,"
+    },
+    {
+      "text": "下洋葱块炒香变软，倒入蒜片、姜片炒香,"
+    },
+    {
+      "text": "倒入咖喱酱、放入黑胡椒炒开颜色,"
+    },
+    {
+      "text": "倒入青红椒、小西红柿、柠檬片,"
+    },
+    {
+      "text": "加入、椰浆、三花淡奶、大火炖开,"
+    },
+    {
+      "text": "加入少许白糖、盐调味，加入姜黄粉、芫荽粉、红椒粉,"
+    },
+    {
+      "text": "将蒸好的鱼头放入熬好的汁的锅中炖10分钟，待咖喱汁收浓，鱼头入味，出锅即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9998/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

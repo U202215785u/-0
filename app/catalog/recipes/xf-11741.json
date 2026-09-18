@@ -1,0 +1,58 @@
+{
+  "id": "xf-11741",
+  "title": "灯影牛肉西兰花",
+  "ingredients": [
+    {
+      "name": "西兰花",
+      "mergeKey": "broccoli",
+      "amount": 400,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "灯影牛肉丝",
+      "mergeKey": "beef",
+      "amount": 300,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "quantityText": "少量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "quantityText": "少量",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "西兰花在盐水中浸泡30分钟，能彻底清洗干净,"
+    },
+    {
+      "text": "热锅爆香姜蒜末，加入西兰花，大火翻炒5分钟,"
+    },
+    {
+      "text": "最后加入灯影牛肉丝翻炒均匀即可。（因为牛肉丝本身有咸度，就不要再加盐了）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11741/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 445,
+    "proteinG": 43,
+    "carbsG": 14,
+    "fatG": 23.3
+  },
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

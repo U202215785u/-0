@@ -1,0 +1,98 @@
+{
+  "id": "xf-9941",
+  "title": "老北京韭菜盒子",
+  "ingredients": [
+    {
+      "name": "韭菜",
+      "mergeKey": "chives",
+      "category": "蔬菜"
+    },
+    {
+      "name": "虾皮",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒油",
+      "mergeKey": "sichuan-peppercorn-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "一碗面粉，半碗温水，揉成面团，盖上干净的湿笼布醒20分钟,"
+    },
+    {
+      "text": "韭菜洗净切碎,"
+    },
+    {
+      "text": "鸡蛋温油炒熟（别放盐要不容易黑）,"
+    },
+    {
+      "text": "用筷子扒拉开（不要加盐，否则炒出的鸡蛋容易发黑）,"
+    },
+    {
+      "text": "将大块的鸡蛋剁成碎末（当然不愿意吃太碎的爱吃大块鸡蛋的也可以不剁）,"
+    },
+    {
+      "text": "鸡蛋、韭菜、虾皮的比例为2：3：1,"
+    },
+    {
+      "text": "调入适量盐和香油和花椒油调味，搅拌均匀成馅（加盐的时候一定要考虑到虾皮也有一定的咸味）,"
+    },
+    {
+      "text": "将剂子擀成面饼,"
+    },
+    {
+      "text": "放上适量的馅（放馅的时候，因为这是素馅不容易放，多放几次压实一些）,"
+    },
+    {
+      "text": "封口，捏出小花（防止馅露，这样会包的很严实的）,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "饼铛内刷少许油，烧热，放入韭菜盒子,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "烙至两面金黄即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9941/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

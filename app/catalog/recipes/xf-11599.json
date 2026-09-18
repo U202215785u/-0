@@ -1,0 +1,124 @@
+{
+  "id": "xf-11599",
+  "title": "酸豇豆辣炒肉末",
+  "ingredients": [
+    {
+      "name": "酸豇豆",
+      "mergeKey": "pickled-beans",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "肉馅",
+      "mergeKey": "ground-pork",
+      "amount": 100,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 8,
+      "unit": "根",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "西班牙橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙1克白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "30毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3毫升老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 3,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克糖",
+      "mergeKey": "sugar",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙1毫升香油",
+      "mergeKey": "sesame-oil",
+      "amount": 1,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将酸豇豆放在清水中浸泡20分钟后洗净，然后用手攥干后切成5毫米的小粒,"
+    },
+    {
+      "text": "肉馅放入碗中，倒入料酒，老抽，橄榄油抓拌均匀后腌制5分钟。姜去皮切碎备用。干辣椒也剪成小段儿,"
+    },
+    {
+      "text": "锅中倒入油，大火加热待油7成热时放入肉馅，迅速炒散至肉变色变熟后捞出,"
+    },
+    {
+      "text": "锅中继续倒入一些油，大火加热待油4成热时，放入姜末和辣椒段，炒出香味后，放入酸豇豆粒，改成中小火，煸炒至少3分钟以上,"
+    },
+    {
+      "text": "放入炒好的肉碎，再放入生抽，糖，翻炒均匀后继续炒2分钟，淋入香油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11599/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 638.4,
+    "proteinG": 25.6,
+    "carbsG": 44.4,
+    "fatG": 41.7
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

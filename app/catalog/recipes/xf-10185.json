@@ -1,0 +1,49 @@
+{
+  "id": "xf-10185",
+  "title": "咸肉蒸春笋",
+  "ingredients": [
+    {
+      "name": "咸肉",
+      "mergeKey": "cured-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "春笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "春笋剥壳洗净，对剖再斜切成薄片，铺在盘底,"
+    },
+    {
+      "text": "咸肉切薄片，平铺在春笋上。撒一汤匙白糖，再撒一点点清水,"
+    },
+    {
+      "text": "锅中水煮开，放入大火蒸7分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10185/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "炸",
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "xf-10557",
+  "title": "可可玛德琳",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 40,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "可可粉",
+      "mergeKey": "cocoa-powder",
+      "amount": 8,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 35,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "amount": 8,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 45,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 1.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香草精",
+      "mergeKey": "vanilla-extract",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "低粉、可可粉、泡打粉混合过筛备用,"
+    },
+    {
+      "text": "鸡蛋打入碗里，倒入细砂糖，用手动打蛋器搅拌均匀即可，不需要打发,"
+    },
+    {
+      "text": "倒入蜂蜜，搅拌均匀,"
+    },
+    {
+      "text": "倒入少许香草精，搅拌均匀,"
+    },
+    {
+      "text": "倒入过筛后的低筋面粉，用打蛋器慢慢搅拌均匀,"
+    },
+    {
+      "text": "黄油融化后，倒入5中搅拌均匀,"
+    },
+    {
+      "text": "搅拌均匀后的面糊放入冰箱冷藏1小时,"
+    },
+    {
+      "text": "冷藏后的面糊稍微回温后倒入模中，烤箱中层，上下火190度，13-15分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10557/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 168.4,
+    "proteinG": 5,
+    "carbsG": 30.4,
+    "fatG": 3.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

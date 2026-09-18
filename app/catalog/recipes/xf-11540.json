@@ -1,0 +1,84 @@
+{
+  "id": "xf-11540",
+  "title": "红枣补血养颜粥",
+  "ingredients": [
+    {
+      "name": "红枣",
+      "mergeKey": "red-dates",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "红豆",
+      "mergeKey": "adzuki-bean",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "紫米",
+      "mergeKey": "purple-rice",
+      "amount": 30,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "花生",
+      "mergeKey": "peanut",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大米",
+      "mergeKey": "rice",
+      "amount": 30,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "红糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将红豆，紫米，大米和花生洗净，用清水浸泡1小时。红枣洗净,"
+    },
+    {
+      "text": "将泡好的红豆，紫米，大米，花生，红枣倒入电饭锅中，倒入800毫升清水，盖上盖子，按下按键“煮粥”键即可（约2小时）,"
+    },
+    {
+      "text": "粥熬好后，调入红糖食用,"
+    },
+    {
+      "text": "备注：如果不用电饭锅熬制，在普通锅中煮，待水开后，虚掩锅盖，调成小火煮50分钟左右即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11540/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 130.2,
+    "proteinG": 3.1,
+    "carbsG": 25,
+    "fatG": 1.8
+  },
+  "tags": [
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

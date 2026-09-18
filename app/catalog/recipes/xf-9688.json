@@ -1,0 +1,79 @@
+{
+  "id": "xf-9688",
+  "title": "虾米炒青菜",
+  "ingredients": [
+    {
+      "name": "虾米",
+      "mergeKey": "dried-shrimp",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "青菜",
+      "mergeKey": "green-vegetables",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备材料,"
+    },
+    {
+      "text": "虾米加少许温水浸泡,"
+    },
+    {
+      "text": "锅中放入姜丝,"
+    },
+    {
+      "text": "倒入泡软的虾米,"
+    },
+    {
+      "text": "加入青菜,"
+    },
+    {
+      "text": "炒软后加入适量的盐和香油出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9688/",
+  "author": "飞雪无霜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 95.7,
+    "proteinG": 4.6,
+    "carbsG": 7.7,
+    "fatG": 5.8
+  },
+  "tags": [
+    "炒",
+    "蒸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

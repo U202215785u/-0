@@ -1,0 +1,72 @@
+{
+  "id": "xf-10309",
+  "title": "雪梨百合润肺汤",
+  "ingredients": [
+    {
+      "name": "雪梨",
+      "mergeKey": "pear",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "百合",
+      "mergeKey": "lily",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 800,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "amount": 10,
+      "unit": "粒",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "(45毫升)蜂蜜",
+      "mergeKey": "honey",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "雪梨洗净带皮切成小块。将百合掰开，去掉根部后洗净,"
+    },
+    {
+      "text": "将雪梨块和百合放入锅中，倒入清水，大火煮开后，撇去汤面的浮沫,"
+    },
+    {
+      "text": "盖上锅盖，露一条小缝，调成小火，煮20分钟后，放入洗净的枸杞，再煮2分钟,"
+    },
+    {
+      "text": "将火关掉，稍微冷却2分钟后，淋入蜂蜜搅匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10309/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 87.1,
+    "proteinG": 0,
+    "carbsG": 22.5,
+    "fatG": 0
+  },
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

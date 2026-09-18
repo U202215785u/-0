@@ -1,0 +1,96 @@
+{
+  "id": "xf-9687",
+  "title": "辣白菜咖喱锅",
+  "ingredients": [
+    {
+      "name": "魔芋丝",
+      "mergeKey": "konjac",
+      "category": "其他"
+    },
+    {
+      "name": "牛肉",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "咖喱块",
+      "mergeKey": "curry",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣白菜",
+      "mergeKey": "kimchi",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白萝卜",
+      "mergeKey": "daikon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "西芹",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白菜",
+      "mergeKey": "cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "金针菇",
+      "mergeKey": "enoki",
+      "category": "菌菇"
+    },
+    {
+      "name": "竹轮",
+      "mergeKey": "chikuwa",
+      "category": "水产"
+    },
+    {
+      "name": "蟹棒",
+      "mergeKey": "crab-stick",
+      "category": "水产"
+    },
+    {
+      "name": "鱼丸",
+      "mergeKey": "fish-ball",
+      "category": "水产"
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "scallion-ginger-garlic",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅内放少许油，加葱姜蒜粒爆香,"
+    },
+    {
+      "text": "下辣白菜翻炒，加足量水，沸腾后加入咖喱块融化,"
+    },
+    {
+      "text": "加适量生抽、料酒、糖调味,"
+    },
+    {
+      "text": "沸腾后，加喜欢的食材煮炖即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9687/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "煮"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

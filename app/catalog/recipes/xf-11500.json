@@ -1,0 +1,58 @@
+{
+  "id": "xf-11500",
+  "title": "姜丝黄酒蒸青蟹",
+  "ingredients": [
+    {
+      "name": "蟹",
+      "mergeKey": "crab",
+      "category": "水产"
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米醋",
+      "mergeKey": "vinegar",
+      "amount": 105,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将螃蟹洗刷干净，肚子朝上，盖上重物，入开水锅中大火蒸10分钟,"
+    },
+    {
+      "text": "蒸10分钟后，打开锅盖，放入多一些的姜丝倒入多一些的黄酒，继续蒸10分钟即可,"
+    },
+    {
+      "text": "姜末糖醋汁：姜切丝切末，调入7汤匙双鱼米醋，2汤匙白糖搅匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11500/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

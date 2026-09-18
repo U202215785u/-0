@@ -1,0 +1,57 @@
+{
+  "id": "xf-9704",
+  "title": "花胶鹿筋煲",
+  "ingredients": [
+    {
+      "name": "花胶",
+      "mergeKey": "fish-maw",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鹿筋",
+      "mergeKey": "deer-tendon",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "凤爪",
+      "mergeKey": "chicken-feet",
+      "category": "肉类"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "凤爪剁成小段，放入水中焯过，洗净备用,"
+    },
+    {
+      "text": "凤爪放入煲中，加姜片，炖至软烂（我用的是电炖汤煲，大概需要炖6个小时）；中间要把浮在汤上面的鸡油去掉,"
+    },
+    {
+      "text": "发泡好的花胶和鹿筋在开水中焯一下，为了去除腥味，记得一定要放几片生姜,"
+    },
+    {
+      "text": "把花胶和鹿筋放入凤爪汤中，煮开，加入适量盐即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9704/",
+  "author": "crystal苏提",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

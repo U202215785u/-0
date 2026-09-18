@@ -1,0 +1,136 @@
+{
+  "id": "xf-11154",
+  "title": "太妃核桃冰淇淋",
+  "ingredients": [
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 150,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 200,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "核桃",
+      "mergeKey": "walnut",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 120,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "热的鲜奶油",
+      "mergeKey": "cream",
+      "amount": 50,
+      "unit": "克",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "蛋乳泥制作过程,"
+    },
+    {
+      "text": "蛋黄加糖搅打均匀,"
+    },
+    {
+      "text": "牛奶加热至边缘冒泡，然后缓慢的冲入蛋黄糊中，边倒边搅,"
+    },
+    {
+      "text": "将搅匀的牛奶蛋黄溶液重新倒回奶锅中，用小火加热，边煮边搅，直到奶液变浓稠关火,"
+    },
+    {
+      "text": "倒入另一个盆中，表面盖湿布，待冷却后备用,"
+    },
+    {
+      "text": "太妃糖制作过程,"
+    },
+    {
+      "text": "把砂糖和30克水放入锅中，稍稍用勺子搅拌均匀，小火加热，加热时不要搅拌,"
+    },
+    {
+      "text": "沸腾后表面会有很多大气泡，水分逐渐减少，气泡开始变小,"
+    },
+    {
+      "text": "待锅内一圈成微黄色时，可以稍稍晃动一下锅子,"
+    },
+    {
+      "text": "观察糖浆的颜色，变成琥珀色或棕褐色时加入淡奶油，搅拌均匀，关火即可。（淡奶油可以事先用微波炉叮热,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "太妃核桃冰淇淋制作过程,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将冷却后的蛋乳泥和太妃酱混合搅拌均，与淡奶油一同倒入事先冷冻完成的冰淇淋桶内，插上电源，搅拌40分钟,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "核桃用微波炉或烤箱略烤一会后，放入保鲜袋内擀成碎末,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "核桃碎最后加入冰淇淋中搅拌均匀，倒入保鲜盒内冷冻保存"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11154/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 450.9,
+    "proteinG": 6.8,
+    "carbsG": 97,
+    "fatG": 4.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 90,
+  "difficulty": "中等"
+}

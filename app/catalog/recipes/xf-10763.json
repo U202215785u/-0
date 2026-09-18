@@ -1,0 +1,97 @@
+{
+  "id": "xf-10763",
+  "title": "蜜汁酱烤排骨",
+  "ingredients": [
+    {
+      "name": "薄子排(肋排也可)",
+      "mergeKey": "pork-ribs",
+      "category": "肉类"
+    },
+    {
+      "name": "蜜汁烤肉酱",
+      "mergeKey": "bbq-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "薄子排洗净，斩成长条状,"
+    },
+    {
+      "text": "锅里烧开水，放子排进去煮两分钟去血污，捞出冲洗干净,"
+    },
+    {
+      "text": "子排入锅，放水没过肉，放姜片，葱段，少许料酒一起大火烧开，转小火煮20分钟,"
+    },
+    {
+      "text": "捞出子排，放碗里，放三勺蜜汁烤肉酱，一勺蚝油，一勺生抽，一点点盐，大半勺蜂蜜，最后撒上黑胡椒粉,"
+    },
+    {
+      "text": "充分拌匀后，包上保鲜膜扔进冰箱冷藏一个晚上,"
+    },
+    {
+      "text": "第二天取出排骨，烤箱200度预热，把锡纸裁成长方形，每张锡纸包一根腌制好的排骨，记得把碗底腌制排骨的汁浇一勺在排骨上，然后包起来,"
+    },
+    {
+      "text": "全部包好，排在烤盘上，入已经预热好的烤箱，200度中层烤20-25分钟左右即可取出，待凉装盘上桌"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10763/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "烤",
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

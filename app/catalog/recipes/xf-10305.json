@@ -1,0 +1,140 @@
+{
+  "id": "xf-10305",
+  "title": "红烧鸡丁豆腐",
+  "ingredients": [
+    {
+      "name": "北豆腐",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "盒",
+      "category": "豆制品"
+    },
+    {
+      "name": "鸡胸",
+      "mergeKey": "chicken-breast",
+      "amount": 200,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "荷兰豆",
+      "mergeKey": "snow-pea",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米粒",
+      "mergeKey": "corn",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 4,
+      "unit": "根",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "西班牙橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 75,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "红烧酱油",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "water-starch",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将豆腐切成1厘米大小的块。鸡丁也切成同样大小的块，放入1汤匙（15毫升）西班牙橄榄油，料酒和干淀粉，搅,"
+    },
+    {
+      "text": "匀后腌制5分钟,"
+    },
+    {
+      "text": "荷兰豆去除两侧的筋，洗净后切成2厘米大的片。大蒜去皮切片,"
+    },
+    {
+      "text": "锅中倒入橄榄油，待油7成热时，放入豆腐，调成中火，豆腐块煎成几面金黄色后盛出,"
+    },
+    {
+      "text": "把锅中的余油，烧至7成热，放入鸡丁用大火煸炒半分钟，待鸡丁变成白色后盛出,"
+    },
+    {
+      "text": "再往锅中倒入一点点油，放入大蒜片和干红辣椒炒出香味后，放入豆腐块和鸡丁，调入红烧酱油，盐，和少,"
+    },
+    {
+      "text": "许清水，水开后继续用中火煮2分钟,"
+    },
+    {
+      "text": "放入荷兰豆和玉米粒，继续煮半分钟后，淋入水淀粉勾芡即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10305/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 645.5,
+    "proteinG": 34,
+    "carbsG": 38.6,
+    "fatG": 40.1
+  },
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

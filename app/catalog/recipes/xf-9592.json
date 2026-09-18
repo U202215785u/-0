@@ -1,0 +1,98 @@
+{
+  "id": "xf-9592",
+  "title": "火腿焗饭",
+  "ingredients": [
+    {
+      "name": "一小碗米饭",
+      "mergeKey": "rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "火腿",
+      "amount": 1,
+      "unit": "根",
+      "mergeKey": "ham",
+      "category": "肉类"
+    },
+    {
+      "name": "马苏里拉奶酪",
+      "quantityText": "少许",
+      "mergeKey": "cheese",
+      "category": "乳制品"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "玉米粒",
+      "quantityText": "少许",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "quantityText": "少许",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备材料火腿切丁,"
+    },
+    {
+      "text": "马苏里拉和玉米粒解冻,"
+    },
+    {
+      "text": "马苏里拉奶酪切成丝,"
+    },
+    {
+      "text": "鸡蛋打散,"
+    },
+    {
+      "text": "锅中倒油，油温稍热时,"
+    },
+    {
+      "text": "放入鸡蛋打散,"
+    },
+    {
+      "text": "加入玉米粒,"
+    },
+    {
+      "text": "加入火腿丁,"
+    },
+    {
+      "text": "加入米饭，翻炒后，放适量的盐,"
+    },
+    {
+      "text": "分别放在烤碗中,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "上面撒上马苏里拉奶酪丝,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "烤箱175度第二层20分钟左右上色即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9592/",
+  "author": "飞雪无霜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

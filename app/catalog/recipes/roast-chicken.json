@@ -1,0 +1,82 @@
+{
+  "id": "roast-chicken",
+  "title": "黄油烤鸡",
+  "ingredients": [
+    {
+      "name": "粗盐",
+      "mergeKey": "salt",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "整鸡",
+      "mergeKey": "chicken",
+      "amount": 1814,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 57,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 240,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "粗盐均匀抹在鸡胸、鸡腿和鸡身上，把整鸡放入可密封袋，鸡胸朝上置于大碗中，冷藏至少8小时、最多2天。",
+      "ingredientNames": [
+        "粗盐",
+        "整鸡"
+      ]
+    },
+    {
+      "text": "烤箱上三分之一处放烤架，预热至260摄氏度；烤盘放金属架，整鸡取出后用纸巾擦干，鸡腿用棉线松松扎住、翅尖塞到鸡身下，刷融化黄油，烤盘加清水。",
+      "ingredientNames": [
+        "整鸡",
+        "无盐黄油",
+        "清水"
+      ]
+    },
+    {
+      "text": "先烤15分钟，刷一次黄油，继续烤至表皮浅金且绷紧，约30分钟；降温至177摄氏度，取出刷黄油，静置15至20分钟。",
+      "ingredientNames": [
+        "整鸡",
+        "无盐黄油"
+      ]
+    },
+    {
+      "text": "整鸡回烤，每10分钟刷黄油，直到大腿最厚处达到74摄氏度，约40至45分钟；再静置20分钟，切件并浇烤盘汁。",
+      "ingredientNames": [
+        "整鸡",
+        "无盐黄油"
+      ]
+    }
+  ],
+  "sourceUrl": "https://www.bonappetit.com/recipe/roast-chicken",
+  "author": "Melissa Hamilton、Christopher Hirsheimer、Hirsheimer Hamilton / Bon Appetit",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验 Bon Appetit 公开的4至6人份、署名作者、3项主配料和4段方法；页面未公开总时长，未填 durationMinutes，烤箱华氏温度按页面公开数值换算为摄氏度。",
+  "nutrition": {
+    "kcal": 1525.4,
+    "proteinG": 282.3,
+    "carbsG": 4.3,
+    "fatG": 33.4
+  },
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

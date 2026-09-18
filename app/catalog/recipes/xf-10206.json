@@ -1,0 +1,106 @@
+{
+  "id": "xf-10206",
+  "title": "薯蓉芝士烤培根",
+  "sourceUrl": "https://www.xiachufang.com/recipe/10206/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "ingredients": [
+    {
+      "name": "芝士丝",
+      "mergeKey": "cheese",
+      "category": "乳制品"
+    },
+    {
+      "name": "熟玉米粒",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "category": "肉类"
+    },
+    {
+      "name": "熟红薯",
+      "mergeKey": "sweet-potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青豆",
+      "mergeKey": "peas",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "西芹",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "category": "乳制品"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "迷迭香",
+      "mergeKey": "rosemary",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒碎",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "做法："
+    },
+    {
+      "text": "胡萝卜切丁，西芹切丁，蒜切片，红辣椒切小粒，培根切一样的片,"
+    },
+    {
+      "text": "熟红薯去皮加牛奶搅拌成薯蓉,"
+    },
+    {
+      "text": "锅中加油，中温把蒜片炒香，然后加入青豆，胡萝卜丁，玉米翻炒，然后加入西芹翻炒，加盐和黑胡椒碎调味,"
+    },
+    {
+      "text": "在上述炒好的材料里加入薯蓉搅拌均匀,"
+    },
+    {
+      "text": "把拌好的馅料铺在培根片上，再铺一片再放上一些薯蓉最后再放上一片培根片就行，然后培根上撒上芝士丝和迷迭香，及红辣椒小粒进烤箱180度上下火烤5分钟，芝士融化有些焦黄即可,"
+    },
+    {
+      "text": "熟的红薯绵软滑糯，牛奶和芝士弥漫在烤箱里，浓浓的奶香，好吃的培根烤的直冒油，如果这道美食还能瘦脸。那你们还等什么呢？快来吃吧"
+    }
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

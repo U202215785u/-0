@@ -1,0 +1,100 @@
+{
+  "id": "xf-3732",
+  "title": "酱烧茄条",
+  "ingredients": [
+    {
+      "name": "茄子",
+      "mergeKey": "eggplant",
+      "category": "蔬菜"
+    },
+    {
+      "name": "甜面酱",
+      "mergeKey": "sweet-bean-paste",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱末",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白砂糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "茄子用淡盐水浸泡洗净后，切成长条，泡在清水里，至少15分钟"
+    },
+    {
+      "text": "泡茄子的水倒掉，把茄子一根根用干净的布吸干表面水份"
+    },
+    {
+      "text": "锅里放油烧热（跟平时烧菜差不多量的油就可以了）。吸干水份的茄条分次排入锅中，煎至茄条变软"
+    },
+    {
+      "text": "煎好的茄条都放盘子里备用"
+    },
+    {
+      "text": "用锅里剩下的一点油，爆香葱姜蒜末和甜面酱一大勺"
+    },
+    {
+      "text": "加点水烧开"
+    },
+    {
+      "text": "放入煎好的茄条，加半汤匙老抽，再加点白砂糖，煮沸后转小火盖上盖子煮两分钟，加一点点盐和鸡精调好味"
+    },
+    {
+      "text": "倒入少许调好的水淀粉，勾芡后出锅撒上葱花"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/3732/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

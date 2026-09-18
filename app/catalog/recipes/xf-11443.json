@@ -1,0 +1,111 @@
+{
+  "id": "xf-11443",
+  "title": "葱香肉末鸡蛋卷",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "枚",
+      "category": "蛋类"
+    },
+    {
+      "name": "里脊肉",
+      "mergeKey": "pork",
+      "amount": 150,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "小葱",
+      "mergeKey": "scallion",
+      "amount": 60,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡蛋放入碗中打散后，加入少许水淀粉（约10毫升）打匀（使蛋液凝固力增加）,"
+    },
+    {
+      "text": "里几肉洗干净后切成丁，再剁成肉末，加入少许姜末，剁好后放入碗中调入盐，鸡精，胡椒粉，料酒，美极鲜酱油，少许蛋液及葱花拌匀,"
+    },
+    {
+      "text": "锅中放少许油小火烧至温热，倒入蛋液铺满整个锅底，一直用小火慢慢等蛋液凝固，再小心沿锅边铲开翻面煎成蛋皮,"
+    },
+    {
+      "text": "煎好的蛋皮放入盘中，铺上一层肉末，再卷成条,"
+    },
+    {
+      "text": "大火烧开蒸锅水，放入鸡蛋卷，中火蒸8分钟，取出淋少许香油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11443/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 131.5,
+    "proteinG": 8.8,
+    "carbsG": 9.5,
+    "fatG": 6.5
+  },
+  "tags": [
+    "烧焖",
+    "炸",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

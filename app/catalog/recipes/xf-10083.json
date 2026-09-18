@@ -1,0 +1,54 @@
+{
+  "id": "xf-10083",
+  "title": "酱肉小炒",
+  "ingredients": [
+    {
+      "name": "酱肉",
+      "mergeKey": "cured-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "娃娃菜",
+      "mergeKey": "baby-cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "冬笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青蒜",
+      "mergeKey": "garlic-sprout",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "冬笋切片、焯水,"
+    },
+    {
+      "text": "酱肉切薄片,"
+    },
+    {
+      "text": "爆炒青蒜,"
+    },
+    {
+      "text": "在另一锅中略炒至酱肉出油后取出、待用,"
+    },
+    {
+      "text": "加入娃娃菜、冬笋、少许糖和盐拌炒，最后加入酱肉拌炒即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10083/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

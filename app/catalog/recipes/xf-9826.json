@@ -1,0 +1,84 @@
+{
+  "id": "xf-9826",
+  "title": "蒜子烧鸡翅",
+  "ingredients": [
+    {
+      "name": "鸡翅",
+      "mergeKey": "chicken-wing",
+      "amount": 8,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "一头大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡翅洗净擦干水分，大蒜去皮,"
+    },
+    {
+      "text": "锅内少许油放鸡翅煎至表面泛黄，盛出备用,"
+    },
+    {
+      "text": "用锅内的余油煎黄蒜瓣,"
+    },
+    {
+      "text": "下鸡翅倒入没过鸡翅的开水，加入盐，冰糖，生抽，老抽,"
+    },
+    {
+      "text": "烧开后转中小火焖至汤汁浓稠即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9826/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 418.7,
+    "proteinG": 37.7,
+    "carbsG": 2.8,
+    "fatG": 29
+  },
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

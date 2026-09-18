@@ -1,0 +1,83 @@
+{
+  "id": "xf-9679",
+  "title": "清鸡汤薏米鸽蛋",
+  "ingredients": [
+    {
+      "name": "小枣",
+      "mergeKey": "jujube",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "薏仁米",
+      "mergeKey": "coix-seed",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "鸽子蛋",
+      "mergeKey": "pigeon-egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "鸡翅",
+      "mergeKey": "chicken-wing",
+      "category": "肉类"
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜葱",
+      "mergeKey": "ginger-scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "薏米洗净提前半天泡软,"
+    },
+    {
+      "text": "鸡翅中洗净，凉水下锅焯净血末，捞出待用,"
+    },
+    {
+      "text": "鸽蛋煮熟去皮待用，小枣、枸杞洗净清水泡好,"
+    },
+    {
+      "text": "锅中做开水，放入姜片、葱段、放入鸡翅烧开，放入泡好的薏仁米，放入绍酒一起小火炖40分钟，加盐少许胡椒粉调味，放入泡好的小枣和枸杞还有鸽子蛋略煮即可出锅装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9679/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "蒸",
+    "煮",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

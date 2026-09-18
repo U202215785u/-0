@@ -1,0 +1,76 @@
+{
+  "id": "xf-101790129",
+  "title": "干锅土豆片",
+  "ingredients": [
+    {
+      "name": "随意土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "辣椒面",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "土豆削皮洗净"
+    },
+    {
+      "text": "切成均匀的片，不要太薄噢"
+    },
+    {
+      "text": "锅里放水，水烧开以后把土豆片放进去烫一下，二十秒左右就可以了，烫久了做的时候容易烂掉，不烫也做不好"
+    },
+    {
+      "text": "锅里放油，把土豆片两面煎黄备用"
+    },
+    {
+      "text": "锅里加油烧热后，放蒜片，豆瓣酱适量，还可以放点花椒粒炒香"
+    },
+    {
+      "text": "把煎黄的土豆片倒进去翻均匀，撒上适量辣椒面翻匀，然后装干锅，撒葱花白芝麻，点上酒精炉即可"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/101790129/",
+  "author": "十月佳梅",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "xf-11334",
+  "title": "醋溜白菜片",
+  "ingredients": [
+    {
+      "name": "五花肉片",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "白菜",
+      "mergeKey": "cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇"
+    },
+    {
+      "name": "胡罗卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-pepper-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒油",
+      "mergeKey": "sichuan-pepper-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "白菜切片，木耳泡软切小块，胡罗卜切片。葱花，蒜片，五花肉片少许,"
+    },
+    {
+      "text": "锅下少量油，依次下五花肉片、葱蒜、胡罗卜、木耳，加点米酒和花椒粉，翻炒,"
+    },
+    {
+      "text": "下白菜片炒熟，出锅前加醋、盐、鸡精、花椒油。淋点儿香油也不错的吧~"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11334/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

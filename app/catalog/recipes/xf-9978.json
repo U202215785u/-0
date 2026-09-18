@@ -1,0 +1,100 @@
+{
+  "id": "xf-9978",
+  "title": "香草可乐鸡翅根",
+  "ingredients": [
+    {
+      "name": "支鸡翅根",
+      "mergeKey": "chicken-wing",
+      "amount": 6,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "半瓶香草可乐",
+      "mergeKey": "cola",
+      "amount": 0.5,
+      "unit": "瓶",
+      "category": "其他"
+    },
+    {
+      "name": "整颗大蒜头",
+      "mergeKey": "garlic",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香醋",
+      "mergeKey": "vinegar",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡翅根划上深口，准备半支有糖可乐,"
+    },
+    {
+      "text": "用蒜头，姜片，可乐，生抽，料酒，白糖，腌制半天,"
+    },
+    {
+      "text": "锅内热油，把鸡翅根取出，爆香直至鸡皮出油,"
+    },
+    {
+      "text": "把所有的腌料都倒入锅内，大火烧开后，转小火慢煮,"
+    },
+    {
+      "text": "直至汁快收干了，倒入香醋提香。翻均匀即可起锅了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9978/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

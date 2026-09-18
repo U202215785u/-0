@@ -1,0 +1,61 @@
+{
+  "id": "xf-9765",
+  "title": "倒笃菜蒸黑鱼片",
+  "ingredients": [
+    {
+      "name": "黑鱼",
+      "mergeKey": "snakehead",
+      "category": "水产"
+    },
+    {
+      "name": "倒笃菜",
+      "mergeKey": "pickled-mustard",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将黑鱼的鱼肉片成较厚的片状,"
+    },
+    {
+      "text": "将片好的黑鱼片用姜丝、料酒、生粉、倒笃菜、少许盐翻拌均匀，腌制20分钟,"
+    },
+    {
+      "text": "蒸锅中水烧开后，将腌好的鱼片放入，用大火蒸8分钟即可关火"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9765/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "xf-9697",
+  "title": "粽香排骨",
+  "ingredients": [
+    {
+      "name": "肋排",
+      "mergeKey": "pork-rib",
+      "category": "肉类"
+    },
+    {
+      "name": "糯米",
+      "mergeKey": "glutinous-rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "棕叶",
+      "mergeKey": "bamboo-leaf",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "棕叶泡水，最好是泡过夜，让棕叶都舒展开。我时间来不及，只泡了两小时，不过还好，不影响使用,"
+    },
+    {
+      "text": "糯米用水浸泡两小时以上,"
+    },
+    {
+      "text": "肋排切段，用料酒，蚝油，少许糖腌制。腌制时间长点比较入味，如果急着做，那么腌制一两个小时也可,"
+    },
+    {
+      "text": "泡开的糯米洗净，沥干水分，加少许料酒，一勺蚝油，一勺生抽，淋点麻油拌匀备用,"
+    },
+    {
+      "text": "泡好的棕叶剪成合适长短，摊平，在一端放一勺糯米，上面放一块腌制好的肋排,"
+    },
+    {
+      "text": "卷起来，棕叶尾部用牙签固定,"
+    },
+    {
+      "text": "高压锅蒸，上气后转小火30分钟左右即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9697/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

@@ -1,0 +1,132 @@
+{
+  "id": "xf-10038",
+  "title": "吉野家肥牛饭",
+  "ingredients": [
+    {
+      "name": "肥牛片",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "西兰花",
+      "mergeKey": "broccoli",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "菜花",
+      "mergeKey": "cauliflower",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "味噌",
+      "mergeKey": "miso",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "category": "乳制品"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "胡萝卜切好花刀切圆片,"
+    },
+    {
+      "text": "洋葱顺自然纹理切成粗丝，西兰花。菜花切成小朵,"
+    },
+    {
+      "text": "锅中做开水，放入黄油、盐加入西兰花、菜花、胡萝卜,"
+    },
+    {
+      "text": "大火烧开，改小火略煮，煮熟捞出待用,"
+    },
+    {
+      "text": "打开味噌瓶子的小窍门，把盖在地上磕两下进气就好开了，要不一般的味噌瓶子密封都很好。女孩子不好开，也可以找男孩子开,"
+    },
+    {
+      "text": "锅中做油不要太热就可以放入洋葱丝,"
+    },
+    {
+      "text": "油温慢慢变热洋葱煸出香味,"
+    },
+    {
+      "text": "放入味噌一勺,"
+    },
+    {
+      "text": "加入美极鲜酱油、生抽炒匀,"
+    },
+    {
+      "text": "放入高汤，加少许盐、胡椒粉、糖调味,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "放入解冻的肥牛片,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "大火烧开断生，入味即可立马关火，扣好新米饭、摆好蔬菜，将肥牛和汤淋入即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10038/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

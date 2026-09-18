@@ -1,0 +1,55 @@
+{
+  "id": "xf-11442",
+  "title": "银耳莲子雪梨羹",
+  "ingredients": [
+    {
+      "name": "银耳",
+      "mergeKey": "tremella",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "莲子",
+      "mergeKey": "lotus-seed",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸭梨",
+      "mergeKey": "pear",
+      "category": "其他"
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将银耳摘成小朵和莲子提前2小时泡发；枸杞用热水泡发,"
+    },
+    {
+      "text": "高压锅里放入银耳莲子及多一些的水，加入冰糖，大火烧开转小火煲20-30分钟,"
+    },
+    {
+      "text": "鸭梨去皮削块，和泡好的枸杞一同放入烧好的羹中拌匀，凉后放冰箱冷藏即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11442/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

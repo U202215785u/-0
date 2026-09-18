@@ -1,0 +1,86 @@
+{
+  "id": "xf-11120",
+  "title": "鲜虾青瓜烙",
+  "ingredients": [
+    {
+      "name": "活虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小个的鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "category": "其他"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "虾去头剥壳开背去肠泥后，成虾仁，用一点点盐、蛋清、水淀粉上浆备用,"
+    },
+    {
+      "text": "一根黄瓜擦成丝（汁水也要哦,"
+    },
+    {
+      "text": "加两个鸡蛋搅散。加适量清水拌匀（加清水可以让煎饼更软糯）。加五汤匙左右的面粉调成糊状（面粉的量可以按照自己欢来调整），加少量盐和胡椒粉调匀,"
+    },
+    {
+      "text": "平底锅加油，加热至三成，倒入面糊，把虾仁排在表面，煎,"
+    },
+    {
+      "text": "我的平底锅稍小了点，面饼摊的有点厚，所以盖上盖子焖了会儿，虾仁全部变红就基本好了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11120/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

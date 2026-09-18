@@ -1,0 +1,64 @@
+{
+  "id": "xf-10733",
+  "title": "香蕉小子",
+  "ingredients": [
+    {
+      "name": "香蕉",
+      "mergeKey": "banana",
+      "amount": 3,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "棒冰杆",
+      "mergeKey": "popsicle-stick",
+      "amount": 6,
+      "unit": "根",
+      "category": "其他"
+    },
+    {
+      "name": "巧克力",
+      "mergeKey": "chocolate",
+      "amount": 1,
+      "unit": "大块",
+      "category": "其他",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 1,
+      "unit": "小块",
+      "category": "乳制品"
+    },
+    {
+      "name": "几颗杏仁",
+      "mergeKey": "almond",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "装饰用彩针",
+      "mergeKey": "sprinkles",
+      "quantityText": "适量",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "香蕉去皮，对半切开。棒冰吃完，冰棍杆不要扔，洗干净，用开水泡下擦干，剪成需要的长度。把棒冰杆插入香蕉，做成棒冰的样子，放冰箱冷冻室,"
+    },
+    {
+      "text": "这个时候，锅里水烧到40度样子（水刚刚开始要冒泡的样子），关火。把巧克力掰成小块，放进碗中坐在热水里，再放一小块黄油，用勺子慢慢搅拌至巧克力和黄油都融化，成液态，把碗从热水里取出。把杏仁压碎备用,"
+    },
+    {
+      "text": "从冷冻室取出香蕉，把巧克力液均匀涂在香蕉上，撒上杏仁碎和装饰用彩针，入冰箱冷冻至硬即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10733/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

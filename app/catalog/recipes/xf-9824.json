@@ -1,0 +1,98 @@
+{
+  "id": "xf-9824",
+  "title": "墨西哥面包",
+  "ingredients": [
+    {
+      "name": "冰牛奶",
+      "mergeKey": "milk",
+      "amount": 75,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "高筋面粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "全蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "奶粉",
+      "mergeKey": "milk-powder",
+      "amount": 20,
+      "unit": "克",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 20,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "蜜红豆",
+      "mergeKey": "red-bean",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "面粉加酵母混合后砌成粉墙，将糖，盐，奶粉放在粉墙中央，加入蛋液和牛奶。用手指揉搓至盐糖融化，用手扫入粉墙四周的面粉与液体融合,"
+    },
+    {
+      "text": "用刮板将粉墙搓向中央，揉搓混合。用手反复揉搓面团。逐渐面团就会光滑不粘手，可以摔几次面团使其光滑，揉至面团可以拉开，有一定的延展度（有破洞正常）,"
+    },
+    {
+      "text": "在面团中加入软化的黄油，用手将黄油搓进面团。反复揉搓面团，使黄油吃进面团。揉搓到黄油完全吃进面团，然后继续反复摔搓面团。揉至面团可以拉出大片薄膜上面的破洞呈圆形边缘略微锯齿状即可，将面团整圆。放入盆中表面覆保鲜膜保湿放温暖处进行基础发酵约1个半小时左右,"
+    },
+    {
+      "text": "面团发至2倍大手指蘸干粉按下不塌陷，不反弹即可。发酵好的面团取出排气后分6等份滚圆后松弛15分钟。将面团按成四周略薄，中间略厚的面片，中间放入蜜红豆。收紧收口，手口朝下放在烤盘上进行最终发酵（约40分钟左右）,"
+    },
+    {
+      "text": "发酵好的面团表面转圈儿挤上事先做好的墨西哥面糊，顶部放上几粒去皮核桃仁入烤箱烘烤完成"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9824/",
+  "author": "卤煮鲍鱼",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 223.9,
+    "proteinG": 6.3,
+    "carbsG": 44.1,
+    "fatG": 2.7
+  },
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

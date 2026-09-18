@@ -1,0 +1,111 @@
+{
+  "id": "xf-10093",
+  "title": "酸菜汆羊肉",
+  "ingredients": [
+    {
+      "name": "酸菜",
+      "mergeKey": "pickled-cabbage",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "羊肉",
+      "mergeKey": "lamb",
+      "category": "肉类"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "scallion-ginger-garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将羊肉片用葱、姜、蒜、盐、绍酒、香油、醋、酱油，最后拌匀上一点水淀粉腌渍（葱和蒜末要多多的才香啊！）,"
+    },
+    {
+      "text": "羊肉腌渍半小时至入味,"
+    },
+    {
+      "text": "酸菜清洗后切成细丝,"
+    },
+    {
+      "text": "锅内做油放葱花、大料、辣椒八角煸香（不吃辣的可以不放辣椒）,"
+    },
+    {
+      "text": "倒入切好的酸菜煸炒,"
+    },
+    {
+      "text": "煸炒酸菜出香味，加入少许盐调味,"
+    },
+    {
+      "text": "倒入清汤慢慢炖8分钟，直至酸菜的味道开始扑鼻,"
+    },
+    {
+      "text": "倒入刚才腌好的羊肉片,"
+    },
+    {
+      "text": "滑散羊肉充分受热,"
+    },
+    {
+      "text": "出锅前撒上香菜段即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10093/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "xf-10331",
+  "title": "水晶虾仁",
+  "ingredients": [
+    {
+      "name": "新鲜河虾仁",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "鸡蛋清",
+      "mergeKey": "egg-white",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小苏打粉",
+      "mergeKey": "baking-soda",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "虾仁用清水浸泡漂洗干净，捞出摊在阴凉通风处沥干水分,"
+    },
+    {
+      "text": "用干净的布把虾仁表面的水分吸干,"
+    },
+    {
+      "text": "虾仁用盐、料酒、味精、淀粉、鸡蛋清、一点点小苏打粉充分拌匀后，加入一汤匙生的色拉油拌匀，用保鲜膜盖好，入冰箱2～4小时涨发,"
+    },
+    {
+      "text": "锅中倒入色拉油，烧至六成热的时候，放入涨发好的虾仁迅速滑散，至虾仁变色捞出沥油,"
+    },
+    {
+      "text": "用高汤（没有就用清水加精），加少许盐和淀粉调匀成调味芡汁。锅中油倒出，开火，倒入滑过油的虾仁，倒入调味芡汁翻匀出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10331/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

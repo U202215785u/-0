@@ -1,0 +1,63 @@
+{
+  "id": "xf-11564",
+  "title": "炒肚丝",
+  "ingredients": [
+    {
+      "name": "熟猪肚",
+      "mergeKey": "pork-tripe",
+      "category": "肉类"
+    },
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "quantityText": "几滴",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "芹菜和胡萝卜洗净，胡萝卜去皮切成丝，芹菜切段。熟的猪肚切丝,"
+    },
+    {
+      "text": "锅烧热放油，油温烧热放胡萝卜丝，煸炒至身软,"
+    },
+    {
+      "text": "放入芹菜丝，翻炒一分钟,"
+    },
+    {
+      "text": "放入肚丝翻炒片刻后，加盐、滴几滴美极鲜酱油翻炒均匀出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11564/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

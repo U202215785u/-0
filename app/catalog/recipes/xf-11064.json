@@ -1,0 +1,82 @@
+{
+  "id": "xf-11064",
+  "title": "摇滚沙拉",
+  "ingredients": [
+    {
+      "name": "生菜",
+      "mergeKey": "lettuce",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "樱桃番茄",
+      "mergeKey": "cherry-tomato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "紫甘蓝",
+      "mergeKey": "purple-cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "炒熟的坚果",
+      "mergeKey": "nuts",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有蔬菜浸洗干净，沥干水份，切碎放在有盖的容器里,"
+    },
+    {
+      "text": "放一小勺生抽、盐、鸡精、半小勺白糖、多一点麻油（喜欢的话还可以放一点醋,"
+    },
+    {
+      "text": "盖上盖子，上下左右摇，把蔬菜和调味料摇均匀了装盘，一把坚果用刀压碎，撒在沙拉上即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11064/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "xf-10776",
+  "title": "电饭锅手撕鸡",
+  "ingredients": [
+    {
+      "name": "嫩鸡",
+      "mergeKey": "chicken",
+      "amount": 1,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱段",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一瓶盖料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备一只嫩鸡，洗净,"
+    },
+    {
+      "text": "用盐薄薄的在鸡身上抹一层，鸡肚子里塞上两片姜片，静置五分钟,"
+    },
+    {
+      "text": "准备一个容器，放入一汤匙老抽，一汤匙生抽，一点点盐，一汤匙糖，料酒一瓶盖，拌匀,"
+    },
+    {
+      "text": "把3均匀抹到鸡身上，腌制20分钟,"
+    },
+    {
+      "text": "电饭锅底放上一块鸡肚子里的鸡油（没有就不要了），把葱和姜片平铺在电饭锅底,"
+    },
+    {
+      "text": "把腌制好的鸡放进铺好姜片，葱和鸡油的电饭锅，同时把腌制的调料也一起倒进去，在鸡身上淋一勺色拉油，插电，按下煮饭键，等。。。。。。。。。。。。。，等到电饭锅跳起，过十分钟开锅，取出鸡，撕。吃的时候可以配上你喜欢的蘸料，我是用姜末，蒜末，姜汁，几滴生抽，一点点糖和多多的麻油拌在一起，淋在撕好的鸡上，非常好吃"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10776/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

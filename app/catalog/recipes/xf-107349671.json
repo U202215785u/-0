@@ -1,0 +1,175 @@
+{
+  "id": "xf-107349671",
+  "title": "姜母鸭",
+  "ingredients": [
+    {
+      "name": "#主料"
+    },
+    {
+      "name": "鸭肉",
+      "mergeKey": "duck",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "大个姜🫚",
+      "mergeKey": "ginger",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "#调料1#酒酿：带甜味，不另外加糖"
+    },
+    {
+      "name": "炒菜勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 1,
+      "unit": "炒菜勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白瓷勺老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 0.5,
+      "unit": "白瓷勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酒酿（取汁水）",
+      "mergeKey": "jiuniang",
+      "amount": 200,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "调料勺盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "调料勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "#调料2#米酒：仅酒香，需要加冰糖",
+      "mergeKey": "rock-sugar"
+    },
+    {
+      "name": "炒菜勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 1,
+      "unit": "炒菜勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白瓷勺老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 0.5,
+      "unit": "白瓷勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米酒",
+      "mergeKey": "rice-wine",
+      "amount": 300,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小把冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 1,
+      "unit": "小把",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "调料勺盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "调料勺",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把买回来的鸭肉焯一下水，放一点姜片料酒，撇去浮末，煮3～5分钟，捞出备用。\n\n如果你觉得鸭肉很新鲜，不需要焯水，那就花一点时间泡一下血水沥干备用。"
+    },
+    {
+      "text": "给鸭肉焯水的时间正好可以切一下姜片，我用了两头姜，切成片备用（这一步忘拍了！）。"
+    },
+    {
+      "text": "起锅，用芝麻香油把姜片煸一下。\n\n大概用50～70毫升就可以了，这一瓶我都用了。"
+    },
+    {
+      "text": "中小火慢慢煸。\n\n这一步也相当于在润锅，后续炒鸭肉也不会粘。"
+    },
+    {
+      "text": "直到姜的表面发皱、卷曲，开始上色。\n\n就把姜片捞出来备用，锅里油留着。"
+    },
+    {
+      "text": "油热下鸭肉翻炒。"
+    },
+    {
+      "text": "直至鸭肉表面略微上色，倒入姜片，翻炒，让味道稍稍融合。"
+    },
+    {
+      "text": "转最小火调味：\n加入生抽、老抽，把生抽的香味炒出来。"
+    },
+    {
+      "text": "再加入酒酿汁，因为没有买到米酒，我用了酒酿的汁。\n\n加了酒酿汁以后就不需要冰糖/白糖调味了，尝一下味道，补一调料勺的盐。\n\n————————————\n如果家里有米酒，直接加入米酒，放入冰糖、盐，尝一下味道，继续下一步。"
+    },
+    {
+      "text": "再适量补一点开水，没过鸭肉表面即可。\n\n盖盖最小火炖煮1小时，中间要不时回来查看、搅拌，水少了需要及时补充，并且酒酿里的小米粒儿是很容易糊底的。\n\n建议可以用电饭煲的煲汤模式煮一小时，或者高压锅半小时，水分损耗少也很方便。如果压完后汤汁比较多，再倒到锅里进行收汁。\n\n时间要保证，否则鸭肉嚼不动非常影响口味！"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "时间到了以后揭开锅盖，发现汁水已经很浓稠了，酒酿自带调味，里面的糖煮久了焦糖化上色很好看。\n\n大火稍微收一下汁，尝尝味道决定是否补盐，糖就不需要补了。\n\n然后就可以装盘了～"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "超级诱人的颜色！\n\n连姜片都可以勉强入口了！（我真的不爱吃姜！"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "夹一块，特别下饭！\n\n上面的黑点就是酒酿里的米粒儿糊了🤣"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/107349671/",
+  "author": "接骨木花花",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 325,
+    "proteinG": 8.3,
+    "carbsG": 45,
+    "fatG": 5.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 80,
+  "difficulty": "中等"
+}

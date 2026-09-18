@@ -1,0 +1,96 @@
+{
+  "id": "xf-10150",
+  "title": "家乡臭豆腐",
+  "ingredients": [
+    {
+      "name": "臭豆腐",
+      "mergeKey": "stinky-tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "肉末",
+      "mergeKey": "ground-meat",
+      "category": "肉类"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "青椒、黑木耳、红椒洗干净切细，肉沫用料酒腌制下，臭豆腐捣碎备用,"
+    },
+    {
+      "text": "起油锅，肉沫爆一下盛出,"
+    },
+    {
+      "text": "锅里放油把辣椒爆香，再放黑木耳炒一下,"
+    },
+    {
+      "text": "放臭豆腐和肉沫炒熟，加点酱油，盐、味精、糖最后放葱花就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10150/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

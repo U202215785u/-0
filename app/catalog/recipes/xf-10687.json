@@ -1,0 +1,119 @@
+{
+  "id": "xf-10687",
+  "title": "椰蓉小吐司",
+  "ingredients": [
+    {
+      "name": "高粉",
+      "mergeKey": "flour",
+      "amount": 180,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "椰丝",
+      "mergeKey": "coconut",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙奶粉",
+      "mergeKey": "milk-powder",
+      "amount": 10,
+      "unit": "克",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 110,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 30,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 15,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "蛋白",
+      "mergeKey": "egg-white",
+      "quantityText": "少许",
+      "category": "蛋类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "除黄油外的所有原料混合均匀揉成光滑的面团后，加入软化的黄油揉至大片薄膜出现，放在温暖处进行基础发酵至2倍大,"
+    },
+    {
+      "text": "基础发酵的同时可以制作内馅，黄油室温软化后加入糖粉、蛋黄搅拌均匀，再放入奶粉和椰丝拌匀备用,"
+    },
+    {
+      "text": "基础发酵完成的面团，排气后分割成三等份，滚圆松弛10分钟,"
+    },
+    {
+      "text": "将松弛后的面团擀开，铺上椰蓉馅，自上而下卷起成圆柱形，放入模内，放置温暖处进行最后发酵,"
+    },
+    {
+      "text": "发酵完成后表面刷一层蛋白，然后均匀地撒上椰丝，放入180度预热的烤箱，中下层烘烤20-25分钟。（上色后可加盖锡纸"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10687/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 158.9,
+    "proteinG": 3.4,
+    "carbsG": 31.2,
+    "fatG": 2.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

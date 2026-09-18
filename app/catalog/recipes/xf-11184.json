@@ -1,0 +1,109 @@
+{
+  "id": "xf-11184",
+  "title": "豉椒牛柳",
+  "ingredients": [
+    {
+      "name": "牛柳",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱姜蒜",
+      "mergeKey": "aromatics",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豆豉",
+      "mergeKey": "douchi",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "糖蚝油",
+      "mergeKey": "sugar-oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将牛柳去筋，切横纹薄片，也就是逆丝切片。然后用盐、鸡粉、小苏打、生粉加适量的水，老抽腌制，最后加少许油。牛肉与调味料的比例为1：1：1：2。腌制的时候，水不要一次加太多，要分次加入。腌制好的牛肉应该是用手捏后感觉有弹性,"
+    },
+    {
+      "text": "青椒、红椒去籽，切成象眼状的角，也就是菱形角，洋葱也如是、蒜切片、姜切片、葱切成葱度、豆豉用刀微微压一下一会好出香味,"
+    },
+    {
+      "text": "锅做热放入少许油做温,"
+    },
+    {
+      "text": "放入浆好的牛柳,"
+    },
+    {
+      "text": "慢慢滑散使之成熟均匀。待牛肉片稍一变色，盛出牛肉片,"
+    },
+    {
+      "text": "锅留底油，放入蒜片、姜片、葱度，炒豆豉爆香,"
+    },
+    {
+      "text": "接着放入洋葱块煸炒出香味,"
+    },
+    {
+      "text": "将划好油的牛肉倒入锅内，烹少许料酒。此时根据自己口味下、鸡粉、生抽、老抽、糖、蚝油调味,"
+    },
+    {
+      "text": "接着放入青椒、红椒角，翻炒几下,"
+    },
+    {
+      "text": "翻炒的同时，需要往锅内点一点点汤或水，然后用水淀粉勾芡，翻炒出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11184/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

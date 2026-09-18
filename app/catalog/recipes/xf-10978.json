@@ -1,0 +1,91 @@
+{
+  "id": "xf-10978",
+  "title": "泡椒黄蝖儿",
+  "ingredients": [
+    {
+      "name": "黄蚬",
+      "mergeKey": "clam",
+      "category": "水产"
+    },
+    {
+      "name": "小米泡椒",
+      "mergeKey": "pickled-chili",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄蚬洗净沥干，青红椒切块，葱切段，姜切片,"
+    },
+    {
+      "text": "烧热油锅，放油，油温上来放姜葱爆出香味，再放小米泡椒炒香，放青红椒片翻炒几下,"
+    },
+    {
+      "text": "放黄蚬入锅，喷点料酒,"
+    },
+    {
+      "text": "翻炒一会儿，加一点水,"
+    },
+    {
+      "text": "盖上锅盖，30秒,"
+    },
+    {
+      "text": "打开锅盖，加点盐和鸡精调好味，翻炒至黄蚬基本都开口即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10978/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

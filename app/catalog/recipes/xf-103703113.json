@@ -1,0 +1,105 @@
+{
+  "id": "xf-103703113",
+  "title": "梅干菜扣肉",
+  "ingredients": [
+    {
+      "name": "梅干菜",
+      "mergeKey": "meigancai",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 300,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 90,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "勺料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 75,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "肉先焯水后，上锅煎，加点白糖，中火"
+    },
+    {
+      "text": "煎这样就差不多了"
+    },
+    {
+      "text": "切片，5毫米差不多了"
+    },
+    {
+      "text": "成品，记得上锅高压锅隔水蒸，肉皮是朝碗底的哦，出锅了拿个锅倒扣回来就这样了\n口味，根据自己咸淡来吧，因为每个地方的梅干菜咸味不一样，生抽的咸味也不一样"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/103703113/",
+  "author": "我最爱冰红茶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 852.6,
+    "proteinG": 15,
+    "carbsG": 18.5,
+    "fatG": 79.7
+  },
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

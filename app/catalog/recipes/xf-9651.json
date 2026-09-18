@@ -1,0 +1,50 @@
+{
+  "id": "xf-9651",
+  "title": "南瓜香肠焖饭",
+  "ingredients": [
+    {
+      "name": "老南瓜",
+      "mergeKey": "pumpkin",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香肠",
+      "mergeKey": "sausage",
+      "category": "肉类"
+    },
+    {
+      "name": "大米",
+      "mergeKey": "rice",
+      "category": "米面主食",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "大米淘洗干净，沥干水分；老南瓜去皮切成丁，香肠切成丁,"
+    },
+    {
+      "text": "烧热锅，放油，油热后倒入南瓜丁翻炒至变色身软,"
+    },
+    {
+      "text": "倒入香肠一起翻炒出香味,"
+    },
+    {
+      "text": "倒入浸泡过的大米翻炒均匀,"
+    },
+    {
+      "text": "移入电饭煲，加水（跟平时煮饭的水量差不多），按下煮饭键。等电饭煲煮饭键跳起后再焖10分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9651/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

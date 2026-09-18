@@ -1,0 +1,46 @@
+{
+  "id": "xf-10142",
+  "title": "酱香豆腐",
+  "ingredients": [
+    {
+      "name": "板豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "板豆腐切块，烧热锅，放油，中火煎豆腐至两面稍有结壳,"
+    },
+    {
+      "text": "一大勺六月鲜的豆瓣酱放点水先用勺子化开，倒入锅中，加点糖一起煮两三分钟后，撒些葱花出锅即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10142/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

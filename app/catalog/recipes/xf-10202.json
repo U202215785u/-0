@@ -1,0 +1,80 @@
+{
+  "id": "xf-10202",
+  "title": "懒人烧梅",
+  "ingredients": [
+    {
+      "name": "馄饨皮",
+      "mergeKey": "wonton-wrapper",
+      "category": "米面主食"
+    },
+    {
+      "name": "糯米",
+      "mergeKey": "glutinous-rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇"
+    },
+    {
+      "name": "肉末",
+      "mergeKey": "minced-meat",
+      "category": "肉类"
+    },
+    {
+      "name": "葱末",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑糊椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "糯米用凉水泡二个小时后，上蒸锅蒸十五分钟晾凉,"
+    },
+    {
+      "text": "香菇切末后，和肉末、葱末、糯米、黑糊椒粉、生抽、盐、鸡精搅拌均匀成烧梅馅,"
+    },
+    {
+      "text": "取一张馄饨皮，包上糯米馅，成下大，上收口成石榴花状的生坯,"
+    },
+    {
+      "text": "蒸锅烧开水后，放入做好的烧梅生坯，蒸二十分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10202/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "xf-11175",
+  "title": "软炸凤尾虾",
+  "ingredients": [
+    {
+      "name": "大虾",
+      "mergeKey": "shrimp",
+      "amount": 300,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "大片姜片",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "橄榄油",
+      "mergeKey": "olive-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小半勺盐",
+      "mergeKey": "salt",
+      "quantityText": "小半勺",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 15,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "泡打粉",
+      "mergeKey": "baking-powder",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先调一碗面糊，因为要发酵，需要等四十分钟左右。把面粉、淀粉、泡打粉和酵母用微温的水调匀，面糊要调得抽一点。盐先不放，不然影响发酵,"
+    },
+    {
+      "text": "等待面糊发酵的时候开始处理虾。新鲜的大虾去头，只留下尾部的虾皮，其余的拨掉。用小刀在虾背上切开，但是不要切断，去除虾线,"
+    },
+    {
+      "text": "把处理好的凤尾虾倒入一勺料酒、一点盐和胡椒粉腌制一下,"
+    },
+    {
+      "text": "现在是夏天这样的室温用面糊放置四十分钟左右便可以发酵，面糊上会出现少量的大泡。如果到了秋冬，天气冷了，可以把面糊放到微波炉里，同时在里面放一杯开水，关上微波炉的门，形成一个密封的环境帮助面糊发酵，此方法也适用于发面,"
+    },
+    {
+      "text": "下面就要炸虾仁了，如何能降低油炸食物的热量呢？请注意以下三个步骤,"
+    },
+    {
+      "text": "取一个底部面积小一点，有点深度的容器，里面放入橄榄油,"
+    },
+    {
+      "text": "炸好的虾仁放到篦子上篦掉多余的油脂,"
+    },
+    {
+      "text": "最后再将虾仁放到厨房用纸上吸收油分"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11175/",
+  "author": "潘潘猫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 205.6,
+    "proteinG": 36.6,
+    "carbsG": 4.6,
+    "fatG": 4.8
+  },
+  "tags": [
+    "煎",
+    "炸"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

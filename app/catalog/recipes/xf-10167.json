@@ -1,0 +1,78 @@
+{
+  "id": "xf-10167",
+  "title": "鱼头萝卜汤",
+  "ingredients": [
+    {
+      "name": "鱼尾",
+      "mergeKey": "fish",
+      "category": "水产"
+    },
+    {
+      "name": "鱼骨",
+      "mergeKey": "fish",
+      "category": "水产"
+    },
+    {
+      "name": "青蒜苗",
+      "mergeKey": "garlic-sprout",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鱼头",
+      "mergeKey": "fish",
+      "category": "水产"
+    },
+    {
+      "name": "白萝卜",
+      "mergeKey": "radish",
+      "category": "蔬菜"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "炒锅烧热，放少许油后放入五花肉煸出油和香味,"
+    },
+    {
+      "text": "放入鱼头，鱼尾，鱼骨稍煎至金黄色时放入少许料酒和姜片翻炒下,"
+    },
+    {
+      "text": "锅中倒入开水，没过鱼头，大火煮开两分钟，（立马看到汤成白色的啦！）,"
+    },
+    {
+      "text": "放入白萝卜，煮开后开小火炖，煮至萝卜熟后，放入盐，白胡椒粉、青蒜苗段即可（喜欢用萝卜配青蒜苗，也很好吃）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10167/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

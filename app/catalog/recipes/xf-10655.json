@@ -1,0 +1,67 @@
+{
+  "id": "xf-10655",
+  "title": "香咸菠萝饭",
+  "ingredients": [
+    {
+      "name": "菠萝",
+      "mergeKey": "pineapple",
+      "amount": 0.5,
+      "unit": "只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "糯米",
+      "mergeKey": "glutinous-rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "虾仁",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "豌豆",
+      "mergeKey": "pea",
+      "category": "蔬菜"
+    },
+    {
+      "name": "西红柿",
+      "mergeKey": "tomato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "糯米与菠萝肉混合（不放糖）放进菠萝碗中，隔水蒸30分钟,"
+    },
+    {
+      "text": "虾仁先用盐、料酒腌10分钟，锅中放水烧开， 将豌豆、虾仁分别焯一下水沥干,"
+    },
+    {
+      "text": "锅内放少许油烧热，倒入焯水过的豌豆、虾仁和菠萝丁、西红柿丁翻炒一下，加调料勾上薄欠起锅，取两大勺与蒸好的菠萝饭拌合即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10655/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

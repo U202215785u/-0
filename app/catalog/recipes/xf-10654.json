@@ -1,0 +1,49 @@
+{
+  "id": "xf-10654",
+  "title": "香甜菠萝饭",
+  "ingredients": [
+    {
+      "name": "菠萝",
+      "mergeKey": "pineapple",
+      "amount": 0.5,
+      "unit": "只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "糯米",
+      "mergeKey": "glutinous-rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "核桃",
+      "mergeKey": "walnut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "糯米冷水浸泡三小时以上，菠萝对切开，挖出果肉成菠萝碗,"
+    },
+    {
+      "text": "糯米与菠萝果肉加少许冰糖碎拌合，放进菠萝碗中，隔水蒸30分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10654/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "xf-104064442",
+  "title": "台式三杯鸡",
+  "ingredients": [
+    {
+      "name": "鸡大腿",
+      "mergeKey": "chicken",
+      "amount": 3,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "胡麻油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "九层塔",
+      "mergeKey": "basil",
+      "amount": 1,
+      "unit": "把",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一勺老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "三勺金兰酱油膏",
+      "mergeKey": "soy-sauce",
+      "amount": 45,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一小把冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "十几片姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八勺红标米酒",
+      "mergeKey": "cooking-wine",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小米辣",
+      "mergeKey": "chili",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "材料准备~(/∇＼*)因为我家附近的超市关门了，鸡腿是让同事帮买的，已经剁好了。鸡腿可以不用去皮，不爱吃的话就随意啦~"
+    },
+    {
+      "text": "忘记拍图啦:-(   嘛，没关系，不影响。姜切片，多切一些，我切了大概十几片吧，大蒜剥五六颗，不用切，用刀压一压就好。"
+    },
+    {
+      "text": "开火，油烧热，先放入姜片油煎，煎至四周微焦。"
+    },
+    {
+      "text": "放入大蒜，冰糖，转小火。不停搅拌至冰糖融化，颜色有点淡淡的焦糖色就好。嗯，这一步就是传说中的炒糖色。（有的食谱可能是在炖鸡的时候再加入冰糖，但是我不喜欢，我觉得炒国糖色的菜品看起来更油亮更有食欲）"
+    },
+    {
+      "text": "倒入鸡腿，翻炒几下。"
+    },
+    {
+      "text": "红标米酒八勺"
+    },
+    {
+      "text": "金兰酱油膏三勺，老抽一勺。切好的小米辣放入，搅拌均匀后，盖上盖子，焖十到十五分钟。"
+    },
+    {
+      "text": "汤汁差不多收干，就酱↑↑的时候，加入九层塔。如下↓↓"
+    },
+    {
+      "text": "翻炒几下，焖十秒。黑麻油绕锅滴一圈，撒适量罗勒碎，搅拌均匀。（罗勒碎为了增加香味，可加可不加）"
+    },
+    {
+      "text": "出锅啦~"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/104064442/",
+  "author": "挑食的大王",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 123.8,
+    "proteinG": 23.3,
+    "carbsG": 0,
+    "fatG": 2.7
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

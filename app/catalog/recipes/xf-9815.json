@@ -1,0 +1,104 @@
+{
+  "id": "xf-9815",
+  "title": "萝卜丝烙饼",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 300,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "白萝卜",
+      "mergeKey": "daikon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "开水",
+      "mergeKey": "water",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "凉水",
+      "mergeKey": "water",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "肉末",
+      "mergeKey": "ground-pork",
+      "category": "肉类"
+    },
+    {
+      "name": "虾皮",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "白萝卜洗净去皮擦成丝，加一小勺盐腌渍15分钟,"
+    },
+    {
+      "text": "面粉中先倒入60毫升开水，边倒边用筷子搅拌，再视面粉吸水情况倒入凉水，边倒边搅，至成雪片状,"
+    },
+    {
+      "text": "用手把面粉揉成光滑面团，盖上保鲜膜，醒20分钟左右,"
+    },
+    {
+      "text": "肉末加少量料酒、盐和鸡精拌匀，平底锅小火预热后，倒少许色拉油，油热后，倒入肉末翻炒片刻，肉末变色后，入虾皮，再加点老抽一起翻炒均匀后出锅,"
+    },
+    {
+      "text": "盐渍好的萝卜丝，挤去水分，放入炒好的肉末虾皮中，再加葱花拌匀成馅料,"
+    },
+    {
+      "text": "醒好的面团，平均分成8个小剂子，每个小剂子擀平擀圆（要当中稍厚边缘稍薄），包入适量馅料，收口包成包子状，然后用手轻轻按压成圆饼状,"
+    },
+    {
+      "text": "我用的是双立人珐琅铸铁平底锅，干净的锅子先空锅小火预热后，薄薄的刷一层油，把做好的饼放入，以小火烙到两面金黄即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9815/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 207,
+    "proteinG": 6.8,
+    "carbsG": 40.5,
+    "fatG": 2.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

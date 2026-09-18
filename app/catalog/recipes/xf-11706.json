@@ -1,0 +1,107 @@
+{
+  "id": "xf-11706",
+  "title": "开屏武昌鱼",
+  "ingredients": [
+    {
+      "name": "武昌鱼",
+      "mergeKey": "bream",
+      "amount": 1,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 60,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "chili",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "15毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙约3克盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "60毫升油",
+      "mergeKey": "cooking-oil",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将武昌鱼去鳞，去鳍，去尾，从鱼身侧鳍的位置将鱼头切下，顺着刀口处，用手将里面的内脏取出，再把鱼清洗干净,"
+    },
+    {
+      "text": "从鱼的背部垂直下刀，将鱼身切成1厘米宽的片，要保持鱼肚部分鱼肉要相连,"
+    },
+    {
+      "text": "把香葱的葱白部分切成小段，一半的姜去皮切薄片，葱的绿色部分切成葱花，其余的姜切成姜末，红辣椒洗净，切圈备用,"
+    },
+    {
+      "text": "将料酒，盐均匀的抹在切好花刀的鱼身上，放上姜片，葱段，腌制5分钟,"
+    },
+    {
+      "text": "鱼腌好后，将姜片，葱段，取出。把鱼一片搭一片的摆开，呈一个扇面的形状，把切下来的鱼头摆在鱼身中央,"
+    },
+    {
+      "text": "蒸锅中倒入清水，大火煮开后，将鱼放入，盖上盖子，用大火继续蒸5--6分钟,"
+    },
+    {
+      "text": "蒸好以后戴上手套，将盘子和鱼取出，将葱花，姜末，辣椒圈铺在鱼身上，淋上酱油,"
+    },
+    {
+      "text": "炒勺内倒入油，放在火上烧热，待油徐徐白烟冒出时，关火，将油马上泼在鱼身上即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11706/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 135.9,
+    "proteinG": 16.3,
+    "carbsG": 12.5,
+    "fatG": 2.5
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

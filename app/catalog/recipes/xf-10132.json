@@ -1,0 +1,186 @@
+{
+  "id": "xf-10132",
+  "title": "水煮熏干",
+  "ingredients": [
+    {
+      "name": "湖南熏香干",
+      "mergeKey": "smoked-tofu",
+      "amount": 150,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "瘦肉",
+      "mergeKey": "pork",
+      "amount": 120,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "(种类依个人喜好)青菜",
+      "mergeKey": "qing-cai",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 2,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 1,
+      "unit": "小块",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-pepper",
+      "amount": 10,
+      "unit": "粒",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "郫县豆瓣",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "用量依个人的嗜辣程度干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小勺淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小勺蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "二分之一小勺白糖",
+      "mergeKey": "sugar",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小勺料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋清",
+      "mergeKey": "egg-white",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "几滴芝麻油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "几滴",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "熟白芝麻",
+      "mergeKey": "sesame",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "瘦肉切成薄片，加入淀粉、一小勺料酒、鸡蛋清，拌匀腌制20分钟；熏干切成约,"
+    },
+    {
+      "text": "厘米厚的片，青菜洗净，郫县豆瓣剁碎，干辣椒去籽剪成条，生姜切丝，大蒜去皮切片，八角、桂皮、花椒洗净后用厨房纸擦干,"
+    },
+    {
+      "text": "将青菜放入沸水中焯烫约半分钟，捞出沥干垫入碗底,"
+    },
+    {
+      "text": "热锅放油，下入郫县豆瓣与八角、桂皮、花椒，小火将其炒出红油后再下入干辣椒与姜蒜，炒出香味后加入两小勺料酒，炒匀后舀出一半的辣椒待用,"
+    },
+    {
+      "text": "加入约500毫升的水（高汤更佳），转大火烧开后下入熏干，加入适量的盐、蚝油、鸡粉、白糖，煮约3至5分钟,"
+    },
+    {
+      "text": "下入肉片，用筷子将其弄散，待肉片变色熟透后加入生抽与几滴芝麻油，用锅铲推匀后再倒入垫用青菜的碗里，将先前舀出辣椒铺在上面，再撒上葱花与少许炒熟的白芝麻,"
+    },
+    {
+      "text": "将适量的油烧热，浇在碗里即可上桌"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10132/",
+  "author": "爱厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 147.9,
+    "proteinG": 8.1,
+    "carbsG": 16.5,
+    "fatG": 5.3
+  },
+  "tags": [
+    "炒",
+    "煮"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

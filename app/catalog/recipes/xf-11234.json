@@ -1,0 +1,113 @@
+{
+  "id": "xf-11234",
+  "title": "腐乳豆苗烧排骨",
+  "ingredients": [
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "一小把豌豆苗",
+      "mergeKey": "pea-shoots",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆腐乳",
+      "mergeKey": "fermented-tofu",
+      "amount": 1,
+      "unit": "块",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "取葱白葱段",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "腐乳汁",
+      "mergeKey": "fermented-tofu",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 1,
+      "unit": "个",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5毫升米酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "排骨500克，切成5厘米长的段，洗净沥干,"
+    },
+    {
+      "text": "烧热锅子，下橄榄油，以小火把排骨煎至两面微焦,"
+    },
+    {
+      "text": "加入冰糖、葱姜、豆腐乳和腐乳汁、八角、米酒，翻炒一分钟，至糖化开，上色均匀,"
+    },
+    {
+      "text": "加入一小碗水或高汤，大火烧开转小火，炖煮20分钟左右,"
+    },
+    {
+      "text": "煮至汤汁浓稠（最后可以用大火收一下汁,"
+    },
+    {
+      "text": "倒入洗净沥干的豌豆苗，迅速翻炒3钞钟关火，以余温继续炒至豆苗软身。起锅，装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11234/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 765.6,
+    "proteinG": 48.4,
+    "carbsG": 11.3,
+    "fatG": 57.8
+  },
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

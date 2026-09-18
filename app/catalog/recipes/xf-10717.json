@@ -1,0 +1,103 @@
+{
+  "id": "xf-10717",
+  "title": "旺仔小馒头",
+  "ingredients": [
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 80,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 40,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "flour",
+      "amount": 90,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 35,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "吉士粉",
+      "mergeKey": "custard-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "奶粉",
+      "mergeKey": "milk-powder",
+      "amount": 15,
+      "unit": "克",
+      "category": "乳制品",
+      "pantry": true
+    },
+    {
+      "name": "无铝泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 2,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油室温软化后，加入糖粉打至松发,"
+    },
+    {
+      "text": "加入一个蛋黄，用打蛋器搅打均匀,"
+    },
+    {
+      "text": "再加入第二个蛋黄，用打蛋器搅打均匀。（此时烤箱180℃预热,"
+    },
+    {
+      "text": "所有粉类（ 低筋面粉、玉米淀粉、吉士粉、奶粉、泡打粉）混合拌匀，过筛加入,"
+    },
+    {
+      "text": "用橡皮刮刀切拌均匀成面团,"
+    },
+    {
+      "text": "取一小块搓成小圆球，码在铺了油布的烤盘中。入预热好的烤箱，烤10分钟左右至表面上色即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10717/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 188.6,
+    "proteinG": 4,
+    "carbsG": 39.8,
+    "fatG": 1.8
+  },
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

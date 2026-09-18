@@ -1,0 +1,93 @@
+{
+  "id": "xf-10312",
+  "title": "黄豆炒咸菜",
+  "ingredients": [
+    {
+      "name": "干黄豆",
+      "mergeKey": "soybean",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "水疙瘩",
+      "mergeKey": "salted-mustard-root",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 15,
+      "unit": "根",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "(30毫升)生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(15毫升)老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(5克)糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(5毫升)香油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将干黄豆洗净，放在清水里浸泡1夜，即成水发黄豆,"
+    },
+    {
+      "text": "锅中倒入清水，大火煮开后，放入水发黄豆煮10分钟后捞出沥干,"
+    },
+    {
+      "text": "把水疙瘩先切成薄片，再改刀切成丝后，用清水反复清洗几次后，沥干备用,"
+    },
+    {
+      "text": "锅中倒入油，大火加热，待油烧热至5成时，放入干辣椒煸出香味。然后，放入水疙瘩丝煸炒2分钟,"
+    },
+    {
+      "text": "倒入生抽和老抽，将颜色炒匀后放入黄豆再继续炒2分钟，最后加糖和香油调味即"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10312/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 376.2,
+    "proteinG": 24.6,
+    "carbsG": 59.3,
+    "fatG": 8.8
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

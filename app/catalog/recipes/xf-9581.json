@@ -1,0 +1,112 @@
+{
+  "id": "xf-9581",
+  "title": "香芹泡菜牛肉丝",
+  "ingredients": [
+    {
+      "name": "牛腱肉",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "四川泡椒",
+      "mergeKey": "pickled-chili",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "四川泡菜泡豇豆",
+      "mergeKey": "pickled-beans",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "泡萝卜",
+      "mergeKey": "pickled-radish",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "朝天椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜片",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小西红柿",
+      "mergeKey": "cherry-tomato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白酒",
+      "mergeKey": "baijiu",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛腱肉切成细丝，放入一个稍大的容器内，调入生抽、白酒、姜丝、黑胡椒粉，充分调匀（建议用手抓揉使其更入味），腌制10分钟,"
+    },
+    {
+      "text": "鲜朝天椒、四川泡椒和四川泡姜切丝； 芹菜洗净后和四川泡菜一起切成小段,"
+    },
+    {
+      "text": "大火加热炒锅中的油，待油温6成热时（锅中有明显油烟）放入花椒后蒜片。待蒜片变黄后同花椒捞出弃掉,"
+    },
+    {
+      "text": "炒锅原油，改中火待油极热时放入牛腱肉丝，快速煸炒，捞出待用,"
+    },
+    {
+      "text": "改大火加热炒锅中剩的油，朝天椒、四川泡椒、和四川泡菜，翻炒，立即将炒过的牛肉丝放入锅中，并加入芹菜段，继续翻炒约2分钟即可芹菜叶、红椒丝、小西红柿切开装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9581/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

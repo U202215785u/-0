@@ -1,0 +1,116 @@
+{
+  "id": "xf-11690",
+  "title": "酱爆肉末茄子",
+  "ingredients": [
+    {
+      "name": "长条茄子",
+      "mergeKey": "eggplant",
+      "amount": 3,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork",
+      "amount": 1,
+      "unit": "小块",
+      "category": "肉类"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一大匙特辣黄豆酱",
+      "mergeKey": "huangdou-jiang",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜末",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "五花肉切去皮剁成碎丁，调入盐，鸡精，胡椒粉，少许生粉及一点点水抓匀腌制备用；茄子洗净后切滚刀块放在水里浸泡5分钟待用；红椒切片，姜蒜切末，葱切葱花,"
+    },
+    {
+      "text": "锅中多放些油烧热（插入筷子有小汽泡）后投入沥干水分的茄子大火炸一会，炸到茄子变透明变软，表皮收紧捞出备用,"
+    },
+    {
+      "text": "锅中留一点点底油烧热后，爆香姜蒜末及1大勺黄豆酱，然后放入红椒及肉末翻炒（可加少许水湿润食材）,"
+    },
+    {
+      "text": "接着放入炸好的茄子一起翻炒，调入一点点的盐，适量生抽，多一些的糖及适量水翻炒均匀后，再调入一点点的生粉洒上葱花出锅即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11690/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 311.5,
+    "proteinG": 7.7,
+    "carbsG": 10.5,
+    "fatG": 27.1
+  },
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

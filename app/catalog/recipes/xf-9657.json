@@ -1,0 +1,95 @@
+{
+  "id": "xf-9657",
+  "title": "蒜茸西兰花",
+  "ingredients": [
+    {
+      "name": "西兰花",
+      "mergeKey": "broccoli",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 25,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将西兰花拆成小朵，洗净沥干水分,"
+    },
+    {
+      "text": "胡萝卜切片，西兰花的的梗削去皮，切成片,"
+    },
+    {
+      "text": "锅里水煮开，滴几滴食用油，放西兰花进去绰熟（大约2－3分钟）,"
+    },
+    {
+      "text": "绰熟的西兰花捞出沥干水分（绰西兰花的水不要倒了，等下可以用）,"
+    },
+    {
+      "text": "大蒜剁成蒜茸，一小勺干淀粉加水调成湿淀粉备用,"
+    },
+    {
+      "text": "锅烧热放油，入胡萝卜片和西兰花梗片一起翻炒至身软,"
+    },
+    {
+      "text": "放入蒜茸，炒几下至出蒜香,"
+    },
+    {
+      "text": "放几勺刚才绰西兰花的水，煮开再放入绰熟的西兰花，翻炒几下，加盐，鸡精调好味,"
+    },
+    {
+      "text": "倒入准备好的湿淀粉水勾芡，翻炒几下即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9657/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 35,
+    "proteinG": 2,
+    "carbsG": 7,
+    "fatG": 0.4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

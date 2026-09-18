@@ -1,0 +1,166 @@
+{
+  "id": "xf-11295",
+  "title": "彩椒鲜肉包",
+  "ingredients": [
+    {
+      "name": "彩椒",
+      "mergeKey": "bell-pepper",
+      "amount": 4,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "肉馅",
+      "mergeKey": "minced-pork",
+      "amount": 300,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 400,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "小葱",
+      "mergeKey": "scallion",
+      "amount": 60,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-peppercorn-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大约220克水",
+      "mergeKey": "water",
+      "amount": 220,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "干酵母",
+      "mergeKey": "yeast",
+      "amount": 4,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "馅料作法：彩椒四个，小葱两根（或大葱半根），姜一小块，肉馅300克,"
+    },
+    {
+      "text": "彩椒切成碎丁，用少许盐拌匀腌一会，挤出水份（不用挤太干，挤出的水也不要扔掉哦,"
+    },
+    {
+      "text": "取100克挤出的彩椒水，微波加热至沸腾。放入花椒，泡至水温冷却，用做水打馅,"
+    },
+    {
+      "text": "克肉馅，加入色拉油，香油，花椒粉，盐，葱姜碎，酱油，鸡精，料酒拌匀。再分次加入做法3泡好的花椒水搅打（花椒滤出不要,"
+    },
+    {
+      "text": "直至分次加完全部的花椒水，肉馅搅打至粘稠，上劲时，放入冰箱冷藏,"
+    },
+    {
+      "text": "准备好面团后，在马上包包子以前，再把打好的肉馅取出，加入做法2的彩椒丁，拌匀,"
+    },
+    {
+      "text": "面粉+水揉成面团，放容器里盖保鲜膜，发酵至有蜂窝状。大约两倍大，我是按面包做法来的,"
+    },
+    {
+      "text": "取出揉至面团光滑没气泡，分割成25克的剂子,"
+    },
+    {
+      "text": "擀成中间厚，边缘薄的包子皮,"
+    },
+    {
+      "text": "包入包子馅，捏褶。（我捏得不太匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "包好的包子排入涂过油的蒸帘上。每个包子收口处摆上一小块彩椒,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "凉水入锅，中大火蒸20分钟。关火3分钟后再打开盖子"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11295/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 697.6,
+    "proteinG": 46.6,
+    "carbsG": 54.2,
+    "fatG": 33
+  },
+  "tags": [
+    "炸",
+    "烤"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

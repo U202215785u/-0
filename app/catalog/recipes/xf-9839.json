@@ -1,0 +1,72 @@
+{
+  "id": "xf-9839",
+  "title": "什锦虾仁",
+  "ingredients": [
+    {
+      "name": "虾仁",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "黑木耳",
+      "mergeKey": "muer",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "丝瓜",
+      "mergeKey": "sigua",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "虾仁洗净去泥肠，沥干水分，加入适量盐、淀粉、胡椒粉拌匀入味,"
+    },
+    {
+      "text": "将泡发好的黑木耳洗净切小块；丝瓜切细长条入沸水中略滚一下捞出沥干备用,"
+    },
+    {
+      "text": "油温热，放入虾仁炒散，再放入黑木耳，丝瓜，加少许生抽调味，翻炒均匀即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9839/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

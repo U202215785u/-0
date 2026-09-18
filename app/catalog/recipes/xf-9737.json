@@ -1,0 +1,58 @@
+{
+  "id": "xf-9737",
+  "title": "金沙玉米",
+  "ingredients": [
+    {
+      "name": "咸鸭蛋黄",
+      "mergeKey": "salted-egg-yolk",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "速冻玉米粒",
+      "mergeKey": "corn",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "速冻玉米粒解冻后，拌上干淀粉，然后用筛子筛去多余的淀粉,"
+    },
+    {
+      "text": "起个大油锅，烧热油，把裹了干淀粉的玉米粒放进去炸两三分钟，至锅铲捞起玉米粒有脆的感觉,"
+    },
+    {
+      "text": "把玉米粒捞出，用厨房纸巾吸去多余油份,"
+    },
+    {
+      "text": "熟的咸鸭蛋黄用勺子碾碎，锅里的油倒出，用留锅壁上的余油小火翻炒咸鸭蛋黄，至咸蛋黄开始冒泡,"
+    },
+    {
+      "text": "迅速把炸好的玉米粒倒进去翻炒几下，让玉米粒表面均匀沾上咸鸭蛋黄即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9737/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 71.5,
+    "proteinG": 6.5,
+    "carbsG": 0.5,
+    "fatG": 5
+  },
+  "tags": [
+    "凉拌",
+    "蒸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "xf-11575",
+  "title": "葱爆羊肉片",
+  "ingredients": [
+    {
+      "name": "左右麻辣花生",
+      "mergeKey": "peanut",
+      "amount": 30,
+      "unit": "粒",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "羊肉片",
+      "mergeKey": "lamb",
+      "amount": 250,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "只要葱白葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "或更多香菜",
+      "mergeKey": "cilantro",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "15毫升米醋",
+      "mergeKey": "vinegar",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "大葱切除葱叶部分，只用葱白，洗净后斜切成1厘米厚的片。香菜去根，洗净后切成3厘米长的段儿,"
+    },
+    {
+      "text": "锅烧到微热倒入油，大火加热，待油温8成热时，马上将羊肉片倒入锅中煸炒1分钟，当羊肉片略微发白时锅中可能会出一点汤，将汤滗掉,"
+    },
+    {
+      "text": "把汤滗掉后，马上烹入2汤匙米醋，倒入生抽，盐和糖翻炒炒匀（约10秒钟左右），然后放入大葱片，持续用大火爆炒,"
+    },
+    {
+      "text": "待葱香味儿炒出时（约10秒钟左右），撒上香菜段，马上淋入剩下的1茶匙米醋，最后将麻辣花生倒入马上出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11575/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 137.7,
+    "proteinG": 5.7,
+    "carbsG": 22.3,
+    "fatG": 2.9
+  },
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

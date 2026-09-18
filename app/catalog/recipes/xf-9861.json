@@ -1,0 +1,68 @@
+{
+  "id": "xf-9861",
+  "title": "蒸盐焗鸡",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken-leg",
+      "category": "肉类"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜黄粉",
+      "mergeKey": "turmeric",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡腿洗净，抹干水分，用料酒擦一遍，边擦边揉，然后静置10分钟,"
+    },
+    {
+      "text": "鸡腿静置的时间用来炒盐。将盐花椒和大料放在锅里中火炒，炒到褐色出锅备用,"
+    },
+    {
+      "text": "将炒过的盐抹在鸡腿上面，也是边擦边揉，让盐尽可能的渗进去。最后在表面涂一层姜黄粉。放入冰箱冷藏过夜，不用盖盖子，让鸡腿自然风干一些,"
+    },
+    {
+      "text": "第二天将鸡腿取出后，洗去表面的盐，然后用厨房用纸吸干水分，用香油将鸡腿抹一遍，蒸锅水开后，入锅大火蒸20-25分钟（根据鸡腿大小掌握时间。）,"
+    },
+    {
+      "text": "蒸好的鸡腿放入冰箱冷却紧紧肉，冷却以后再切，会比较漂亮"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9861/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "炸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

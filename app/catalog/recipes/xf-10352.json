@@ -1,0 +1,63 @@
+{
+  "id": "xf-10352",
+  "title": "番茄汉堡沙律",
+  "ingredients": [
+    {
+      "name": "番茄",
+      "mergeKey": "tomato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面包糠",
+      "mergeKey": "breadcrumbs",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蛋清",
+      "mergeKey": "egg-white",
+      "category": "蛋类"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "紫甘蓝",
+      "mergeKey": "red-cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "番茄用清水浸泡半小时后，切片,"
+    },
+    {
+      "text": "个蛋清加点盐和一点料酒搅拌均匀，番茄片裹上蛋液后再包上一层面包糠,"
+    },
+    {
+      "text": "起油锅油"
+    },
+    {
+      "text": "8成热放番茄片炸透，表面金黄就可以了,"
+    },
+    {
+      "text": "把蔬菜黄、紫甘蓝、红椒切小粒后用色拉酱拌一下，上面放上炸好的番茄片，加一点色拉酱，一盘营养美味的番茄沙律就做好了，还可以在两片番茄中间夹上生菜、牛肉等做成番茄汉堡也不是不错的早餐哦~"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10352/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

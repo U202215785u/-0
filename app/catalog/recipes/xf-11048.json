@@ -1,0 +1,95 @@
+{
+  "id": "xf-11048",
+  "title": "砂糖饼干",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "mergeKey": "flour",
+      "amount": 150,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 60,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "表面装饰全蛋液",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "表面装饰粗砂糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油室温软化,"
+    },
+    {
+      "text": "倒入低筋面粉和细砂糖,"
+    },
+    {
+      "text": "用两手把黄油和低筋面粉不断揉搓，直到搓匀成为粗玉米粉颗粒的样子,"
+    },
+    {
+      "text": "加入清水,"
+    },
+    {
+      "text": "轻轻揉成面团。不要揉太久，揉成为光滑面团即可,"
+    },
+    {
+      "text": "把面团按扁，包上保鲜膜，入冰箱冷藏松弛，最好1～4小时，如果实在着急，也至少要20分钟以上,"
+    },
+    {
+      "text": "烤箱190度预热。冷藏松弛好的面团，从冰箱取出，案板撒薄粉，面团揉匀用擀面杖擀平成方形大薄片，切去边角成方形,"
+    },
+    {
+      "text": "再用刀切成小方块,"
+    },
+    {
+      "text": "排在铺了油布的烤盘上，刷上全蛋液,"
+    },
+    {
+      "text": "在饼干表面均匀撒上粗砂糖。入预热好的烤箱，190℃中层烤15分钟左右"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11048/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖"
+  ],
+  "nutrition": {
+    "kcal": 156.5,
+    "proteinG": 4.3,
+    "carbsG": 31.4,
+    "fatG": 1.7
+  },
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "xf-10013",
+  "title": "烤虹鳟鱼",
+  "ingredients": [
+    {
+      "name": "虹鳟鱼",
+      "mergeKey": "trout",
+      "category": "水产"
+    },
+    {
+      "name": "西兰花",
+      "mergeKey": "broccoli",
+      "category": "蔬菜"
+    },
+    {
+      "name": "菜花",
+      "mergeKey": "cauliflower",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "辣椒面",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "孜然",
+      "mergeKey": "cumin",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将收拾好的鱼腹部片开，背部不片开，用姜片、白酒、胡椒粉、盐腌渍10分钟,"
+    },
+    {
+      "text": "西蓝花掰成小朵，菜花掰成小朵，辣椒切圈、葱切末,"
+    },
+    {
+      "text": "白绿菜花焯水（水中加少量的油、盐，使焯出的菜花颜色鲜艳）,"
+    },
+    {
+      "text": "烤盘下刷油，将腌好的鱼摆在烤盘上撒辣椒粉、孜然,"
+    },
+    {
+      "text": "将烤盘放入已经预热200度的烤箱内，上下火烤10-15分钟,"
+    },
+    {
+      "text": "将锅内放油煸香葱姜蒜泡辣椒酱放入焯好的白绿菜花加少许生抽、盐、白糖、鸡精调味翻炒均匀,"
+    },
+    {
+      "text": "全部倒在从烤箱里取出的鱼盘中,"
+    },
+    {
+      "text": "将鱼再入烤箱烤5分钟，让菜的味道沁入到鱼中，鱼的味道进入菜中，即可趁热上桌"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10013/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

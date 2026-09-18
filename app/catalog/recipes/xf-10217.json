@@ -1,0 +1,40 @@
+{
+  "id": "xf-10217",
+  "title": "冻豆腐",
+  "ingredients": [
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "在超市中买盒装韧豆腐，将韧豆腐切成大小均匀的块儿,"
+    },
+    {
+      "text": "把切好的豆腐凉水下锅，并放1/2茶匙盐（约3克），待水煮开后，继续煮1分钟，将豆腐捞出,"
+    },
+    {
+      "text": "将捞出的豆腐放入凉水中，充分过凉后捞出沥干，一块块的码入到保鲜袋里,"
+    },
+    {
+      "text": "最后，封好保鲜袋，将豆腐放入冰箱冷冻室里冷冻即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10217/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

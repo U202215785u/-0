@@ -1,0 +1,98 @@
+{
+  "id": "xf-10674",
+  "title": "核桃鸡胸肉",
+  "ingredients": [
+    {
+      "name": "鸡胸肉",
+      "mergeKey": "chicken-breast",
+      "amount": 150,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "大核桃仁",
+      "mergeKey": "walnut",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "莲藕",
+      "mergeKey": "lotus-root",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小葱",
+      "mergeKey": "scallion",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡胸肉洗净，将鸡胸肉、核桃、莲藕切小粒； 姜、葱切末,"
+    },
+    {
+      "text": "先把核桃用油炒至松脆,"
+    },
+    {
+      "text": "另起锅放少许油，放入姜、莲藕爆炒，再放入鸡胸肉、少许糖、盐、米酒、老抽拌炒至熟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10674/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 156,
+    "proteinG": 19.8,
+    "carbsG": 9.9,
+    "fatG": 3.6
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

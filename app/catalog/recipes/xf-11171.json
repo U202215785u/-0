@@ -1,0 +1,107 @@
+{
+  "id": "xf-11171",
+  "title": "海鲜泡菜贴饼",
+  "ingredients": [
+    {
+      "name": "韩国泡菜",
+      "mergeKey": "kimchi",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "日月贝",
+      "mergeKey": "scallop",
+      "category": "水产"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "玉米粉",
+      "mergeKey": "corn-flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豌豆",
+      "mergeKey": "pea",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将日月贝洗净从壳中取出、用盐、胡椒粉、绍酒腌渍,"
+    },
+    {
+      "text": "韩国泡菜切小块,"
+    },
+    {
+      "text": "香葱切末将其他原料准备好,"
+    },
+    {
+      "text": "打好的鸡蛋液加入面粉、玉米粉和盐后，搅拌均匀，打成糊待用,"
+    },
+    {
+      "text": "把泡菜和其他辅料放入和好的面粉团中,"
+    },
+    {
+      "text": "轻轻搅拌均匀待用,"
+    },
+    {
+      "text": "电饼铛烧热后放入油，也可以用煎锅,"
+    },
+    {
+      "text": "把和好的面糊用勺子盛入饼铛,"
+    },
+    {
+      "text": "再将腌渍好的日月贝放在面糊上撒上香葱,"
+    },
+    {
+      "text": "两面煎熟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11171/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

@@ -1,0 +1,159 @@
+{
+  "id": "xf-11183",
+  "title": "蕃茄炖鱼",
+  "ingredients": [
+    {
+      "name": "草鱼块",
+      "mergeKey": "grass-carp",
+      "amount": 500,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "中型蕃茄",
+      "mergeKey": "tomato",
+      "amount": 4,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 90,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 4,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜蓉",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙米酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大匙蕃茄酱",
+      "mergeKey": "ketchup",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/8小匙白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 0.625,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将草鱼开肚去内脏，去净鳞，斩成长方块状。蕃茄2颗切细丁，2颗切成瓣状，生姜切片，香葱切段,"
+    },
+    {
+      "text": "将草鱼块放入碗内，加入姜片，米酒，盐用手抓匀，放置腌制15分钟,"
+    },
+    {
+      "text": "盘内放入玉米淀粉，将鱼块放入粘上薄薄的玉米淀粉，如果过厚要用手拍干,"
+    },
+    {
+      "text": "平底锅内烧热油，放入鱼块，转中小火煎制,"
+    },
+    {
+      "text": "煎至表面金黄后，再翻面继续煎至两面金黄色，捞起沥净油备用,"
+    },
+    {
+      "text": "平底锅洗净，重新烧热少许油，放入姜片，葱花炒出香味,"
+    },
+    {
+      "text": "先加入切碎的2颗蕃茄细丁，用小火煸炒一下,"
+    },
+    {
+      "text": "再加入蕃茄酱，砂糖，生抽，盐及清水，用中火煮开后，转小火煮至蕃茄丁溶化,"
+    },
+    {
+      "text": "这时再加入煎好的鱼块，大块的蕃茄，加盖焖煮约10分钟,"
+    },
+    {
+      "text": "中途翻动几次鱼块，让鱼能全部浸入酱汁内，一直煮至酱汁浓稠，最后加入香葱段，鸡精，及白胡椒粉即可出锅了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11183/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 325.5,
+    "proteinG": 60.4,
+    "carbsG": 5.1,
+    "fatG": 7.6
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "xf-4089",
+  "title": "凉拌苦瓜",
+  "ingredients": [
+    {
+      "name": "苦瓜",
+      "mergeKey": "bitter-melon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白醋",
+      "mergeKey": "vinegar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "苦瓜放清水里浸泡，然后用刷子刷洗干净表面"
+    },
+    {
+      "text": "把苦瓜对半剖开，用勺子把瓜瓤部分刮除，尽量把里面白色部分刮干净"
+    },
+    {
+      "text": "切成薄片，撒上一勺盐，用手抓捏均匀后，静置10分钟左右。红椒洗干净后，切成丝备用"
+    },
+    {
+      "text": "锅中水烧开，把盐腌过的苦瓜倒进去，煮半分钟"
+    },
+    {
+      "text": "准备一盆冰水，苦瓜焯好捞出用凉水冲洗降温，然后立即泡入冰水中"
+    },
+    {
+      "text": "五分钟后捞出苦瓜沥干水分，放红椒丝，少许盐，鸡精，白醋和麻油一起拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/4089/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

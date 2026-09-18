@@ -1,0 +1,37 @@
+{
+  "id": "xf-11449",
+  "title": "培根杏脯卷",
+  "ingredients": [
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "amount": 0.5,
+      "unit": "包",
+      "category": "肉类"
+    },
+    {
+      "name": "杏脯肉",
+      "mergeKey": "apricot",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将每片培根卷上一块杏脯卷，用牙签固定（去除牙签尖头部分，安全为上）,"
+    },
+    {
+      "text": "烤盘底部刷少许油，将培根均匀的铺上，上下火180度烤15分钟左右即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11449/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

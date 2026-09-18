@@ -1,0 +1,72 @@
+{
+  "id": "xf-9841",
+  "title": "菠菜猪肝汤",
+  "ingredients": [
+    {
+      "name": "猪肝",
+      "mergeKey": "pork-liver",
+      "category": "肉类"
+    },
+    {
+      "name": "菠菜",
+      "mergeKey": "spinach",
+      "category": "蔬菜"
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪肝洗净，切薄片，用淀粉、生抽、料酒腌一会,"
+    },
+    {
+      "text": "菠菜焯水后挤干水分备用,"
+    },
+    {
+      "text": "锅中放适量水，放入姜丝，水开后，同时放入猪肝和菠菜，用筷子将猪肝划散，待猪肝变色后即可关火，加少许盐调味，滴几滴香油出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9841/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

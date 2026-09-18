@@ -1,0 +1,78 @@
+{
+  "id": "xf-11591",
+  "title": "水晶桂花糕",
+  "ingredients": [
+    {
+      "name": "糯米粉",
+      "mergeKey": "glutinous-rice-flour",
+      "amount": 150,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "澄粉",
+      "mergeKey": "wheat-starch",
+      "amount": 75,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "白沙糖",
+      "mergeKey": "sugar",
+      "amount": 80,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "温水",
+      "mergeKey": "water",
+      "amount": 200,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 40,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "80克白糖加入200克温水中，搅拌至融化,"
+    },
+    {
+      "text": "加入150克糯米粉和75克澄粉，搅拌均匀至无颗粒,"
+    },
+    {
+      "text": "再加入40克色拉油，搅拌均匀至水油混合（面糊中看不到色拉油）,"
+    },
+    {
+      "text": "容器内壁刷色拉油,"
+    },
+    {
+      "text": "把搅拌好的面糊倒入，静置40分钟,"
+    },
+    {
+      "text": "冷水入锅，水开后蒸30分钟。蒸好脱模，待凉后用刀蘸水切块，撒上干桂花，浇上蜂蜜水即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11591/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 298.3,
+    "proteinG": 3.8,
+    "carbsG": 67.9,
+    "fatG": 1.4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

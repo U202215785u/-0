@@ -1,0 +1,92 @@
+{
+  "id": "xf-9635",
+  "title": "奶酪焗烤茄子",
+  "ingredients": [
+    {
+      "name": "马苏里拉奶酪丝",
+      "mergeKey": "mozzarella",
+      "category": "乳制品"
+    },
+    {
+      "name": "黄彩椒",
+      "mergeKey": "yellow-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "茄子",
+      "mergeKey": "eggplant",
+      "category": "蔬菜"
+    },
+    {
+      "name": "猪肉馅",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "甜玉米粒",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豌豆",
+      "mergeKey": "pea",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小米椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "category": "乳制品"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "茄子挖去部分茄子肉但要小心别挖的太薄了，留皮,"
+    },
+    {
+      "text": "茄肉切小丁、黄彩椒切丁葱蒜切末，红辣椒切圈,"
+    },
+    {
+      "text": "锅中放黄油煸香葱放入猪肉馅炒散，放入其他原料炒出香味放少许盐、胡椒粉、调味,"
+    },
+    {
+      "text": "将所有炒好的原料放入茄子碗中，可以多放，一烤就缩了,"
+    },
+    {
+      "text": "烤箱提前预热180度，放在烤盘中进烤箱烤10分钟,"
+    },
+    {
+      "text": "撒上奶酪丝再烤2-5分钟奶酪融化拉丝出香味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9635/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

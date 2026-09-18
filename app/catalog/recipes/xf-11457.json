@@ -1,0 +1,80 @@
+{
+  "id": "xf-11457",
+  "title": "榨菜炒肉丝",
+  "ingredients": [
+    {
+      "name": "猪里几",
+      "mergeKey": "pork",
+      "amount": 1,
+      "unit": "块",
+      "category": "肉类"
+    },
+    {
+      "name": "新鲜榨菜",
+      "mergeKey": "zha-cai",
+      "amount": 1,
+      "unit": "块",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪里几洗净切成丝，加少许盐鸡精白胡椒粉料酒及生粉加少许水抓匀腌10分钟,"
+    },
+    {
+      "text": "榨菜切丝备用,"
+    },
+    {
+      "text": "锅中放油烧热，放入肉丝滑炒至变色关火捞出,"
+    },
+    {
+      "text": "锅中留底油，放入榨菜煸炒片刻，最后放入肉丝一同翻炒均匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11457/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

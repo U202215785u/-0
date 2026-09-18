@@ -1,0 +1,68 @@
+{
+  "id": "xf-9851",
+  "title": "豆瓣酱蒸鸡翅",
+  "ingredients": [
+    {
+      "name": "鸡翅",
+      "mergeKey": "chicken-wing",
+      "amount": 8,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "六月鲜豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱段",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡翅洗净擦干表面水分，用刀在鸡翅上横切几刀，方便入味,"
+    },
+    {
+      "text": "把鸡翅放进容器中，放姜丝，葱段和一汤匙料酒，然后加一大勺豆瓣酱,"
+    },
+    {
+      "text": "所有材料拌匀，腌制,"
+    },
+    {
+      "text": "～1个小时,"
+    },
+    {
+      "text": "烧开锅中水，把腌制好的鸡翅放入大火蒸10分钟左右即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9851/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 406,
+    "proteinG": 37.2,
+    "carbsG": 0,
+    "fatG": 29
+  },
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

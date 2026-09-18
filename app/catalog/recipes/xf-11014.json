@@ -1,0 +1,82 @@
+{
+  "id": "xf-11014",
+  "title": "素食早餐三明治",
+  "ingredients": [
+    {
+      "name": "酸黄瓜",
+      "mergeKey": "pickle",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "吐司",
+      "mergeKey": "bread",
+      "amount": 4,
+      "unit": "片",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "生菜",
+      "mergeKey": "lettuce",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "乳酪",
+      "mergeKey": "cheese",
+      "amount": 2,
+      "unit": "片",
+      "category": "乳制品"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "千岛酱",
+      "mergeKey": "dressing",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "番茄酱",
+      "mergeKey": "ketchup",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把鸡蛋洗净放入锅中，倒入水，大火煮开后，改成中火煮8分钟即可，取出自然冷却,"
+    },
+    {
+      "text": "将酸黄瓜切片，生菜洗净沥干水分。煮好的鸡蛋切成薄片,"
+    },
+    {
+      "text": "将土司面包放入飞利浦面包机中，按下开关，等待自动弹起即可拿出,"
+    },
+    {
+      "text": "切去土司面包片的四边，依次铺上一层千岛酱，一层番茄酱，一片生菜，一片乳酪，一层鸡蛋片，一层酸黄瓜片，最后再铺上一层土司,"
+    },
+    {
+      "text": "用牙签固定好后，将三明治对角切开即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11014/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

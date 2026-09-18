@@ -1,0 +1,104 @@
+{
+  "id": "xf-9940",
+  "title": "宫保杏鲍菇",
+  "ingredients": [
+    {
+      "name": "杏鲍菇",
+      "mergeKey": "king-oyster",
+      "category": "菌菇"
+    },
+    {
+      "name": "花生米",
+      "mergeKey": "peanut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "葱、姜切末，小辣椒切段,"
+    },
+    {
+      "text": "用酱油、绍酒、白糖、盐、水淀粉、醋提前调好碗芡,"
+    },
+    {
+      "text": "将切好丁的杏鲍菇丁焯水捞出待用,"
+    },
+    {
+      "text": "热锅温油，放入花椒煸香,"
+    },
+    {
+      "text": "放入葱、姜、红辣椒,"
+    },
+    {
+      "text": "放入焯好的杏鲍菇丁,"
+    },
+    {
+      "text": "煸炒两分钟后倒入提前调好的碗芡,"
+    },
+    {
+      "text": "倒入炸好的花生米"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9940/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

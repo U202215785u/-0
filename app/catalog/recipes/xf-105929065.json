@@ -1,0 +1,113 @@
+{
+  "id": "xf-105929065",
+  "title": "香干回锅肉",
+  "ingredients": [
+    {
+      "name": "豆干",
+      "mergeKey": "dried-tofu",
+      "amount": 5,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 50,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "蒜苗",
+      "mergeKey": "garlic-sprout",
+      "amount": 2,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "勺豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "半勺老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小红椒",
+      "mergeKey": "red-chili",
+      "amount": 3,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜蒜",
+      "mergeKey": "garlic-ginger",
+      "amount": 4,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "勺蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "姜蒜切好"
+    },
+    {
+      "text": "蒜苗切段."
+    },
+    {
+      "text": "香干热油煎至微黄且有小气泡出来."
+    },
+    {
+      "text": "热油爆姜蒜，放入豆瓣酱再将煮好的五花肉下锅，翻炒2分钟后倒入香干，生抽，老抽，糖，盐，蚝油，放入蒜苗爆炒5分钟."
+    },
+    {
+      "text": "起锅撒上小红椒即可."
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/105929065/",
+  "author": "星语玫瑰",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 252,
+    "proteinG": 15.5,
+    "carbsG": 5.3,
+    "fatG": 19.4
+  },
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

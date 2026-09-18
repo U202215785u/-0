@@ -1,0 +1,75 @@
+{
+  "id": "xf-10980",
+  "title": "核桃炝芹菜",
+  "ingredients": [
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生大核桃仁",
+      "mergeKey": "walnut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "芹菜摘去老叶，浸洗干净，切成段。锅中烧开水，把芹菜段放入焯水，一分钟即可,"
+    },
+    {
+      "text": "把芹菜段捞出用清水冲凉，沥干泡在冰水（凉开水加冰）中,"
+    },
+    {
+      "text": "生大核桃仁用热水泡一下，捞出剥去外皮，用厨房纸吸干表面水份,"
+    },
+    {
+      "text": "冷锅冷油放入剥好的核桃仁，开小火，慢慢炸至表面金黄,"
+    },
+    {
+      "text": "油炸好的大核桃仁，用厨房纸吸去表面油份，用刀背压碎,"
+    },
+    {
+      "text": "把芹菜从冰水中捞出沥干水份，加姜丝、盐、鸡精、香麻油拌匀后装盘，把核桃碎撒在芹菜上"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10980/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

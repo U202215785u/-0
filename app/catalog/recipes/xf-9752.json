@@ -1,0 +1,130 @@
+{
+  "id": "xf-9752",
+  "title": "椰香芝士小餐包",
+  "ingredients": [
+    {
+      "name": "高粉",
+      "mergeKey": "bread-flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "cake-flour",
+      "amount": 50,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "椰蓉",
+      "mergeKey": "coconut",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "奶油奶酪",
+      "mergeKey": "cream-cheese",
+      "amount": 100,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 38,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "即发干酵母",
+      "mergeKey": "yeast",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蛋",
+      "mergeKey": "egg",
+      "amount": 25,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 150,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 25,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋液",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    }
+  ],
+  "steps": [
+    {
+      "text": "除黄油外的所有材料混合揉至光滑后，加入黄油揉至扩展阶段。放温暖处进行基础发酵,"
+    },
+    {
+      "text": "面团发酵至2倍大,"
+    },
+    {
+      "text": "基础发酵的时候做芝士馅。室温软化的奶油奶酪打软后加入过筛的糖粉打至顺滑即成,"
+    },
+    {
+      "text": "将基础发酵完成的面团，排气后均分成9份，然后中间发酵10分钟,"
+    },
+    {
+      "text": "将松弛后的面团擀扁，包入芝士馅,"
+    },
+    {
+      "text": "将包好馅的面团滚圆后排入模中,"
+    },
+    {
+      "text": "将面团放温暖处进行最后发酵，发酵结束后刷一层蛋液，撒上椰蓉。放入预热好的烤箱中下层20－25分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9752/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 406,
+    "proteinG": 8.7,
+    "carbsG": 80.9,
+    "fatG": 5.4
+  },
+  "tags": [
+    "主食",
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

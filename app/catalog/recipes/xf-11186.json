@@ -1,0 +1,61 @@
+{
+  "id": "xf-11186",
+  "title": "豆腐肉丸",
+  "ingredients": [
+    {
+      "name": "老豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "肉末",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把豆腐碾成末，最好用纱布包住，既可挤出多余水份，又可让豆腐末更细腻,"
+    },
+    {
+      "text": "在豆腐中加入肉末、生姜末、盐、鸡蛋、白胡椒粉朝一个方向搅拌均匀,"
+    },
+    {
+      "text": "油锅六成热时，把豆腐馅团成乒乓球大小，沿成锅边下入锅中炸,"
+    },
+    {
+      "text": "看到丸子稍成形，用漏勺推动下，让其都均匀受热，颜色也更均匀，炸至金黄色时即可捞出沥油"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11186/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

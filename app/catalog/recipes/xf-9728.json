@@ -1,0 +1,98 @@
+{
+  "id": "xf-9728",
+  "title": "豉香蒸排骨",
+  "ingredients": [
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "amount": 250,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺蒸鱼豉油",
+      "mergeKey": "soy-sauce",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干豆豉",
+      "mergeKey": "douchi",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "几段葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "几片姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大勺干淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 22.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "排骨切寸段，用料酒，蚝油，葱姜，生抽，蒸鱼豉油和压碎的豆豉拌匀腌制2小时,"
+    },
+    {
+      "text": "挑出葱姜，倒入干淀粉搅匀,"
+    },
+    {
+      "text": "锅内烧开水，把拌匀的排骨放到蒸屉上中小火蒸1小时即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9728/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 333.5,
+    "proteinG": 23,
+    "carbsG": 0.6,
+    "fatG": 26.1
+  },
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

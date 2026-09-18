@@ -1,0 +1,49 @@
+{
+  "id": "xf-11801",
+  "title": "清爽薄荷冰",
+  "ingredients": [
+    {
+      "name": "蜂蜜水",
+      "mergeKey": "honey-water",
+      "category": "其他"
+    },
+    {
+      "name": "薄荷叶",
+      "mergeKey": "mint",
+      "category": "蔬菜"
+    },
+    {
+      "name": "矿泉水",
+      "mergeKey": "water",
+      "category": "其他"
+    },
+    {
+      "name": "啤酒",
+      "mergeKey": "beer",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "洗净薄荷叶，装进冰盒，倒入矿泉水,"
+    },
+    {
+      "text": "冷冻至结块,"
+    },
+    {
+      "text": "取出冰块,"
+    },
+    {
+      "text": "搭配蜂蜜水和啤酒，随便你的喜好了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11801/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

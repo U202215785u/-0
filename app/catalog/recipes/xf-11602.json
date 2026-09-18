@@ -1,0 +1,52 @@
+{
+  "id": "xf-11602",
+  "title": "铁板黑椒牛仔骨",
+  "ingredients": [
+    {
+      "name": "牛仔骨",
+      "mergeKey": "beef-rib",
+      "category": "肉类"
+    },
+    {
+      "name": "牛仔骨半成品",
+      "mergeKey": "beef-rib",
+      "amount": 0.5,
+      "unit": "包",
+      "category": "肉类"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "quantityText": "适量",
+      "category": "乳制品"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "原配酱汁",
+      "mergeKey": "sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "洋葱洗净切成条，黄油切块；铁板放在煤气灶上烧热后，放入黄油融化,"
+    },
+    {
+      "text": "将洋葱先放入铁盘中炒香，捞出备用；继续加热铁盘，均匀的铺上牛仔骨，中小火两面各煎3分钟左右至熟，放入酱汁最后加入洋葱一起翻炒均匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11602/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

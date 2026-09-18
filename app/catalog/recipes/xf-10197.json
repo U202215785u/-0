@@ -1,0 +1,151 @@
+{
+  "id": "xf-10197",
+  "title": "淳香鱼花",
+  "ingredients": [
+    {
+      "name": "草鱼",
+      "mergeKey": "grass-carp",
+      "category": "水产"
+    },
+    {
+      "name": "各1/2个青红椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜汁",
+      "mergeKey": "ginger-juice",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "泡打粉",
+      "mergeKey": "baking-powder",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糊椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "十三香粉",
+      "mergeKey": "thirteen-spice",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "风味豆鼓辣椒油",
+      "mergeKey": "chili-bean-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "洗净鱼肉，取一边鱼肉，擦干水，平铺在菜板上,"
+    },
+    {
+      "text": "用刀紧贴鱼刺斜片下鱼肚部分,"
+    },
+    {
+      "text": "取另一边鱼，用刀从尾部直刀切至鱼骨后，将刀平行菜板，紧贴鱼骨片下鱼肉,"
+    },
+    {
+      "text": "在片下的鱼肉上切下鱼肚部分,"
+    },
+    {
+      "text": "处理好的鱼肉和鱼骨、鱼肚,"
+    },
+    {
+      "text": "取一边鱼肉，直刀间隔约"
+    },
+    {
+      "text": "5毫米横切下鱼片至3/4处,每5片鱼为一段切断,"
+    },
+    {
+      "text": "在切好的鱼片段上，纵向直刀间隔约"
+    },
+    {
+      "text": "5毫米切至3/4处，以形成十字花,"
+    },
+    {
+      "text": "将打好花刀的鱼肉放入碗中，撒入盐、白胡椒粉、料酒拌匀腌制15分钟,"
+    },
+    {
+      "text": "将腌制好的鱼花放入鸡蛋液中挂上蛋液,"
+    },
+    {
+      "text": "将泡打粉混入干淀粉中，再将腌好的鱼肉放入，均匀地蘸上一层干淀粉，并将多余的粉抖掉,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "锅中倒油，大火烧至七成热时，用筷子夹住鱼花放入油中炸，至金黄色时捞起沥油装盘,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "另一锅中，将葱姜水倒入锅中，放入生抽、十三香粉、蚝油、青红椒粒加少许清水烧开，加入鸡精、风味豆鼓辣椒油、调入水淀粉勾芡，翻搅至汤汁浓稠时，淋在炸好的鱼花上，撒上葱花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10197/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 80,
+  "difficulty": "中等"
+}

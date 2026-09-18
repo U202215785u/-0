@@ -1,0 +1,104 @@
+{
+  "id": "xf-10456",
+  "title": "芝麻如意卷",
+  "ingredients": [
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 60,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "cake-flour",
+      "amount": 150,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋白",
+      "mergeKey": "egg-white",
+      "amount": 25,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "/4小勺香草精",
+      "mergeKey": "vanilla-extract",
+      "amount": 1.25,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "玉米粉",
+      "mergeKey": "cornstarch",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "黑芝麻",
+      "mergeKey": "black-sesame",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黑芝麻加糖放入料理机中打成粉末状备用,"
+    },
+    {
+      "text": "黄油室温软化后加入糖粉拌匀，再分次加入蛋白和香草精搅打均匀,"
+    },
+    {
+      "text": "将低粉、玉米粉、泡打粉混合后筛入，用橡皮刮刀以不规则的方向拌成面团，将面团擀成长方形,"
+    },
+    {
+      "text": "把面团铺在保鲜膜上，撒上内陷，用手拉起保鲜膜轻轻卷至面团的1/2处，再重另外一头卷起，卷好的面团包在保鲜膜内冷藏2个小时,"
+    },
+    {
+      "text": "冷藏后的面团切成"
+    },
+    {
+      "text": "8厘米厚的片状，放入预热好的烤箱170度，中层烤15至20分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10456/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 135.5,
+    "proteinG": 3.9,
+    "carbsG": 23.9,
+    "fatG": 2.5
+  },
+  "tags": [
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

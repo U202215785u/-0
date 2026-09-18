@@ -1,0 +1,99 @@
+{
+  "id": "xf-11622",
+  "title": "吮指鸡翅棒",
+  "ingredients": [
+    {
+      "name": "鸡中翅",
+      "mergeKey": "chicken-wing",
+      "category": "肉类"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "熟芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡翅从两根骨头中剖开,"
+    },
+    {
+      "text": "剖开的鸡翅，加料酒、盐、黑胡椒粉腌20分钟（盐的量不可多，后面放的酱油也有咸味，如口淡，这里也可不放盐）,"
+    },
+    {
+      "text": "锅中油热后，开小火，下入鸡翅（鸡翅因有调料腌过，又有些水份，煎时会有点溅油，可开小火或盖上锅盖）,"
+    },
+    {
+      "text": "鸡翅煎至发干，金黄色时盛出，用厨房纸巾吸掉多余油份,"
+    },
+    {
+      "text": "煎鸡翅时多翻动，别煎糊了，用筷子感觉下，表外发硬即可）,"
+    },
+    {
+      "text": "用锅中底油，小火，将冰糖炒化，炒糖色,"
+    },
+    {
+      "text": "放入干辣椒和大葱段后倒入1勺老抽、2勺生抽，约100毫升热水烧开，出香味（老抽和生抽调和着放，老抽可少放些，后面收汁时会更浓，我就是一下倒多了，颜色重了些）,"
+    },
+    {
+      "text": "待汤汁烧一半时，倒入鸡翅，翻动，让汁都裹住鸡翅，撒上芝麻即可（因汤汁即将烧干，挂汁时可用小火，以免翻动不即时糊锅）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11622/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "xf-11613",
+  "title": "魔芋啤酒鸭",
+  "ingredients": [
+    {
+      "name": "嫩鸭",
+      "mergeKey": "duck",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "魔芋",
+      "mergeKey": "konjac",
+      "amount": 1,
+      "unit": "块",
+      "category": "其他"
+    },
+    {
+      "name": "660毫升啤酒",
+      "mergeKey": "beer",
+      "amount": 2,
+      "unit": "罐",
+      "category": "其他"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸭子洗净后，用清水浸泡十分钟，泡出血污，再用清水冲净沥干，切小块,"
+    },
+    {
+      "text": "魔芋用开水泡一会儿洗干净,"
+    },
+    {
+      "text": "魔芋切小块，葱姜洗净切成葱段姜片，大蒜去皮,"
+    },
+    {
+      "text": "锅中放油烧热，小火煸香花椒和八角后，捞出扔掉,"
+    },
+    {
+      "text": "煸香葱姜蒜,"
+    },
+    {
+      "text": "放入鸭块煸炒至完全变色,"
+    },
+    {
+      "text": "加半汤匙老抽、半汤匙生抽、一汤匙蚝油、一片香叶、一小片桂皮，放入魔芋块，倒入两罐啤酒，大火煮开转小火，炖40分钟左右至鸭块酥烂,"
+    },
+    {
+      "text": "开盖转中大火收汁，撒上葱花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11613/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

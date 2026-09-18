@@ -1,0 +1,74 @@
+{
+  "id": "xf-9932",
+  "title": "泡椒金针菇肥牛",
+  "ingredients": [
+    {
+      "name": "肥牛肉",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "金针菇",
+      "mergeKey": "enoki",
+      "category": "菌菇"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "泡椒",
+      "mergeKey": "pickled-chili",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "起油锅，放入姜片大葱爆出香味,"
+    },
+    {
+      "text": "放入泡椒和泡椒水（根据个人口味而定，喜欢吃辣的就多放点），加适量水，加几滴醋,"
+    },
+    {
+      "text": "烧开后放入金针菇煮熟,"
+    },
+    {
+      "text": "最后放入肥牛，颜色变了以后就立即关火（煮时间太长老了就不好吃了），加少许盐、鸡精调味"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9932/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

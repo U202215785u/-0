@@ -1,0 +1,49 @@
+{
+  "id": "xf-9570",
+  "title": "桂圆梅子炖秋梨",
+  "ingredients": [
+    {
+      "name": "梅子",
+      "mergeKey": "plum",
+      "category": "蔬菜"
+    },
+    {
+      "name": "梨",
+      "mergeKey": "pear",
+      "category": "蔬菜"
+    },
+    {
+      "name": "桂圆",
+      "mergeKey": "longan",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "梨洗净去核切厚片、干桂圆去壳（鲜的也可）、梅子洗净,"
+    },
+    {
+      "text": "以上材料加足量水大火煮开改小火煮炖50分钟,"
+    },
+    {
+      "text": "放至温热加适量蜂蜜即可饮用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9570/",
+  "author": "锦食堂",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "xf-1000901",
+  "title": "沙茶牛肉",
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "沙茶酱",
+      "mergeKey": "satay-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛肉切片用姜丝，盐，蚝油，生分，料酒腌制入味"
+    },
+    {
+      "text": "锅里倒油，放牛肉进去翻炒，煸炒变色后迅速盛出来备用"
+    },
+    {
+      "text": "另起锅，用一点点油爆香姜丝，再到青椒丝进去翻炒"
+    },
+    {
+      "text": "到牛肉片进去快速翻炒，放两勺沙茶酱进去翻炒，临出锅前撒香菜，迅速翻炒，盛出"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/1000901/",
+  "author": "吖土",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "xf-10847",
+  "title": "咖哩牛腩",
+  "ingredients": [
+    {
+      "name": "牛腩",
+      "mergeKey": "beef-brisket",
+      "category": "肉类"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "咖哩块",
+      "mergeKey": "curry",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛腩绰水煮一会儿，去除血污，用流动的水冲洗干净备用,"
+    },
+    {
+      "text": "胡萝卜，土豆和洋葱去皮切成块，姜切片，蒜剥皮，葱洗净打葱结,"
+    },
+    {
+      "text": "把牛腩放入高压锅，加水没过牛腩，把姜片，葱结，八角和蒜放进茶包袋（这样等下捞出来比较容易），扔进高压锅，放两勺料酒。开火，高压锅上气后小火煮35分钟,"
+    },
+    {
+      "text": "把牛腩从高压锅转移到汤锅里，捞出料包，加入土豆和胡萝卜块继续用小火炖40分钟至牛腩酥烂，,"
+    },
+    {
+      "text": "加入两块咖哩块（看自己喜欢决定咖哩块的多少）继续煮20分钟,"
+    },
+    {
+      "text": "换成炒锅，用大火收汁，至汤汁浓稠就可以出锅了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10847/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

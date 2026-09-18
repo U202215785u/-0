@@ -1,0 +1,76 @@
+{
+  "id": "xf-10281",
+  "title": "蜜汁鸡腿饭",
+  "ingredients": [
+    {
+      "name": "青红尖椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken-thigh",
+      "category": "肉类"
+    },
+    {
+      "name": "头洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蜜汁叉烧酱",
+      "mergeKey": "char-siu-sauce",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡腿洗净，擦干水份，用铁签儿在上面扎无数小洞，以便入味,"
+    },
+    {
+      "text": "倒入酱油，涂抹均匀，洋葱切丝儿，倒入，抓匀，放入冰箱腌制一夜（或至少两小时）,"
+    },
+    {
+      "text": "青红椒洗净，切滚刀小块,"
+    },
+    {
+      "text": "锅中加入适量油，加热，将鸡腿皮朝下放入锅中中小火煎，一面金黄上色后翻面再煎另一面,"
+    },
+    {
+      "text": "加入蜜汁叉烧酱和黑胡椒粉，拌匀后，倒入适量热水，没过1/3鸡身即可,"
+    },
+    {
+      "text": "大火烧开后转小火慢慢煮至汤汁收浓,"
+    },
+    {
+      "text": "最后，加入一起腌制的洋葱丝，和青红尖椒块，炒至断生即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10281/",
+  "author": "CANDEY",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "xf-10086",
+  "title": "豆腐酿香菇",
+  "ingredients": [
+    {
+      "name": "老豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "干香菇",
+      "mergeKey": "dried-shiitake",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "虾肉",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豌豆",
+      "mergeKey": "pea",
+      "category": "蔬菜"
+    },
+    {
+      "name": "甜辣酱",
+      "mergeKey": "sweet-chili-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "干香菇泡发好，胡萝卜切末，虾肉切成颗粒状，老豆腐撵成泥,"
+    },
+    {
+      "text": "将胡萝卜、虾、老豆腐混合，加入油和盐，再加点料酒，搅拌均匀,"
+    },
+    {
+      "text": "将馅和在香菇上，最后我加了点绿色的豌豆,"
+    },
+    {
+      "text": "上气大火蒸5分钟，出锅后将汤汁回锅勾芡淋于菜上即可。我还加了点甜辣酱"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10086/",
+  "author": "子瑜妈妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

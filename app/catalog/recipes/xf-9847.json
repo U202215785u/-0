@@ -1,0 +1,120 @@
+{
+  "id": "xf-9847",
+  "title": "蘑菇一家亲",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "mergeKey": "flour",
+      "amount": 100,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 50,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 45,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋白",
+      "mergeKey": "egg-white",
+      "amount": 25,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "/4小匙无铝泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 1,
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小匙玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 1,
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "黑巧克力",
+      "mergeKey": "dark-chocolate",
+      "quantityText": "若干",
+      "category": "其他"
+    },
+    {
+      "name": "彩珠糖",
+      "mergeKey": "sprinkles",
+      "quantityText": "若干",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油室温放置软化,"
+    },
+    {
+      "text": "加入糖粉快速搅打至羽毛状,"
+    },
+    {
+      "text": "分次加入蛋白，搅打至完全混合,"
+    },
+    {
+      "text": "筛入低粉、泡打粉、玉米淀粉的混合粉类,"
+    },
+    {
+      "text": "以不规则方式切拌成团，包保鲜膜静置30分钟,"
+    },
+    {
+      "text": "取出适量手指饼干,"
+    },
+    {
+      "text": "将静置好的面团平均分成若干小球,"
+    },
+    {
+      "text": "用手指饼干在小面团上压出直径相同的洞,"
+    },
+    {
+      "text": "洞口朝下排入烤盘，放入预热150度的烤箱20分钟，再余温焖5分钟,"
+    },
+    {
+      "text": "隔水融化黑巧克力,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "用融化的黑巧克力将饼干球和手指饼干粘合，并在表层涂上适量巧克力,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "撒上彩珠糖，用巧克力画出眉眼即可：）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9847/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 186.1,
+    "proteinG": 3.4,
+    "carbsG": 40.5,
+    "fatG": 1.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

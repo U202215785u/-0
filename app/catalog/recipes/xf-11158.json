@@ -1,0 +1,148 @@
+{
+  "id": "xf-11158",
+  "title": "炖腔骨",
+  "ingredients": [
+    {
+      "name": "腔骨",
+      "mergeKey": "pork-spine",
+      "amount": 2,
+      "unit": "斤",
+      "category": "肉类"
+    },
+    {
+      "name": "节葱",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 40,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel-seed",
+      "amount": 40,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 2,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "草果",
+      "mergeKey": "tsaoko",
+      "amount": 1,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 1,
+      "unit": "段",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 2,
+      "unit": "片",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "45毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "60毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "45毫升老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15克盐",
+      "mergeKey": "salt",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5毫升米醋",
+      "mergeKey": "vinegar",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克白糖",
+      "mergeKey": "sugar",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把腔骨清洗干净后，放入锅中。锅中倒入可以没过腔骨水量的凉水，大火煮开,"
+    },
+    {
+      "text": "待水开后撇去浮沫，再煮3分钟左右，捞出腔骨，用清水反复冲净表面的浮沫。煮腔骨的水倒掉不用,"
+    },
+    {
+      "text": "将洗净的腔骨放回洗净的锅中，再加入清水煮开，煮开后如果汤面有少许浮沫，请继续撇干净,"
+    },
+    {
+      "text": "然后放入大葱，姜片，花椒，小茴香，八角，草果，桂皮和香叶，调入料酒，生抽，老抽，米醋和白糖，搅匀后盖上盖子，转中小火炖1个小时,"
+    },
+    {
+      "text": "一小时后，调入盐改成大火，打开盖子继续煮3分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11158/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "xf-11177",
+  "title": "蒜蓉粉丝蒸娃娃菜",
+  "ingredients": [
+    {
+      "name": "(50克)绿豆粉丝",
+      "mergeKey": "mung-bean-noodles",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "娃娃菜",
+      "mergeKey": "baby-cabbage",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "整颗大蒜",
+      "mergeKey": "garlic",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/5个新鲜红椒",
+      "mergeKey": "red-pepper",
+      "amount": 0.2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙高汤(清水)",
+      "mergeKey": "water",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "大匙沙拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将粉丝用冷水浸泡二十分钟至软，娃娃菜切成4瓣，大蒜去皮剁成蓉，红椒切碎，香葱切碎,"
+    },
+    {
+      "text": "锅内放沙拉油2大匙，烧至三成热，放入蒜蓉炒出香味，加入生抽，清水，砂糖，鸡精煮开,"
+    },
+    {
+      "text": "制好的蒜蓉酱汁盛出备用,"
+    },
+    {
+      "text": "在盘上先铺垫上泡软的粉丝，再平铺上娃娃菜,"
+    },
+    {
+      "text": "将制好的蒜蓉酱汁用汤匙，淋在娃娃菜身上,"
+    },
+    {
+      "text": "锅内烧开水，放上蒸架，放上娃娃菜，加盖大火蒸10-12分钟即可。出锅后在表面洒上少量青葱碎及红椒碎做装饰即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11177/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 86.5,
+    "proteinG": 3.3,
+    "carbsG": 17,
+    "fatG": 1
+  },
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

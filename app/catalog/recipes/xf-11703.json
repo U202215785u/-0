@@ -1,0 +1,51 @@
+{
+  "id": "xf-11703",
+  "title": "糯米红枣",
+  "ingredients": [
+    {
+      "name": "大颗的红枣",
+      "mergeKey": "red-date",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "糯米粉",
+      "mergeKey": "glutinous-rice-flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "粘米粉",
+      "mergeKey": "rice-flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "糖桂花",
+      "mergeKey": "osmanthus-syrup",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将红枣提前用温水浸泡1小时左右（为了表皮更好的舒展，没时间不浸泡也行），将浸好的红枣横切一刀，小心的挖出枣核（切好以后，用大拇指的指甲轻轻的将核与果肉分离，最后拉出枣核）,"
+    },
+    {
+      "text": "糯米粉与粘米粉放入盆中，慢慢倒入适量温水一边用筷子搅拌成大颗粒，然后和成软硬适中的面团，揪一小块捏成长条塞入红枣中（糯米粉很容易散，不能搓，一定要用捏的）,"
+    },
+    {
+      "text": "碗里放入适量白糖加少许开水溶化后，浇在蒸红枣的盘子里（不用太 多，小半碗即可）入开水锅中火蒸15分钟，取出后浇上糖桂花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11703/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

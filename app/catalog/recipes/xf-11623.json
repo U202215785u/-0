@@ -1,0 +1,65 @@
+{
+  "id": "xf-11623",
+  "title": "辣炒四季豆",
+  "ingredients": [
+    {
+      "name": "红菜椒",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "四季豆",
+      "mergeKey": "green-bean",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜瓣",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "四季豆去茎，切斜刀；蒜剥好，剁成小颗粒；红椒切小块,"
+    },
+    {
+      "text": "锅中放适量油，放蒜粒爆香，放入四季豆拌炒,"
+    },
+    {
+      "text": "炒至表面起皱，这个是关键哈，别不舍得，一定要炒到起皱才能入味,"
+    },
+    {
+      "text": "放适量盐、适量豆瓣酱、少许白糖，拌炒入味,"
+    },
+    {
+      "text": "放红椒粒，稍稍拌炒即可出锅啦"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11623/",
+  "author": "apple爱自己",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

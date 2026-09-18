@@ -1,0 +1,101 @@
+{
+  "id": "xf-11378",
+  "title": "榴莲手指米糕",
+  "ingredients": [
+    {
+      "name": "榴莲果肉",
+      "mergeKey": "durian",
+      "amount": 180,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "泰国米粉",
+      "mergeKey": "rice-flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "木薯淀粉",
+      "mergeKey": "tapioca-starch",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "泰国金色绿豆",
+      "mergeKey": "mung-bean",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "粗椰丝",
+      "mergeKey": "coconut",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "椰浆",
+      "mergeKey": "coconut-milk",
+      "amount": 200,
+      "unit": "毫升",
+      "category": "其他",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "椰糖",
+      "mergeKey": "palm-sugar",
+      "amount": 40,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将榴莲、泰国米粉、木薯粉、盐、椰浆和适量水一起搅拌均匀，揉匀面团，醒30分钟,"
+    },
+    {
+      "text": "将拌混好的原料、做成手指大小的粉团,"
+    },
+    {
+      "text": "将椰糖加适量水，熬煮成糖浆待用,"
+    },
+    {
+      "text": "将粉团放入沸水中，煮至浮起后，加3次冷水，至粉团浮起，捞出,"
+    },
+    {
+      "text": "趁热裹上椰丝，稍凉后撒上金色绿豆，淋上椰糖浆食用即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11378/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 447.4,
+    "proteinG": 11.7,
+    "carbsG": 84,
+    "fatG": 6.3
+  },
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

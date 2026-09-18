@@ -1,0 +1,81 @@
+{
+  "id": "xf-11452",
+  "title": "丝瓜油面筋",
+  "ingredients": [
+    {
+      "name": "油面筋",
+      "mergeKey": "gluten",
+      "category": "米面主食"
+    },
+    {
+      "name": "-2条丝瓜",
+      "mergeKey": "luffa",
+      "amount": 1,
+      "category": "蔬菜"
+    },
+    {
+      "name": "泡发的枸杞",
+      "mergeKey": "goji",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蒜蓉",
+      "mergeKey": "garlic",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉水",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "枸杞用热水泡发，丝瓜削皮切成滚刀块，油面筋对半切开,"
+    },
+    {
+      "text": "锅中放油烧热，将丝瓜和蒜蓉一同放入稍微翻炒几下，接着倒入适量开水，放入油面筋，烧至汤汁略收干成熟,"
+    },
+    {
+      "text": "调好生粉水，在锅中调入盐，少许糖，鸡精，撒入枸杞，倒好生粉水翻匀勾芡，出锅后淋少许香油即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11452/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

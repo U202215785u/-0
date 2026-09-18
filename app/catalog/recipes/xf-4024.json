@@ -1,0 +1,171 @@
+{
+  "id": "xf-4024",
+  "title": "担担面",
+  "ingredients": [
+    {
+      "name": "熟鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "五花猪肉",
+      "mergeKey": "pork-belly",
+      "amount": 300,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "面条",
+      "mergeKey": "noodle",
+      "amount": 250,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "红葱头",
+      "mergeKey": "shallot",
+      "amount": 4,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鲜虾",
+      "mergeKey": "shrimp",
+      "amount": 250,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "豆芽菜",
+      "mergeKey": "bean-sprout",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小匙葱花",
+      "mergeKey": "scallion",
+      "amount": 5,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 1.25,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "可以让肉汁更浓稠猪皮",
+      "mergeKey": "pork-skin",
+      "amount": 1,
+      "unit": "块",
+      "category": "肉类"
+    },
+    {
+      "name": "/2小匙盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪肉切小丁后粗斩成肉馅，红葱头切片,"
+    },
+    {
+      "text": "锅内1大匙油，冷油放入红葱头片爆至金黄色,"
+    },
+    {
+      "text": "加入猪肉馅，小火煸炒约5分钟至出油,"
+    },
+    {
+      "text": "将猪肉馅装入小锅内，放入熟鸡蛋及所有调味料，清水250毫升,"
+    },
+    {
+      "text": "用中火煮开后，转小火加盖煮约25-30分钟，至肉剩少量汤汁,"
+    },
+    {
+      "text": "鲜虾去头，去壳（备用）虾仁洗净备用,"
+    },
+    {
+      "text": "锅内1小匙油，冷油放入虾头及虾壳，姜片炒至变色,"
+    },
+    {
+      "text": "注入清水500毫升,煮至汤色转微白。撇去泡沫，加入盐，白胡椒粉调味,"
+    },
+    {
+      "text": "锅内放少量盐，烧开水，放入面条，中途加3次冷水煮至熟，捞起备用,"
+    },
+    {
+      "text": "剩下的面汤，分别将虾仁，豆芽菜烫熟即可,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "最后将面条放入虾高汤，摆虾仁，豆芽菜，卤蛋切半，淋上卤肉燥即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/4024/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 627.9,
+    "proteinG": 73.1,
+    "carbsG": 38.7,
+    "fatG": 20.4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 60,
+  "difficulty": "中等"
+}

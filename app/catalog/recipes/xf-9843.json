@@ -1,0 +1,75 @@
+{
+  "id": "xf-9843",
+  "title": "红烧牛肉面",
+  "ingredients": [
+    {
+      "name": "上等牛腱子",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "西红柿",
+      "mergeKey": "tomato",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 1,
+      "unit": "块",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒",
+      "mergeKey": "chili",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "丁香",
+      "mergeKey": "clove",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将上等的牛腱子肉煮开，血沫弄干净后关至中火,"
+    },
+    {
+      "text": "将丁香，辣椒和黄酒放入中火煮30分钟,"
+    },
+    {
+      "text": "再放入冰糖和西红柿丁，加入酱油调色放入少量盐（依照各人口味）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9843/",
+  "author": "东西方饮食文化",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "蒸",
+    "烧焖",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "xf-10442",
+  "title": "马兰拌螺肉",
+  "ingredients": [
+    {
+      "name": "马兰",
+      "mergeKey": "malan",
+      "category": "蔬菜"
+    },
+    {
+      "name": "螺蛳",
+      "mergeKey": "snail",
+      "category": "水产"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜丝",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "清水中加少量盐，再滴几滴色拉油，把螺蛳放在水中养几个小时，让其吐出污物。锅中水烧开，放料酒和姜丝，入螺蛳焯水至熟，捞出,"
+    },
+    {
+      "text": "马兰摘去老叶，漂洗干净。锅中水烧开，放一小勺盐和几滴色拉油，把马兰放入焯水后捞出,"
+    },
+    {
+      "text": "焯水过的螺蛳沥干水分，马兰挤干水分,"
+    },
+    {
+      "text": "用牙签把螺蛳肉挑出（这步需要花点时间和耐心）,"
+    },
+    {
+      "text": "马兰挤干水分，切碎,"
+    },
+    {
+      "text": "把螺蛳肉切碎的马兰放一大碗里，放盐、鸡精拌匀，再淋上香麻油拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10442/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

@@ -1,0 +1,144 @@
+{
+  "id": "xf-11320",
+  "title": "东坡素肉",
+  "ingredients": [
+    {
+      "name": "熏豆干",
+      "mergeKey": "smoked-tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "冬瓜",
+      "mergeKey": "winter-melon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "主材料为熏豆干、豆腐和冬瓜,"
+    },
+    {
+      "text": "冬瓜切成厚2厘米，边长3厘米的方块,"
+    },
+    {
+      "text": "熏豆干和豆腐切成与冬瓜同样大小的方块，豆腐块厚约1厘米,"
+    },
+    {
+      "text": "锅内放油烧热，小火把冬瓜块两面煎至略焦,"
+    },
+    {
+      "text": "另起一锅，放入适量冰糖、干辣椒、姜片、八角、花椒炒出香味,"
+    },
+    {
+      "text": "烹入料酒、老抽，加入高汤（吃素的人可以直接加清水），烧开,"
+    },
+    {
+      "text": "入煎过的冬瓜块小火慢煮，同时加入盐、花椒粉、鸡精调味。煮至冬瓜半透明，软糯，且上色棕红时捞出,"
+    },
+    {
+      "text": "同一锅汤，下豆腐块和熏干块，小火煮3分钟，入味后捞出,"
+    },
+    {
+      "text": "煮过的冬瓜、熏干和豆腐,"
+    },
+    {
+      "text": "把上述材料依次摞起来，从底向上依次为：冬瓜、熏豆干、豆腐块、熏豆干,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "把做好的东坡肉块摆入盘中,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "刚才煮制材料的原汤烧开，加入生粉水，做成芡汁，浇在东坡肉上。再摆上葱丝做装饰"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11320/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

@@ -1,0 +1,144 @@
+{
+  "id": "xf-11362",
+  "title": "秋葵炒虾仁",
+  "ingredients": [
+    {
+      "name": "秋葵",
+      "mergeKey": "okra",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "海白虾",
+      "mergeKey": "shrimp",
+      "amount": 400,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "-30毫升广东米酒+姜末姜汁酒",
+      "mergeKey": "cooking-wine",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/8小匙白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 0.625,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙橄榄油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺姜末",
+      "mergeKey": "ginger",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "碗中放入一大勺姜末，倒入20-30毫升广东米酒，浸泡30分钟左右制成姜汁酒备用,"
+    },
+    {
+      "text": "海白虾洗净后去头,"
+    },
+    {
+      "text": "用剪刀从背部把壳剪开，从中间剔除虾线,"
+    },
+    {
+      "text": "包下虾皮保留虾肉,"
+    },
+    {
+      "text": "用刀把虾肉背部片开，深及三分之二处不切断虾肉,"
+    },
+    {
+      "text": "改刀后的虾仁用清水反复冲洗干净后控干水分,"
+    },
+    {
+      "text": "在虾肉中加入2克盐，抓拌至虾肉产生黏性,"
+    },
+    {
+      "text": "然后加入一大勺姜汁酒和少许白胡椒粉，淀粉抓拌均匀,"
+    },
+    {
+      "text": "最后放入橄榄油拌匀后腌制15分钟左右,"
+    },
+    {
+      "text": "秋葵洗净后去蒂改刀成段,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "锅内做水，水中加一小勺盐（未计入材料内），水开后下入秋葵,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "焯烫约20秒左右捞出控干水分,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "锅内放少许橄榄油（未计入材料内），下入姜末爆香后下入腌好的虾仁翻炒,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "炒至虾仁变色后下入秋葵快速翻炒,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "出锅前淋入一小勺姜汁酒爆香后加少许盐调味后出锅完成制作"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11362/",
+  "author": "卤煮鲍鱼",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 330,
+    "proteinG": 51,
+    "carbsG": 14,
+    "fatG": 8
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 100,
+  "difficulty": "中等"
+}

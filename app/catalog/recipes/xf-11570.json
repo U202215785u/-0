@@ -1,0 +1,62 @@
+{
+  "id": "xf-11570",
+  "title": "娃娃菜虾干汤",
+  "ingredients": [
+    {
+      "name": "虾干",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "娃娃菜",
+      "mergeKey": "baby-cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "quantityText": "一点",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅中放一大碗水烧开后，放入虾干、姜丝，再倒一点料酒，煮开后转小火10分钟左右（把虾干的鲜味煮出）,"
+    },
+    {
+      "text": "娃娃菜掰开洗净甩干水份，竖向切成条,"
+    },
+    {
+      "text": "锅里虾干煮十分钟后，开盖放入娃娃菜，再盖上盖子一两分钟即可调入少量盐和鸡精出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11570/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

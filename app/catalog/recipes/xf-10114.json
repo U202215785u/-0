@@ -1,0 +1,57 @@
+{
+  "id": "xf-10114",
+  "title": "蚝油炒饭",
+  "ingredients": [
+    {
+      "name": "一小碗(150克左右)米饭",
+      "mergeKey": "rice",
+      "category": "米面主食"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(10克左右)清葱",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备材料,"
+    },
+    {
+      "text": "锅中倒少许油,"
+    },
+    {
+      "text": "放入葱末爆香,"
+    },
+    {
+      "text": "倒入蚝油,"
+    },
+    {
+      "text": "倒入米饭,"
+    },
+    {
+      "text": "翻炒均匀后出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10114/",
+  "author": "飞雪无霜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

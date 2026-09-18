@@ -1,0 +1,62 @@
+{
+  "id": "xf-11122",
+  "title": "沙茶魔芋",
+  "ingredients": [
+    {
+      "name": "盒装魔芋",
+      "mergeKey": "konjac",
+      "category": "其他"
+    },
+    {
+      "name": "沙茶酱",
+      "mergeKey": "shacha-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "荷兰豆",
+      "mergeKey": "snow-pea",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "盒装魔芋拆开，倒掉盒子里的水，把魔芋放在流动的水下冲洗干净。锅里水烧开，把魔芋放入焯水后，捞出沥干水份备用,"
+    },
+    {
+      "text": "荷兰豆洗净摘去两头，当中切一刀。胡萝卜洗净去皮切成片,"
+    },
+    {
+      "text": "锅中放油烧热，入胡萝卜片煸炒,"
+    },
+    {
+      "text": "再放荷兰豆煸炒片刻,"
+    },
+    {
+      "text": "魔芋块放入翻炒一会儿,"
+    },
+    {
+      "text": "放一大勺沙茶酱，翻炒均匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11122/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "xf-9690",
+  "title": "鲫鱼汤",
+  "ingredients": [
+    {
+      "name": "鲫鱼",
+      "mergeKey": "crucian-carp",
+      "category": "水产"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅内放少许油，油热后，放入鲫鱼，两面煎成金黄色,"
+    },
+    {
+      "text": "加入适量冷水，姜片，开锅后，转小火，30分钟,"
+    },
+    {
+      "text": "加入适量盐调味，撒上香菜即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9690/",
+  "author": "crystal苏提",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

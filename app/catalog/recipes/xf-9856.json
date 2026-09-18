@@ -1,0 +1,71 @@
+{
+  "id": "xf-9856",
+  "title": "海米拌包心菜",
+  "ingredients": [
+    {
+      "name": "海米",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "包心菜",
+      "mergeKey": "cabbage",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "海米用温水泡15分钟,"
+    },
+    {
+      "text": "包心菜用手撕成小片,"
+    },
+    {
+      "text": "烧一锅热水，放入撕好的小片包心菜，烫至断生即可捞出，捞出后过凉水备用（包心菜不要一次全倒进锅里，分批放入）,"
+    },
+    {
+      "text": "凉水过好后的包心菜与泡软的海米装碗，加少许盐、生抽、鸡精、糖、醋拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9856/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "蒸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "xf-11484",
+  "title": "培根芦笋卷配黄油烤蘑菇",
+  "ingredients": [
+    {
+      "name": "芦笋",
+      "mergeKey": "asparagus",
+      "category": "蔬菜"
+    },
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "category": "肉类"
+    },
+    {
+      "name": "白蘑菇",
+      "mergeKey": "mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "大蒜粉",
+      "mergeKey": "garlic-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "培根一切为二，芦笋取头部清洗干净后入开水锅中（放少许油）出水1分钟；蘑菇洗净后切片，摆入烤盘中，上面抹少许黄油,"
+    },
+    {
+      "text": "取半片培根包入一段芦笋卷起来，用半段牙签固定（可将牙签尖头剪去），将卷好的芦笋卷并排放在蘑菇黄油上，撒少许大蒜粉，并洒上少许水，入预热180度的烤箱中火烤15分钟（时间不固定，看烤制的情况，微微焦黄即可取出），取出后撒少许黑胡椒即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11484/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炸",
+    "烤"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

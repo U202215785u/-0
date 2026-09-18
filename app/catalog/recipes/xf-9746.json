@@ -1,0 +1,188 @@
+{
+  "id": "xf-9746",
+  "title": "蔓越莓芝士派",
+  "ingredients": [
+    {
+      "name": "（派皮120，馅料25）低筋面粉",
+      "mergeKey": "flour",
+      "amount": 145,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "动物性淡奶油",
+      "mergeKey": "cream",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "奶油奶酪",
+      "mergeKey": "cream-cheese",
+      "amount": 100,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 80,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "蔓越莓干",
+      "mergeKey": "dried-cranberry",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "powdered-sugar",
+      "amount": 40,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋",
+      "mergeKey": "egg",
+      "amount": 13,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "柠檬汁",
+      "mergeKey": "lemon-juice",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "朗姆酒",
+      "mergeKey": "rum",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "派皮,"
+    },
+    {
+      "text": "黄油室温软化后，加入糖份搅打均匀,"
+    },
+    {
+      "text": "加入蛋液搅打均匀,"
+    },
+    {
+      "text": "加入过筛的面粉，翻拌均匀,"
+    },
+    {
+      "text": "将面团放入保鲜袋中，放入冰箱冷藏30分钟,"
+    },
+    {
+      "text": "将冷藏后的面团擀成3毫米厚的薄片,"
+    },
+    {
+      "text": "将面皮移到派模上，用擀面杖擀去多余的面皮,"
+    },
+    {
+      "text": "将面皮放入冰箱冷藏15分钟,"
+    },
+    {
+      "text": "松弛后的面团用叉子叉上小孔，放上一张烘焙纸，然后倒入红豆，防止塔皮在烤焙时膨胀,"
+    },
+    {
+      "text": "入预热180℃的烤箱，中层，上下火，15分钟，然后把豆子取出来，再烤10分钟,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "馅料,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "奶酪加糖隔热水搅打至顺滑无颗粒状,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入鸡蛋搅打均匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入淡奶油，牛奶搅打均匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入柠檬汁搅匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "筛入低粉拌匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将用朗姆酒泡发的蔓越莓沥干水分，加入拌匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将馅料倒入事先烤好的派皮中，9分满，放入预热好的烤箱170度下层烤35分钟，待乳酪馅凝固即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9746/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 453.2,
+    "proteinG": 11.9,
+    "carbsG": 86.3,
+    "fatG": 7.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

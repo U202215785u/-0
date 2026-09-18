@@ -1,0 +1,203 @@
+{
+  "id": "stuffed-peppers",
+  "title": "青红椒酿鱼虾",
+  "ingredients": [
+    {
+      "name": "虾",
+      "mergeKey": "shrimp",
+      "amount": 283,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "鲶鱼柳",
+      "mergeKey": "catfish",
+      "amount": 283,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "青甜椒",
+      "mergeKey": "green-bell-pepper",
+      "quantityText": "1只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红甜椒",
+      "mergeKey": "red-bell-pepper",
+      "quantityText": "1只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 45,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 90,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豆豉酱",
+      "mergeKey": "black-bean-paste",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 2.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "虾去壳去虾线，鱼柳擦干；把虾和鱼分别切片后用刀拍剁成细腻鱼虾泥，拌匀。",
+      "ingredientNames": [
+        "虾",
+        "鲶鱼柳"
+      ]
+    },
+    {
+      "text": "鱼虾泥加入玉米淀粉、料酒、食盐、白糖、白胡椒粉和清水，充分搅拌至黏稠，冷藏备用。",
+      "ingredientNames": [
+        "玉米淀粉",
+        "料酒",
+        "食盐",
+        "白糖",
+        "白胡椒粉",
+        "清水"
+      ]
+    },
+    {
+      "text": "青甜椒和红甜椒切开，去掉籽和内膜；将冷藏鱼虾馅填入椒内，表面抹平。",
+      "ingredientNames": [
+        "青甜椒",
+        "红甜椒"
+      ]
+    },
+    {
+      "text": "把豆豉酱、蚝油、生抽、白糖、玉米淀粉和清水调成黑豆酱汁。",
+      "ingredientNames": [
+        "豆豉酱",
+        "蚝油",
+        "生抽",
+        "白糖",
+        "玉米淀粉",
+        "清水"
+      ]
+    },
+    {
+      "text": "平底锅加食用油，中火把酿椒两面煎至上色并熟透；必要时加少量清水，盖盖焖至馅心完全凝固。",
+      "ingredientNames": [
+        "食用油",
+        "青甜椒",
+        "红甜椒",
+        "清水"
+      ]
+    },
+    {
+      "text": "原锅小火炒香余油中的椒汁，倒入黑豆酱汁煮至顺滑，淋芝麻油后浇在酿椒上。",
+      "ingredientNames": [
+        "豆豉酱",
+        "蚝油",
+        "生抽",
+        "白糖",
+        "玉米淀粉",
+        "清水",
+        "芝麻油"
+      ]
+    }
+  ],
+  "baseServings": 4,
+  "sourceUrl": "https://www.madewithlau.com/recipes/chinese-stuffed-peppers",
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、45分钟总时长和6段方法；保留鱼虾拍泥、甜椒去籽、填馅煎制与黑豆酱汁收尾顺序。",
+  "nutrition": {
+    "kcal": 289.6,
+    "proteinG": 34.7,
+    "carbsG": 13,
+    "fatG": 11.3
+  },
+  "tags": [
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

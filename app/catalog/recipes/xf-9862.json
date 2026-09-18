@@ -1,0 +1,88 @@
+{
+  "id": "xf-9862",
+  "title": "鲜肉卷",
+  "ingredients": [
+    {
+      "name": "嫩南瓜",
+      "mergeKey": "pumpkin",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鲜肉末",
+      "mergeKey": "minced-meat",
+      "amount": 300,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 400,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 2,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 250,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "葱姜末",
+      "mergeKey": "scallion-ginger",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "面粉加酵母、水揉成光滑的面团，放温暖处发酵至2倍大。（水不要一次加入，可根据面粉吸水性自行调整水量。）,"
+    },
+    {
+      "text": "嫩南瓜刨成丝，加少许盐腌一会，挤干水分备用,"
+    },
+    {
+      "text": "鲜肉末加葱姜末，盐，蚝油，生抽，料酒，糖，胡椒粉拌匀腌一会入味,"
+    },
+    {
+      "text": "将2和3混合拌匀即成鲜肉卷的馅,"
+    },
+    {
+      "text": "将发好的面团分割成2份滚圆醒发15分钟,"
+    },
+    {
+      "text": "醒发好的面团擀成2 厘米厚的长方形面皮，在面皮上铺上肉馅，然后从短边卷起，卷成圆柱形，两头捏紧,"
+    },
+    {
+      "text": "将卷好的肉卷凉水入锅，水开后中火蒸20分钟，正蒸好后再焖几分钟，取出切块就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9862/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 396.8,
+    "proteinG": 13.5,
+    "carbsG": 72.1,
+    "fatG": 6
+  },
+  "tags": [
+    "炒",
+    "炸",
+    "烤"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

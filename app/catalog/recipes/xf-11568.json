@@ -1,0 +1,92 @@
+{
+  "id": "xf-11568",
+  "title": "豇豆干红烧肉",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "豇豆干",
+      "mergeKey": "dried-cowpea",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "五花肉切块，用清水不断冲洗至无血水，沥干备用。豇豆干切成段，姜切片、葱切段,"
+    },
+    {
+      "text": "锅里炒糖色至糖液泡沫边细小并渐渐消失时，倒入沥干水份,"
+    },
+    {
+      "text": "的五花肉块，保持小火翻炒至糖色完全裹在肉块表面。（炒糖色：冷锅中倒入少量色拉油。放两汤匙白糖，开小火加热。一直保持小火，用锅铲不停搅拌，锅中白糖开始慢慢融化。继续搅拌至白糖全部融化。 小火边加热边搅拌，这时锅里的糖液开始沸腾翻泡，泡沫越来越大。继续搅拌，糖液泡泡慢慢变得小起来，渐渐消失的时候，立即倒入需要上糖色的食材，不断翻炒至糖色均匀的裹在食材表面，呈漂亮的亮红色。）,"
+    },
+    {
+      "text": "转大火，放料酒和一点点老抽翻炒均匀后关火,"
+    },
+    {
+      "text": "取一个砂锅，加热后倒入一点点食用油，爆香姜片和葱段,"
+    },
+    {
+      "text": "把炒锅中的五花肉倒入砂锅中，加热开水至没过肉（水最好一次加足，中途如果要加水，也加开水），加入一小勺白糖和少量盐,"
+    },
+    {
+      "text": "大火煮，转小火慢煲半个小时，打开盖子，加入自制豇豆干（如果是外面卖的那种比较干的豇豆干，需要事先泡软再用）,"
+    },
+    {
+      "text": "继续小火慢炖半小时左右至汤汁渐少,"
+    },
+    {
+      "text": "开盖转中大火，加鸡精不断翻炒至汤汁收浓即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11568/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

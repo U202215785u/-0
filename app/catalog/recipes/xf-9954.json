@@ -1,0 +1,92 @@
+{
+  "id": "xf-9954",
+  "title": "牛肉夹馍",
+  "ingredients": [
+    {
+      "name": "大块卤牛肉",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 3,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将酵母事先溶于少许的温水中,"
+    },
+    {
+      "text": "面粉，酵母水，盐混合后，一点点加水，揉成光滑的面团,"
+    },
+    {
+      "text": "将揉好的面团放温暖处，发酵至2倍大,"
+    },
+    {
+      "text": "发酵好的面团排气后分割成5份，滚圆，醒发15分钟,"
+    },
+    {
+      "text": "醒发好的面团擀成薄饼，放入平底锅内，用小火煎至两面金黄,"
+    },
+    {
+      "text": "卤牛肉剁成小碎块，加入香菜末，青椒末拌匀,"
+    },
+    {
+      "text": "趁热将煎好的馍从中间切开，不要切断，夹入肉馅，淋上一勺卤肉汁，趁热开吃哈"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9954/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 139.2,
+    "proteinG": 4.5,
+    "carbsG": 27.2,
+    "fatG": 1.5
+  },
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

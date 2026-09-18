@@ -1,0 +1,119 @@
+{
+  "id": "xf-11216",
+  "title": "香菇鸡蓉酿苦瓜",
+  "ingredients": [
+    {
+      "name": "鸡胸肉",
+      "mergeKey": "chicken",
+      "category": "肉类"
+    },
+    {
+      "name": "凉瓜",
+      "mergeKey": "bitter-melon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "米酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-pepper-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋清",
+      "mergeKey": "egg-white",
+      "category": "蛋类"
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "凉瓜洗净切段，将中间的仔挖去,"
+    },
+    {
+      "text": "鸡胸肉剁成蓉。葱姜、胡萝卜切末，香菇开水泡软切小丁,"
+    },
+    {
+      "text": "以上处理过的材料放在一起，加入米酒，花椒粉，盐，生抽，鸡精，清水，搅拌粘稠，再加半个蛋清，入香油、色拉油适量，拌均匀,"
+    },
+    {
+      "text": "凉瓜圈内蘸少许干淀粉，将鸡肉泥酿在里面，插上一颗泡好的枸杞子。开水入锅蒸5分钟。出锅后，用鸡精、盐、少许生抽调汁，水淀粉勾玻璃芡（透明流质芡），淋在上面即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11216/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

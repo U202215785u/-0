@@ -1,0 +1,40 @@
+{
+  "id": "xf-9732",
+  "title": "香肠沙拉酱吐司",
+  "ingredients": [
+    {
+      "name": "白土司片",
+      "mergeKey": "toast",
+      "category": "米面主食"
+    },
+    {
+      "name": "香肠",
+      "mergeKey": "sausage",
+      "category": "肉类"
+    },
+    {
+      "name": "沙拉酱",
+      "mergeKey": "mayonnaise",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "烤箱200度预热。香肠切片（不要太薄，否则会烤焦），铺在白土司上,"
+    },
+    {
+      "text": "入预热好的烤箱，200度烤箱上层，烤8分钟左右至土司边缘稍稍发黄发酥即可。取出，在吃之前挤上沙拉酱即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9732/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌",
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

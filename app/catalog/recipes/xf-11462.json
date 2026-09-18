@@ -1,0 +1,91 @@
+{
+  "id": "xf-11462",
+  "title": "葡萄干饼干",
+  "ingredients": [
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 120,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "泡水过的葡萄干",
+      "mergeKey": "raisin",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "flour",
+      "amount": 180,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "icing-sugar",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 24,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香草精",
+      "mergeKey": "vanilla",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油切丁放入干净的盆子里室温软化后（能轻易的用手戳出一个小洞的程度）搅打均匀，再加糖粉搅打均匀,"
+    },
+    {
+      "text": "分次加入蛋黄液搅打均匀,"
+    },
+    {
+      "text": "加入几滴香草精搅打均匀,"
+    },
+    {
+      "text": "加入过筛的低粉和盐拌匀成黄油面团后，分块压扁裹入保鲜膜或保鲜袋放冰箱冷藏30分钟,"
+    },
+    {
+      "text": "面团稍回软后，揪一小团，搓成你喜欢的任何形状，中间放上一颗泡过水的葡萄干~,"
+    },
+    {
+      "text": "将饼干放入170度预热的烤箱，中层烤15分钟左右，边缘上色即可（这步很重要，一定要呆在旁边自己观察，看到饼干边有点变黄变焦就可以了），过头很容易烤焦哦"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11462/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 245.7,
+    "proteinG": 4.9,
+    "carbsG": 49.4,
+    "fatG": 3.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

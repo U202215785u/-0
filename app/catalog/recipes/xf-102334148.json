@@ -1,0 +1,216 @@
+{
+  "id": "xf-102334148",
+  "title": "新疆大盘鸡",
+  "ingredients": [
+    {
+      "name": "鸡翅",
+      "mergeKey": "chicken",
+      "amount": 4,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "个土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面条",
+      "mergeKey": "noodle",
+      "category": "米面主食"
+    },
+    {
+      "name": "个洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "勺老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "克糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "片姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "勺豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "勺生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "克盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "瓶啤酒",
+      "mergeKey": "beer",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "个干红辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "根大葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "十三香",
+      "mergeKey": "thirteen-spice",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "我用的是鸡翅。用鸡腿或者整鸡都可以。鸡剁成大块。放凉水里浸泡半小时"
+    },
+    {
+      "text": "鸡肉凉水下锅。加葱姜 开锅一分钟。把淤血和脏东西给淤出来"
+    },
+    {
+      "text": "捞出沥干水备用"
+    },
+    {
+      "text": "锅内加油。量大点。凉锅凉油。放入一勺白糖 慢慢熬化。冒小泡的时候就好了。火一定不能大"
+    },
+    {
+      "text": "就像这样。就好了"
+    },
+    {
+      "text": "下如鸡肉煸炒上色"
+    },
+    {
+      "text": "加入 葱姜 干辣椒"
+    },
+    {
+      "text": "郫县豆瓣酱。根据个人口味放"
+    },
+    {
+      "text": "然后加入十三香 生抽  盐 鸡精 耗油少许。"
+    },
+    {
+      "text": "加入少许老抽 上色。这个自己把握。煸炒上色"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "然后加入啤酒半瓶。在加适量的开水 大火烧开3分钟"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "转小火 焖烧20分钟"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "下面处理配菜"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "土豆切滚刀块。不要太小"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "青椒和洋葱也滚刀切"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "焖烧20分钟的鸡肉内倒入土豆块。炖至土豆软烂。根据个人口味"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "等汤汁浓稠时。加入青椒 洋葱"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "买的刀削面。水开锅下如锅内"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "开锅后。打一次水。再次开锅 面就好了"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "把面铺底。"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "把炒好的大盘鸡盛在盘呢。大功告成"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "口感非常好。也比较好做"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "狼吞虎咽"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/102334148/",
+  "author": "憨吃愣喝",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "nutrition": {
+    "kcal": 203,
+    "proteinG": 18.6,
+    "carbsG": 0,
+    "fatG": 14.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

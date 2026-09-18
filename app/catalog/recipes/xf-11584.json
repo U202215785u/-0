@@ -1,0 +1,93 @@
+{
+  "id": "xf-11584",
+  "title": "鸡骨草煲猪横利",
+  "ingredients": [
+    {
+      "name": "鸡骨草",
+      "mergeKey": "jigucao",
+      "amount": 60,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "猪横利",
+      "mergeKey": "pork-spleen",
+      "amount": 250,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "猪里脊",
+      "mergeKey": "pork-tenderloin",
+      "amount": 250,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "蜜枣",
+      "mergeKey": "jujube",
+      "amount": 3,
+      "unit": "粒",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 1500,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡骨草反复清洗洗干净，放入清水中浸泡30分钟左右,"
+    },
+    {
+      "text": "猪横利有稍许的异味，要多用清水浸泡几回（每次最少10分钟左右），再反复冲洗干净，用刀去除背面的白色筋膜，然后改刀切成5厘米大小的块,"
+    },
+    {
+      "text": "把猪里脊洗净，切成两大块。姜去皮洗净后，用刀拍裂备用,"
+    },
+    {
+      "text": "将猪横利和瘦肉，分别放在开水中焯烫3分钟出去血污，然后分别再用清水冲净表面的浮沫。焯烫的汤，一定倒掉不用,"
+    },
+    {
+      "text": "汤煲内放入清水先煮沸，然后放入焯烫后的猪横利和猪里脊，鸡骨草和姜片，大火煮沸后，撇去有可能再产生的浮沫，然后盖上盖子，改小火煲2小时,"
+    },
+    {
+      "text": "食用前调入盐即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11584/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 328.3,
+    "proteinG": 38.7,
+    "carbsG": 15,
+    "fatG": 11.7
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

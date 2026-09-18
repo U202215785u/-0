@@ -1,0 +1,107 @@
+{
+  "id": "xf-11012",
+  "title": "什锦炒面",
+  "ingredients": [
+    {
+      "name": "新鲜手擀面",
+      "mergeKey": "noodle",
+      "category": "米面主食"
+    },
+    {
+      "name": "扁豆",
+      "mergeKey": "flat-bean",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "面条上蒸锅，上气后大火蒸20分钟，中间用筷子翻一次面，以便面条均匀受热，但要小心蒸汽烫手,"
+    },
+    {
+      "text": "蒸好的面条用筷子抖散,"
+    },
+    {
+      "text": "趁着蒸面条的功夫，把蔬菜处理好后切丝。当然，蔬菜可以随意选择啦，圆白菜和蒜苗也都不错,"
+    },
+    {
+      "text": "把蚝油、老抽、生抽倒碗中混匀，提前调好，一会儿就省事儿了。用量不定，可以先调一些，炒的时候颜色不够再倒老抽，一直到自己喜欢的颜色为止,"
+    },
+    {
+      "text": "准备好葱姜蒜，蒜可以多加些,"
+    },
+    {
+      "text": "锅入油，油要稍多一些，爆香葱姜蒜,"
+    },
+    {
+      "text": "倒入胡萝卜和扁豆丝煸炒至变色,"
+    },
+    {
+      "text": "倒入辣椒丝快速翻炒片刻,"
+    },
+    {
+      "text": "倒入刚才调好的酱汁炒匀,"
+    },
+    {
+      "text": "下入面条翻炒均匀，如果这时觉得颜色浅就再倒老抽；然后倒入热水，大约到食材的1/2处，翻炒；可以直接用筷子挑散，中间也可以盖会儿盖子，一直炒至汤汁收干。这时可以尝一尝，如果觉得淡再加盐调味"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11012/",
+  "author": "puppy在厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

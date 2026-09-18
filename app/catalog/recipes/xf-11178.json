@@ -1,0 +1,111 @@
+{
+  "id": "xf-11178",
+  "title": "凉拌黄豆芽",
+  "ingredients": [
+    {
+      "name": "黄豆芽",
+      "mergeKey": "soybean-sprout",
+      "amount": 300,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "新鲜红椒",
+      "mergeKey": "red-pepper",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 2,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/2大匙芝麻香油",
+      "mergeKey": "sesame-oil",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2大匙沙拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/8小匙盐",
+      "mergeKey": "salt",
+      "amount": 0.625,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2大匙陈醋",
+      "mergeKey": "vinegar",
+      "amount": 7.5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将黄豆折去根部，红椒切丝，香葱切段，大蒜剁成蓉,"
+    },
+    {
+      "text": "将红椒丝，香葱段，蒜蓉放入瓷碗内，锅内烧热芝麻油及沙拉油淋入碗内，再加入所有调料拌成调味汁,"
+    },
+    {
+      "text": "锅内烧开水，放入黄豆芽氽烫1分钟，取出过凉水，放入冰水中浸泡5分钟,"
+    },
+    {
+      "text": "将黄豆芽彻底沥干水，加入所有的调料汁拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11178/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 210,
+    "proteinG": 22.5,
+    "carbsG": 9,
+    "fatG": 10.5
+  },
+  "tags": [
+    "凉拌"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

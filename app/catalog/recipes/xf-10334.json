@@ -1,0 +1,86 @@
+{
+  "id": "xf-10334",
+  "title": "辣子鸡翅",
+  "ingredients": [
+    {
+      "name": "芹菜段",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱丝",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡翅",
+      "mergeKey": "chicken-wing",
+      "category": "肉类"
+    },
+    {
+      "name": "干辣椒段",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "椒盐",
+      "mergeKey": "pepper-salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡翅剁成小块，用盐和料酒腌制半小时,"
+    },
+    {
+      "text": "锅中放多点油，烧的很热，看到有烟冒出来了，把鸡翅放下去炸，鸡翅入锅后转中火,"
+    },
+    {
+      "text": "看到鸡翅表面变色了，转小火盖上锅盖，焖2～3分钟，打开盖子转大火炸，鸡翅会很快上色，炸到金黄色就捞出沥油,"
+    },
+    {
+      "text": "锅中留底油，中小火煸香干辣椒段,"
+    },
+    {
+      "text": "放入洋葱丝、芹菜段和姜丝煸出香味,"
+    },
+    {
+      "text": "倒入炸好的鸡翅翻炒几下，撒椒盐粉，少许细砂糖和鸡精出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10334/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

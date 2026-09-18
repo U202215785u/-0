@@ -1,0 +1,62 @@
+{
+  "id": "xf-11660",
+  "title": "山楂果茶",
+  "ingredients": [
+    {
+      "name": "山楂",
+      "mergeKey": "hawthorn",
+      "amount": 15,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "山楂洗净用剪刀剪开，挖去山楂核，剪去蒂和梗。胡萝卜去皮切成小块,"
+    },
+    {
+      "text": "锅中放少量水，先把胡萝卜放入煮开后再小火煮5分钟,"
+    },
+    {
+      "text": "五分钟后放入处理好的山楂一起再煮三分钟,"
+    },
+    {
+      "text": "关火，稍凉。捞出煮软的胡萝卜和山楂倒入搅拌机，再倒入一些煮的汤同打至细腻,"
+    },
+    {
+      "text": "倒回锅中，放入冰糖，同煮至融化（需要不停搅拌）,"
+    },
+    {
+      "text": "用筛网滤出果汁，即可饮用。（如果嫌麻烦，可以省略这个步骤直接吃。如果要过滤，滤出的果泥不要倒掉，也可以吃的）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11660/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 17.5,
+    "proteinG": 1,
+    "carbsG": 3.5,
+    "fatG": 0.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

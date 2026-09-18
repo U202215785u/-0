@@ -1,0 +1,129 @@
+{
+  "id": "xf-9753",
+  "title": "蘑菇鸡肉意面",
+  "ingredients": [
+    {
+      "name": "大鸡腿",
+      "mergeKey": "chicken-leg",
+      "amount": 1,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "-5个蘑菇",
+      "mergeKey": "mushroom",
+      "amount": 4,
+      "category": "菌菇"
+    },
+    {
+      "name": "意面",
+      "mergeKey": "pasta",
+      "category": "米面主食"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "番茄酱",
+      "mergeKey": "ketchup",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜末",
+      "mergeKey": "garlic",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡腿去骨，鸡肉切小块用料酒、淀粉、盐、黑胡椒粉、少许色拉油抓匀先腌20分钟，洋葱、蒜切末，蘑菇切片备用,"
+    },
+    {
+      "text": "锅中加适量水，水开后，放小半勺盐，放入意面，煮10分钟,"
+    },
+    {
+      "text": "煮好的意面过凉水,"
+    },
+    {
+      "text": "起油锅，先将鸡肉滑炒变色后盛出,"
+    },
+    {
+      "text": "锅底留少许油，放入洋葱末、蒜末炒香,"
+    },
+    {
+      "text": "放入蘑菇片翻炒均匀,"
+    },
+    {
+      "text": "加少许番茄酱翻炒均匀,"
+    },
+    {
+      "text": "加少量开水，略滚3-5分钟,"
+    },
+    {
+      "text": "加入滑炒过的鸡肉继续煮1分钟,"
+    },
+    {
+      "text": "最后将意面沥干水分倒入，翻拌均匀，加少许盐、鸡精、黑胡椒粉调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9753/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 141.5,
+    "proteinG": 18.5,
+    "carbsG": 1.8,
+    "fatG": 6.1
+  },
+  "tags": [
+    "主食",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "xf-9633",
+  "title": "蒜蓉粉丝蒸带子",
+  "ingredients": [
+    {
+      "name": "新鲜带子",
+      "mergeKey": "scallop",
+      "amount": 13,
+      "unit": "只",
+      "category": "水产"
+    },
+    {
+      "name": "粉丝",
+      "mergeKey": "glass-noodles",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/3饭碗的量蒜蓉",
+      "mergeKey": "garlic",
+      "amount": 2,
+      "category": "蔬菜"
+    },
+    {
+      "name": "香葱碎",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "绿豆粉丝用冷水泡软,"
+    },
+    {
+      "text": "带子洗净，用牙刷把壳刷干净,"
+    },
+    {
+      "text": "锅内烧热油，放入蒜蓉，盐马上熄火翻炒片刻制成蒜蓉备用,"
+    },
+    {
+      "text": "将带子开壳，去内脏洗净,"
+    },
+    {
+      "text": "将带子肉取出，粉丝放带子底,"
+    },
+    {
+      "text": "表面淋上蒜蓉,"
+    },
+    {
+      "text": "锅内水烧开将带子放上蒸4分钟,"
+    },
+    {
+      "text": "在每个带子上淋上生抽及糖，最后烧热少许油，乘热淋在带子上即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9633/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

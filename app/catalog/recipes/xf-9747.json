@@ -1,0 +1,145 @@
+{
+  "id": "xf-9747",
+  "title": "家常油渣饼",
+  "ingredients": [
+    {
+      "name": "猪肥肉",
+      "mergeKey": "pork-fat",
+      "category": "肉类"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食"
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "五香粉",
+      "mergeKey": "five-spice-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱姜",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "大葱切碎、猪肥肉切小丁,"
+    },
+    {
+      "text": "锅中放清水、放入肥肉丁、葱段、姜片、八角,"
+    },
+    {
+      "text": "中火做开，改小火，慢慢炼,"
+    },
+    {
+      "text": "小火5分钟，水慢慢消失，油慢慢沁出来,"
+    },
+    {
+      "text": "水神奇的全没了，肥肉丁变成小小的金黄色的丁就是油渣了，油就是猪油,"
+    },
+    {
+      "text": "不要关火捞出油渣，如果关火了油渣里会有很多油就不脆了,"
+    },
+    {
+      "text": "趁着晾凉油渣的时候，用清水和面，饧面10分钟,"
+    },
+    {
+      "text": "将面在案板上揉成团，略饧,"
+    },
+    {
+      "text": "将面团用擀面杖擀成长片,"
+    },
+    {
+      "text": "淋上香油刷匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "撒上油渣均匀的舖匀,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "撒上葱花、撒少许五香粉和盐,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "一层层的叠起来,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将叠好的面团稍微饧5分钟,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "用擀面杖慢慢擀开面团成圆饼,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "放入刷了油的电饼铛,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "盖盖后3分钟刷油,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "翻面在烙一会转转就可以出锅切块了，太香了，我先吃了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9747/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖"
+  ],
+  "durationMinutes": 120,
+  "difficulty": "中等"
+}

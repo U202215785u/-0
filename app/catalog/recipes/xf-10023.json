@@ -1,0 +1,67 @@
+{
+  "id": "xf-10023",
+  "title": "南瓜汤圆",
+  "ingredients": [
+    {
+      "name": "干玫瑰",
+      "mergeKey": "dried-rose",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "南瓜",
+      "mergeKey": "pumpkin",
+      "category": "蔬菜"
+    },
+    {
+      "name": "糯米粉",
+      "mergeKey": "glutinous-rice-flour",
+      "category": "米面主食"
+    },
+    {
+      "name": "澄粉",
+      "quantityText": "少量",
+      "mergeKey": "wheat-starch",
+      "category": "米面主食"
+    },
+    {
+      "name": "豆沙",
+      "mergeKey": "red-bean-paste",
+      "category": "豆制品",
+      "pantry": true
+    },
+    {
+      "name": "糖桂花",
+      "mergeKey": "osmanthus-sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "菊花",
+      "mergeKey": "chrysanthemum",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "南瓜去皮切小块，加少许水入微波5分，用搅拌机打成南瓜泥备用,"
+    },
+    {
+      "text": "糯米粉，澄粉，糖粉混合，慢慢加入南瓜泥揉成面团，分割成小份，包入豆沙收口搓圆,"
+    },
+    {
+      "text": "锅里水烧开放入汤圆烧滚后加一碗冷水继续烧开，待汤圆浮上表面就可捞起，碗里加少许糖桂花，干玫瑰，菊花，用开水冲开，将汤圆放入即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10023/",
+  "author": "子闻妈咪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

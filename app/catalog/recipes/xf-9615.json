@@ -1,0 +1,90 @@
+{
+  "id": "xf-9615",
+  "title": "柱侯焖翅尖",
+  "ingredients": [
+    {
+      "name": "鸡翅尖",
+      "mergeKey": "chicken-wing",
+      "amount": 200,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "大匙柱侯酱",
+      "mergeKey": "zhuhou-sauce",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(切片)大蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 100,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅内冷油，放入大蒜，姜片爆香,"
+    },
+    {
+      "text": "加入鸡翅尖翻炒片刻,"
+    },
+    {
+      "text": "加入柱侯酱，料酒，砂糖翻炒均匀,"
+    },
+    {
+      "text": "加入清水100毫升，煮开后转小火加盖焖煮,"
+    },
+    {
+      "text": "煮至汤汁快干即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9615/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 214.4,
+    "proteinG": 18.6,
+    "carbsG": 2.7,
+    "fatG": 14.5
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

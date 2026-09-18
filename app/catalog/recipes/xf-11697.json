@@ -1,0 +1,92 @@
+{
+  "id": "xf-11697",
+  "title": "蔓越莓椰丝乳酪球",
+  "ingredients": [
+    {
+      "name": "蔓越莓果干",
+      "mergeKey": "cranberry",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "奶油奶酪",
+      "mergeKey": "cream-cheese",
+      "amount": 200,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "椰丝",
+      "mergeKey": "coconut",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大汤匙30克糖粉",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升牛奶",
+      "mergeKey": "milk",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "大杏仁",
+      "mergeKey": "almond",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙毫升朗姆酒",
+      "mergeKey": "rum",
+      "amount": 1.25,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将奶油奶酪放在室温内软化（呈牙膏的软硬度即可），软化后用橡皮刮刀将其拌至顺滑，然后加入糖粉拌匀，再加入牛奶拌均匀，最后加入切碎的蔓越莓果干和打杏仁碎拌匀,"
+    },
+    {
+      "text": "加入朗姆酒继续搅匀，然后放入冷藏室冷藏30分钟,"
+    },
+    {
+      "text": "分钟后，将拌好的乳酪糊分成约20个小球，放在保鲜膜上，再放入冰箱冷藏30分钟,"
+    },
+    {
+      "text": "趁着冷藏乳酪球的时候，来烘烤椰丝：先将椰丝稍剪碎一下，平铺在烤盘中，放入120度预热好的烤箱中层，只开上火，中途需要用器具翻动一下椰丝，使其受热上色更均匀，直到烤成淡金黄色即可出炉，放在通风的地方自然冷却,"
+    },
+    {
+      "text": "将冷藏好的乳酪球搓成规整的圆形，放入装有椰丝的碗中，将乳酪球均匀的沾满椰丝，蔓越莓椰丝乳酪球就做好了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11697/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 124,
+    "proteinG": 4.6,
+    "carbsG": 18.6,
+    "fatG": 3.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

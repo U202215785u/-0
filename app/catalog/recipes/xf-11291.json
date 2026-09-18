@@ -1,0 +1,104 @@
+{
+  "id": "xf-11291",
+  "title": "上汤豆苗",
+  "ingredients": [
+    {
+      "name": "豌豆苗",
+      "mergeKey": "pea-shoots",
+      "amount": 1,
+      "unit": "盒",
+      "category": "蔬菜"
+    },
+    {
+      "name": "皮蛋",
+      "mergeKey": "century-egg",
+      "amount": 1,
+      "unit": "只",
+      "category": "蛋类"
+    },
+    {
+      "name": "咸鸭蛋",
+      "mergeKey": "salted-duck-egg",
+      "amount": 1,
+      "unit": "只",
+      "category": "蛋类"
+    },
+    {
+      "name": "两三瓣蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "四五朵香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇"
+    },
+    {
+      "name": "火腿",
+      "mergeKey": "ham",
+      "quantityText": "少许",
+      "category": "肉类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干椒丝",
+      "mergeKey": "dried-chili",
+      "quantityText": "少许",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一大碗大骨汤",
+      "mergeKey": "bone-broth",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "材料：豌豆苗一盒（超市卖的那种），皮蛋、咸鸭蛋各一只，蒜两三瓣，香菇四五朵，火腿少许,"
+    },
+    {
+      "text": "豌豆苗洗干净，可以用清水加一点盐浸泡一会。（买的时候挑比较嫩的，如果有些老，就要把根掐掉，比较麻烦。）咸蛋、皮蛋和火腿切丁，蒜切片，香菇切半（如果用干菇，要先用热水泡软。）我还切了一点干椒丝（不吃辣可以省略,"
+    },
+    {
+      "text": "热锅凉油，小火煸香蒜片，至两面金黄,"
+    },
+    {
+      "text": "锅内下咸蛋、皮蛋丁和火腿丁，及香菇，小火慢炒。多炒一会汤色会比较浓,"
+    },
+    {
+      "text": "加入一大碗高汤（我用的是大骨汤），用清水也凑合,"
+    },
+    {
+      "text": "汤大火烧至滚开，下入豆苗，拨散，稍软身即可关火。煮久了会老，就不好吃了哦~"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11291/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 35.8,
+    "proteinG": 3.3,
+    "carbsG": 0.3,
+    "fatG": 2.5
+  },
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

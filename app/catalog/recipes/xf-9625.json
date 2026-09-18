@@ -1,0 +1,89 @@
+{
+  "id": "xf-9625",
+  "title": "酸菜炖骨头",
+  "ingredients": [
+    {
+      "name": "猪脊骨",
+      "mergeKey": "pork-bone",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "红薯粉条",
+      "mergeKey": "sweet-potato-noodles",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "酸菜",
+      "mergeKey": "pickled-cabbage",
+      "amount": 300,
+      "unit": "克",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "冻豆腐",
+      "mergeKey": "frozen-tofu",
+      "amount": 250,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪脊骨剁块，洗净用凉水泡一个小时泡去血沫,"
+    },
+    {
+      "text": "泡好的猪脊骨放入高压锅，加葱姜，少许盐，八角和没过骨头的水，上气后压45分钟,"
+    },
+    {
+      "text": "酸菜攥去水份，粉条不需要泡开，若是散装的冲去表面浮尘即可,"
+    },
+    {
+      "text": "锅内烧热油炒香葱花下酸菜翻炒一分钟，倒入煮好的骨头和骨头汤，烧开后下冻豆腐和粉条，转中小火炖半小时左右，出锅撒少许盐即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9625/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 472.5,
+    "proteinG": 30.3,
+    "carbsG": 58,
+    "fatG": 14.5
+  },
+  "tags": [
+    "主食",
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

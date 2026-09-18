@@ -1,0 +1,122 @@
+{
+  "id": "xf-9848",
+  "title": "巧克力圣诞花环",
+  "ingredients": [
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 50,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "flour",
+      "category": "米面主食"
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大匙朗姆酒",
+      "mergeKey": "rum",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙无糖可可粉",
+      "mergeKey": "cocoa-powder",
+      "amount": 2,
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋液",
+      "mergeKey": "egg",
+      "amount": 25,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "琥珀核桃仁",
+      "mergeKey": "walnut",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "枸杞",
+      "mergeKey": "goji",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "提子干",
+      "mergeKey": "raisin",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "浸泡用的朗姆酒",
+      "mergeKey": "rum",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "葡萄干、枸杞洗净，分别加入没过表面的朗姆酒浸泡1小时,"
+    },
+    {
+      "text": "泡软后取出，用厨房纸巾吸干表面水分,"
+    },
+    {
+      "text": "无糖可可粉中加入1大匙朗姆酒，搅拌均匀成糊状备用,"
+    },
+    {
+      "text": "室温软化黄油，加入糖粉打发成羽毛状。分三次加入蛋液充分搅拌均匀,"
+    },
+    {
+      "text": "在黄油蛋液中加入3，充分搅打均匀。筛入低粉和玉米淀粉以不规则方式快速切拌至无干粉粒,"
+    },
+    {
+      "text": "面糊装入裱花袋，前端使用曲奇花嘴挤出花环形状,"
+    },
+    {
+      "text": "放入预热170度的烤箱8分钟,"
+    },
+    {
+      "text": "取出撒上枸杞、葡糖干、核桃碎继续150度下火8分钟，关火后焖5分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9848/",
+  "author": "蜜腊",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 126.8,
+    "proteinG": 1.1,
+    "carbsG": 29.5,
+    "fatG": 0.8
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

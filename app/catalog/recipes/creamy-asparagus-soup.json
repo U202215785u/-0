@@ -1,0 +1,145 @@
+{
+  "id": "creamy-asparagus-soup",
+  "title": "奶油芦笋汤",
+  "ingredients": [
+    {
+      "name": "无盐黄油",
+      "mergeKey": "butter",
+      "amount": 57,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "红葱头",
+      "mergeKey": "shallot",
+      "amount": 6,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芦笋",
+      "mergeKey": "asparagus",
+      "amount": 1814,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "quantityText": "按口味",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芫荽粉",
+      "mergeKey": "ground-coriander",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "低钠蔬菜高汤",
+      "mergeKey": "vegetable-broth",
+      "amount": 946,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "quantityText": "现磨，按口味",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鲜奶油奶酪",
+      "mergeKey": "cream-cheese",
+      "amount": 60,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "柠檬皮屑",
+      "mergeKey": "lemon-zest",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料"
+    },
+    {
+      "name": "柠檬汁",
+      "mergeKey": "lemon-juice",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料"
+    },
+    {
+      "name": "特级初榨橄榄油",
+      "mergeKey": "olive-oil",
+      "quantityText": "淋面用",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "厚底锅中火融化无盐黄油，加入切薄片的红葱头，翻炒约5分钟至变软。",
+      "ingredientNames": [
+        "无盐黄油",
+        "红葱头"
+      ]
+    },
+    {
+      "text": "加入切成约5厘米段的芦笋、食盐和芫荽粉，翻炒1分钟；倒入蔬菜高汤，压下芦笋使其大部分浸没。煮沸后转小火，常搅拌煮8至10分钟至芦笋变软，稍微放凉。",
+      "ingredientNames": [
+        "芦笋",
+        "食盐",
+        "芫荽粉",
+        "低钠蔬菜高汤"
+      ]
+    },
+    {
+      "text": "分批用搅拌机将汤打至非常顺滑，倒回锅中，加入1杯清水，用黑胡椒和食盐调味，小火保温。",
+      "ingredientNames": [
+        "黑胡椒",
+        "食盐"
+      ]
+    },
+    {
+      "text": "小碗中混合鲜奶油奶酪、柠檬皮屑、柠檬汁和少量食盐。",
+      "ingredientNames": [
+        "鲜奶油奶酪",
+        "柠檬皮屑",
+        "柠檬汁",
+        "食盐"
+      ]
+    },
+    {
+      "text": "汤盛入碗中，放一勺柠檬奶油，淋特级初榨橄榄油，撒黑胡椒。",
+      "ingredientNames": [
+        "鲜奶油奶酪",
+        "柠檬皮屑",
+        "柠檬汁",
+        "特级初榨橄榄油",
+        "黑胡椒"
+      ]
+    }
+  ],
+  "baseServings": 6,
+  "sourceUrl": "https://www.bonappetit.com/recipe/asparagus-soup",
+  "author": "Selma Brown Morrow / Bon Appetit",
+  "fidelity": "structured-transcription",
+  "sourceNote": "固定字段采用来源份量范围下限6人份作为缩放基准；来源页面公开30分钟、11项配料和4段方法。",
+  "nutrition": {
+    "kcal": 124.1,
+    "proteinG": 6.7,
+    "carbsG": 23.9,
+    "fatG": 1.7
+  },
+  "tags": [
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

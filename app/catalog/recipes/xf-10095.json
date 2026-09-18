@@ -1,0 +1,71 @@
+{
+  "id": "xf-10095",
+  "title": "韭菜花炒鸡蛋",
+  "ingredients": [
+    {
+      "name": "韭菜花",
+      "mergeKey": "chive-flower",
+      "amount": 0.5,
+      "unit": "袋",
+      "category": "蔬菜"
+    },
+    {
+      "name": "-3个鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "category": "蛋类"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "先将鸡蛋打散成蛋液，然后将韭菜花稍稍切碎，保留汤汁,"
+    },
+    {
+      "text": "油锅加热到5成热时，在蛋液中加入料酒和清水拌匀，然后下锅，直到蛋液开始凝固,"
+    },
+    {
+      "text": "然后倒入韭菜花，放入白糖拌炒至蛋液完全凝固,"
+    },
+    {
+      "text": "最后可以根据自己的口味加入适量盐调味，撒上香葱即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10095/",
+  "author": "豆牛",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

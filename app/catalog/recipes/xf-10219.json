@@ -1,0 +1,165 @@
+{
+  "id": "xf-10219",
+  "title": "蜜汁酱烤鸭腿",
+  "ingredients": [
+    {
+      "name": "鸭腿",
+      "mergeKey": "duck",
+      "amount": 2,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "香葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "5克盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升老抽或红烧酱油",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升蚝油",
+      "mergeKey": "oyster-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "10克糖",
+      "mergeKey": "sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙1克黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "amount": 2,
+      "unit": "片",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 2,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-pepper",
+      "amount": 6,
+      "unit": "粒",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "amount": 1,
+      "unit": "块",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "草果",
+      "mergeKey": "black-cardamom",
+      "amount": 1,
+      "unit": "个",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升蜂蜜",
+      "mergeKey": "honey",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先将鸭腿洗净擦干，并在鸭腿的周身均匀地撒上盐，静置20分钟，略微腌制一下,"
+    },
+    {
+      "text": "取一个大碗，将老抽或红烧酱油，生抽，料酒，耗油，糖，黑胡椒粉，香叶，八角，花椒，桂皮，草果，葱，姜，蒜放入碗中搅拌均匀成为料汁,"
+    },
+    {
+      "text": "然后将鸭腿放入料汁中，盖上盖子或保鲜膜，腌制24小时，使其充分入味,"
+    },
+    {
+      "text": "烤盘内铺上一层锡纸，然后将腌渍好的鸭腿放在烤网上，送入预热好的烤箱中，以190度先烤20分钟,"
+    },
+    {
+      "text": "然后取出鸭腿，在其周身刷上一层蜂蜜，再放入烤箱中继续烤40-60分钟，期间也要刷1-2次蜂蜜。一共烤制时间约为1小时左右"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10219/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "xf-10734",
+  "title": "芒果优酪乳",
+  "ingredients": [
+    {
+      "name": "芒果果肉",
+      "mergeKey": "mango",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "原味酸奶",
+      "mergeKey": "yogurt",
+      "amount": 80,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 40,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "炼乳",
+      "mergeKey": "condensed-milk",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "冰块",
+      "mergeKey": "ice",
+      "quantityText": "适量",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "芒果肉切小丁，留少量芒果丁最后做装饰用,"
+    },
+    {
+      "text": "将芒果丁放入搅拌机中，加入原味酸奶，牛奶和适量冰块搅打均匀即成芒果优酪乳,"
+    },
+    {
+      "text": "将芒果优酪乳装入杯中，撒上芒果丁，淋上炼乳即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10734/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 112,
+    "proteinG": 4.2,
+    "carbsG": 16.8,
+    "fatG": 2.8
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

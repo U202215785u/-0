@@ -1,0 +1,76 @@
+{
+  "id": "xf-9658",
+  "title": "沙茶尖椒牛柳",
+  "ingredients": [
+    {
+      "name": "牛里脊肉",
+      "mergeKey": "beef-tenderloin",
+      "category": "肉类"
+    },
+    {
+      "name": "沙茶酱",
+      "mergeKey": "shacha-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小尖椒",
+      "mergeKey": "chili-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小苏打粉",
+      "mergeKey": "baking-soda",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛里脊肉洗净，擦干水分，逆着纹理切成牛柳,"
+    },
+    {
+      "text": "小尖椒去蒂去籽洗净（不怕辣的可以不去籽），用干净的抹布吸干水分备用,"
+    },
+    {
+      "text": "切好的牛柳放小半勺小苏打粉，两勺清水，用手不停的抓捏至水分完全被牛肉吸干，然后放一勺料酒，一勺生抽，一点点白糖，小半个鸡蛋清，用手抓捏均匀，多抓会儿，抓匀后再放一小勺生粉抓捏均匀，让生粉均匀的包裹在牛柳表面，最后放一勺食用油拌匀。然后放冰箱静置二三十分钟，让牛肉涨发,"
+    },
+    {
+      "text": "牛柳腌制涨发好后，烧热炒锅，热锅冷油，放牛柳进去翻炒半分钟，牛柳变色立即装出,"
+    },
+    {
+      "text": "用锅中余油煸炒小尖椒，尖椒软身后，放两勺沙茶酱，半勺老抽，一点点白糖，加点水炒匀,"
+    },
+    {
+      "text": "最后把步骤4的牛柳入锅翻炒均匀即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9658/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌",
+    "炸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

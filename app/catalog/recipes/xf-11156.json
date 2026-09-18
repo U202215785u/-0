@@ -1,0 +1,98 @@
+{
+  "id": "xf-11156",
+  "title": "鲜蔬柠香秋刀鱼",
+  "ingredients": [
+    {
+      "name": "秋刀鱼",
+      "mergeKey": "saury",
+      "amount": 2,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "柠檬",
+      "mergeKey": "lemon",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大勺蒜泥",
+      "mergeKey": "garlic",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "甜豆",
+      "mergeKey": "sweet-peas",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小番茄",
+      "mergeKey": "cherry-tomato",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "南瓜",
+      "mergeKey": "pumpkin",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "口蘑",
+      "mergeKey": "mushroom",
+      "amount": 50,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "小勺盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小勺橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将秋刀鱼洗净擦干，放在垫有锡纸的烤盘中，并向鱼身滴入橄榄油涂抹均匀。接着在鱼身上均匀地撒盐，涂抹均匀以后静置半小时，让其充分入味,"
+    },
+    {
+      "text": "半小时后将蒜泥均匀撒在鱼身上，并摆放上柠檬片。放入预热好的烤箱中层，以220度烤约15分钟，出炉后将烘烤时用做提味的蒜泥和柠檬皮去除,"
+    },
+    {
+      "text": "煮锅中放入少许盐和橄榄油（配方外），将甜豆，切成片的南瓜和口蘑放入水中煮熟，加上切好的小番茄，搭配烤好的秋刀鱼一起装盘食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11156/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 189.5,
+    "proteinG": 26.5,
+    "carbsG": 11,
+    "fatG": 4.5
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "xf-11565",
+  "title": "酸辣南瓜丝",
+  "ingredients": [
+    {
+      "name": "嫩南瓜",
+      "mergeKey": "pumpkin",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白醋",
+      "mergeKey": "vinegar",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "嫩南瓜用刀薄薄的削去表皮，用勺子刮去瓤，擦成细丝（没有擦菜板就用刀慢慢切成细丝）。南瓜丝用流动的水冲洗后，用清水浸泡十分钟,"
+    },
+    {
+      "text": "准备炒菜之前，把泡好的南瓜丝捞出沥干水份，干辣椒剪成小段、葱切葱花、姜切丝、蒜拍碎切末,"
+    },
+    {
+      "text": "锅烧热放油，入干辣椒段、葱花、姜丝和蒜末煸出香味儿,"
+    },
+    {
+      "text": "倒入南瓜丝，加一汤匙白醋快速翻炒,"
+    },
+    {
+      "text": "大约一分钟后加盐和鸡精翻炒均匀即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11565/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

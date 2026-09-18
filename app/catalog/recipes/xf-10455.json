@@ -1,0 +1,108 @@
+{
+  "id": "xf-10455",
+  "title": "巧克力腰果薄饼",
+  "ingredients": [
+    {
+      "name": "腰果仁",
+      "mergeKey": "cashew",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "牛油",
+      "mergeKey": "butter",
+      "amount": 100,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "黑巧克力",
+      "mergeKey": "dark-chocolate",
+      "amount": 40,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "可可粉",
+      "mergeKey": "cocoa-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "低筋粉",
+      "mergeKey": "cake-flour",
+      "amount": 180,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 100,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 100,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黑巧克力和牛油分别溶化，糖、盐一起搅拌,"
+    },
+    {
+      "text": "慢慢加入蜂蜜、鸡蛋搅拌均匀,"
+    },
+    {
+      "text": "加入过筛的可可粉与低筋粉搅拌均匀,"
+    },
+    {
+      "text": "把面糊放入裱花袋，挤成长条形，在成型的饼胚上放一些腰果,"
+    },
+    {
+      "text": "烤箱预热，用170℃烤制12分钟出炉"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10455/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 499.8,
+    "proteinG": 11.7,
+    "carbsG": 96.2,
+    "fatG": 8.5
+  },
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

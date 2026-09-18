@@ -1,0 +1,84 @@
+{
+  "id": "xf-10336",
+  "title": "香烤鱿鱼",
+  "ingredients": [
+    {
+      "name": "大鱿鱼",
+      "mergeKey": "squid",
+      "amount": 1,
+      "unit": "只",
+      "category": "水产"
+    },
+    {
+      "name": "烧烤酱或叉烧酱",
+      "mergeKey": "barbecue-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "耗油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红烧汁",
+      "mergeKey": "braising-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蜂蜜",
+      "mergeKey": "honey",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鱿鱼整只肚子不要剖开，洗净沥干水,"
+    },
+    {
+      "text": "盆中放入3大勺烧烤酱，2勺耗油，1勺红烧汁（或老抽）、1勺料酒、小辣椒、生姜片，拌匀后放入鱿鱼腌制3小时,"
+    },
+    {
+      "text": "烤箱预热200度， 烤盘垫上锡纸， 底部放洋葱圈、土豆片，淋少许油，放上腌好的鱿鱼，淋上部分腌汁，锡纸包实进烤箱，先烤15分钟后取出，打开刷上蜂蜜汁，再放上一些青椒丝，锡纸开着再进烤箱烤10分钟左右就可以取出切开装盘了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10336/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

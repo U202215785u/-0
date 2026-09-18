@@ -1,0 +1,78 @@
+{
+  "id": "xf-11729",
+  "title": "当归黄芪鸳鸯贝汤",
+  "ingredients": [
+    {
+      "name": "当归",
+      "mergeKey": "danggui",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "黄芪",
+      "mergeKey": "huangqi",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "鸳鸯贝",
+      "mergeKey": "clam",
+      "amount": 300,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 1000,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡粉",
+      "mergeKey": "chicken-powder",
+      "amount": 2,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸳鸯贝，黄芪、当归、清水一起入汤煲,"
+    },
+    {
+      "text": "煮沸后，转文火煲15分钟,"
+    },
+    {
+      "text": "最后加盐、鸡粉调味，就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11729/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 197.2,
+    "proteinG": 36.6,
+    "carbsG": 2.7,
+    "fatG": 4.7
+  },
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

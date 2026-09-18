@@ -1,0 +1,101 @@
+{
+  "id": "xf-10624",
+  "title": "南瓜乳酪慕斯小蛋糕",
+  "ingredients": [
+    {
+      "name": "南瓜泥",
+      "mergeKey": "pumpkin",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 200,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 40,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "奶酪",
+      "mergeKey": "cheese",
+      "amount": 70,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "鱼胶粉",
+      "mergeKey": "gelatin",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "水",
+      "mergeKey": "water",
+      "amount": 25,
+      "unit": "毫升",
+      "category": "其他"
+    }
+  ],
+  "steps": [
+    {
+      "text": "南瓜切成小块，加少许水用微波炉高火叮8分钟左右（中途搅拌一次），叮熟的南瓜放入搅拌机中搅打成泥,"
+    },
+    {
+      "text": "南瓜泥加15克细砂糖用小火加热煮至糖化,"
+    },
+    {
+      "text": "奶酪加牛奶隔热水搅打至顺滑无颗粒状,"
+    },
+    {
+      "text": "将南瓜泥加入奶酪糊中搅拌均匀,"
+    },
+    {
+      "text": "鱼胶粉加水浸泡软化后，隔热水融合,"
+    },
+    {
+      "text": "鱼胶水稍凉后加入南瓜乳酪糊中，边倒边搅匀,"
+    },
+    {
+      "text": "淡奶油加糖打至6分发,"
+    },
+    {
+      "text": "打发的奶油与与步骤6中奶酪糊搅拌均匀即成慕斯糊,"
+    },
+    {
+      "text": "倒入模中，放入冰箱冷藏至凝固即可食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10624/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "nutrition": {
+    "kcal": 255.5,
+    "proteinG": 8.3,
+    "carbsG": 43.1,
+    "fatG": 5.2
+  },
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

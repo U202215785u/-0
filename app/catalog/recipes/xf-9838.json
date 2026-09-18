@@ -1,0 +1,65 @@
+{
+  "id": "xf-9838",
+  "title": "韭菜炒虾",
+  "ingredients": [
+    {
+      "name": "小虾",
+      "mergeKey": "shrimp",
+      "amount": 300,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "韭菜",
+      "mergeKey": "chives",
+      "amount": 350,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "(5毫升)料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "(15克)盐",
+      "mergeKey": "salt",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备材料，小虾去掉头部，清洗干净，韭菜切成段,"
+    },
+    {
+      "text": "锅中放油，倒入料酒和小虾，炒至变色,"
+    },
+    {
+      "text": "倒入韭菜,"
+    },
+    {
+      "text": "放入适量的盐，翻炒后，韭菜熟了即可盛出"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9838/",
+  "author": "飞雪无霜",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 256.5,
+    "proteinG": 39.7,
+    "carbsG": 14.9,
+    "fatG": 5.4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

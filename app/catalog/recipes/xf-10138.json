@@ -1,0 +1,113 @@
+{
+  "id": "xf-10138",
+  "title": "麻酱烧饼",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 300,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "温水",
+      "mergeKey": "water",
+      "quantityText": "适量",
+      "category": "其他"
+    },
+    {
+      "name": "芝麻酱",
+      "mergeKey": "sesame-paste",
+      "amount": 45,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 8,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芝麻",
+      "mergeKey": "sesame",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "用约100毫升左右的温水将酵母粉化开，然后在面粉中放入盐拌匀，一边倒在面粉中一边用筷子搅拌，直到面粉开始结块后改用手搓揉，如果面粉无法成团还要慢慢加入清水，直到面团揉的均匀光滑，然后盖上湿布放在温暖的地方发酵1小时,"
+    },
+    {
+      "text": "面团发酵的同时准备芝麻酱：将芝麻酱、白糖、酱油混合均匀，然后慢慢加入温水搅拌，直到芝麻酱稀释没有结块现象，用筷子挑起来能缓慢的留下即可,"
+    },
+    {
+      "text": "面团充分发酵后，用手搓揉均匀，砧板上撒上薄粉，将面团擀成半厘米厚的大饼,"
+    },
+    {
+      "text": "在面饼上淋上香油用手抹匀，然后淋上芝麻酱用勺子涂抹均匀,"
+    },
+    {
+      "text": "拉住面饼的一端一边拉伸，一边慢慢卷起，最后卷成长条状，切成3-4厘米长的剂子。此时将烤箱上下火打开预热到180度,"
+    },
+    {
+      "text": "揪住剂子的两端往里对折，也就是将露在外面的麻酱尽量藏在白面里，揉圆后轻轻按扁，刷上一层蛋液后沾上芝麻。放入烤箱中，用180度上下火烘烤15-20分钟，直到两面金黄即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10138/",
+  "author": "豆牛",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 348,
+    "proteinG": 9.7,
+    "carbsG": 53.9,
+    "fatG": 10.7
+  },
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

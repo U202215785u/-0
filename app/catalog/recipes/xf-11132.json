@@ -1,0 +1,137 @@
+{
+  "id": "xf-11132",
+  "title": "菠萝什锦焗饭",
+  "ingredients": [
+    {
+      "name": "菠萝丁",
+      "mergeKey": "pineapple",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "培根碎",
+      "mergeKey": "bacon",
+      "amount": 40,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "黄瓜丁",
+      "mergeKey": "cucumber",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "熟米饭",
+      "mergeKey": "rice",
+      "amount": 150,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "淡奶油",
+      "mergeKey": "cream",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "马苏里拉奶酪",
+      "mergeKey": "mozzarella",
+      "amount": 80,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "15克黄油",
+      "mergeKey": "butter",
+      "amount": 15,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "30克洋葱碎",
+      "mergeKey": "onion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米粒",
+      "mergeKey": "corn",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蘑菇丁",
+      "mergeKey": "mushroom",
+      "amount": 50,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "胡萝卜丁",
+      "mergeKey": "carrot",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/4茶匙1克黑胡椒",
+      "mergeKey": "black-pepper",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2茶匙3克盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克帕马森奶酪粉",
+      "mergeKey": "parmesan",
+      "amount": 5,
+      "unit": "克",
+      "category": "乳制品",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先将黄油放入锅中，用小火慢慢融化，然后加入洋葱碎炒香，然后放入培根碎煸炒到变色,"
+    },
+    {
+      "text": "将玉米粒，菠萝丁，黄瓜丁，胡萝卜丁一起放入锅中，煸炒2分钟，加入黑胡椒和盐调味，然后再加入帕马森奶酪粉拌匀,"
+    },
+    {
+      "text": "把米饭放入锅中继续翻炒，有结块的地方用铲子轻轻按压，切散后炒匀。然后加入菠萝丁炒匀，最后淋入淡奶油翻炒均匀,"
+    },
+    {
+      "text": "将炒好的米饭放入烤碗中，并把刨成丝的马苏里拉奶酪均匀的铺在米饭上，放入预热好的烤箱中，以190度烤约15分钟，表面呈现金黄色即可从烤箱中取出"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11132/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 287.5,
+    "proteinG": 12.3,
+    "carbsG": 44.3,
+    "fatG": 6.7
+  },
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

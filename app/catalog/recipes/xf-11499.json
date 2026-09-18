@@ -1,0 +1,51 @@
+{
+  "id": "xf-11499",
+  "title": "养脾南瓜饼",
+  "ingredients": [
+    {
+      "name": "南瓜",
+      "mergeKey": "pumpkin",
+      "amount": 200,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 20,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "南瓜切成丝，与盐放入盘中搅拌，然后腌制1小时,"
+    },
+    {
+      "text": "把面粉与1搅拌均匀备用,"
+    },
+    {
+      "text": "把2取在手中，然后压成饼状,"
+    },
+    {
+      "text": "将3放入不粘锅中，以小火将两面煎成金黄即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11499/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

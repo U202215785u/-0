@@ -1,0 +1,107 @@
+{
+  "id": "xf-11490",
+  "title": "鳝片小炒",
+  "ingredients": [
+    {
+      "name": "野生黄鳝",
+      "mergeKey": "eel",
+      "amount": 1,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 0.5,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆腐干",
+      "mergeKey": "tofu",
+      "amount": 3,
+      "unit": "片",
+      "category": "豆制品"
+    },
+    {
+      "name": "芦笋",
+      "mergeKey": "asparagus",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "湿淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蛋清",
+      "mergeKey": "egg-white",
+      "category": "蛋类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄鳝请店家代为宰杀并去骨，回来后用温水加盐彻底清洗干净，一剖为二，斜刀将鳝片切下，加入湿淀粉，蛋清，盐，鸡精，胡椒粉，料酒抓匀腌制20分钟,"
+    },
+    {
+      "text": "所有材料切片，芦笋块入沸水中加几滴油氽烫一下；腌好的鳝片滤去多余的腌汁，加几滴油拌一下，入油锅滑炒至变色后捞出,"
+    },
+    {
+      "text": "锅里留底油，依次放入胡萝卜翻炒，接着加入洋葱豆腐干，最后加入葫芦与鳝片翻炒至熟，调入少许盐，鸡精，美极鲜酱油，少许糖拌匀出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11490/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

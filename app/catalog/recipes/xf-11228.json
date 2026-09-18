@@ -1,0 +1,77 @@
+{
+  "id": "xf-11228",
+  "title": "干贝云耳炒油菜",
+  "ingredients": [
+    {
+      "name": "云耳",
+      "mergeKey": "wood-ear",
+      "amount": 1,
+      "unit": "把",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "三四棵油菜",
+      "mergeKey": "bok-choy",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一小把干贝丁",
+      "mergeKey": "scallop",
+      "quantityText": "一小把",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "原料处理：油菜掰开，用淡盐水浸泡一会，清洗干净。大片的叶子切成两半。云耳冷水泡软，撕成小块。干贝丁泡软，洗干净。蒜切成末,"
+    },
+    {
+      "text": "制作,"
+    },
+    {
+      "text": "热锅凉油，小火爆香蒜末,"
+    },
+    {
+      "text": "下干贝丁和云耳翻炒几下,"
+    },
+    {
+      "text": "下油菜翻炒,"
+    },
+    {
+      "text": "翻炒至油菜变软，加入盐调味，即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11228/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

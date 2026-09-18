@@ -1,0 +1,91 @@
+{
+  "id": "xf-9857",
+  "title": "蒜苗扇贝虾仁炒蛋",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "扇贝",
+      "mergeKey": "scallop",
+      "category": "水产"
+    },
+    {
+      "name": "虾仁",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "蒜苗",
+      "mergeKey": "garlic-sprout",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡蛋加一小勺清水，打散备用（加点水炒出来的鸡蛋会比较嫩），蒜苗切小段,"
+    },
+    {
+      "text": "扇贝、虾仁去壳洗净，放沸水中滚几分钟，捞出沥干水分备用,"
+    },
+    {
+      "text": "将蒜苗、鸡蛋、扇贝、虾仁混合，加少许盐、鸡精、糖、胡椒粉搅拌均匀,"
+    },
+    {
+      "text": "热锅热油，倒入混合好的蛋糊（不要急于翻炒），等蛋糊成形后，加少许料酒，再炒一会，出锅前淋少许香油"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9857/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

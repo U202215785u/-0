@@ -1,0 +1,61 @@
+{
+  "id": "xf-11204",
+  "title": "清炒莲子",
+  "ingredients": [
+    {
+      "name": "莲子",
+      "mergeKey": "lotus-seed",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇"
+    },
+    {
+      "name": "红辣椒",
+      "mergeKey": "red-chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "莲子去除心，莲心不可丢了，泡茶喝可清热降火,"
+    },
+    {
+      "text": "黑木耳用冷水泡涨，洗净，撕小块，黄瓜削皮切小块，红辣椒半个，切小块，大蒜拍碎，切末,"
+    },
+    {
+      "text": "锅热后倒油，放入蒜末，煸出香味后倒入黄瓜和黑木耳，中火，翻炒2分钟,"
+    },
+    {
+      "text": "倒入莲子和红辣椒，撒入盐，把盐味翻炒均匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11204/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

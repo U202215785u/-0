@@ -1,0 +1,55 @@
+{
+  "id": "xf-11572",
+  "title": "宝宝南瓜糊",
+  "ingredients": [
+    {
+      "name": "南瓜",
+      "mergeKey": "pumpkin",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "冲调好的配方奶",
+      "mergeKey": "formula-milk",
+      "amount": 60,
+      "unit": "毫升",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "南瓜洗净后，去皮,"
+    },
+    {
+      "text": "将南瓜切成很小的块,"
+    },
+    {
+      "text": "将南瓜块放入过滤网中（这样过滤网既可以充当蒸屉，同时还可以及时把多余的水汽漏掉），隔水蒸10～15分钟,"
+    },
+    {
+      "text": "将南瓜块倒入研磨碗中，用小勺子碾成泥状,"
+    },
+    {
+      "text": "将南瓜泥倒入小碗中，然后倒入冲调好的配方奶,"
+    },
+    {
+      "text": "用小勺子搅拌，调匀就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11572/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 64,
+    "proteinG": 2.4,
+    "carbsG": 9.6,
+    "fatG": 1.6
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

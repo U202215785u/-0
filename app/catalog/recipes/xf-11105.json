@@ -1,0 +1,78 @@
+{
+  "id": "xf-11105",
+  "title": "凉拌剁椒茄子",
+  "ingredients": [
+    {
+      "name": "茄子",
+      "mergeKey": "eggplant",
+      "amount": 5,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜瓣",
+      "mergeKey": "garlic",
+      "amount": 0.5,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "剁椒",
+      "mergeKey": "duojiao",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "橄榄油",
+      "mergeKey": "olive-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将茄子放入水中煮至筷子能轻松插入后关火，挤干水分，将茄子撕成条状,"
+    },
+    {
+      "text": "将蒜切成蒜末，扑在茄子表面，再铺上一层剁椒,"
+    },
+    {
+      "text": "调入2大勺生抽，少许糖和醋，淋上一小勺橄榄油，拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11105/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 87.5,
+    "proteinG": 5,
+    "carbsG": 17.5,
+    "fatG": 1
+  },
+  "tags": [
+    "凉拌",
+    "炸"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

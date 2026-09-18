@@ -1,0 +1,62 @@
+{
+  "id": "xf-10663",
+  "title": "糖渍金橘",
+  "ingredients": [
+    {
+      "name": "金橘",
+      "mergeKey": "kumquat",
+      "amount": 500,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "金橘表皮用盐搓洗一下，清洗干净沥干,"
+    },
+    {
+      "text": "用小刀在金橘表皮垂直割上7-8道，再压扁，用刀尖挑出里面的核，每个依次做好,"
+    },
+    {
+      "text": "砂糖放小碗中， 依次将每一个金橘滚上砂糖，放进干净的密封碗中，腌上3天（放冰箱冷藏,"
+    },
+    {
+      "text": "取出后倒入锅中， 加入冰糖碎，再加一汤勺水，开小火慢煮 ，煮至金橘透明糖汁浓稠关火（大约10-15分钟,"
+    },
+    {
+      "text": "再取一只密封瓶，滚水冲烫干净沥干，将煮好的金橘依个装入瓶中"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10663/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 432.2,
+    "proteinG": 7.5,
+    "carbsG": 90,
+    "fatG": 5
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

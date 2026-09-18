@@ -1,0 +1,66 @@
+{
+  "id": "xf-9772",
+  "title": "椒盐排条",
+  "ingredients": [
+    {
+      "name": "大排",
+      "mergeKey": "pork-chop",
+      "amount": 6,
+      "unit": "块",
+      "category": "肉类"
+    },
+    {
+      "name": "椒盐粉",
+      "mergeKey": "pepper-salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "面包屑",
+      "mergeKey": "breadcrumbs",
+      "quantityText": "少许",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将大排用刀背或者肉捶拍断筋，尽量敲得薄一些，这样炸出来口感会更好（我做的比较仓促，敲得还是不够薄）,"
+    },
+    {
+      "text": "将敲好的肉排先裹上一层蛋液，再滚上一层面包屑,"
+    },
+    {
+      "text": "锅中放入适量的油（用小口径的锅比较方便），中火将油温烧至筷子放进起泡的程度，放入大排，炸至两面金黄捞出沥干油,"
+    },
+    {
+      "text": "全部炸完之后，再重新入锅用大火炸个几秒钟，使表面更为松脆，炸好后放在厨房用纸上吸干多余的油,"
+    },
+    {
+      "text": "趁热撒上椒盐粉，切块装盘"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9772/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

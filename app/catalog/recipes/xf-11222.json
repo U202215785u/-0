@@ -1,0 +1,85 @@
+{
+  "id": "xf-11222",
+  "title": "杏仁脆片",
+  "ingredients": [
+    {
+      "name": "杏仁片",
+      "mergeKey": "almond",
+      "amount": 60,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "cake-flour",
+      "amount": 15,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "蛋白",
+      "mergeKey": "egg-white",
+      "amount": 40,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "杏仁烤香,"
+    },
+    {
+      "text": "蛋白加糖打散，再加进色拉油、盐，筛入低粉搅匀，最后加进杏仁拌匀（稍留一点可撒上面,"
+    },
+    {
+      "text": "烤盘铺上高温油布，用勺子将杏仁糊分个摊薄，上面撒上余下的杏仁,"
+    },
+    {
+      "text": "烤箱170度预热，烤10分钟左右（上色就可以了，根据自己烤箱调整,"
+    },
+    {
+      "text": "出烤箱趁热取下， 如喜欢瓦片型，就趁热放在擀面杖上成型"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11222/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 100.4,
+    "proteinG": 2,
+    "carbsG": 20.3,
+    "fatG": 1.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

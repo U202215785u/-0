@@ -1,0 +1,94 @@
+{
+  "id": "xf-9609",
+  "title": "彩椒三文鱼串",
+  "ingredients": [
+    {
+      "name": "柠檬片",
+      "mergeKey": "lemon",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "挪威三文鱼",
+      "mergeKey": "salmon",
+      "amount": 150,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "各半个青黄红三色彩椒",
+      "mergeKey": "bell-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "/5小匙盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙黑胡椒粉",
+      "mergeKey": "black-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙蜂蜜",
+      "mergeKey": "honey",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙橄榄油",
+      "mergeKey": "olive-oil",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "三文鱼肉用冷开水略冲洗一下，用厨房纸巾擦干水份，切成小,"
+    },
+    {
+      "text": "方块。彩椒切成小块状,"
+    },
+    {
+      "text": "将柠檬片挤出水份，淋在鱼块上，加入少许盐，蜂蜜1小匙，腌制15分钟,"
+    },
+    {
+      "text": "用竹签分别将彩椒块及鱼肉块串成串,"
+    },
+    {
+      "text": "串好的成品,"
+    },
+    {
+      "text": "烤盘上铺上锡纸，刷上一层油，再在鱼串两面都刷上榄橄油,"
+    },
+    {
+      "text": "烤箱250度预热，单面烤2分钟，取出翻面再烤2分钟即可,"
+    },
+    {
+      "text": "烘烤好的成品，在表面洒上黑胡椒粉即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9609/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

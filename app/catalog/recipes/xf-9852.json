@@ -1,0 +1,84 @@
+{
+  "id": "xf-9852",
+  "title": "阿胶芝麻片",
+  "ingredients": [
+    {
+      "name": "阿胶",
+      "mergeKey": "ejiao",
+      "amount": 250,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "黄酒",
+      "mergeKey": "cooking-wine",
+      "amount": 300,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 250,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "炒熟的芝麻",
+      "mergeKey": "sesame",
+      "amount": 250,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "炒熟的大核桃仁",
+      "mergeKey": "walnut",
+      "amount": 250,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "取阿胶250克，先不要撕开包装，直接隔着包装用榔头把阿胶砸碎，放入大碗中,"
+    },
+    {
+      "text": "加入300毫升左右的黄酒，放在密闭的容器里泡两到三天至阿胶软化（我在大碗外面包了两层保鲜膜）,"
+    },
+    {
+      "text": "阿胶软化后，放在大点的容器里，加250克冰糖，上锅隔水蒸，蒸的过程中要时不时搅拌下，以免粘底。（黄酒能盖住阿胶和冰糖就够了）,"
+    },
+    {
+      "text": "蒸到冰糖和阿胶都化开，加入250克炒熟的芝麻和250克炒熟的大核桃仁，搅拌均匀,"
+    },
+    {
+      "text": "准备一个饭盒，四壁刷上色拉油，把熬好的阿胶倒入饭盒，等完全凉透后放冰箱过一夜，取出倒扑出来，切成片状，放冰箱冷藏"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9852/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 903.8,
+    "proteinG": 15.8,
+    "carbsG": 188,
+    "fatG": 10.5
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

@@ -1,0 +1,206 @@
+{
+  "id": "xf-9919",
+  "title": "干锅娃娃菜",
+  "ingredients": [
+    {
+      "name": "五香豆干",
+      "mergeKey": "dougan",
+      "amount": 2,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 180,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "娃娃菜",
+      "mergeKey": "baby-cabbage",
+      "amount": 1,
+      "unit": "颗",
+      "category": "蔬菜"
+    },
+    {
+      "name": "新鲜茶树菇",
+      "mergeKey": "chashugu",
+      "amount": 50,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "水发虾干",
+      "mergeKey": "dried-shrimp",
+      "amount": 8,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "干红椒",
+      "mergeKey": "dried-chili",
+      "amount": 10,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "青蒜",
+      "mergeKey": "leek",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "amount": 10,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 5,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "小匙沙拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙红油豆瓣酱",
+      "mergeKey": "doubanjiang",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "又1/2小匙砂糖",
+      "mergeKey": "sugar",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙芝麻油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备工作,"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "五花肉切薄片，茶树菇切两段，豆干切条，娃娃菜外层大块切成两块，里层小块不用切。虾米用凉水浸泡10分钟，大蒜分开蒜白，蒜青切小段。大蒜切大块，生姜片薄片,"
+    },
+    {
+      "text": "锅内放入盐，油烧至水开，放入娃娃菜焯水1分钟取出,"
+    },
+    {
+      "text": "将焯好水的娃娃菜放网筛内用手轻压，沥净水份,"
+    },
+    {
+      "text": "锅内烧2小匙油，放入五花肉片小火煸炒,"
+    },
+    {
+      "text": "煸至肉片熟时，放入大蒜，生姜片继续煸炒至肉色转淡黄色,"
+    },
+    {
+      "text": "放入虾干炒出香味，加入红油豆瓣酱炒出红油,"
+    },
+    {
+      "text": "加入豆干及茶树菇继续煸炒至熟,"
+    },
+    {
+      "text": "加入蒜白，生抽，砂糖，鸡精，芝麻油调味,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "最后加入焯水的娃娃菜及蒜青翻炒均匀即可,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "将干锅放火上加入1大匙油，冷油放入花椒，红椒炒出香味,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": ","
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "再加入炒好的娃娃菜等，加盖焖1分钟，移上干锅炉即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9919/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 570.2,
+    "proteinG": 16.4,
+    "carbsG": 12.1,
+    "fatG": 51.1
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 90,
+  "difficulty": "中等"
+}

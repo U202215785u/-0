@@ -1,0 +1,121 @@
+{
+  "id": "xf-11098",
+  "title": "芒果慕斯蛋糕",
+  "ingredients": [
+    {
+      "name": "安佳淡奶油",
+      "mergeKey": "cream",
+      "amount": 150,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "芒果泥",
+      "mergeKey": "mango",
+      "amount": 180,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芒果丁",
+      "mergeKey": "mango",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "戚风蛋糕",
+      "mergeKey": "cake",
+      "amount": 2,
+      "unit": "片",
+      "category": "米面主食"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "7.5克吉利丁",
+      "mergeKey": "gelatin",
+      "amount": 7.5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "砂糖",
+      "mergeKey": "sugar",
+      "amount": 35,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋黄",
+      "mergeKey": "egg-yolk",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "朗姆酒",
+      "mergeKey": "rum",
+      "amount": 10,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水果",
+      "mergeKey": "fruit",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "打发奶油",
+      "mergeKey": "cream",
+      "quantityText": "适量",
+      "category": "乳制品"
+    }
+  ],
+  "steps": [
+    {
+      "text": "吉利丁片用冰水浸泡30分钟,"
+    },
+    {
+      "text": "淡奶油加15克糖隔冰水打发至5-6分发，放冰箱冷藏待用,"
+    },
+    {
+      "text": "芒果取肉放搅拌机打成泥，放锅中加入10克糖，小火加热至糖溶化关火待凉,"
+    },
+    {
+      "text": "蛋黄加10克糖隔热水（60度左右）打发至乳白浓稠，牛奶加泡软的吉利丁片隔热溶化后加到蛋黄糊中拌匀,"
+    },
+    {
+      "text": "芒果泥与蛋黄糊放凉后拌合再加入朗姆酒拌匀，最后与打发的奶油拌匀即成慕斯糊,"
+    },
+    {
+      "text": "蛋糕片用小刀切割至图， 装入圆形碗中,"
+    },
+    {
+      "text": "底部先倒一层慕斯糊， 中间放上芒果丁，再倒满慕斯糊，包上保鲜膜放冰箱冷藏3小时以上。圆形的那个碗我将切割下来的边料加了盖，吃的时候可以倒过来， 造型会更漂亮。多出来的慕斯糊做了3个小的，放上喜欢的水果也很漂亮好吃"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11098/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 223.7,
+    "proteinG": 5.9,
+    "carbsG": 40.9,
+    "fatG": 3.9
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "xf-11230",
+  "title": "蒜茸豇豆炒豆干",
+  "ingredients": [
+    {
+      "name": "熏豆腐干",
+      "mergeKey": "smoked-tofu",
+      "amount": 200,
+      "unit": "克",
+      "category": "豆制品"
+    },
+    {
+      "name": "腌豇豆",
+      "mergeKey": "pickled-long-beans",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 15,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "两三个干红椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "花椒粉",
+      "mergeKey": "sichuan-pepper-powder",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "quantityText": "少量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "湿淀粉",
+      "mergeKey": "cornstarch",
+      "quantityText": "少量",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "熏豆腐干200克，腌豇豆100克，青红椒各一个，蒜3瓣，干红椒两三个,"
+    },
+    {
+      "text": "豇豆切成1厘米长的小段，豆干和青红椒切成方块，蒜切末，干红椒切段,"
+    },
+    {
+      "text": "热锅凉油，爆香蒜末和干红椒,"
+    },
+    {
+      "text": "加入豇豆翻炒一分钟,"
+    },
+    {
+      "text": "加入豆干翻炒一分钟，调入盐，花椒粉,"
+    },
+    {
+      "text": "加入青红椒翻炒至断生，加入太太乐鸡精炒匀，以湿淀粉勾薄芡"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11230/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 180,
+    "proteinG": 16.5,
+    "carbsG": 12,
+    "fatG": 8
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

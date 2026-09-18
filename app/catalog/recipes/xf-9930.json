@@ -1,0 +1,71 @@
+{
+  "id": "xf-9930",
+  "title": "青鱼干烧肉",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "青鱼干",
+      "mergeKey": "dried-fish",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "五花肉、青鱼干分别切小块,"
+    },
+    {
+      "text": "热锅热油，爆香姜片，先放入五花肉，翻炒变颜色后，倒入少许料酒，翻炒一会，放入青鱼干，倒入生抽、老抽、适量水，煮沸后转小火炖至汤汁收干，加入少许糖调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9930/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

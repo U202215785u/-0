@@ -1,0 +1,76 @@
+{
+  "id": "xf-10168",
+  "title": "韭黄鱼丝",
+  "ingredients": [
+    {
+      "name": "草鱼肉",
+      "mergeKey": "fish",
+      "category": "水产"
+    },
+    {
+      "name": "韭黄",
+      "mergeKey": "chives",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青红椒",
+      "mergeKey": "pepper",
+      "quantityText": "少量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "去骨刺鱼肉切丝，用盐、料酒、白胡椒粉、淀粉拌匀腌制，韭黄切段，青红椒切丝,"
+    },
+    {
+      "text": "锅烧热，倒油，下入鱼丝，用筷子划散，鱼肉变色时盛起备用,"
+    },
+    {
+      "text": "锅中留底油，放入韭黄段，青红椒丝稍炒几秒钟时放少许盐和鸡精,"
+    },
+    {
+      "text": "倒入鱼丝翻炒均匀即可起锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10168/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

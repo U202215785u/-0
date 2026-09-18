@@ -1,0 +1,83 @@
+{
+  "id": "xf-9950",
+  "title": "圣诞德国沙拉",
+  "ingredients": [
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "amount": 2,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "amount": 2,
+      "unit": "片",
+      "category": "肉类"
+    },
+    {
+      "name": "四分之一个洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米粒",
+      "mergeKey": "corn",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡蛋和土豆一起放水里煮，水滚五分钟后把鸡蛋捞出，土豆继续煮至筷子能穿透,"
+    },
+    {
+      "text": "锅中放清水煮开，胡萝卜和玉米粒入水焯熟捞出,"
+    },
+    {
+      "text": "煮熟的鸡蛋剥壳只取蛋白切成丁，土豆去皮切成丁，焯过水的玉米胡萝卜沥干水分备用，培根切成条，洋葱切粒,"
+    },
+    {
+      "text": "平底锅烧热，放一小勺色拉油，煸香培根条,"
+    },
+    {
+      "text": "放洋葱丁煸出香味,"
+    },
+    {
+      "text": "放胡萝卜丁和玉米粒翻炒几下,"
+    },
+    {
+      "text": "关火，把土豆丁和蛋白丁放入，加一点点盐和鸡精拌匀装盘，挤上色拉酱，吃的时候拌开即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9950/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 504,
+    "proteinG": 35.5,
+    "carbsG": 34,
+    "fatG": 25.7
+  },
+  "tags": [
+    "凉拌"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

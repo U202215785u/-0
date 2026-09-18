@@ -1,0 +1,62 @@
+{
+  "id": "xf-11305",
+  "title": "糖桂花紫糯米藕",
+  "ingredients": [
+    {
+      "name": "桂花糖",
+      "mergeKey": "osmanthus-sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "莲藕",
+      "mergeKey": "lotus-root",
+      "category": "蔬菜"
+    },
+    {
+      "name": "糯米",
+      "mergeKey": "glutinous-rice",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "藕切开一头，洗干净。有时候藕孔内也会有淤泥,"
+    },
+    {
+      "text": "准备好糯米，提前浸泡２、３个小时。（我用的紫糯米和白米各一半,"
+    },
+    {
+      "text": "用筷子和竹签做工具，耐心地把米装到藕孔里去,"
+    },
+    {
+      "text": "把步骤１中切下来的藕节头合上，用牙签插紧，固定好。露出太长的话，可折断去掉,"
+    },
+    {
+      "text": "处理好的藕放入锅中（不要用铁锅），加水没过藕（我的锅有点小了），加入适量冰糖。大火烧开改小火，煮９０分钟,"
+    },
+    {
+      "text": "煮好捞出，切成"
+    },
+    {
+      "text": "5ＣＭ的薄片。取少量煮藕的糖水加入糖桂花搅匀，浇在藕片上"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11305/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "xf-11052",
+  "title": "香煎孜然小黄鱼",
+  "ingredients": [
+    {
+      "name": "野生小黄鱼",
+      "mergeKey": "yellow-croaker",
+      "category": "水产"
+    },
+    {
+      "name": "孜然",
+      "mergeKey": "cumin",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "橄榄油",
+      "mergeKey": "olive-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "五香粉",
+      "mergeKey": "five-spice",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒末",
+      "mergeKey": "chili-flakes",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将小黄鱼洗净后抹干水分，抹上少许盐腌制10-15分钟入味,"
+    },
+    {
+      "text": "平底锅内倒入稍许橄榄油，油温热后，放入小黄鱼，用小火煎至表面金黄,"
+    },
+    {
+      "text": "然后翻面，继续用小火煎3-5分钟，两面都呈金黄色后撒入孜然、五香粉、辣椒末翻拌均匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11052/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煎",
+    "炸",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

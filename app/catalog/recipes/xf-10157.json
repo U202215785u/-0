@@ -1,0 +1,85 @@
+{
+  "id": "xf-10157",
+  "title": "番茄虾仁面片",
+  "ingredients": [
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "番茄",
+      "mergeKey": "tomato",
+      "amount": 250,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鲜虾",
+      "mergeKey": "shrimp",
+      "amount": 100,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "凉水",
+      "mergeKey": "water",
+      "amount": 90,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "盐用一点点热水化开，兑到凉水中，用盐水和面，揉成面团，醒30分钟,"
+    },
+    {
+      "text": "番茄去皮切块，虾处理干净去壳，去虾线加一点料酒拌匀去腥,"
+    },
+    {
+      "text": "醒好的面团擀成大薄片,"
+    },
+    {
+      "text": "折叠好切成宽条,"
+    },
+    {
+      "text": "锅内烧热油下番茄炒软，加水烧开,"
+    },
+    {
+      "text": "下面片，记得下面片的时候用手抻一下，拉薄,"
+    },
+    {
+      "text": "面片出锅前一分钟下虾仁，盐，胡椒粉即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10157/",
+  "author": "yaya小舍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "nutrition": {
+    "kcal": 223,
+    "proteinG": 17.6,
+    "carbsG": 32.4,
+    "fatG": 3
+  },
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

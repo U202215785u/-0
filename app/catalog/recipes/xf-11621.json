@@ -1,0 +1,61 @@
+{
+  "id": "xf-11621",
+  "title": "海鲜味噌汤",
+  "ingredients": [
+    {
+      "name": "味噌",
+      "mergeKey": "miso",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "鲜虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "鲜香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇"
+    },
+    {
+      "name": "青葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "鲜虾提早拿出来退冰，豆腐切小块、香菇洗净切片、青葱切成葱花,"
+    },
+    {
+      "text": "烧一锅水，下香菇煮至水开,"
+    },
+    {
+      "text": "加入豆腐煮制,"
+    },
+    {
+      "text": "味噌2勺加水调匀成糊，加入汤中混匀,"
+    },
+    {
+      "text": "下鲜虾煮至熟，调入盐码味,"
+    },
+    {
+      "text": "起锅前加入葱花，随即熄火即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11621/",
+  "author": "凌尒尒",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

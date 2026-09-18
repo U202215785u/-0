@@ -1,0 +1,101 @@
+{
+  "id": "xf-11474",
+  "title": "黑椒猪肝",
+  "ingredients": [
+    {
+      "name": "猪肝",
+      "mergeKey": "pork-liver",
+      "category": "肉类"
+    },
+    {
+      "name": "黑胡椒酱",
+      "mergeKey": "black-pepper-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "春笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆腐干",
+      "mergeKey": "dried-tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有食材清洗干净，猪肝切成薄片后（也可请店家代为切片，尽量片的薄一些），放入水中加几滴白醋泡15分钟后，用流动水反复清洗至没有血沫，调入生粉，盐，鸡精，料酒，白胡椒粉腌制10分钟,"
+    },
+    {
+      "text": "其它材料切片，锅中放油烧热,"
+    },
+    {
+      "text": "锅中油烧热后，放入腌好的猪肝滑炒至颜色一变即关火烫熟捞出,"
+    },
+    {
+      "text": "锅中留底油烧热，爆香蒜片及胡萝卜片，依次放入春笋片，豆腐干及大葱丝，调入盐，鸡精，少许糖，美极鲜酱油，料酒少许翻炒，最后放入猪肝，调入1大勺黑胡椒酱拌匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11474/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "xf-11366",
+  "title": "紫薯烙饼",
+  "ingredients": [
+    {
+      "name": "普通面粉",
+      "mergeKey": "flour",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "紫薯泥",
+      "mergeKey": "purple-sweet-potato",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 2,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大约100克左右温水",
+      "mergeKey": "water",
+      "quantityText": "适量",
+      "category": "其他"
+    },
+    {
+      "name": "一勺细砂糖",
+      "mergeKey": "sugar",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "酵母溶于温水中（大约30度左右，手腕试不烫），静置3分钟,"
+    },
+    {
+      "text": "面粉放在大盆中，倒入酵母水，再倒入温水，先用筷子搅拌成雪片状，然后用手揉成光滑面团,"
+    },
+    {
+      "text": "盖上保鲜膜，放室温发酵至大约2倍大（现在的气温大概大半个小时就好了）,"
+    },
+    {
+      "text": "等待发酵面团的过程，做紫薯泥。紫薯上锅蒸熟后，去皮按压成泥，趁热拌入一勺细砂糖，拌匀后成紫薯泥备用,"
+    },
+    {
+      "text": "发酵好的面团，充分揉匀排出面团中的空气，搓成长条，分成五个小剂子,"
+    },
+    {
+      "text": "取一个小剂子，搓圆按扁擀成圆形，在当中放上搓圆的紫薯馅,"
+    },
+    {
+      "text": "像包包子一样包起来，再按扁，表面撒上白芝麻,"
+    },
+    {
+      "text": "平底锅空锅加热（注意不要放油），把做好的饼胚排入锅内，用小火烙至两面稍有焦黄即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11366/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 178.8,
+    "proteinG": 6,
+    "carbsG": 33.1,
+    "fatG": 2.5
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

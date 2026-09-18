@@ -1,0 +1,95 @@
+{
+  "id": "xf-11200",
+  "title": "芝麻酱凉面",
+  "ingredients": [
+    {
+      "name": "面条",
+      "mergeKey": "noodle",
+      "amount": 200,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "芝麻酱",
+      "mergeKey": "sesame-paste",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 200,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "30毫升生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4茶匙1克盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5毫升香油",
+      "mergeKey": "sesame-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "amount": 0.5,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "随意黑芝麻",
+      "mergeKey": "black-sesame",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将芝麻酱放入碗中，倒入清水，用筷子不断地画圈儿搅匀，直到没有块状，而稀释为有流动性的芝麻酱,"
+    },
+    {
+      "text": "倒入生抽，盐和香油搅匀备用,"
+    },
+    {
+      "text": "锅中倒入水大火煮开后，放入面条煮熟后捞出，放入冷水中过凉后沥干,"
+    },
+    {
+      "text": "把面放入碗中，调入芝麻酱搅匀（喜欢的话，可以加些醋），再将黄瓜切成细丝放在碗中。最后，撒上一层黑芝麻即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11200/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 196.2,
+    "proteinG": 7.1,
+    "carbsG": 32.6,
+    "fatG": 4.4
+  },
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

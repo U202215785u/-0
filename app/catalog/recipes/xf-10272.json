@@ -1,0 +1,123 @@
+{
+  "id": "xf-10272",
+  "title": "咖喱鸡肉饭",
+  "ingredients": [
+    {
+      "name": "鸡腿肉",
+      "mergeKey": "chicken",
+      "amount": 200,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "百梦多咖喱",
+      "mergeKey": "curry",
+      "amount": 2,
+      "unit": "块",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 75,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鲜香菇",
+      "mergeKey": "shiitake",
+      "amount": 50,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "花生油",
+      "mergeKey": "cooking-oil",
+      "amount": 25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡腿肉剔下来（一根鸡腿大约200克左右）洗净切成小块放入碗中，加入料酒、生抽、盐、姜片腌渍1小时左右,"
+    },
+    {
+      "text": "上海好侍百梦多咖喱，超市有售,"
+    },
+    {
+      "text": "土豆、胡萝卜去皮洗净后切成小块，洋葱、鲜香菇洗净切小块，咖喱2块,"
+    },
+    {
+      "text": "炒锅倒入适量油，烧热后放入鸡肉煸炒至变色,"
+    },
+    {
+      "text": "放入洋葱炒几下接着放入土豆、胡萝卜、香菇翻炒一会,"
+    },
+    {
+      "text": "倒入开水或清水，刚刚没过食材为好。大火烧开转中火，煮一会感觉食材熟透后放入咖喱块。转小火用铲子不断搅拌，加快咖喱的溶解，以免糊底。一定要尝一尝滋味，如果淡就再加一点盐。待汤汁变浓稠即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10272/",
+  "author": "咕咚姥姥",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 400.5,
+    "proteinG": 28.2,
+    "carbsG": 23.5,
+    "fatG": 21.2
+  },
+  "tags": [
+    "主食",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

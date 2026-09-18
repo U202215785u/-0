@@ -1,0 +1,95 @@
+{
+  "id": "xf-10254",
+  "title": "干烧土豆肉",
+  "ingredients": [
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "amount": 500,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 250,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "青椒",
+      "mergeKey": "green-pepper",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 4,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "土豆去皮，切小方块，五花肉切成小方块，青椒切块，姜切片,"
+    },
+    {
+      "text": "锅内热少许油，放入五花肉块及姜片,"
+    },
+    {
+      "text": "小火煸炒至出油，（不要煸的太干）,"
+    },
+    {
+      "text": "加入土豆块，盐1茶匙翻炒均匀,"
+    },
+    {
+      "text": "加盖小火焖烧，中途常常翻动,"
+    },
+    {
+      "text": "直至土豆块表面略金黄色，水份被完全烧干时，加入青椒块及鸡精，生抽，炒至水份收干即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10254/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 880.5,
+    "proteinG": 16.9,
+    "carbsG": 51.2,
+    "fatG": 67.2
+  },
+  "tags": [
+    "烤",
+    "蒸",
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

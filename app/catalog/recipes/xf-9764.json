@@ -1,0 +1,103 @@
+{
+  "id": "xf-9764",
+  "title": "香蕉肉桂玛芬",
+  "ingredients": [
+    {
+      "name": "香蕉",
+      "mergeKey": "banana",
+      "amount": 120,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "cake-flour",
+      "amount": 100,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "/4小匙肉桂粉",
+      "mergeKey": "cinnamon",
+      "amount": 3.75,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "全蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 20,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米油",
+      "mergeKey": "cooking-oil",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "小匙泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡蛋、细砂糖、盐放在一起搅匀,"
+    },
+    {
+      "text": "加玉米油搅匀,"
+    },
+    {
+      "text": "加牛奶搅匀,"
+    },
+    {
+      "text": "加香蕉泥搅匀,"
+    },
+    {
+      "text": "加入混合过筛的低粉、泡打粉、肉桂粉搅匀,"
+    },
+    {
+      "text": "盛入模中，180度，中层20分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9764/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 169.2,
+    "proteinG": 4.6,
+    "carbsG": 31.2,
+    "fatG": 2.8
+  },
+  "tags": [
+    "炒",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

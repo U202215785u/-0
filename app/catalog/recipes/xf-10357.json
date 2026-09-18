@@ -1,0 +1,89 @@
+{
+  "id": "xf-10357",
+  "title": "鲫鱼炖猪脚",
+  "ingredients": [
+    {
+      "name": "猪脚",
+      "mergeKey": "pork-knuckle",
+      "amount": 1,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "鲫鱼",
+      "mergeKey": "carp",
+      "amount": 1,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "quantityText": "少许",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "猪脚洗净后放入冷水中，煮沸后捞出，再次用水将浮沫清洗干净,"
+    },
+    {
+      "text": "鲫鱼鱼身上抹少许盐，放入油锅中煎至两面金黄备用,"
+    },
+    {
+      "text": "焯水后洗净的猪脚放入电炖锅中，加入足量的清水，放入姜片，两勺料酒，选择“慢火煲汤”键即可；（我用的九阳的炖锅，慢火需要4个小时）,"
+    },
+    {
+      "text": "三个小时后，放入鲫鱼再一起炖一个小时，最后加少许盐、胡椒粉、葱花调味"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10357/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 202.5,
+    "proteinG": 24.5,
+    "carbsG": 0.5,
+    "fatG": 11.5
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

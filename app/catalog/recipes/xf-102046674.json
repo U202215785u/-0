@@ -1,0 +1,80 @@
+{
+  "id": "xf-102046674",
+  "title": "雪菜大汤黄鱼",
+  "sourceUrl": "https://m.xiachufang.com/recipe/102046674/",
+  "author": "小荷悠悠清莲语",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "煮",
+    "烧焖"
+  ],
+  "ingredients": [
+    {
+      "name": "小黄鱼，",
+      "mergeKey": "fish",
+      "amount": 4,
+      "unit": "条",
+      "category": "水产"
+    },
+    {
+      "name": "左右雪里蕻",
+      "mergeKey": "xuelihong",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "葱姜蒜",
+      "quantityText": "若干",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干辣椒，白胡椒粉",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "准备食材：雪里蕻切成小段，蒜头拍扁，小黄鱼去鳞，挖鳃，去内脏，洗干净沥干水分"
+    },
+    {
+      "text": "先教你们去除背部鱼鳍的方法：一个手捏紧黄鱼，一个手捏拉鱼背上的鱼鳍轻轻往前拉，这样鱼背上的小骨都拉岀来了，你吃的时候就只有鱼大骨就没有小骨了！"
+    },
+    {
+      "text": "干净吧，如果我不告诉你这个小窍门你肯定是用剪刀剪的吧"
+    },
+    {
+      "text": "好了把洗净沥干水份的小黄鱼再用厨房纸巾擦拭干，热锅冷油放入姜片开始煎黄鱼"
+    },
+    {
+      "text": "煎至两面金黄后轻轻铲出备用"
+    },
+    {
+      "text": "锅中留底油，放入蒜瓣，葱段，干辣椒爆香后倒入雪里蕻进行煸炒一下"
+    },
+    {
+      "text": "放入小黄鱼，倒一点料酒和雪里蕻一起煸炒一下，倒入没过黄鱼的温水大火煮开至鱼汤奶白色撒入白胡椒粉，根据咸淡加入盐然后离火起锅"
+    },
+    {
+      "text": "汤汁鲜美，咸菜脆爽清香，鱼肉鲜嫩…两鲜和一鲜😍家里老宁波（公公）的最爱！"
+    }
+  ],
+  "nutrition": {
+    "kcal": 310,
+    "proteinG": 50.3,
+    "carbsG": 11,
+    "fatG": 7.5
+  },
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

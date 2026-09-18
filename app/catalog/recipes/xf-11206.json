@@ -1,0 +1,74 @@
+{
+  "id": "xf-11206",
+  "title": "豉油鸡汁鳗鱼煲",
+  "ingredients": [
+    {
+      "name": "鳗鱼",
+      "mergeKey": "eel",
+      "category": "水产"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜头",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "豉油鸡汁",
+      "mergeKey": "soy-chicken-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将破肚杀好的鳗鱼用开水烫过区粘液，香菇浸泡好，姜切丝,"
+    },
+    {
+      "text": "将鳗鱼切一厘米厚片，加入盐味精少许，生粉码好,"
+    },
+    {
+      "text": "油锅见热加入鳗鱼块稍炸，约2分钟即可,"
+    },
+    {
+      "text": "另起油锅，将姜蒜头爆香,"
+    },
+    {
+      "text": "倒入香菇炒出香味,"
+    },
+    {
+      "text": "再倒入沥干油的鳗鱼,"
+    },
+    {
+      "text": "先倒些料酒，酱油上色，再倒入豉油鸡汁2勺，炒匀,"
+    },
+    {
+      "text": "沿锅边倒入小碗清水。见滚，再倒入砂锅盖上盖焖3分钟即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11206/",
+  "author": "睡眼惺忪may",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

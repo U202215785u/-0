@@ -1,0 +1,85 @@
+{
+  "id": "xf-9715",
+  "title": "苦瓜炒肉片",
+  "ingredients": [
+    {
+      "name": "苦瓜",
+      "mergeKey": "bitter-melon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "猪里脊肉",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "苦瓜买来后，放清水里浸泡，然后用刷子刷洗干净表面,"
+    },
+    {
+      "text": "把苦瓜对半剖开，用勺子把瓜瓤部分刮除，尽量把里面白色部分刮干净,"
+    },
+    {
+      "text": "切成薄片，撒上一勺盐，用手抓捏均匀后，静置15分钟左右,"
+    },
+    {
+      "text": "把猪里脊肉切成肉片，放料酒，少许盐和干淀粉用手抓捏均匀，静置,"
+    },
+    {
+      "text": "把盐渍过的苦瓜，用清水冲洗干净，沥干,"
+    },
+    {
+      "text": "肉片下锅前，先倒点食用油，拌匀，等下入油锅就不会粘连在一起了,"
+    },
+    {
+      "text": "起油锅，下肉片用筷子滑散，待肉片变白即可起锅放一边待用,"
+    },
+    {
+      "text": "用锅中余油煸炒苦瓜片，大约两分钟至苦瓜身软（喜欢脆口感的稍微炒几下即可）,"
+    },
+    {
+      "text": "把刚才用油滑熟的肉片倒入，翻炒片刻，加盐和鸡精即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9715/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 45,
+  "difficulty": "中等"
+}

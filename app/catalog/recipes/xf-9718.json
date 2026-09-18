@@ -1,0 +1,63 @@
+{
+  "id": "xf-9718",
+  "title": "雪菜炖老豆腐",
+  "ingredients": [
+    {
+      "name": "老豆腐(盐卤豆腐)",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "雪菜",
+      "mergeKey": "xuecai",
+      "amount": 1,
+      "unit": "包",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "虾皮(或者海米)",
+      "mergeKey": "dried-shrimp",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "老豆腐切成块，放在开水里稍微煮两分钟，可以去掉豆腐的豆腥味，捞出沥干水分待用,"
+    },
+    {
+      "text": "起个油锅，爆香姜片和葱白,"
+    },
+    {
+      "text": "放虾皮进去炒出香味,"
+    },
+    {
+      "text": "整包雪菜放进去煸炒透,"
+    },
+    {
+      "text": "加一大碗水煮开，放焯水过的老豆腐进去，转小火慢炖至少20分钟，出锅前加盐和鸡精调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9718/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

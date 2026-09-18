@@ -1,0 +1,104 @@
+{
+  "id": "xf-11112",
+  "title": "香酥辣子鸡",
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "mergeKey": "chicken-thigh",
+      "amount": 1,
+      "unit": "个",
+      "category": "肉类"
+    },
+    {
+      "name": "脆辣椒",
+      "mergeKey": "crispy-chili",
+      "amount": 150,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 1,
+      "unit": "段",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-pepper",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "dried-chili",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "5克盐",
+      "mergeKey": "salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "5克糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "15毫升料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把鸡腿洗净后，剔去骨头，把鸡腿肉切成4厘米见方的鸡丁放入容器中，倒上料酒，1/2茶匙盐，用手抓匀后，腌制20分钟,"
+    },
+    {
+      "text": "取一只小汤锅，倒入锅身一半的油量，待油温6成热时，将腌好的鸡丁一个个放入，炸成金黄色捞出，充分沥干油,"
+    },
+    {
+      "text": "继续加热锅中的油，待油温升至8成热时，将刚炸好的鸡丁再次放入，停留2秒钟，马上捞出沥干,"
+    },
+    {
+      "text": "换一只炒锅，锅热后倒入少量油，放入花椒，干辣椒，葱段，姜片，鸡丁，调入剩下的盐，糖，翻炒均匀后，倒入脆辣椒，出锅即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11112/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 204.7,
+    "proteinG": 20.8,
+    "carbsG": 13.4,
+    "fatG": 7
+  },
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

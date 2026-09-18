@@ -1,0 +1,70 @@
+{
+  "id": "xf-10251",
+  "title": "酸甜排骨",
+  "ingredients": [
+    {
+      "name": "排骨",
+      "mergeKey": "pork-ribs",
+      "amount": 400,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "番茄酱",
+      "mergeKey": "ketchup",
+      "amount": 50,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 20,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "汤锅里捞起排骨，充分沥干水分,"
+    },
+    {
+      "text": "小奶锅里放适量油（刚好可以没过材料的油即可），大火煮至大热，把沥干水分飞排骨放进锅里，中大火炸至金黄酥脆,"
+    },
+    {
+      "text": "捞起排骨沥干油分,"
+    },
+    {
+      "text": "把酱汁倒进锅里，倒进沥干油的排骨，翻炒均匀，让每块排骨都裹上酱汁即可,"
+    },
+    {
+      "text": "装碟后撒上一点芝麻就可以吃了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10251/",
+  "author": "依依美食",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 548.3,
+    "proteinG": 37.8,
+    "carbsG": 4,
+    "fatG": 41.6
+  },
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

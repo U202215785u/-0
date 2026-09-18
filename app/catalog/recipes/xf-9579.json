@@ -1,0 +1,82 @@
+{
+  "id": "xf-9579",
+  "title": "什锦蘑菇鱼汤",
+  "ingredients": [
+    {
+      "name": "滑子菇",
+      "mergeKey": "nameko",
+      "category": "菌菇"
+    },
+    {
+      "name": "鲜香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇"
+    },
+    {
+      "name": "草鱼",
+      "mergeKey": "grass-carp",
+      "category": "水产"
+    },
+    {
+      "name": "冬笋",
+      "mergeKey": "bamboo-shoot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "绿豌豆",
+      "mergeKey": "green-pea",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鱼肉切丁、用盐、胡椒粉、绍酒腌渍,"
+    },
+    {
+      "text": "滑子菇、香菇、冬笋、切丁，和鱼丁，绿豌豆飞水捞出待用,"
+    },
+    {
+      "text": "锅内放入鸡汤，放入盐，胡椒粉、调味，放入原料，用水淀粉勾薄芡，点香油出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9579/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

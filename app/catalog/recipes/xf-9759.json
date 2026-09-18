@@ -1,0 +1,56 @@
+{
+  "id": "xf-9759",
+  "title": "葱香椒盐芋艿小饼",
+  "ingredients": [
+    {
+      "name": "芋艿",
+      "mergeKey": "taro",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱花",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "椒盐",
+      "mergeKey": "pepper-salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "芋艿去皮洗净，切成厚厚的小片,"
+    },
+    {
+      "text": "平铺在盘中，放入蒸锅中蒸20分钟,"
+    },
+    {
+      "text": "平底锅中倒入少许油，放入蒸好的芋艿，用小火慢慢煎至表面金黄,"
+    },
+    {
+      "text": "翻面后继续用小火煎另一面,"
+    },
+    {
+      "text": "撒入椒盐，翻拌均匀后关火，撒上葱花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9759/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

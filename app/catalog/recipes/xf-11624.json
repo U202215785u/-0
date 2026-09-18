@@ -1,0 +1,140 @@
+{
+  "id": "xf-11624",
+  "title": "家常卤鸡脖子",
+  "ingredients": [
+    {
+      "name": "冰鲜鸡脖子",
+      "mergeKey": "chicken",
+      "category": "肉类"
+    },
+    {
+      "name": "干辣椒",
+      "mergeKey": "chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "姜块",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱节",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "三奈",
+      "mergeKey": "sannai",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "小茴香",
+      "mergeKey": "fennel",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "丁香",
+      "mergeKey": "clove",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "砂仁",
+      "mergeKey": "sharen",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "豆蔻",
+      "mergeKey": "cardamom",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红曲米",
+      "mergeKey": "red-yeast-rice",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "香葱洗净打结、蒜剥皮、姜切片,"
+    },
+    {
+      "text": "鸡脖子放入凉水锅里开火汆一水，捞出备用,"
+    },
+    {
+      "text": "捞出用温水洗净去掉肥油等，备用,"
+    },
+    {
+      "text": "锅中做清水放入干辣椒节，八角、三奈、桂皮、小茴香、丁香、砂仁、花椒、豆蔻、、香叶等用清水稍泡,"
+    },
+    {
+      "text": "红曲米入锅，大火熬出色，然后去渣，留汁水待用,"
+    },
+    {
+      "text": "加入姜块、调入盐、胡椒粉、烧开后，改小火熬煮半小时，至逸出辣味、香味后，即成辣味卤汁,"
+    },
+    {
+      "text": "卤制：焯好的鸡脖子葱节、绍酒放入烧开的辣味卤汁里,"
+    },
+    {
+      "text": "用中火卤15分钟盖上盖即可关火，让鸡脖子继续在辣味卤汁中浸泡30分钟，随后捞出晾凉即可斩块食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11624/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

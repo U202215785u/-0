@@ -1,0 +1,114 @@
+{
+  "id": "xf-11236",
+  "title": "苋菜蛤蜊豆腐汤",
+  "ingredients": [
+    {
+      "name": "绿苋菜",
+      "mergeKey": "amaranth",
+      "amount": 1,
+      "unit": "把",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "amount": 1,
+      "unit": "块",
+      "category": "豆制品"
+    },
+    {
+      "name": "蛤蜊",
+      "mergeKey": "clams",
+      "amount": 250,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "绿苋菜一把，豆腐一块，蛤蜊半斤,"
+    },
+    {
+      "text": "这道汤材料配比很随意，每样多些少些都行,"
+    },
+    {
+      "text": "豆腐洗净切小块，可用淡盐水先小火煮一分钟（不煮亦可,"
+    },
+    {
+      "text": "苋菜去老茎，取嫩茎及叶。水加一小勺盐烧开，略焯一下,"
+    },
+    {
+      "text": "取出过凉水，略挤干水分，切碎备用,"
+    },
+    {
+      "text": "另起一锅，水开下蛤蜊，煮至张口关火,"
+    },
+    {
+      "text": "取出蛤蜊，去壳，冲洗干净,"
+    },
+    {
+      "text": "煮蛤蜊的汤中会有沙沉在锅底，用汤勺轻手把上面的汤盛出，勿搅动,"
+    },
+    {
+      "text": "最后把锅底剩余少量的汤和杂质倒掉不要,"
+    },
+    {
+      "text": "把刚才盛出的清汤和蛤蜊肉回锅，同时下豆腐块,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加盐和白胡椒粉，大火煮开转小火，煮两三分钟,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "加入苋菜碎，用勺划散，水再沸时关火，以麻油和香油调味"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11236/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 42,
+    "proteinG": 3.6,
+    "carbsG": 4.6,
+    "fatG": 1.4
+  },
+  "tags": [
+    "煮"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

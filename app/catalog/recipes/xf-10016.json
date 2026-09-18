@@ -1,0 +1,93 @@
+{
+  "id": "xf-10016",
+  "title": "豆腐泡菜汤",
+  "ingredients": [
+    {
+      "name": "辣白菜",
+      "mergeKey": "kimchi",
+      "category": "蔬菜"
+    },
+    {
+      "name": "豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "猪肉",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "芝麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒粉",
+      "mergeKey": "chili-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "葱蒜姜",
+      "mergeKey": "scallion-garlic-ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "萝卜",
+      "mergeKey": "radish",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "做法："
+    },
+    {
+      "text": "锅内放入水、萝卜、洋葱，大火煮开，转中火煮20分钟左右，用筛子过滤做成泡菜汤备用,"
+    },
+    {
+      "text": "辣白菜去菜心，切成段备用，猪肉切成片，拌入蒜泥、生姜汁腌制一会儿,"
+    },
+    {
+      "text": "加热的锅内涂抹芝麻油，放入猪肉用中火炒2分钟左右，放入辣白菜继续炒2分钟左右,"
+    },
+    {
+      "text": "在炒好的猪肉与辣白菜中放入泡菜汤与辣椒粉，大火煮5分钟左右，直至沸腾，转中火煮半小时左右,"
+    },
+    {
+      "text": "用盐调味，放入豆腐再煮一会儿,"
+    },
+    {
+      "text": "加葱，根据个人口味加胡椒粉调味即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10016/",
+  "author": "crystal苏提",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "汤羹",
+    "煮"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

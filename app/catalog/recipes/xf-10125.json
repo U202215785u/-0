@@ -1,0 +1,49 @@
+{
+  "id": "xf-10125",
+  "title": "清淡素味卷",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "豆芽",
+      "mergeKey": "bean-sprout",
+      "category": "蔬菜"
+    },
+    {
+      "name": "芹菜",
+      "mergeKey": "celery",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "适量",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅内倒少许油，油热后，随倒入打散的鸡蛋，小火，摊成蛋饼皮备用,"
+    },
+    {
+      "text": "芹菜洗净切段，豆芽洗净，放入油热后的锅内快速翻炒，加少许盐调味，即为馅料,"
+    },
+    {
+      "text": "蛋饼皮中加入馅料，卷成卷，切成段摆入即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10125/",
+  "author": "crystal苏提",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

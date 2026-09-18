@@ -1,0 +1,119 @@
+{
+  "id": "xf-9607",
+  "title": "台湾卤肉饭",
+  "ingredients": [
+    {
+      "name": "熟鸡蛋",
+      "mergeKey": "egg",
+      "amount": 5,
+      "unit": "颗",
+      "category": "蛋类"
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "amount": 500,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "红葱头",
+      "mergeKey": "shallot",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 75,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 500,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 2,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "五花肉切成方块状，放入烧开的水中氽烫，捞出沥净水备用,"
+    },
+    {
+      "text": "锅内冷油3大匙，放入红葱头片，用小火慢慢炒制,"
+    },
+    {
+      "text": "炒到金黄色，葱片变干燥时捞起备用,"
+    },
+    {
+      "text": "剩下的油，放入五花肉块，用小火煎至表面金黄色，下入姜片，大蒜爆出香味,"
+    },
+    {
+      "text": "将煎好的肉块和姜，蒜，放入深锅内，红葱头用纱布袋装起扎紧口。加入熟鸡蛋，及所有调味料,"
+    },
+    {
+      "text": "大火煮开后，转中小火加盖卤60分钟，至汤汁剩1/3时即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9607/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 1514.6,
+    "proteinG": 40.5,
+    "carbsG": 9.4,
+    "fatG": 145.5
+  },
+  "tags": [
+    "主食",
+    "炒",
+    "烤",
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

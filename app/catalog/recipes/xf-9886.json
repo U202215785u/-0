@@ -1,0 +1,191 @@
+{
+  "id": "xf-9886",
+  "title": "彩绘姜饼",
+  "ingredients": [
+    {
+      "name": "黄金糖浆",
+      "mergeKey": "golden-syrup",
+      "amount": 120,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "普通面粉",
+      "mergeKey": "flour",
+      "amount": 500,
+      "unit": "克",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "黄姜粉",
+      "mergeKey": "turmeric",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黄油或固体植物油",
+      "mergeKey": "butter",
+      "amount": 280,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "/2小勺肉桂粉",
+      "mergeKey": "cinnamon",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺肉蔻粉",
+      "mergeKey": "nutmeg",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 250,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "全蛋",
+      "mergeKey": "egg",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "麦芽糖",
+      "mergeKey": "maltose",
+      "amount": 80,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蛋白",
+      "mergeKey": "egg-white",
+      "amount": 1,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "powdered-sugar",
+      "amount": 200,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小勺香草精",
+      "mergeKey": "vanilla",
+      "amount": 1.25,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4勺塔塔粉",
+      "mergeKey": "cream-of-tartar",
+      "amount": 3.75,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄油软化后加入细砂糖搅拌至羽毛状,"
+    },
+    {
+      "text": "加入黄金糖浆和麦芽糖,"
+    },
+    {
+      "text": "糖浆和黄油搅打均匀,"
+    },
+    {
+      "text": "下入粉类（面粉，肉桂粉，黄姜粉，肉蔻粉）抓拌均匀,"
+    },
+    {
+      "text": "揉搓成团后装袋放入冰箱冷藏一小时,"
+    },
+    {
+      "text": "从冰箱取出面团分成小份,"
+    },
+    {
+      "text": "面团下面垫油纸，上面覆保鲜膜擀成薄片入冰箱冷藏20分钟冻硬后取出,"
+    },
+    {
+      "text": "去掉保鲜膜用饼干压模在面片上压出形状,"
+    },
+    {
+      "text": "取出案放在烤盘上下垫油纸或油布烘烤,"
+    },
+    {
+      "text": "烤好后取出放在烤网上晾凉,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "制作蛋白糖霜，蛋白中加入塔塔粉打至出现粗泡,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "下入5分之一糖粉继续搅拌,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "搅拌均匀后分两次下入剩余的糖粉搅拌至抬起抬起打蛋器流下液体可以停留在蛋白霜表面即可,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "在小碗中倒入蛋白糖霜加入色素调好颜色后倒入一次性裱花袋,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "调好你需要的颜色备用,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "下面，用裱花袋在饼干随意涂鸦吧"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9886/",
+  "author": "卤煮鲍鱼",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "nutrition": {
+    "kcal": 1714.8,
+    "proteinG": 15.5,
+    "carbsG": 409.3,
+    "fatG": 6.6
+  },
+  "durationMinutes": 110,
+  "difficulty": "中等"
+}

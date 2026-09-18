@@ -1,0 +1,110 @@
+{
+  "id": "xf-11377",
+  "title": "红烧豆腐鸡丁",
+  "ingredients": [
+    {
+      "name": "板豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "鸡胸肉",
+      "mergeKey": "chicken",
+      "category": "肉类"
+    },
+    {
+      "name": "荷兰豆",
+      "mergeKey": "snow-peas",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红泡椒",
+      "mergeKey": "pickled-chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "鸡胸肉洗净后，把刀横过来，把鸡肉拍松，切成丁，先放一勺料酒抓匀，再放一勺蚝油抓匀，最后放一勺色拉油拌匀腌制备用。豆腐切小块，荷兰豆洗净撕去筋切成两段，大蒜切片,"
+    },
+    {
+      "text": "锅烧热，倒油，待油温上来，放入豆腐丁用中火煎至两面金黄后盛出,"
+    },
+    {
+      "text": "锅中余油低温滑炒腌制好的鸡丁，色变白后立即盛出,"
+    },
+    {
+      "text": "用锅中余油煸香蒜片和泡椒,"
+    },
+    {
+      "text": "倒入鸡丁和豆腐，加一勺半老抽、和半小碗清水,"
+    },
+    {
+      "text": "煮开后，盖上盖子中火咕嘟两分钟,"
+    },
+    {
+      "text": "开盖倒入荷兰豆，煮一会儿，加盐和鸡丁调好味,"
+    },
+    {
+      "text": "出锅前倒入稍许淀粉水，转大火推匀立即关火出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11377/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "蒸",
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "xf-9757",
+  "title": "黄金四喜卷",
+  "ingredients": [
+    {
+      "name": "南瓜泥",
+      "mergeKey": "pumpkin",
+      "amount": 280,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "amount": 300,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "酵母",
+      "mergeKey": "yeast",
+      "amount": 2,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "南瓜切成小块，用微波炉叮熟后用搅拌机打成南瓜泥,"
+    },
+    {
+      "text": "稍凉后，与面粉和酵母混合揉匀，发酵至2倍大,"
+    },
+    {
+      "text": "排出空气，揉匀后团成团，擀成后约2厘米的厚片,"
+    },
+    {
+      "text": "刷一层薄油，两边向中间卷起,"
+    },
+    {
+      "text": "切成约4厘米的段，然后两两相对，再醒发20分钟,"
+    },
+    {
+      "text": "凉水入锅，中火蒸20分钟，关火后闷5分钟再开盖"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9757/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 319.8,
+    "proteinG": 11,
+    "carbsG": 57.4,
+    "fatG": 5.1
+  },
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

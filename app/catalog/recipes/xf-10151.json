@@ -1,0 +1,93 @@
+{
+  "id": "xf-10151",
+  "title": "五彩千张",
+  "ingredients": [
+    {
+      "name": "千张",
+      "mergeKey": "tofu-skin",
+      "category": "豆制品"
+    },
+    {
+      "name": "肉糜",
+      "mergeKey": "ground-meat",
+      "category": "肉类"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "袖珍菇",
+      "mergeKey": "oyster-mushroom",
+      "category": "菌菇"
+    },
+    {
+      "name": "花菇",
+      "mergeKey": "huagu",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "玉米",
+      "mergeKey": "corn",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生菜",
+      "mergeKey": "lettuce",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "香姑洗干净一半切细，新鲜玉米剥粒备用，肉糜和一个蛋、料酒、盐搅拌均匀后和香菇玉米拌在一起,"
+    },
+    {
+      "text": "把拌好的料包进千张里面，一条条放好入锅蒸15-20分钟,"
+    },
+    {
+      "text": "千张蒸好后按照碗的大小切好放好。上面放上焯过水的红椒和葱,"
+    },
+    {
+      "text": "把3种菇炒熟后勾芡调味最后放生菜后淋在切好的千张上面就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10151/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

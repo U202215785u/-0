@@ -1,0 +1,143 @@
+{
+  "id": "xf-11337",
+  "title": "起司面包条",
+  "ingredients": [
+    {
+      "name": "马苏里拉奶酪丝",
+      "mergeKey": "mozzarella",
+      "quantityText": "适量",
+      "category": "乳制品"
+    },
+    {
+      "name": "高粉",
+      "mergeKey": "bread-flour",
+      "amount": 195,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "低粉",
+      "mergeKey": "cake-flour",
+      "amount": 90,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "汤种",
+      "mergeKey": "tangzhong",
+      "amount": 75,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "干酵母",
+      "mergeKey": "yeast",
+      "amount": 5,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 6,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "amount": 30,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "全蛋",
+      "mergeKey": "egg",
+      "amount": 60,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 65,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "奶油",
+      "mergeKey": "cream",
+      "amount": 45,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "香葱末",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "汤种用100克水和20克高粉，混合均匀，小火加热到65度糊化，放凉冷藏备用,"
+    },
+    {
+      "text": "面团，用除黄油外的材料揉成略有筋性的面团后，加入黄油，揉面至扩展阶段，基本发酵至两倍半大,"
+    },
+    {
+      "text": "基础发酵完成，拍扁排气，分割8个，滚圆，中间发酵10分钟。要盖上保鲜膜，防干,"
+    },
+    {
+      "text": "拍扁，擀成椭圆形,"
+    },
+    {
+      "text": "翻面，卷起。两端卷紧，中间略松，整成橄榄形,"
+    },
+    {
+      "text": "收口要紧，以免烤时爆开,"
+    },
+    {
+      "text": "翻过来，收口朝下,"
+    },
+    {
+      "text": "搓长一些（长度按个人喜好）入烤箱内做最后发酵，约40分钟（在烤箱内放碗热水,"
+    },
+    {
+      "text": "刷全蛋液,"
+    },
+    {
+      "text": "撒上马苏里拉奶酪丝，香葱末。（也可以撒一点点盐，胡椒粉和辣椒粉,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "放烤箱中层，180度，烤12－15分钟，至上色即可,"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "出炉了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11337/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 272.1,
+    "proteinG": 8,
+    "carbsG": 47.1,
+    "fatG": 5.4
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 70,
+  "difficulty": "中等"
+}

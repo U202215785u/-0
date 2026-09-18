@@ -1,0 +1,77 @@
+{
+  "id": "xf-9924",
+  "title": "酱大骨",
+  "ingredients": [
+    {
+      "name": "酱骨头",
+      "mergeKey": "pork-bone",
+      "category": "肉类"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "大料",
+      "mergeKey": "star-anise",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香叶",
+      "mergeKey": "bay-leaf",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "桂皮",
+      "mergeKey": "cinnamon-bark",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "山楂草果",
+      "mergeKey": "shancha-caoguo",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "把骨头切成小块泡进清水里，中间多换几次水，这样做的时候就不用焯了,"
+    },
+    {
+      "text": "准备调料：葱姜蒜，花椒大料，香叶桂皮，山楂草果，还有两个小辣椒。不是我家调料多，您买一袋炖肉料就成。把调料用纱布包上，煮出来的汤干净。还有一袋很重要的调料---大酱，我没特意选牌子，就是家里正好有这么一袋酱，就随便用了，还好，味道很正点。其他的生抽老抽没拍，不证明没有哈^_^,"
+    },
+    {
+      "text": "高压锅中加水，把所有调料扔进去，再倒点生抽老抽，大酱冰糖，大火压制40分钟，最简单的酱骨头就完成了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9924/",
+  "author": "方方球",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "xf-10156",
+  "title": "红椒酿鱼滑",
+  "ingredients": [
+    {
+      "name": "黑鱼",
+      "mergeKey": "snakehead",
+      "category": "水产"
+    },
+    {
+      "name": "红椒",
+      "mergeKey": "red-pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "山药",
+      "mergeKey": "yam",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蛋清",
+      "mergeKey": "egg-white",
+      "category": "蛋类"
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "味精",
+      "mergeKey": "msg",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黑鱼剁泥，加料酒、盐搅拌均匀备用,"
+    },
+    {
+      "text": "山药去皮剁泥，加蛋清、少许盐后放在锅中蒸8-10分钟,"
+    },
+    {
+      "text": "把鱼肉塞进洗干净的红椒里面放在锅中蒸10-15分钟,"
+    },
+    {
+      "text": "把红椒切开后放在蒸好的山药泥是上面，淋上酱油、水、盐、味精的芡汁就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10156/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖",
+    "炸"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

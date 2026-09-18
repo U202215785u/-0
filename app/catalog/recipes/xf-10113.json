@@ -1,0 +1,83 @@
+{
+  "id": "xf-10113",
+  "title": "辣白菜焗蟹盒",
+  "ingredients": [
+    {
+      "name": "梭子蟹",
+      "mergeKey": "crab",
+      "category": "水产"
+    },
+    {
+      "name": "鲜虾",
+      "mergeKey": "shrimp",
+      "category": "水产"
+    },
+    {
+      "name": "辣白菜",
+      "mergeKey": "kimchi",
+      "category": "蔬菜"
+    },
+    {
+      "name": "植脂黄油",
+      "mergeKey": "margarine",
+      "category": "乳制品"
+    },
+    {
+      "name": "芦笋",
+      "mergeKey": "asparagus",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白葡萄酒",
+      "mergeKey": "white-wine",
+      "category": "其他"
+    },
+    {
+      "name": "韩国辣酱",
+      "mergeKey": "korean-chili-paste",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将梭子蟹开壳、斩件腌渍,"
+    },
+    {
+      "text": "鲜虾去皮留尾挑虾线，用盐白葡萄酒腌渍，芦笋切段辣白菜切丝，洋葱切末，蒜拍碎,"
+    },
+    {
+      "text": "锅内放黄油融化后煸香洋葱、蒜碎，放入大米，加少许水边煮边搅拌,"
+    },
+    {
+      "text": "芦笋在开水里烫熟捞出、蟹肉炸熟,"
+    },
+    {
+      "text": "即将熟的米饭里放入鲜虾、韩国辣酱，辣白菜丝拌匀至鲜虾成熟变色，撒入蟹肉拌匀,"
+    },
+    {
+      "text": "将米饭放入蟹壳中，撒少许奶酪粉，放入提前预热的烤箱，上下火200度烤5分钟，装盘时用芦笋点缀。撒少许熟黑芝麻"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10113/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "煮"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

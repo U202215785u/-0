@@ -1,0 +1,136 @@
+{
+  "id": "salt-pepper-shrimp",
+  "title": "椒盐虾",
+  "ingredients": [
+    {
+      "name": "虾",
+      "mergeKey": "shrimp",
+      "amount": 392,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "amount": 10,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红洋葱",
+      "mergeKey": "red-onion",
+      "amount": 14,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "红甜椒",
+      "mergeKey": "bell-pepper",
+      "amount": 14,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "amount": 60,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "泰椒",
+      "mergeKey": "thai-chili",
+      "amount": 2,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "玉米油",
+      "mergeKey": "cooking-oil",
+      "quantityText": "5盎司",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米油",
+      "mergeKey": "cooking-oil",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "蒜盐",
+      "mergeKey": "garlic-salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "蒜盐",
+      "mergeKey": "garlic-salt",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "先处理葱蒜和蔬菜等香味配料。"
+    },
+    {
+      "text": "另碗混合蒜盐、食盐和白胡椒粉，调成干味粉。"
+    },
+    {
+      "text": "用牙签从虾背节段之间横向刺入并挑出虾线，再剪掉虾脚和触须；可用厨房剪或刀。"
+    },
+    {
+      "text": "用厨房纸吸干虾，减少后续油溅。"
+    },
+    {
+      "text": "炒锅大火加热，加入玉米油至190摄氏度；可用温度计或木筷观察小气泡判断。"
+    },
+    {
+      "text": "转小火，加入玉米油和蒜，炒15至20秒至出香；加入洋葱、甜椒、泰椒和葱白炒香，若开始变褐或焦糊就调低火力。"
+    },
+    {
+      "text": "虾调味到合适后关火装盘，确保把锅中的酥香碎料一并盛出。"
+    }
+  ],
+  "baseServings": 4,
+  "durationMinutes": 25,
+  "sourceUrl": "https://www.madewithlau.com/recipes/salt-pepper-shrimp",
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、准备15分钟、烹调10分钟、总时长25分钟、13项配料和7段方法；保留虾线处理、190摄氏度油温和香料下锅顺序。",
+  "tags": [
+    "炸"
+  ],
+  "difficulty": "中等"
+}

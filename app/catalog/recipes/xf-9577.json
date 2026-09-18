@@ -1,0 +1,103 @@
+{
+  "id": "xf-9577",
+  "title": "葫塌子",
+  "ingredients": [
+    {
+      "name": "西葫芦",
+      "mergeKey": "zucchini",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "category": "蛋类"
+    },
+    {
+      "name": "葱花儿",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "熟芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "砸蒜泥的混合汁儿",
+      "mergeKey": "garlic-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "西葫芦、胡萝卜洗净、擦丝，盛入小盆中，加2个鸡蛋、葱花或香葱、盐（少许）鸡精（少许）、绍酒（少许）后，搅拌，放置4-5分钟饧饧,"
+    },
+    {
+      "text": "再次搅拌后，逐步放入面粉约半斤，搅匀，调成糊糊状，如果较稀，再加入一些面粉搅匀，也不可太稠，太稠，摊不开,"
+    },
+    {
+      "text": "饼铛上小火，铛热后加油少许，用勺舀入糊糊倒入铛中摊匀。不断转饼铛，使其受热均匀。待上面面糊全部变色后，把葫塌子小心翻过来，不断转，撒上一些熟黑芝麻待2面都有焦黄，即可出锅，盛入盘中，待食用,"
+    },
+    {
+      "text": "夹起葫塌子，我给捐了个卷，沾汁儿吃"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9577/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

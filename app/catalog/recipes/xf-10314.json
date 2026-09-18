@@ -1,0 +1,81 @@
+{
+  "id": "xf-10314",
+  "title": "能量鸡蛋羹",
+  "ingredients": [
+    {
+      "name": "约110克鸡蛋",
+      "mergeKey": "egg",
+      "amount": 2,
+      "unit": "个",
+      "category": "蛋类"
+    },
+    {
+      "name": "瓶68毫升白蘭氏鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "温水",
+      "mergeKey": "water",
+      "amount": 150,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "鲜虾",
+      "mergeKey": "shrimp",
+      "amount": 6,
+      "unit": "只",
+      "category": "水产"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "amount": 3,
+      "unit": "朵",
+      "category": "菌菇"
+    },
+    {
+      "name": "/4小勺1克盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将鸡蛋放入碗中，用打蛋器打散。然后将1瓶鸡精倒入另一容器中，并在鸡精中加注入150克的凉白开（此为煮开后冷却的水）,"
+    },
+    {
+      "text": "把鸡精和水的混合物慢慢倒入蛋液中搅拌均匀，并加入盐调味，然后将混合好的液体过筛两遍，排除蛋液里的空气，这样整出的蛋羹非常平整,"
+    },
+    {
+      "text": "在碗里薄薄地涂上一层植物油（食用后便于洗碗），然后把虾仁和切成小块的香菇放入碗底，将刚过滤的蛋液用勺子盛入碗中约9分满,"
+    },
+    {
+      "text": "蒸锅中倒入水大火加热，水烧开后，将蒸屉放入锅内，先以大火蒸1分钟，然后转至最小火，蒸6分钟即可关火,"
+    },
+    {
+      "text": "将蒸好的鸡蛋蒸取出即可食用"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10314/",
+  "author": "文怡",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 499,
+    "proteinG": 81.5,
+    "carbsG": 14,
+    "fatG": 14.6
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

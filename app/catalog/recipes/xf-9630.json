@@ -1,0 +1,93 @@
+{
+  "id": "xf-9630",
+  "title": "杂蔬炒饭",
+  "ingredients": [
+    {
+      "name": "四季豆",
+      "mergeKey": "green-bean",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "土豆",
+      "mergeKey": "potato",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "amount": 4,
+      "unit": "朵",
+      "category": "菌菇"
+    },
+    {
+      "name": "米饭",
+      "mergeKey": "rice",
+      "amount": 2,
+      "unit": "碗",
+      "category": "米面主食"
+    },
+    {
+      "name": "/2小匙盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "四季豆，香菇，胡萝卜，土豆，米饭,"
+    },
+    {
+      "text": "将材料分别切成小丁,"
+    },
+    {
+      "text": "锅内热油，放入土豆，胡萝卜丁炒至熟,"
+    },
+    {
+      "text": "加入香菇丁及四季豆丁，加入盐，炒至熟,"
+    },
+    {
+      "text": "加入白米饭翻炒均匀,"
+    },
+    {
+      "text": "最后加入生抽即可出锅"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9630/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 401.3,
+    "proteinG": 12.3,
+    "carbsG": 81.8,
+    "fatG": 3.1
+  },
+  "tags": [
+    "主食",
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "xf-106143954",
+  "title": "尖椒干豆腐",
+  "ingredients": [
+    {
+      "name": "尖椒",
+      "mergeKey": "chili",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干豆腐",
+      "mergeKey": "tofu-sheet",
+      "amount": 2,
+      "unit": "张",
+      "category": "豆制品"
+    },
+    {
+      "name": "一点葱姜沫",
+      "mergeKey": "scallion-ginger",
+      "quantityText": "一点",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一点蒜沫",
+      "mergeKey": "garlic",
+      "quantityText": "一点",
+      "category": "蔬菜"
+    },
+    {
+      "name": "一勺淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 15,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "一勺盐",
+      "mergeKey": "salt",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一勺生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一点糖",
+      "mergeKey": "sugar",
+      "quantityText": "一点",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "一勺鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "干豆腐切菱形片，尖椒切块"
+    },
+    {
+      "text": "清水，下一丁点小苏打，水开后下干豆腐焯水一分钟，倒出控水，清水投几下"
+    },
+    {
+      "text": "底锅烧油，葱姜下锅，放点生抽炝锅，加入清水一碗，直接放干豆腐，加盐，一丁点白糖，鸡精，煮一分钟"
+    },
+    {
+      "text": "水淀粉勾芡"
+    },
+    {
+      "text": "下入尖椒和蒜末，加点油，出锅"
+    }
+  ],
+  "sourceUrl": "https://m.xiachufang.com/recipe/106143954/",
+  "author": "小鹏自己保存菜谱",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开移动菜谱页面的结构化食材、份量和做法；保留来源作者与 URL，未补写页面未提供的内容。",
+  "tags": [
+    "炸"
+  ],
+  "durationMinutes": 25,
+  "difficulty": "中等"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "xf-11723",
+  "title": "红蘑虾皮玉米汤",
+  "ingredients": [
+    {
+      "name": "红蘑",
+      "mergeKey": "hongmo",
+      "amount": 200,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "玉米",
+      "mergeKey": "corn",
+      "amount": 150,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "虾皮",
+      "mergeKey": "dried-shrimp",
+      "amount": 20,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "家乐猪骨浓汤口味浓汤宝",
+      "mergeKey": "stock-cube",
+      "amount": 1,
+      "unit": "块",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜",
+      "mergeKey": "ginger",
+      "amount": 1,
+      "unit": "块",
+      "category": "蔬菜"
+    },
+    {
+      "name": "（750毫升）清水",
+      "mergeKey": "water",
+      "amount": 750,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "玉米加足清水，上火煮沸。加入红蘑、姜、胡萝卜,"
+    },
+    {
+      "text": "待水再次煮沸，加入家乐浓汤宝，文火煲40分钟,"
+    },
+    {
+      "text": "最后加虾皮即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11723/",
+  "author": "YOYO",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 168.8,
+    "proteinG": 7.4,
+    "carbsG": 28.9,
+    "fatG": 2.6
+  },
+  "tags": [
+    "蒸",
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

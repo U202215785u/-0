@@ -1,0 +1,101 @@
+{
+  "id": "chinese-seared-salmon",
+  "title": "中式香煎三文鱼",
+  "ingredients": [
+    {
+      "name": "三文鱼",
+      "mergeKey": "salmon",
+      "amount": 340,
+      "unit": "克",
+      "category": "水产"
+    },
+    {
+      "name": "蒜盐",
+      "mergeKey": "garlic-salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "玉米淀粉",
+      "mergeKey": "cornstarch",
+      "amount": 30,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "三文鱼切成长度相等的块，擦干表面。",
+      "ingredientNames": [
+        "三文鱼"
+      ]
+    },
+    {
+      "text": "两面均匀撒蒜盐和白胡椒粉，静置几分钟。",
+      "ingredientNames": [
+        "三文鱼",
+        "蒜盐",
+        "白胡椒粉"
+      ]
+    },
+    {
+      "text": "玉米淀粉铺在盘中，三文鱼肉面、皮面及四边轻薄裹粉。",
+      "ingredientNames": [
+        "三文鱼",
+        "玉米淀粉"
+      ]
+    },
+    {
+      "text": "锅烧热加食用油，三文鱼皮面朝下煎约2分钟，肉面煎约3分钟，再煎四边各约30秒；表面金黄、内部达到需要的熟度后出锅，淋料酒。",
+      "ingredientNames": [
+        "食用油",
+        "三文鱼",
+        "料酒"
+      ]
+    }
+  ],
+  "baseServings": 4,
+  "sourceUrl": "https://www.madewithlau.com/recipes/chinese-seared-salmon",
+  "author": "Daddy Lau / Made With Lau",
+  "fidelity": "structured-transcription",
+  "sourceNote": "逐页核验来源页面公开的4人份、15分钟总时长和4步方法；保留擦干、四面薄裹粉及皮面2分钟、肉面3分钟和四边30秒煎制。",
+  "nutrition": {
+    "kcal": 175.6,
+    "proteinG": 20.6,
+    "carbsG": 2.6,
+    "fatG": 9.5
+  },
+  "tags": [
+    "烧焖",
+    "煎"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

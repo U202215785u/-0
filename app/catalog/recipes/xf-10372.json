@@ -1,0 +1,66 @@
+{
+  "id": "xf-10372",
+  "title": "金针菇拌海蛰",
+  "ingredients": [
+    {
+      "name": "海蛰皮",
+      "mergeKey": "jellyfish",
+      "category": "水产"
+    },
+    {
+      "name": "金针菇",
+      "mergeKey": "enoki",
+      "category": "菌菇"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "category": "蔬菜"
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "麻油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "海蛰皮切丝，浸泡多个小时淡化，洗干净控干水分备用,"
+    },
+    {
+      "text": "金针菇洗干净，水烧滚后放入金针菇，滚开后捞出放凉备用，香菜洗干净切段,"
+    },
+    {
+      "text": "将海蛰与金针菇混合，加入以上调料拌均匀放入香菜即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10372/",
+  "author": "子闻妈咪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "凉拌",
+    "炒"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

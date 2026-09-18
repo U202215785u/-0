@@ -1,0 +1,110 @@
+{
+  "id": "xf-9854",
+  "title": "蜜红豆玛芬蛋糕",
+  "ingredients": [
+    {
+      "name": "黄油",
+      "mergeKey": "butter",
+      "amount": 60,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "蜜红豆",
+      "mergeKey": "red-bean",
+      "amount": 60,
+      "unit": "克",
+      "category": "其他",
+      "pantry": true
+    },
+    {
+      "name": "低筋面粉",
+      "mergeKey": "flour",
+      "amount": 100,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "细砂糖",
+      "mergeKey": "sugar",
+      "amount": 60,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡蛋",
+      "mergeKey": "egg",
+      "amount": 50,
+      "unit": "克",
+      "category": "蛋类"
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 50,
+      "unit": "毫升",
+      "category": "乳制品"
+    },
+    {
+      "name": "柠檬汁",
+      "mergeKey": "lemon-juice",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "其他"
+    },
+    {
+      "name": "/8小勺盐",
+      "mergeKey": "salt",
+      "amount": 1,
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小勺泡打粉",
+      "mergeKey": "baking-powder",
+      "amount": 1,
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "取半个柠檬榨汁备用,"
+    },
+    {
+      "text": "黄油软化后，加入细砂糖打发。打到颜色发白，体积稍膨大,"
+    },
+    {
+      "text": "分次加入打散的鸡蛋液,"
+    },
+    {
+      "text": "依次加入牛奶、柠檬汁，筛入低粉,"
+    },
+    {
+      "text": "用橡皮刮刀拌匀，搅拌的时候，从底部向上翻拌，不要划圈搅拌，以免面粉起筋,"
+    },
+    {
+      "text": "加入蜜红豆搅拌均匀,"
+    },
+    {
+      "text": "倒入模中，七分满，放入预热好的烤箱中层185度约30分钟"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9854/",
+  "author": "格妈",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 294.9,
+    "proteinG": 8.3,
+    "carbsG": 54.9,
+    "fatG": 5.1
+  },
+  "tags": [
+    "烧焖",
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

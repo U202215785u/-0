@@ -1,0 +1,111 @@
+{
+  "id": "xf-11464",
+  "title": "脆皮家常豆腐",
+  "ingredients": [
+    {
+      "name": "猪肉片",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "嫩豆腐",
+      "mergeKey": "tofu",
+      "category": "豆制品"
+    },
+    {
+      "name": "青红椒",
+      "mergeKey": "pepper",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "category": "菌菇"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜片",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "面粉",
+      "mergeKey": "flour",
+      "category": "米面主食",
+      "pantry": true
+    },
+    {
+      "name": "生粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "美极鲜酱油",
+      "mergeKey": "soy-sauce",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "所有材料清洗干净，豆腐切成方块，猪肉切成片，加胡椒粉盐鸡精生粉略腌，其它材料切成块,"
+    },
+    {
+      "text": "面粉及生粉以1：1的比例混合，锅中放油烧热，将豆腐均匀的粘上拌匀的面粉及生粉，拍掉多余的粉，放入锅中炸至金黄,"
+    },
+    {
+      "text": "趁着炸豆腐的时间，另起一锅，放入油，爆香姜片及蒜片，依次放入香菇，青红椒，肉片翻炒，关火调入盐，鸡精，少许糖，少许老抽，美极鲜酱油，少许醋，再次开火烧沸，用湿淀粉勾芡,"
+    },
+    {
+      "text": "将炸制好的豆腐放入勾好芡的味汁中翻匀即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11464/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

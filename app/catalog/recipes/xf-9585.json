@@ -1,0 +1,107 @@
+{
+  "id": "xf-9585",
+  "title": "金菇肥牛卷",
+  "ingredients": [
+    {
+      "name": "肥牛片",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "金针菇",
+      "mergeKey": "enoki",
+      "category": "菌菇"
+    },
+    {
+      "name": "芥兰",
+      "mergeKey": "kai-lan",
+      "category": "蔬菜"
+    },
+    {
+      "name": "青红辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜肉",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "category": "蔬菜"
+    },
+    {
+      "name": "胡萝卜",
+      "mergeKey": "carrot",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蚝油",
+      "mergeKey": "oyster-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "绍酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "水淀粉",
+      "mergeKey": "cornstarch",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "将金针菇去尾部，青红椒切丝，大蒜拍碎切蓉,"
+    },
+    {
+      "text": "用肥牛片包裹金针菇和青红椒丝卷起来,"
+    },
+    {
+      "text": "绍酒、酱油和盐调汁浇在牛肉卷上，入微波炉高火4分钟,"
+    },
+    {
+      "text": "芥兰切成3厘米的小段，飞水加油、盐，捞出待用,"
+    },
+    {
+      "text": "锅内放油煸香蒜蓉，倒入蚝油、冰糖、白胡椒粉、水淀粉调成芡汁，浇在牛肉卷上,"
+    },
+    {
+      "text": "长盘摆放焯熟的芥兰段，将牛肉卷码放在上面，黄瓜片，红辣椒丝装饰，即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9585/",
+  "author": "食尚小米",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "炸"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "xf-11223",
+  "title": "酸辣藕丁",
+  "ingredients": [
+    {
+      "name": "嫩藕",
+      "mergeKey": "lotus-root",
+      "category": "蔬菜"
+    },
+    {
+      "name": "花椒",
+      "mergeKey": "sichuan-peppercorn",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "干红辣椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "白醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "取一大碗，放半碗清水，滴入少许白醋,"
+    },
+    {
+      "text": "藕洗净去皮，切成1厘米 大小小丁，马上放入步骤1的白醋水中浸泡几分钟后捞出沥干。把干红辣椒剪成小段备用,"
+    },
+    {
+      "text": "烧热油锅，放花椒转小火炒出香味儿后，捞出花椒弃之,"
+    },
+    {
+      "text": "再放干辣椒稍稍煸一会儿,"
+    },
+    {
+      "text": "放入藕丁转大火快速煸炒,"
+    },
+    {
+      "text": "边炒藕丁边加入少许清水一起炒，炒至藕丁变的有些透明，放点白醋、少量盐和白糖、再加点鸡精出锅，装盘撒些葱花即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11223/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

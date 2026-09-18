@@ -1,0 +1,80 @@
+{
+  "id": "xf-9729",
+  "title": "腊鸭腿煲萝卜",
+  "ingredients": [
+    {
+      "name": "腊鸭腿",
+      "mergeKey": "duck",
+      "amount": 1,
+      "unit": "只",
+      "category": "肉类"
+    },
+    {
+      "name": "白萝卜",
+      "mergeKey": "radish",
+      "amount": 0.5,
+      "unit": "只",
+      "category": "蔬菜"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 2,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "amount": 2,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "清水",
+      "mergeKey": "water",
+      "amount": 6,
+      "unit": "碗",
+      "category": "其他"
+    },
+    {
+      "name": "/4小匙盐",
+      "mergeKey": "salt",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/4小匙鸡精",
+      "mergeKey": "chicken-powder",
+      "amount": 1.25,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "腊鸭腿洗净斩小块，白萝卜去皮切小块，姜切薄片2片,"
+    },
+    {
+      "text": "锅内冷水，放入腊鸭腿肉煮至水开后，捞起沥净水,"
+    },
+    {
+      "text": "锅内放入腊鸭腿，白萝卜，姜片及清水，加盖大火煮开后转小火,"
+    },
+    {
+      "text": "煲至汤色转白，水量剩一半时即可下调味料，加入香菜略煮即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9729/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "xf-10117",
+  "title": "南瓜奶酪松糕",
+  "ingredients": [
+    {
+      "name": "熟南瓜泥",
+      "mergeKey": "pumpkin",
+      "amount": 160,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "粘米粉",
+      "mergeKey": "rice-flour",
+      "amount": 18,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "糯米粉",
+      "mergeKey": "glutinous-rice-flour",
+      "amount": 25,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "糖粉",
+      "mergeKey": "sugar",
+      "amount": 10,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "奶酪粉",
+      "mergeKey": "cheese",
+      "amount": 20,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "炼乳",
+      "mergeKey": "condensed-milk",
+      "amount": 20,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 1.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "左右温水",
+      "mergeKey": "water",
+      "amount": 120,
+      "unit": "克",
+      "category": "其他"
+    },
+    {
+      "name": "小块南瓜",
+      "mergeKey": "pumpkin",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "神女果干",
+      "mergeKey": "dried-tomato",
+      "quantityText": "适量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "澄粉",
+      "mergeKey": "wheat-starch",
+      "amount": 12,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "色拉油",
+      "mergeKey": "cooking-oil",
+      "amount": 15,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "牛奶",
+      "mergeKey": "milk",
+      "amount": 90,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "草莓粉",
+      "mergeKey": "strawberry-powder",
+      "amount": 10,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "南瓜切片微波炉3分钟，将整片的取出用饼干心模压出8个小心形做围边装饰用，边角料放回微波炉继续3分钟，取出压成泥,"
+    },
+    {
+      "text": "南瓜泥趁热与所有材料混合，水最后慢慢加入， 混合成半湿粗颗粒状即可,"
+    },
+    {
+      "text": "将粗颗粒用手搓散，再用筛网过筛成松糕粉（可用勺子辅助过筛）,"
+    },
+    {
+      "text": "蒸架上垫一纱布，放上方形慕斯圈，先铺上一层糕粉，4边各放上2个压出来的心形片，中层放一些小粒南瓜和切碎的神女果干，再铺满糕粉,"
+    },
+    {
+      "text": "隔水蒸15分钟，焖5分钟即可,"
+    },
+    {
+      "text": "全部材料（除草莓粉外）混合成糊状，隔水蒸10分钟，中间搅拌几次,"
+    },
+    {
+      "text": "稍凉后加入草莓粉揉匀，分成每份10克，摊成圆皮，4个相叠（视图），由下往上卷起，中间切断，翻开就成两朵玫瑰了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10117/",
+  "author": "莉莎 de 烘焙时光",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 178.1,
+    "proteinG": 5.5,
+    "carbsG": 30.6,
+    "fatG": 3.3
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 35,
+  "difficulty": "中等"
+}

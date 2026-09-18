@@ -1,0 +1,131 @@
+{
+  "id": "xf-10237",
+  "title": "私房猪肉炖粉条",
+  "ingredients": [
+    {
+      "name": "红薯粉条",
+      "mergeKey": "sweet-potato-noodle",
+      "amount": 150,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "猪肉",
+      "mergeKey": "pork",
+      "amount": 400,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "京葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 2,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 8,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "amount": 3,
+      "unit": "片",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大匙生抽",
+      "mergeKey": "soy-sauce",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "/2小匙盐",
+      "mergeKey": "salt",
+      "amount": 2.5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙老抽",
+      "mergeKey": "dark-soy-sauce",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "小匙花雕酒",
+      "mergeKey": "cooking-wine",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅内烧开水，放入切块猪肉氽烫至水开，捞起洗净，沥干水,"
+    },
+    {
+      "text": "锅内放1小匙油，放入猪肉块，小火煸至微黄出油脂,"
+    },
+    {
+      "text": "捞起肉块放入冰糖，小火炒成焦糖色,"
+    },
+    {
+      "text": "放入肉块炒至均匀上色，加入京葱段，八角，姜片，花雕酒炒出香味,"
+    },
+    {
+      "text": "加入清水1200毫升及所有调味料，加盖大火煮开后转小火炖约60分钟,"
+    },
+    {
+      "text": "煮至中途，把葱段和姜片捞起,"
+    },
+    {
+      "text": "粉条提前用温水浸泡至软,"
+    },
+    {
+      "text": "当锅内的水炖至1/3时，放入泡软粉条,"
+    },
+    {
+      "text": "中小火开盖煮制，粉条煮的时间要略长些,"
+    },
+    {
+      "text": "最后煮至粉条软化即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10237/",
+  "author": "圆猪猪",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 369,
+    "proteinG": 42.5,
+    "carbsG": 19,
+    "fatG": 13.2
+  },
+  "tags": [
+    "烧焖",
+    "烤"
+  ],
+  "durationMinutes": 50,
+  "difficulty": "中等"
+}

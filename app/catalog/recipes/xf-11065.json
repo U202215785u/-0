@@ -1,0 +1,122 @@
+{
+  "id": "xf-11065",
+  "title": "培根蒜香带子卷",
+  "ingredients": [
+    {
+      "name": "带子",
+      "mergeKey": "scallop",
+      "amount": 5,
+      "unit": "粒",
+      "category": "水产"
+    },
+    {
+      "name": "培根",
+      "mergeKey": "bacon",
+      "amount": 3,
+      "unit": "条",
+      "category": "肉类"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "amount": 25,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "amount": 20,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "番茄",
+      "mergeKey": "tomato",
+      "amount": 50,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "洋葱",
+      "mergeKey": "onion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "牛油",
+      "mergeKey": "butter",
+      "amount": 30,
+      "unit": "克",
+      "category": "乳制品"
+    },
+    {
+      "name": "白葡萄酒",
+      "mergeKey": "white-wine",
+      "amount": 30,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "柠檬汁",
+      "mergeKey": "lemon-juice",
+      "amount": 5,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "黑胡椒",
+      "mergeKey": "black-pepper",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "quantityText": "少许",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "带子略冲洗，用厨房用吸干水分,"
+    },
+    {
+      "text": "把培根对切，放入带子，将其卷起后用牙签固定,"
+    },
+    {
+      "text": "将大蒜、洋葱、香菜切碎，将番茄切小叮,"
+    },
+    {
+      "text": "锅中烧热放入牛油，放入步骤2中的带子，用大火快速煎至培根出油、带子上色后取出,"
+    },
+    {
+      "text": "用步骤4中的剩油炒香蒜末和洋葱，再放入调味料调味，再放入番茄和香菜,"
+    },
+    {
+      "text": "把煎好的带子装碟，放一些步骤5中的蔬菜并淋上汁即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11065/",
+  "author": "笑笑厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "炒",
+    "烧焖",
+    "炸"
+  ],
+  "nutrition": {
+    "kcal": 459.3,
+    "proteinG": 39.2,
+    "carbsG": 6.6,
+    "fatG": 30.8
+  },
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

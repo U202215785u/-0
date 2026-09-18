@@ -1,0 +1,119 @@
+{
+  "id": "xf-10234",
+  "title": "杂锦糯米饭",
+  "ingredients": [
+    {
+      "name": "豆角",
+      "mergeKey": "green-bean",
+      "amount": 100,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "糯米",
+      "mergeKey": "glutinous-rice",
+      "amount": 750,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "大米",
+      "mergeKey": "rice",
+      "amount": 250,
+      "unit": "克",
+      "category": "米面主食"
+    },
+    {
+      "name": "腊肉",
+      "mergeKey": "cured-pork",
+      "amount": 250,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "腊肠",
+      "mergeKey": "chinese-sausage",
+      "amount": 250,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "虾米",
+      "mergeKey": "dried-shrimp",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "冬菇",
+      "mergeKey": "dried-shiitake",
+      "amount": 50,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "花生",
+      "mergeKey": "peanut",
+      "amount": 100,
+      "unit": "克",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "香菜",
+      "mergeKey": "cilantro",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "quantityText": "适量",
+      "category": "蔬菜"
+    }
+  ],
+  "steps": [
+    {
+      "text": "冷锅放进花生，慢火炒，勤翻动,"
+    },
+    {
+      "text": "把花生炒至外面的红衣有裂纹就差不多可以盛起了，刚炒好的花生是不脆的，要彻底放凉才会脆,"
+    },
+    {
+      "text": "烧热锅，放进切丁的腊肉、腊肠，翻炒1分钟,"
+    },
+    {
+      "text": "加入虾米和冬菇丁，继续翻炒2分钟，炒的过程可以洒点泡过冬菇虾米的水,"
+    },
+    {
+      "text": "加入豆角粒，炒至豆角变绿,"
+    },
+    {
+      "text": "把泡过冬菇虾米的水加入大约100毫升，盖上锅盖，小火把材料煮熟，然后转大火把   水收干,"
+    },
+    {
+      "text": "加入煮好的糯米饭（如果饭是熟的就直接把饭与锅里的配料拌匀就行，但如果  象我这样是一锅夹生饭，那就要边炒边洒进泡过冬菇虾米（或开水），待米饭与  配料完全拌匀以后，围着锅边加入2~3汤匙水，然后盖上锅盖，小火焖至水干，  然后，把饭翻面，继续加入2~汤匙水，盖上锅盖，小火焖至水干，检查一下，米  饭已经熟透，就改大火，把拌匀的糯米饭炒至干身,"
+    },
+    {
+      "text": "加入香菜碎和葱花，翻炒均匀即可。这个时候可以试一下味道，如果感觉不够  味的话，可以加点生抽，但腊肠腊肉虾米都是咸的，所以，基本上是不用放已经  够味了（炒熟的花生，本来是要放进饭里的，但我怕公婆牙口不好，所以花生另  外装碟，谁要加就自己加到自己碗里）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10234/",
+  "author": "依依美食",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 1231.3,
+    "proteinG": 58.3,
+    "carbsG": 170.3,
+    "fatG": 32.3
+  },
+  "tags": [
+    "蒸",
+    "炒"
+  ],
+  "durationMinutes": 40,
+  "difficulty": "中等"
+}

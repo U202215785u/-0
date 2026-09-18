@@ -1,0 +1,113 @@
+{
+  "id": "xf-11314",
+  "title": "香辣啤酒鸭",
+  "ingredients": [
+    {
+      "name": "绿尖椒",
+      "mergeKey": "green-chili",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "两三个鸭腿",
+      "mergeKey": "duck",
+      "category": "肉类"
+    },
+    {
+      "name": "啤酒",
+      "mergeKey": "beer",
+      "amount": 1,
+      "unit": "罐",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "红尖椒",
+      "mergeKey": "red-chili",
+      "amount": 1,
+      "unit": "个",
+      "category": "蔬菜"
+    },
+    {
+      "name": "数颗蒜瓣",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "切片姜",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干红椒",
+      "mergeKey": "dried-chili",
+      "quantityText": "少量",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "八角",
+      "mergeKey": "star-anise",
+      "amount": 1,
+      "unit": "颗",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "冰糖",
+      "mergeKey": "rock-sugar",
+      "amount": 2,
+      "unit": "颗",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "老抽",
+      "mergeKey": "dark-soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "锅内入油（比炒菜少一点，因为鸭子会很油），油热放入花椒粒爆香，捞出不用．,"
+    },
+    {
+      "text": "放入两颗冰糖，蒜瓣，姜片，干椒段，八角炒出香味．,"
+    },
+    {
+      "text": "放入鸭肉，煸炒至出油．,"
+    },
+    {
+      "text": "调入盐，生抽，一点点老抽，倒入啤酒．大火烧开转小火，煮至收汁，加入青红椒片翻炒至断生．"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11314/",
+  "author": "Sunday1997",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 20,
+  "difficulty": "中等"
+}

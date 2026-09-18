@@ -1,0 +1,79 @@
+{
+  "id": "xf-11566",
+  "title": "肚丝拌黄瓜",
+  "ingredients": [
+    {
+      "name": "四分之一个熟猪肚",
+      "mergeKey": "pork-tripe",
+      "category": "肉类"
+    },
+    {
+      "name": "黄瓜",
+      "mergeKey": "cucumber",
+      "amount": 1,
+      "unit": "根",
+      "category": "蔬菜"
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "quantityText": "一点点",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "米醋",
+      "mergeKey": "vinegar",
+      "quantityText": "几滴",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "辣椒油",
+      "mergeKey": "chili-oil",
+      "quantityText": "一勺",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "黄瓜浸泡清洗干净、连皮切成丝，熟猪肚切丝，大蒜拍碎切末,"
+    },
+    {
+      "text": "黄瓜丝肚丝和大蒜都放大盆里，放盐、鸡精、一点点白糖、滴几滴米醋，拌匀后装盘，淋上一勺辣椒油，吃时拌开"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11566/",
+  "author": "月亮晶晶",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 17.5,
+    "proteinG": 1,
+    "carbsG": 3.5,
+    "fatG": 0.2
+  },
+  "tags": [
+    "炒"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}

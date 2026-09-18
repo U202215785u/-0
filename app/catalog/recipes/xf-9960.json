@@ -1,0 +1,116 @@
+{
+  "id": "xf-9960",
+  "title": "自制招牌牛肉饭",
+  "ingredients": [
+    {
+      "name": "肥牛片",
+      "mergeKey": "beef",
+      "amount": 200,
+      "unit": "克",
+      "category": "肉类"
+    },
+    {
+      "name": "金针菇",
+      "mergeKey": "enoki",
+      "amount": 100,
+      "unit": "克",
+      "category": "菌菇"
+    },
+    {
+      "name": "酱油",
+      "mergeKey": "soy-sauce",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香醋",
+      "mergeKey": "vinegar",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白糖",
+      "mergeKey": "sugar",
+      "amount": 5,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "amount": 3,
+      "unit": "克",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "白酒",
+      "mergeKey": "baijiu",
+      "amount": 15,
+      "unit": "毫升",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "大葱",
+      "mergeKey": "scallion",
+      "amount": 30,
+      "unit": "克",
+      "category": "蔬菜"
+    },
+    {
+      "name": "腊肠",
+      "mergeKey": "chinese-sausage",
+      "amount": 3,
+      "unit": "根",
+      "category": "肉类"
+    },
+    {
+      "name": "木耳",
+      "mergeKey": "wood-ear",
+      "amount": 2,
+      "unit": "朵",
+      "category": "菌菇"
+    },
+    {
+      "name": "香菇",
+      "mergeKey": "shiitake",
+      "amount": 2,
+      "unit": "朵",
+      "category": "菌菇"
+    }
+  ],
+  "steps": [
+    {
+      "text": "腊肠切成薄片放入米饭上，同时铺上香菇片、木耳片上锅用中小火蒸着备用,"
+    },
+    {
+      "text": "金针菇洗净后切成5厘米长的段。锅中加入油烧到3成热，放入一般量的葱片爆出香味，然后放入肥牛片炒软，将剩余的葱片倒入锅中,"
+    },
+    {
+      "text": "肥牛片变软后淋入白酒、酱油，加入盐、白糖调味，肉片变色成熟后放入金针菇炒软，最后转成大火加热，淋入香醋拌匀即可。炒好的金针菇肥牛连上汤汁铺在蒸透的米饭上即可"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/9960/",
+  "author": "豆牛",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "nutrition": {
+    "kcal": 601.2,
+    "proteinG": 45.1,
+    "carbsG": 29.7,
+    "fatG": 33.7
+  },
+  "tags": [
+    "主食",
+    "炒",
+    "烤"
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

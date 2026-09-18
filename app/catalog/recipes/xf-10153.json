@@ -1,0 +1,113 @@
+{
+  "id": "xf-10153",
+  "title": "红火团圆",
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "mergeKey": "beef",
+      "category": "肉类"
+    },
+    {
+      "name": "猪肉",
+      "mergeKey": "pork",
+      "category": "肉类"
+    },
+    {
+      "name": "鱼肉",
+      "mergeKey": "fish",
+      "category": "水产"
+    },
+    {
+      "name": "冬瓜",
+      "mergeKey": "winter-melon",
+      "category": "蔬菜"
+    },
+    {
+      "name": "黑木耳",
+      "mergeKey": "wood-ear",
+      "category": "菌菇",
+      "pantry": true
+    },
+    {
+      "name": "大蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "芝麻",
+      "mergeKey": "sesame",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "辣椒干",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "葱",
+      "mergeKey": "scallion",
+      "category": "蔬菜"
+    },
+    {
+      "name": "辣油",
+      "mergeKey": "chili-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "胡椒粉",
+      "mergeKey": "white-pepper",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "食用油",
+      "mergeKey": "cooking-oil",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "牛肉、 猪肉 、鱼肉分别切片，用酒腌渍一下,"
+    },
+    {
+      "text": "冬瓜切片，黑木耳和其他菇泡好洗干净备用,"
+    },
+    {
+      "text": "牛肉和猪肉片先炒一下盛出,"
+    },
+    {
+      "text": "大蒜辣椒爆香把冬瓜和黑木耳炒一下一起煮15分钟，加盐,"
+    },
+    {
+      "text": "汤浓后放鱼片，猪肉，牛肉，鱼片熟了就可以盛出,"
+    },
+    {
+      "text": "把肉片放菜上面加芝麻、辣椒干，葱，上面淋上热辣油和胡椒粉就可以了"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/10153/",
+  "author": "小月紫",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "烧焖"
+  ],
+  "durationMinutes": 30,
+  "difficulty": "中等"
+}

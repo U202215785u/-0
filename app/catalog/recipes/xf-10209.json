@@ -1,0 +1,73 @@
+{
+  "id": "xf-10209",
+  "title": "肉炒大头菜",
+  "sourceUrl": "https://www.xiachufang.com/recipe/10209/",
+  "author": "严妍",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "主食",
+    "炒",
+    "烤"
+  ],
+  "ingredients": [
+    {
+      "name": "大头菜",
+      "mergeKey": "datoucai",
+      "category": "蔬菜",
+      "pantry": true
+    },
+    {
+      "name": "五花肉",
+      "mergeKey": "pork-belly",
+      "category": "肉类"
+    },
+    {
+      "name": "青红辣椒",
+      "mergeKey": "chili",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜头",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "干红椒",
+      "mergeKey": "dried-chili",
+      "category": "干货",
+      "pantry": true
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "盐",
+      "mergeKey": "salt",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "五花肉切丝，用生抽、盐腌十分钟，大头菜切丝后泡水十五分钟、青红辣椒切丝，蒜头切末,"
+    },
+    {
+      "text": "把泡过的大头菜捞水沥水，最好尝下，如果太咸，可以再用手抓揉冲水，减淡咸味,"
+    },
+    {
+      "text": "锅中烧热倒油，下五花肉煸炒出油，放入干红椒、蒜末稍炒，倒入大头菜丝炒两分钟，加入青红椒炒两分钟至断生，放少许盐和鸡精即可"
+    }
+  ],
+  "durationMinutes": 15,
+  "difficulty": "中等"
+}

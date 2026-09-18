@@ -1,0 +1,75 @@
+{
+  "id": "xf-11702",
+  "title": "白灼香螺",
+  "ingredients": [
+    {
+      "name": "香螺",
+      "mergeKey": "conch",
+      "category": "水产"
+    },
+    {
+      "name": "姜片",
+      "mergeKey": "ginger",
+      "category": "蔬菜"
+    },
+    {
+      "name": "蒜",
+      "mergeKey": "garlic",
+      "category": "蔬菜"
+    },
+    {
+      "name": "生抽",
+      "mergeKey": "soy-sauce",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "糖",
+      "mergeKey": "sugar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "鸡精",
+      "mergeKey": "chicken-powder",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "醋",
+      "mergeKey": "vinegar",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "香油",
+      "mergeKey": "sesame-oil",
+      "category": "调味料",
+      "pantry": true
+    },
+    {
+      "name": "料酒",
+      "mergeKey": "cooking-wine",
+      "category": "调味料",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "香螺在自来水下搓洗掉表面污物；拍一块生姜或切成丝，加一汤勺料酒放入锅中加水烧开后，投入香螺煮开后转中火煮2分钟左右（根据大小，煮至壳张开即可）,"
+    },
+    {
+      "text": "香螺拣去生姜滤掉水放入盘中；蒜切成蒜末，另取一个小碗放入蒜入，调入生抽，加少许糖，一点点醋，少许鸡精，麻油拌匀蘸食即可。（调味汁可随自己口味搭配）"
+    }
+  ],
+  "sourceUrl": "https://www.xiachufang.com/recipe/11702/",
+  "author": "臻妈美食厨房",
+  "fidelity": "verbatim-public",
+  "sourceNote": "直接读取下厨房公开菜谱页面的结构化食材、份量和做法，未补写来源未提供的内容。",
+  "tags": [
+    "煮",
+    "烧焖"
+  ],
+  "durationMinutes": 10,
+  "difficulty": "中等"
+}
