@@ -1,0 +1,31 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="description" content="家宴：本地优先的家庭菜谱工具" />
+<meta name="theme-color" content="#f5f5f7" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="apple-mobile-web-app-title" content="家宴" />
+<title>家宴 · 家庭菜谱</title>
+<link rel="manifest" href="./manifest.json" />
+<link rel="apple-touch-icon" href="./icons/icon-192.png" />
+<link rel="stylesheet" href="./app.css" />
+</head>
+<body>
+<div class="app" data-od-id="app-shell">
+  <aside class="sidebar" id="sidebar" data-od-id="sidebar"></aside>
+  <div class="workspace">
+    <header class="appbar" id="appbar" data-od-id="appbar"></header>
+    <main class="content" id="screen" data-od-id="screen"></main>
+  </div>
+  <nav class="tabbar" id="tabbar" data-od-id="tabbar" aria-label="主导航"></nav>
+</div>
+
+<div class="sheet-root" id="sheet-root" data-od-id="sheet-root" hidden></div>
+<div class="cook-root" id="cook-root" data-od-id="cook-mode" hidden></div>
+<div class="toast-host" id="toast-host" data-od-id="toasts" aria-live="polite" aria-atomic="true"></div>
+<script src="./app.js"></script>
+</body>
+</html>
