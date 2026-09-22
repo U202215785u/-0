@@ -2,8 +2,15 @@ import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vitest/config'
 import { VitePWA } from 'vite-plugin-pwa'
 
+// GitHub Pages 部署时需要设置 base 路径
+// 格式: /仓库名/
+// 例如: 如果仓库名为 jiayan-pwa，则 base 为 '/jiayan-pwa/'
+const REPO_NAME = process.env.GITHUB_REPO || 'jiayan-pwa'
+const BASE_PATH = `/${REPO_NAME}/`
+
 // https://vite.dev/config/
 export default defineConfig({
+  base: BASE_PATH,
   plugins: [
     react(),
     VitePWA({
@@ -19,14 +26,14 @@ export default defineConfig({
         description: '本地优先的家庭菜谱工具：找菜、周计划、购物清单、点菜交接。',
         lang: 'zh-CN',
         display: 'standalone',
-        start_url: '/',
-        scope: '/',
+        start_url: BASE_PATH,
+        scope: BASE_PATH,
         theme_color: '#f5f5f7',
         background_color: '#f5f5f7',
         icons: [
-          { src: '/icons/icon-192.png', sizes: '192x192', type: 'image/png' },
-          { src: '/icons/icon-512.png', sizes: '512x512', type: 'image/png' },
-          { src: '/icons/icon-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+          { src: `${BASE_PATH}icons/icon-192.png`, sizes: '192x192', type: 'image/png' },
+          { src: `${BASE_PATH}icons/icon-512.png`, sizes: '512x512', type: 'image/png' },
+          { src: `${BASE_PATH}icons/icon-maskable-512.png`, sizes: '512x512', type: 'image/png', purpose: 'maskable' },
         ],
       },
     }),

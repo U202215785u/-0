@@ -1,0 +1,601 @@
+{
+  "runId": "46e4dde5-95ef-4be3-bac7-3c889dfeb630",
+  "projectId": "7279a609-8925-4c2d-b120-62d3b87c9ac2",
+  "status": {
+    "id": "46e4dde5-95ef-4be3-bac7-3c889dfeb630",
+    "projectId": "7279a609-8925-4c2d-b120-62d3b87c9ac2",
+    "conversationId": "de1e6429-6096-4f04-8504-cb53fb024a3e",
+    "assistantMessageId": "1e324dbc-bf1b-4eeb-92bc-eb9cf760658e",
+    "clientRequestId": "c8f409e8-37b8-4e10-aa78-04b013940436",
+    "agentId": "deepseek-harness",
+    "designSystemId": "default",
+    "designSystemRequestedId": "default",
+    "designSystemSelectionSource": "request",
+    "designSystemDigest": "4ba24307239dbc2be7c2ba17d7e32c6cef399046f0acb54d917add52dadc7e3b",
+    "appliedPluginSnapshotId": "66561264-6393-40cd-8596-19bc5fd04ece",
+    "pluginId": "example-web-prototype",
+    "strategyRolloutDecision": {
+      "schemaVersion": 1,
+      "decisionClass": "not_applicable",
+      "requestedMode": "active",
+      "effectiveMode": "off",
+      "taskType": null,
+      "assignmentBucket": 7095,
+      "eligible": false,
+      "syntheticCanary": false,
+      "reasonCodes": [
+        "od_next_rollout_not_applicable"
+      ],
+      "primaryReasonCode": "od_next_rollout_not_applicable"
+    },
+    "status": "succeeded",
+    "createdAt": 1789974974506,
+    "updatedAt": 1789975642735,
+    "terminalAt": 1789975642735,
+    "cancelRequested": false,
+    "cancelOrigin": null,
+    "terminalTrigger": null,
+    "childPid": 10300,
+    "processGroupId": null,
+    "childExited": true,
+    "childExitObservedAt": null,
+    "exitCode": 0,
+    "signal": null,
+    "error": null,
+    "errorCode": null,
+    "failureCategory": null,
+    "failureDetail": null,
+    "failureAction": null,
+    "retryable": null,
+    "resumable": false,
+    "endedWithUnfinishedWork": false,
+    "artifactCount": 1,
+    "artifactPaths": [
+      "jiayan-recipes-pwa.html"
+    ],
+    "eventsLogPath": "C:\\Users\\15387\\Documents\\Codex\\2026-08-31\\dsh\\od-repo\\.od\\runs\\46e4dde5-95ef-4be3-bac7-3c889dfeb630\\events.jsonl",
+    "workspace": {
+      "storage": {
+        "kind": "od-owned",
+        "baseDir": null
+      },
+      "provenance": null
+    },
+    "mediaExecution": {
+      "mode": "enabled"
+    },
+    "toolBundle": {
+      "mcpServers": []
+    },
+    "promptCache": {
+      "stablePromptHash": "7bf0992dcb33b87e40f0e8589e0e7bcff3df75ba349dcba32f971a9e6bdaf85c",
+      "hit": false,
+      "missReason": "new-session",
+      "changedSections": null
+    },
+    "nativeSessionRecovery": {
+      "agentId": "deepseek-harness",
+      "state": "captured_not_resumed",
+      "acquisition": "profile-session-frame",
+      "continuation": "profile-stdio-resume",
+      "handle": {
+        "present": true,
+        "kind": "profile-session-id",
+        "display": null,
+        "sha256": "4a366ca86c72fd48dd66197c221675901515106a5c1d576bbf77e44d13753bf1",
+        "redacted": true
+      },
+      "guardReason": null,
+      "fallbackReason": null,
+      "updatedAt": 1789974976447
+    },
+    "clientType": "web",
+    "manualResumeAttemptCount": 0,
+    "rechargeWaitDurationMs": 0,
+    "deliverableSyntaxValidation": {
+      "schema": "open-design.deliverable-syntax-tool/v1",
+      "checker": "web-syntax@1",
+      "status": "pass",
+      "candidateHash": "sha256:ad5c8c3e07a6f9285bccf137a5c9d42e78fca8239e620ef209888d11d3d9fd79",
+      "checkedFiles": [
+        "jiayan-recipes-pwa.html"
+      ],
+      "diagnostics": [],
+      "source": "run_finalizer",
+      "checkedAt": 1789975642506,
+      "metrics": {
+        "schema": "open-design.deliverable-syntax-metrics/v1",
+        "checkCount": 1,
+        "checkerDurationMs": 64.31469999998808,
+        "repairableCheckCount": 0,
+        "initialDiagnosticCount": 0,
+        "latestDiagnosticCount": 0
+      },
+      "finalization": {
+        "summaryVersion": 1,
+        "initialStatus": "pass",
+        "repairEngine": "host-safe-fixer@2",
+        "stagedPatchCount": 0,
+        "committedPatchCount": 0,
+        "committedRepairRules": [],
+        "action": "allow"
+      }
+    },
+    "terminalLifecycle": {
+      "version": 1,
+      "runAttempt": 0,
+      "runtimeGenerationId": null,
+      "terminationOrigin": "unknown",
+      "terminalIntegrity": "canonical",
+      "terminalPersistence": {
+        "status": "acknowledged",
+        "errorType": null
+      },
+      "posthogDelivery": {
+        "status": "unknown",
+        "acknowledgement": "unknown",
+        "attemptCount": 0,
+        "errorType": null
+      },
+      "unfinishedState": "unknown",
+      "duplicateTerminalCount": 0,
+      "lateTerminalCount": 0
+    },
+    "executionDiagnostics": {
+      "schemaVersion": 1,
+      "collectorVersion": "open-design-execution-diagnostics-v2",
+      "collectedAt": 1789975642735,
+      "eventStreamCompleteness": "partial",
+      "timing": {
+        "queueDurationMs": {
+          "state": "available",
+          "value": 6,
+          "evidence": "computed",
+          "source": "open-design-daemon",
+          "complete": true,
+          "definition": "run accepted to execution start"
+        },
+        "promptBuildDurationMs": {
+          "state": "available",
+          "value": 298,
+          "evidence": "computed",
+          "source": "open-design-daemon",
+          "complete": true,
+          "definition": "prompt build start to end"
+        },
+        "launchPreflightDurationMs": {
+          "state": "available",
+          "value": 166,
+          "evidence": "computed",
+          "source": "open-design-daemon",
+          "complete": true,
+          "definition": "runtime preflight start to end"
+        },
+        "processSpawnDurationMs": {
+          "state": "available",
+          "value": 7,
+          "evidence": "computed",
+          "source": "open-design-daemon",
+          "complete": true,
+          "definition": "process spawn start to child ready"
+        },
+        "stdinWriteDurationMs": {
+          "state": "upstream_unavailable",
+          "source": "open-design-daemon",
+          "missingReason": "upstream_did_not_emit_metric"
+        },
+        "firstModelEventWaitMs": {
+          "state": "available",
+          "value": 3667,
+          "evidence": "computed",
+          "source": "open-design-daemon",
+          "complete": true,
+          "definition": "execution start to first model event"
+        },
+        "firstVisibleOutputWaitMs": {
+          "state": "available",
+          "value": 3667,
+          "evidence": "computed",
+          "source": "open-design-daemon",
+          "complete": true,
+          "definition": "execution start to first visible assistant output"
+        },
+        "agentExecutionDurationMs": {
+          "state": "available",
+          "value": 664556,
+          "evidence": "computed",
+          "source": "open-design-daemon",
+          "complete": true,
+          "definition": "first model event to terminal run state"
+        },
+        "toolDurationMs": {
+          "state": "available",
+          "value": 796,
+          "evidence": "computed",
+          "source": "open-design-daemon",
+          "complete": false,
+          "definition": "sum of paired tool_use to tool_result intervals"
+        },
+        "artifactWriteDurationMs": {
+          "state": "upstream_unavailable",
+          "source": "open-design-daemon",
+          "missingReason": "upstream_did_not_emit_metric"
+        },
+        "totalDurationMs": {
+          "state": "available",
+          "value": 668229,
+          "evidence": "computed",
+          "source": "open-design-daemon",
+          "complete": true,
+          "definition": "run accepted to terminal state"
+        },
+        "phaseTimingStatus": "partial"
+      },
+      "modelSteps": {
+        "count": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "totalDurationMs": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "averageDurationMs": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "p50DurationMs": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "p90DurationMs": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "maxDurationMs": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "over60sCount": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "durationSampleCount": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "completed": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "failed": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "cancelled": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "incomplete": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "retryCount": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "reasoningTokens": {
+          "state": "upstream_unavailable",
+          "source": "model-provider",
+          "missingReason": "model_provider_did_not_return_reasoning_tokens"
+        },
+        "reasoningDurationMs": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "reasoning_interval_boundaries_not_exposed_by_runtime"
+        }
+      },
+      "assistantMessages": {
+        "count": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "totalDurationMs": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "averageDurationMs": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "maxDurationMs": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "durationSampleCount": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "completed": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "failed": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "cancelled": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "incomplete": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        }
+      },
+      "anomalies": {
+        "retryCount": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "rateLimitedCount": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "timeoutCount": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "upstreamErrorCount": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "run_event_ring_buffer_truncated"
+        }
+      },
+      "tools": {
+        "total": {
+          "state": "not_collected",
+          "source": "open-design-daemon",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "succeeded": {
+          "state": "not_collected",
+          "source": "open-design-daemon",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "failed": {
+          "state": "not_collected",
+          "source": "open-design-daemon",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "unknown": {
+          "state": "not_collected",
+          "source": "open-design-daemon",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "durationMs": {
+          "state": "not_collected",
+          "source": "open-design-daemon",
+          "missingReason": "run_event_ring_buffer_truncated"
+        },
+        "byName": {
+          "state": "not_collected",
+          "source": "open-design-daemon",
+          "missingReason": "run_event_ring_buffer_truncated"
+        }
+      },
+      "cache": {
+        "inputTokensEffective": {
+          "state": "available",
+          "value": 201956,
+          "evidence": "computed",
+          "source": "agent-runtime",
+          "complete": false,
+          "definition": "normalized full prompt tokens"
+        },
+        "cacheReadInputTokens": {
+          "state": "available",
+          "value": 201728,
+          "evidence": "computed",
+          "source": "agent-runtime",
+          "complete": false,
+          "definition": "provider-reported cache-read input tokens"
+        },
+        "cacheCreationInputTokens": {
+          "state": "available",
+          "value": 0,
+          "evidence": "computed",
+          "source": "agent-runtime",
+          "complete": false,
+          "definition": "provider-reported cache-write input tokens"
+        },
+        "uncachedInputTokens": {
+          "state": "available",
+          "value": 228,
+          "evidence": "computed",
+          "source": "agent-runtime",
+          "complete": false,
+          "definition": "normalized uncached input tokens"
+        },
+        "cacheHitRatio": {
+          "state": "available",
+          "value": 0.9988710412168987,
+          "evidence": "computed",
+          "source": "agent-runtime",
+          "complete": false,
+          "definition": "cache read tokens divided by effective input tokens"
+        },
+        "firstCallInputTokens": {
+          "state": "available",
+          "value": 173,
+          "evidence": "computed",
+          "source": "agent-runtime",
+          "complete": false,
+          "definition": "opening model call input tokens"
+        },
+        "firstCallCacheReadInputTokens": {
+          "state": "available",
+          "value": 195712,
+          "evidence": "computed",
+          "source": "agent-runtime",
+          "complete": false,
+          "definition": "opening model call cache-read tokens"
+        },
+        "firstCallCacheHitRatio": {
+          "state": "available",
+          "value": 0.9991168287515634,
+          "evidence": "computed",
+          "source": "agent-runtime",
+          "complete": false,
+          "definition": "opening model call cache read divided by effective input"
+        },
+        "stablePromptCacheHit": {
+          "state": "available",
+          "value": false,
+          "evidence": "computed",
+          "source": "open-design-daemon",
+          "complete": true,
+          "definition": "local stable-prompt hash matched the prior run"
+        },
+        "stablePromptCacheMissReason": {
+          "state": "available",
+          "value": "new-session",
+          "evidence": "computed",
+          "source": "open-design-daemon",
+          "complete": true,
+          "definition": "local stable-prompt cache miss classification"
+        }
+      },
+      "environment": {
+        "agentId": {
+          "state": "available",
+          "value": "deepseek-harness",
+          "evidence": "computed",
+          "source": "agent-runtime",
+          "complete": true,
+          "definition": "requested agent runtime"
+        },
+        "provider": {
+          "state": "available",
+          "value": "deepseek-official",
+          "evidence": "computed",
+          "source": "agent-runtime",
+          "complete": true,
+          "definition": "provider id reported by the agent runtime"
+        },
+        "requestedModel": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "requested_model_not_recorded"
+        },
+        "resolvedModel": {
+          "state": "available",
+          "value": "deepseek-v4-flash",
+          "evidence": "computed",
+          "source": "agent-runtime",
+          "complete": true,
+          "definition": "runtime-resolved model id"
+        },
+        "reasoning": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "reasoning_configuration_not_recorded"
+        },
+        "agentCliVersion": {
+          "state": "not_collected",
+          "source": "agent-runtime",
+          "missingReason": "agent_cli_version_not_recorded"
+        }
+      }
+    },
+    "deliverableValid": true,
+    "deliverableValidation": "valid",
+    "deliverableEntryFile": "jiayan-recipes-pwa.html",
+    "deliverableArtifactKind": "html"
+  },
+  "files": [
+    {
+      "name": "jiayan-recipes-pwa.html",
+      "path": "jiayan-recipes-pwa.html",
+      "localPath": "C:\\Users\\15387\\Documents\\Codex\\2026-08-31\\dsh\\od-repo\\.od\\projects\\7279a609-8925-4c2d-b120-62d3b87c9ac2\\jiayan-recipes-pwa.html",
+      "type": "file",
+      "size": 115223,
+      "mtime": 1789975606281.681,
+      "kind": "html",
+      "mime": "text/html; charset=utf-8",
+      "artifactKind": "html",
+      "artifactManifest": {
+        "version": 1,
+        "kind": "html",
+        "title": "jiayan-recipes-pwa.html",
+        "entry": "jiayan-recipes-pwa.html",
+        "renderer": "html",
+        "status": "complete",
+        "exports": [
+          "html",
+          "pdf",
+          "zip"
+        ],
+        "createdAt": "2026-09-21T07:26:46.281Z",
+        "updatedAt": "2026-09-21T07:26:46.281Z",
+        "metadata": {
+          "inferred": true,
+          "reconciled": true
+        }
+      }
+    },
+    {
+      "name": "brand-spec.md",
+      "path": "brand-spec.md",
+      "localPath": "C:\\Users\\15387\\Documents\\Codex\\2026-08-31\\dsh\\od-repo\\.od\\projects\\7279a609-8925-4c2d-b120-62d3b87c9ac2\\brand-spec.md",
+      "type": "file",
+      "size": 2949,
+      "mtime": 1789975146486.869,
+      "kind": "text",
+      "mime": "text/markdown; charset=utf-8",
+      "artifactKind": "markdown-document",
+      "artifactManifest": {
+        "version": 1,
+        "kind": "markdown-document",
+        "title": "brand-spec.md",
+        "entry": "brand-spec.md",
+        "renderer": "markdown",
+        "status": "complete",
+        "exports": [
+          "md",
+          "html",
+          "pdf",
+          "zip"
+        ],
+        "metadata": {
+          "inferred": true
+        }
+      }
+    }
+  ]
+}
