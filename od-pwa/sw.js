@@ -1,11 +1,11 @@
-const CACHE_NAME = 'jiayan-v2';
+﻿const CACHE_NAME = 'jiayan-v2';
 const STATIC_ASSETS = [
   './',
   './index.html',
   './app.css',
   './app.js',
   './manifest.json',
-  './recipes.json'
+  './recipes-v2.json'
 ];
 
 self.addEventListener('install', function (event) {
@@ -51,3 +51,4 @@ self.addEventListener('fetch', function (event) {
     })
   );
 });
+

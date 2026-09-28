@@ -35,9 +35,9 @@ function loadRecipes() {
       return res.json();
     });
   }
-  return tryFetch('recipes.json').catch(function (err) {
+  return tryFetch('recipes-v2.json').catch(function (err) {
     console.warn('First fetch failed, retrying with cache-buster:', err);
-    return tryFetch('recipes.json?_=' + Date.now());
+    return tryFetch('recipes-v2.json?_=' + Date.now());
   }).then(function (raw) {
       RECIPES = transformRecipes(raw);
       BY_ID = buildById(RECIPES);
