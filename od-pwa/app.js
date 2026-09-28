@@ -28,7 +28,12 @@ function buildById(recipes) {
 
 function loadRecipes() {
   return fetch('recipes.json')
-    .then(function (res) { return res.json(); })
+    .then(function (res) {
+      if (!res.ok) {
+        throw new Error('HTTP ' + res.status + ' ' + res.statusText + ' (recipes.json)');
+      }
+      return res.json();
+    })
     .then(function (raw) {
       RECIPES = transformRecipes(raw);
       BY_ID = buildById(RECIPES);
@@ -1705,15 +1710,22 @@ if ('serviceWorker' in navigator) {
   });
 }
 
+function hideBootMsg() {
+  var el = document.getElementById('boot-msg');
+  if (el) el.style.display = 'none';
+}
+
 /* ── 启动 ───────────────────────────────────────────────────────────── */
 loadRecipes().then(function () {
   loadState();
   if (!hasAnyUserData()) seedDemo();
   render();
+  hideBootMsg();
   window.addEventListener("beforeunload", saveState);
   setInterval(saveState, 2000);
 }).catch(function (err) {
   console.error("Failed to load recipes:", err);
-  document.body.innerHTML = "<div style='padding:24px;text-align:center;color:#1c1a17;'>加载菜谱数据失败，请检查网络连接后刷新重试。</div>";
+  hideBootMsg();
+  document.body.innerHTML = "<div style='padding:24px;text-align:center;color:#1c1a17;'>加载菜谱数据失败：" + esc(String(err && err.message || err)) + "<br><br>请检查网络连接后刷新重试。如果问题持续，请尝试访问 <a href='recipes.json' class='link'>recipes.json</a> 查看文件是否存在。</div>";
 });
 

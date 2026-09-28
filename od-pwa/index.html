@@ -15,6 +15,17 @@
 <link rel="stylesheet" href="./app.css" />
 </head>
 <body>
+<noscript>
+  <div style="padding:24px;text-align:center;color:#1c1a17;">
+    请启用 JavaScript 以使用家宴应用。
+  </div>
+</noscript>
+<div id="boot-msg" style="position:fixed;inset:0;display:grid;place-items:center;background:#fafaf7;color:#6b6964;z-index:100;">
+  <div style="text-align:center;">
+    <div style="font-size:24px;font-weight:600;color:#1c1a17;margin-bottom:8px;">家宴</div>
+    <div>正在加载菜谱数据…</div>
+  </div>
+</div>
 <div class="app" data-od-id="app-shell">
   <aside class="sidebar" id="sidebar" data-od-id="sidebar"></aside>
   <div class="workspace">
@@ -30,4 +41,5 @@
 <script src="./app.js"></script>
 </body>
 </html>
+
 
