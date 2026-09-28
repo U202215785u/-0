@@ -27,14 +27,18 @@ function buildById(recipes) {
 }
 
 function loadRecipes() {
-  return fetch('recipes.json')
-    .then(function (res) {
+  function tryFetch(url) {
+    return fetch(url).then(function (res) {
       if (!res.ok) {
-        throw new Error('HTTP ' + res.status + ' ' + res.statusText + ' (recipes.json)');
+        throw new Error('HTTP ' + res.status + ' ' + res.statusText + ' (' + url + ')');
       }
       return res.json();
-    })
-    .then(function (raw) {
+    });
+  }
+  return tryFetch('recipes.json').catch(function (err) {
+    console.warn('First fetch failed, retrying with cache-buster:', err);
+    return tryFetch('recipes.json?_=' + Date.now());
+  }).then(function (raw) {
       RECIPES = transformRecipes(raw);
       BY_ID = buildById(RECIPES);
       return RECIPES;
@@ -1705,7 +1709,17 @@ function hasAnyUserData() {
 
 /* ── Service Worker 注册 ────────────────────────────────────────────── */
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('./sw.js').catch(function (err) {
+  navigator.serviceWorker.register('./sw.js', { updateViaCache: 'none' }).then(function (reg) {
+    reg.addEventListener('updatefound', function () {
+      var installing = reg.installing;
+      if (!installing) return;
+      installing.addEventListener('statechange', function () {
+        if (installing.state === 'activated') {
+          window.location.reload();
+        }
+      });
+    });
+  }).catch(function (err) {
     console.error('SW registration failed:', err);
   });
 }
